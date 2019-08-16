@@ -1,0 +1,3671 @@
+1 103113 2044
+# Mud #
+
+2 106241 2002
+# Sand #
+
+3 109453 2419
+# Water #
+
+4 111908 2067
+# Straw #
+
+5 114011 1995
+# Faster #
+
+6 116043 2898
+# Mud, and lift #
+
+7 118978 2742
+# Sand, and pull #
+
+8 121757 3086
+# Water, and raise up #
+
+9 124880 3013
+- # Straw #
+- Faster!
+
+10 127929 3441
+# With the sting
+of the whip #
+
+11 131407 3224
+- # On my shoulder #
+- Aah!
+
+12 134667 3189
+# With the salt of my sweat #
+
+13 137893 3222
+# On my brow #
+
+14 141151 3175
+# Elohim, God on high #
+
+15 144363 3420
+# Can You hear
+Your people cry #
+
+16 147819 3485
+# Help us now #
+
+17 151340 2789
+# This dark hour #
+
+18 154165 2674
+# Deliver us #
+
+19 156875 3378
+# Hear our call
+Deliver us #
+
+20 160290 3777
+# Lord of all
+remember us #
+
+21 164103 3741
+# Here in this burning sand #
+
+22 167881 2137
+# Deliver us #
+
+23 170055 5464
+# There's a land
+You promised us #
+
+24 175555 5428
+# Deliver us
+to the Promised Land #
+
+25 192619 4672
+# Yal-di ha-tov
+veh ha-rach #
+
+26 199418 3091
+# Al ti-ra veh
+al tif-cha-d #
+
+27 202546 4483
+# My son
+I have nothing I can give #
+
+28 207066 4447
+# But this chance
+that you may live #
+
+29 211550 3430
+# I pray
+we'll meet again #
+
+30 215017 3753
+- # If He will deliver us #
+- # Deliver us #
+
+31 218807 2346
+- # Hear our prayer #
+- Ohh!
+
+32 221189 5589
+- # Deliver us from despair
+These years of slavery #
+
+33 226815 2174
+# Grow too cruel to stand #
+
+34 230032 1710
+# Deliver us #
+
+35 231783 3838
+# There's a land
+You promised us #
+
+36 235657 2234
+# Deliver us #
+
+37 237927 2198
+# Out of bondage #
+
+38 240162 2596
+# And #
+
+39 242794 1465
+# Deliver us #
+
+40 244296 7758
+# To the Promised Land #
+
+41 262230 3509
+# Hush now, my baby #
+
+42 265776 2836
+# Be still, love
+Don't cry #
+
+43 268648 2800
+# Sleep
+as you're rocked #
+
+44 271485 5265
+# By the stream #
+
+45 276787 3420
+# Sleep and remember #
+
+46 280243 3264
+# My last lullaby #
+
+47 283543 3045
+# So I'll be
+with you #
+
+48 286625 4551
+# When you dream #
+
+49 297599 3525
+# River, oh, river #
+
+50 301160 3245
+# Flow gently for me #
+
+51 304441 3210
+# Such precious cargo #
+
+52 307687 3306
+# You bear #
+
+53 311029 3587
+# Do you know somewhere #
+
+54 314653 3467
+# He can live free #
+
+55 318156 1846
+# River #
+
+56 320038 5923
+# Deliver him there #
+
+57 411630 1965
+# Brother #
+
+58 413632 5130
+# You're safe now
+and safe may you stay #
+
+59 418799 6011
+# For I have a prayer
+&ust for you #
+
+60 425978 3216
+# Grow, baby brother #
+
+61 429231 4817
+- # Come back someday #
+- Mmm.
+
+62 434085 4780
+# Come and deliver us too #
+
+63 445831 2002
+Mommy!
+
+64 449376 4296
+Come, Rameses. We will show Pharaoh
+your new baby brother-
+
+65 453708 3097
+Moses.
+
+66 456842 2132
+# Deliver us #
+
+67 459011 4713
+# Send a shepherd
+to shepherd us #
+
+68 463760 2305
+# And deliver us #
+
+69 466101 6757
+# To the Promised Land #
+
+70 472894 2263
+# Deliver us #
+
+71 475193 4296
+# To the Promised #
+
+72 479526 6725
+# Land #
+
+73 486288 5255
+# Deliver us ##
+
+74 497174 2794
+- Ha, ha!
+- Faster, you beasts!
+
+75 500005 1924
+You run like mules.
+
+76 506099 5339
+- Hey, Rameses, how'd you like your
+face carved on a wall? - Someday, yes.
+
+77 511475 2841
+How about now?
+
+78 515567 3634
+You almost killed me!
+
+79 519238 2460
+Oh, come on.
+Where's your sense of fun?
+
+80 521735 3967
+Oh, it's fun you want?
+
+81 525739 3091
+Whoa!
+
+82 531625 3045
+Whoa! Aah!
+
+83 538257 2002
+Ohh. Moses?
+
+84 540295 3259
+Whoa!
+
+85 546848 3754
+Whoa!
+
+86 553605 2002
+Whoa!
+
+87 558902 2967
+Come on, you.
+Whoa!
+
+88 561905 3128
+Come on, Moses. Admit it.
+You've always looked up to me.
+
+89 565070 2716
+Yes, but it's
+not much of a view.
+
+90 567823 3797
+Hyah! Whoo!
+
+91 571657 3684
+Hey!
+
+92 575377 3587
+- Second born, second place.
+- Not for long.
+
+93 589975 1585
+Whoa!
+
+94 596106 4004
+- Whoa!
+- Aah! Aaah!
+
+95 617336 3044
+&ump!
+
+96 638523 4088
+Whoa!
+
+97 658335 3086
+Whoo!
+
+98 663215 3086
+You don't think we'll
+get in trouble for this, do you?
+
+99 666338 1924
+No, not a chance.
+
+100 668387 3170
+Why do the gods
+torment me...
+
+101 671593 3013
+with such reckless,
+destructive,
+
+102 674643 2669
+- blasphemous sons?
+- Father, hear what I-
+
+103 677349 2674
+Be still!
+Pharaoh speaks.
+
+104 681358 2675
+I seek to build
+an empire,
+
+105 684069 2920
+and your only thought
+is to amuse yourselves...
+
+106 687025 1887
+by tearing it down.
+
+107 688949 1965
+Have I taught you nothing?
+
+108 690951 4171
+You mustn't be so hard on yourself, Your
+Ma&esty. You're an excellent teacher.
+
+109 695158 3092
+It's not your fault
+your sons learned nothing.
+
+110 698286 1966
+- They learned blasphemy.
+- True.
+
+111 700288 3139
+Father,
+the fault is mine.
+
+112 703463 3129
+I goaded Rameses on,
+and so I am responsible.
+
+113 706628 2555
+Hmm.
+Responsible.
+
+114 709219 3128
+Do you know the meaning
+of that word, Rameses?
+
+115 712384 1887
+I understand, Father.
+
+116 714308 4212
+And do you understand the task for which
+your birth has destined you?
+
+117 718557 2387
+The ancient traditions.
+
+118 720981 2299
+When I pass
+into the next world,
+
+119 723317 3133
+then you will be
+the morning and evening star.
+
+120 726486 2795
+One damaged temple does not
+destroy centuries of tradition.
+
+121 729317 3217
+But one weak link
+can break the chain...
+
+122 732571 4009
+of a mighty dynasty!
+
+123 744588 2586
+You have my leave to go.
+
+124 747210 1966
+Father.
+
+125 762481 1965
+Father?
+
+126 764483 3336
+You know it was
+really my fault.
+
+127 767856 3222
+Must you be
+so hard on him?
+
+128 771114 3921
+Moses, you will never
+have to carry a burden...
+
+129 775072 3096
+like the crown
+I will pass to Rameses.
+
+130 778205 5130
+He must not allow himself
+to be led astray,
+
+131 783371 2884
+not even by you, my son.
+
+132 787839 3483
+All he cares about is-
+is your approval.
+
+133 791359 3446
+I know he will live up
+to your expectations.
+
+134 794841 2550
+He only needs
+the opportunity.
+
+135 797427 2883
+Maybe. Maybe so.
+
+136 801895 3337
+Go now. I shall
+see you both tonight.
+
+137 819454 2962
+- Well, that went well.
+- &ust go away.
+
+138 822452 1888
+Could have been worse.
+
+139 824376 3712
+"The weak link in the chain. "
+That's what he called me.
+
+140 830132 3050
+Well, you are
+rather pathetic.
+
+141 833218 3050
+Irresponsible,
+ignorant of the traditions.
+
+142 836305 3044
+He practically accused me
+of bringing down the dynasty.
+
+143 839386 2716
+Yeah, I can see it now.
+There go the pyramids!
+
+144 842139 3347
+You can laugh about it.
+
+145 845522 3717
+Statues cracking and toppling over.
+The Nile drying up.
+
+146 849276 5047
+Single-handedly, you will manage to bring
+the greatest kingdom on Earth to ruin.
+
+147 854359 1804
+Tell me this, Moses.
+
+148 856200 2460
+Why is it that every time
+you start something,
+
+149 858697 2800
+I'm the one
+who ends up in trouble?
+
+150 861533 2847
+Ah, man! Oh.
+
+151 864416 4067
+- Ah, it's Rameses. You're in trouble.
+- Get down here!
+
+152 868519 4030
+- I think you owe us an apology.
+- Oh, my new thing!
+
+153 872586 2805
+- I am so upset!
+- You might as well.
+
+154 875427 2628
+- You'll pay for this.
+- We're gonna tell the Pharaoh!
+
+155 878091 3139
+Hmm.
+
+156 881266 4171
+- Oh, look at me. I'm drenched again.
+- Hey. I figured it out.
+
+157 885474 2596
+- You know what your problem is, Rameses?
+- What?
+
+158 888106 4046
+- You care too much. - And your
+problem is, you don't care at all.
+
+159 892189 2924
+Oh, in that case, I suppose
+you care a lot more than I do...
+
+160 895150 3842
+that we're late for the banquet,
+for example.
+
+161 899076 3217
+I'm done for.
+
+162 902329 2961
+- Father will kill me.
+- Don't worry.
+
+163 905327 2925
+Nobody will even
+notice us coming in.
+
+164 912923 3503
+"Nobody will
+even notice. "
+
+165 919346 2174
+Ah, the young princes.
+
+166 921557 3049
+Rameses, you were &ust
+named prince regent.
+
+167 924643 4421
+You are now responsible
+for overseeing all the temples.
+
+168 929101 2799
+I suggest
+you get over there...
+
+169 931937 2713
+and thank your father.
+
+170 934686 2382
+Apparently, Moses,
+
+171 937104 2309
+someone thought he...
+
+172 939449 3087
+&ust needed
+the opportunity.
+
+173 943704 2591
+My lord Pharaoh.
+
+174 946331 2837
+I propose that the high priests
+offer tribute...
+
+175 949204 1887
+to their new regent.
+
+176 951128 2711
+An excellent idea.
+Hotep! Huy!
+
+177 953875 1804
+- Huy.
+- Hmm?
+
+178 955716 2127
+- The Midian girl.
+- That's a good idea!
+
+179 957879 1966
+Go get her.
+
+180 960846 2466
+By the power of Ra,
+
+181 963348 3796
+we present for your
+delectation and delight...
+
+182 967180 3759
+an exotic apparition
+stolen from a faraway land.
+
+183 978655 4171
+- We offer you this
+delicate desert flower.
+
+184 989541 2920
+Let us inspect
+this... desert flower.
+
+185 993921 2674
+More like a desert cobra.
+
+186 996632 2878
+Not much of a snake
+charmer, are you?
+
+187 999546 2304
+That's why I
+give her to you.
+
+188 1001887 3754
+- No, that's generous, but-
+- I won't be given to anyone.
+
+189 1005677 3214
+Especially an arrogant,
+pampered palace brat!
+
+190 1008927 3100
+Are you going to
+let her talk to you like that?
+
+191 1012064 3211
+You will show the proper respect
+for a prince of Egypt.
+
+192 1015312 2549
+But I am showing you
+all the respect you deserve-
+
+193 1017898 1387
+none!
+
+194 1019321 3342
+No. Wait!
+
+195 1022699 2341
+- Be still.
+- Untie this rope!
+
+196 1025077 2002
+- I demand you set me free!
+- Be still.
+
+197 1027115 3134
+- Let go!
+- As you wish.
+
+198 1030285 2383
+Aah! Ohh!
+
+199 1041051 3509
+You there!
+
+200 1044596 2008
+Have her dried off...
+
+201 1046640 3550
+and sent to
+Prince Moses' chambers.
+
+202 1050227 3921
+If it pleases you,
+Father, my first act as regent...
+
+203 1054184 1966
+is to appoint Moses...
+
+204 1056186 2633
+as royal chief...
+
+205 1058855 2091
+architect.
+
+206 1087514 2774
+Well-
+
+207 1090324 2737
+Right.
+
+208 1108368 3003
+Shh. Come on.
+
+209 1120339 1924
+Guards.
+
+210 1122299 2628
+Prince Moses.
+
+211 1127596 2169
+Uh...
+
+212 1131016 2711
+there's a-a man
+tied up in my room.
+
+213 1135020 2836
+- Well, look into it.
+- Right away, sire.
+
+214 1152287 2717
+Please, I need water.
+
+215 1155040 3253
+- I have a long &ourney ahead of me.
+- May God protect you.
+
+216 1158330 2466
+Thank you.
+
+217 1162506 2002
+Hut-hut.
+
+218 1175644 4796
+- Oh. Oh, I'm sorry.
+I'm so sorry. I-
+
+219 1180477 2388
+Oh, please forgive me. I-
+
+220 1182901 3587
+I didn't expect
+to see... you...
+
+221 1186525 2191
+here, of all places,
+
+222 1188753 2078
+at-at-at our door.
+
+223 1190868 3675
+- Mmm, at last!
+- At last?
+
+224 1194580 2752
+Didn't I tell you, Aaron? I knew he
+would return to us when he was ready.
+
+225 1197369 1962
+Miriam, do you
+want us flogged?
+
+226 1199368 1890
+I knew you cared
+about our freedom.
+
+227 1201295 2502
+- Miriam!
+- Freedom? Why would I care about that?
+
+228 1203834 3967
+Because you're-
+well, you're our brother.
+
+229 1207838 1882
+- What?
+- Be-
+
+230 1213474 3086
+- They never told you?
+- Who never told me what?
+
+231 1218979 2091
+But you're here.
+You must know.
+
+232 1221106 3066
+- Be careful, slave!
+- Oh, my good prince.
+
+233 1224208 3029
+Um, she's-she's exhausted
+from the day's work.
+
+234 1227274 1941
+Uh, not that it
+was too much.
+
+235 1229252 1869
+We- We quite
+enjoyed it.
+
+236 1231158 2919
+But-But she's confused
+and knows not to whom she speaks.
+
+237 1234114 3884
+I know to whom I speak, Aaron.
+I know who you are.
+
+238 1238035 2387
+- You are not a prince of Egypt.
+- Miriam.
+
+239 1240459 2773
+- What did you say?
+- Your Highness, pay her no heed.
+
+240 1243269 2557
+C- Come, Miriam.
+May I discuss something with you?
+
+241 1245862 2485
+No, Aaron. No!
+Please, Moses, you must believe!
+
+242 1248383 2586
+- That's enough.
+- You were born of my mother, Yocheved.
+
+243 1251006 2137
+- Stop it.
+- You are our brother!
+
+244 1253180 3003
+Now you go too far.
+You shall be punished.
+
+245 1256219 3306
+No! Please, uh,
+Your Highness.
+
+246 1259561 3003
+She's ill. She's very ill.
+We beg your forgiveness.
+
+247 1262601 2221
+- Please, Miriam, let us go.
+- No, Aaron.
+
+248 1264858 3254
+Our mother set you adrift
+in a basket to save your life!
+
+249 1268148 2096
+Save my life?
+From who?
+
+250 1270280 2253
+Ask the man
+that you call "Father. "
+
+251 1273992 3676
+- How dare you?
+- God saved you to be our deliverer.
+
+252 1277704 4046
+- Enough of this.
+- And you are, Moses. You are the deliverer.
+
+253 1281787 1840
+I said, enough!
+
+254 1285337 2503
+You will regret
+this night.
+
+255 1295431 4342
+# Hush now, my baby #
+
+256 1299810 3545
+# Be still, love
+Don't cry #
+
+257 1304857 2711
+# Sleep
+as you're rocked #
+
+258 1307604 3425
+# By the stream #
+
+259 1312281 4108
+# Sleep and remember #
+
+260 1316425 3934
+# My last lullaby #
+
+261 1320395 4264
+# So I'll be with you #
+
+262 1324695 4227
+# When you dream ##
+
+263 1345063 3879
+Did you see him? It's Moses.
+
+264 1368420 3926
+# Gleaming in the moonlight #
+
+265 1372382 4004
+# Cool and clean
+and all I've ever known #
+
+266 1376423 2383
+# All I ever wanted #
+
+267 1380724 2961
+# Sweet perfumes
+of incense #
+
+268 1384937 3128
+# And graceful rooms
+of alabaster stone #
+
+269 1388101 3402
+# All I ever wanted #
+
+270 1391539 3329
+# This is my home #
+
+271 1394905 2273
+# With my father
+mother, brother #
+
+272 1397215 2236
+# Oh, so noble
+Oh, so strong #
+
+273 1399488 3555
+# Now I am home #
+
+274 1403080 3211
+# Here among my trappings
+and belongings #
+
+275 1406328 2388
+# I belong #
+
+276 1408752 3420
+# And if anybody doubts it #
+
+277 1412209 3222
+# They couldn't
+be more wrong #
+
+278 1415467 2633
+# I am a sovereign
+prince of Egypt #
+
+279 1418137 3586
+# A son of the proud history
+that's shown #
+
+280 1421760 4557
+# Etched on every wall #
+
+281 1426353 3504
+# Surely this is all
+I ever wanted #
+
+282 1429893 3842
+# All I ever wanted #
+
+283 1433772 3985
+# All I ever #
+
+284 1437794 3950
+# Wanted ##
+
+285 1609870 3128
+The Hebrews grew
+too numerous.
+
+286 1613957 3024
+They might have risen
+against us.
+
+287 1617018 2987
+Father, tell me
+you didn't do this.
+
+288 1620042 2679
+Moses,
+
+289 1622758 4296
+sometimes,
+for the greater good,
+
+290 1627090 3384
+sacrifices must be made.
+
+291 1637439 2044
+Sacrifices?
+
+292 1642569 2717
+Oh, my son.
+
+293 1645322 3378
+They were only slaves.
+
+294 1666719 2883
+Moses?
+
+295 1669638 2800
+Is this where
+you found me?
+
+296 1672474 3671
+Moses, please try
+to understand.
+
+297 1679273 4191
+So- So everything
+I thought,
+
+298 1683501 4155
+everything I am,
+is a lie.
+
+299 1687693 1804
+No.
+
+300 1689533 3712
+You are our son,
+and we love you.
+
+301 1694747 2669
+Why did you choose me?
+
+302 1697452 2526
+We didn't, Moses.
+
+303 1700014 2490
+The gods did.
+
+304 1708969 3149
+# This is your home
+my son #
+
+305 1712155 3912
+# Here the river
+brought you #
+
+306 1716103 3877
+# And it's here
+the river meant #
+
+307 1720017 3305
+# To be your home #
+
+308 1723358 3400
+# Now you know
+the truth, love #
+
+309 1726794 3243
+# Now forget
+and be content #
+
+310 1730074 4150
+# When the gods
+send you a blessing #
+
+311 1734260 4113
+# You don't ask why
+it was sent ##
+
+312 1754848 3801
+Last night, the gods
+granted me a vision.
+
+313 1758685 4380
+I'm not merely going to restore
+this temple, I will make it more grand,
+
+314 1763101 3467
+more splendid
+than any other one in Egypt.
+
+315 1786672 2341
+Aah.
+
+316 1789049 2002
+- Get up!
+- Aah!
+
+317 1798183 2425
+Moses! Look.
+
+318 1800644 4296
+Fate has turned our little misadventure
+into a great opportunity.
+
+319 1804977 2716
+- Get up, old man!
+- Father will be so pleased-
+
+320 1807729 4176
+Put your back into it!
+
+321 1811942 2805
+Faster!
+
+322 1814783 2049
+This is &ust
+the beginning.
+
+323 1816869 3879
+A gateway will open to an entire
+new city of white limestone,
+
+324 1820784 2275
+more dazzling
+than the sun.
+
+325 1823096 2239
+And here, a statue of Hapi.
+
+326 1825372 1846
+I said, hurry!
+
+327 1827254 2800
+- ... two great column halls.
+- Stop it!
+
+328 1830090 2127
+- Somebody's got to stop this!
+- There's nothing we can do.
+
+329 1844480 1965
+Stop it.
+
+330 1846482 1965
+Stop. Stop it!
+
+331 1848484 3670
+- Leave that man alone!
+- Moses!
+
+332 1862581 4463
+Out of my way.
+Out of my way. Move!
+
+333 1867080 1888
+Who did this?
+
+334 1869004 4129
+Up there! It's him.
+Up there.
+
+335 1885771 1501
+Moses!
+
+336 1899118 3086
+Moses, what's going on?
+Moses!
+
+337 1910254 2669
+Moses!
+
+338 1914508 2549
+- Moses!
+- Let me go!
+
+339 1917094 3754
+- No, wait. - You saw what happened.
+I &ust killed a man.
+
+340 1920884 2596
+We can take care
+of that.
+
+341 1923517 2257
+I will make it
+so it never happened.
+
+342 1925811 3316
+Nothing you can say
+can change what I've done.
+
+343 1929163 3057
+I am Egypt, the morning
+and the evening star.
+
+344 1932257 3022
+If I say day is night,
+it will be written,
+
+345 1935315 2925
+and you will be
+what I say you are.
+
+346 1938276 2138
+I say you are innocent.
+
+347 1940451 3753
+What you say does not matter.
+You don't understand.
+
+348 1944241 1924
+I can't stay here
+any longer.
+
+349 1946201 1887
+- Moses!
+- No!
+
+350 1948125 3920
+All I've ever known
+to be true is a lie.
+
+351 1954465 2690
+I'm not who
+you think I am.
+
+352 1957191 2576
+What are you
+talking about?
+
+353 1959803 3796
+Go ask the man
+I once called "Father. "
+
+354 1966393 3087
+Moses?
+
+355 1970439 1960
+Please.
+
+356 1979656 2545
+Good-bye, brother.
+
+357 1987122 2044
+Moses!
+
+358 1990334 2002
+Moses!
+
+359 2056942 2252
+No.
+
+360 2061864 2627
+Aah!
+
+361 2116293 2961
+Aaah!
+
+362 2127554 4046
+Hey, wait.
+
+363 2133227 2043
+Please.
+
+364 2145489 2210
+Ohh!
+
+365 2149118 3086
+Oh!
+
+366 2158669 1965
+What are you doing?
+
+367 2160671 3086
+- Help!
+- Let our sheep drink!
+
+368 2163794 3050
+Leave us alone!
+Get away!
+
+369 2166880 4515
+Stop it!
+
+370 2171431 2524
+My father's
+the high priest of Midian.
+
+371 2173991 2487
+You're going to be
+in big trouble.
+
+372 2176515 3013
+- Aah!
+- Hey, you.
+
+373 2179565 2794
+Aren't these
+your camels?
+
+374 2183569 2752
+- Hut-hut!
+- No, no! No, no!
+
+375 2186358 2382
+- Wait!
+- Wait, stop!
+
+376 2195456 2002
+Whoa!
+
+377 2205048 1966
+What are you girls
+doing?
+
+378 2207050 2586
+We're trying to get the funny man
+out of the well.
+
+379 2209673 2671
+Trying to get the funny man
+out of the well.
+
+380 2212381 3153
+- Well, that's one
+I've never heard before.
+
+381 2215570 3117
+Oh, my.
+Oh, uh, don't worry down there!
+
+382 2218724 2174
+Uh, we'll get you out.
+Hold on!
+
+383 2224943 2607
+You.
+
+384 2227587 2619
+Huh?
+
+385 2230242 2584
+Ohh!
+
+386 2235370 2002
+Mm-hmm.
+
+387 2239333 4212
+That's why Papa says
+she'll never get married.
+
+388 2247299 4213
+You don't have to do this. Ladies,
+please, I'm really- I'm really quite-
+
+389 2251548 2346
+No, not there, please.
+
+390 2253931 2836
+That tickles. Ladies,
+you've cleaned every inch of me.
+
+391 2256803 2138
+Whoa, I- I was wrong.
+
+392 2258977 3838
+Let me through. Let me through.
+I want to see him.
+
+393 2262851 3973
+Ah! You are most welcome.
+
+394 2266860 2670
+You should not be
+a stranger in this land.
+
+395 2269566 2513
+You have been sent
+as a blessing.
+
+396 2272115 3337
+Tonight, you shall be my honored guest.
+
+397 2277704 3796
+My father, &ethro,
+High Priest of Midian.
+
+398 2290300 2837
+Psst. Sit with me.
+
+399 2293173 2800
+Um, all right.
+
+400 2298559 2841
+Psst. Not yet.
+
+401 2301436 2800
+- Oh, sorry.
+- My children,
+
+402 2304273 4296
+let us give thanks
+for this bountiful food.
+
+403 2309736 2717
+And let us also give thanks
+for the presence...
+
+404 2312489 3962
+of this brave, young man
+whom we honor here tonight.
+
+405 2316488 4265
+Please, sir, I wish you wouldn't.
+
+406 2320789 3212
+I've done nothing in my life
+worth honoring.
+
+407 2327754 3467
+First, you rescue Tzipporah
+from Egypt,
+
+408 2331258 3128
+- then you defend my younger
+daughters from brigands.
+
+409 2334423 3180
+You think that is nothing?
+
+410 2337639 3629
+It seems you do not know
+what is worthy of honor.
+
+411 2341304 2484
+# A single thread
+in a tapestry #
+
+412 2343825 2448
+# Though its color
+brightly shine #
+
+413 2346309 2138
+# Can never see
+its purpose #
+
+414 2348484 2919
+# In a pattern
+of the grand design #
+
+415 2352738 2502
+# And the stone that sits
+on the very top #
+
+416 2355277 2192
+# Of the mountain's
+mighty face #
+
+417 2357505 3268
+# Does it think
+it's more important #
+
+418 2360809 3112
+# Than the stones
+that form the base #
+
+419 2363957 2711
+# So how can you see
+what your life is worth #
+
+420 2366705 2263
+# Or where
+your value lies #
+
+421 2369004 4129
+# You can never see
+through the eyes of man #
+
+422 2373170 2471
+# You must look
+at your life #
+
+423 2375677 3426
+# Look at your life
+through heaven's eyes #
+
+424 2379139 2878
+# La-la-la-la-la-la-la
+La-la-la-la-la-la-la-la #
+
+425 2382054 2087
+# La, la-la-la-la-la-la #
+
+426 2384178 2015
+# La-la-la-la-la-la #
+
+427 2386230 4212
+- # Lai-lai-lai, lai-lai-lai-lai
+Lai-lai-lai, lai-lai-la # - Dance with me.
+
+428 2390479 3550
+No, I don't know how.
+
+429 2403747 2044
+# A lake of gold
+in the desert sand #
+
+430 2405827 2171
+# Is less than
+a cool, fresh spring #
+
+431 2408035 2277
+# And to one lost sheep
+a shepherd boy #
+
+432 2410348 2241
+# Is greater
+than the richest king #
+
+433 2413966 2836
+# If a man lose
+everything he owns #
+
+434 2416838 2133
+# Has he truly
+lost his worth #
+
+435 2419007 2096
+# Or is it the beginning #
+
+436 2421139 4093
+# Of a new and brighter birth #
+
+437 2425269 2711
+# So how do you measure
+the worth of a man #
+
+438 2428016 2179
+# In wealth or strength
+or size #
+
+439 2430232 4296
+# In how much he gained
+or how much he gave #
+
+440 2434564 2388
+# The answer will come #
+
+441 2436989 3920
+# The answer will come
+to him who tries #
+
+442 2440946 3401
+# To look at his life
+through heaven's eyes #
+
+443 2444384 3365
+# And that's why we share
+all we have with you #
+
+444 2447786 2338
+# Though there's little
+to be found #
+
+445 2450160 2444
+# When all you've got
+is nothing #
+
+446 2452641 2407
+# There's a lot
+to go around #
+
+447 2457009 2711
+# No life can escape
+being blown about #
+
+448 2459756 2555
+# By the winds
+of change and chance #
+
+449 2462347 2920
+- # And though you never know
+all the steps # - Dance with me.
+
+450 2465303 4468
+- No, I- No. No!
+- # You must learn to &oin the dance #
+
+451 2469808 3550
+# You must learn
+to &oin the dance #
+
+452 2473395 2721
+# La-la-la
+Lee-lai-lai-lai #
+
+453 2476153 2341
+# Lai-lai-lai-lai
+Lai-lai-lai-lai #
+
+454 2478530 3900
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai, lai-lai-lai #
+
+455 2482466 4309
+# Lai-lai-lai-lai, lee-lai-lai,
+lai-lai-lai-lai, lai-lai-lai #
+
+456 2486811 3492
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai-lai-lai-lai #
+
+457 2490340 3455
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai, lai-lai-lai #
+
+458 2493832 4134
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai-lai #
+
+459 2498003 3842
+# So how do you &udge
+what a man is worth #
+
+460 2501882 2554
+# By what he builds
+or buys #
+
+461 2504473 2878
+# You can never see
+with your eyes on earth #
+
+462 2507387 2299
+# Look through
+heaven's eyes #
+
+463 2509723 4139
+# Look at your life #
+
+464 2513899 4630
+# Look at your life
+through heaven's #
+
+465 2518565 8180
+# Eyes ##
+
+466 2538882 2044
+Mmm.
+
+467 2542678 2043
+I love you.
+
+468 2562114 2002
+Ahh!
+
+469 2584761 2586
+It's too early
+for this.
+
+470 2646240 2544
+Moses.
+
+471 2650953 2043
+Moses.
+
+472 2654456 3670
+Moses.
+
+473 2661213 2044
+Here I am.
+
+474 2664800 4092
+Take the sandals
+from your feet,
+
+475 2668929 4254
+for the place on which you stand
+is holy ground.
+
+476 2680691 2002
+Who are you?
+
+477 2684319 3128
+I am that I am.
+
+478 2689658 2174
+I don't understand.
+
+479 2691868 3754
+I am the God of your ancestors,
+
+480 2695659 3467
+Abraham, Isaac
+and &acob.
+
+481 2701879 4087
+You were born of my
+mother, Yocheved. You are our brother.
+
+482 2708218 3295
+What do You want
+with me?
+
+483 2713098 4463
+I have seen the oppression
+of My people in Egypt...
+
+484 2717597 2805
+and have heard their cry.
+
+485 2720439 3258
+- Stop it!
+Leave that man alone!
+
+486 2723734 3712
+So I have come down
+to deliver them out of slavery...
+
+487 2728447 2544
+and bring them
+to a good land,
+
+488 2732618 4587
+a land flowing
+with milk and honey.
+
+489 2739458 3336
+And so, unto Pharaoh,
+
+490 2742831 2966
+I shall send...
+
+491 2745834 2054
+you.
+
+492 2747925 3842
+Me? Wh-Who am I
+to lead these people?
+
+493 2751803 2920
+They'll never believe me.
+They won't even listen.
+
+494 2754760 2549
+I shall teach you
+what to say.
+
+495 2757345 3139
+Let my people go!
+
+496 2760520 2216
+But I was their enemy.
+
+497 2762773 4629
+I was the prince of Egypt, the son of
+the man who slaughtered their children.
+
+498 2767439 2609
+You've- You've chosen
+the wrong messenger.
+
+499 2770084 2574
+H- How can I even speak
+to these people?
+
+500 2772694 2638
+Who made man's mouth?
+
+501 2775369 4045
+Who made the deaf, the mute,
+the seeing or the blind?
+
+502 2779451 2925
+Did not I?
+Now go!
+
+503 2795055 3133
+Oh, Moses,
+
+504 2798225 4963
+I shall be with you when you
+go to the king of Egypt.
+
+505 2803225 2716
+But Pharaoh
+will not listen.
+
+506 2809736 3337
+So I will stretch out
+My hand...
+
+507 2813110 2546
+and smite Egypt...
+
+508 2815692 2511
+with all My wonders.
+
+509 2822165 4463
+Take the staff
+in your hand, Moses.
+
+510 2826665 1970
+With it,
+
+511 2828672 4087
+you shall do My wonders.
+
+512 2837097 2920
+I shall be with you,
+Moses.
+
+513 2840053 3843
+Moses.
+
+514 2845439 2210
+Moses.
+
+515 2927312 2091
+But, Moses,
+
+516 2929439 2920
+you are &ust one man.
+
+517 2935571 1918
+Tzipporah,
+
+518 2939575 2794
+please.
+
+519 2949251 2544
+Look at your family.
+
+520 2954590 2883
+They are free.
+
+521 2957509 2133
+They have a future.
+
+522 2959678 2716
+They have hopes
+and dreams...
+
+523 2962431 3211
+and the promise
+of a life with dignity.
+
+524 2968145 3128
+That is what I want
+for my people.
+
+525 2972566 2669
+And that is why
+I must do the task...
+
+526 2975272 3258
+that God has given me.
+
+527 2990125 2544
+I'm coming with you.
+
+528 3081008 1882
+Rameses.
+
+529 3082926 3462
+Moses?
+Is it really?
+
+530 3091310 2174
+Moses!
+
+531 3093520 2503
+- Rameses!
+- Where have you been? I took you for dead.
+
+532 3098442 3300
+Look at you!
+Pharaoh.
+
+533 3101778 3587
+Well, look at you.
+What on earth are you dressed as?
+
+534 3106742 3462
+Oh, Rameses,
+it's so good to see you.
+
+535 3110240 1887
+Excuse me, Your Ma&esty.
+
+536 3112164 5464
+We are compelled to remind you this man
+committed a serious crime against the gods.
+
+537 3117664 2263
+We are loathe
+to bring it up, mind you.
+
+538 3119963 2711
+The law clearly states
+the punishment for such a crime-
+
+539 3122711 2049
+- Death!
+- We hesitate to say it.
+
+540 3124796 3384
+Be still.
+Pharaoh speaks.
+
+541 3129181 3170
+I am the morning
+and the evening star.
+
+542 3132387 1929
+Rameses.
+
+543 3134353 2174
+It shall be as I say.
+
+544 3136563 4588
+I pardon forever all crimes
+of which he stands accused...
+
+545 3141188 2507
+and will have it known
+that he is...
+
+546 3143732 2192
+our brother Moses,
+
+547 3145960 2157
+the prince of Egypt.
+
+548 3152287 2002
+Rameses,
+
+549 3155332 3024
+in my heart,
+you are my brother,
+
+550 3158392 2988
+but things cannot be
+as they were.
+
+551 3161416 2299
+I see no reason why not.
+
+552 3165175 5005
+You know I am a Hebrew, and the God
+of the Hebrews came to me.
+
+553 3170217 2388
+What?
+
+554 3172641 2753
+He commands that you
+let His people go.
+
+555 3179189 2753
+Commands?
+
+556 3186738 3879
+Behold... the power of God.
+
+557 3204882 3753
+Well, uh, impressive.
+
+558 3208672 2429
+Hmm.
+
+559 3211138 4421
+Very well, Moses.
+I'll play along.
+
+560 3215595 2388
+Hotep. Huy.
+
+561 3218020 3336
+Give this snake charmer
+our answer.
+
+562 3242628 2961
+By the power of Ra.
+
+563 3245626 2087
+Mut.
+
+564 3247750 2015
+Nut.
+
+565 3249802 2007
+- Khnum.
+- Ptah.
+
+566 3251845 2107
+- Nephthys.
+- Nekhbet.
+
+567 3253988 2598
+- Sobek.
+- Sekhmet.
+
+568 3256623 2387
+Sokar. Selket. Reshpu.
+
+569 3259046 2197
+- Wad&et.
+- Anubis.
+
+570 3261280 2081
+- Anukis.
+- Seshmu.
+
+571 3263397 2044
+- Meshkent.
+- Hemsut.
+
+572 3265478 1930
+- Tefnut.
+- Heket.
+
+573 3267444 2419
+- Mafdet.
+- Ra, Mut, Nut, Ptah.
+
+574 3269900 2108
+Hemsut, Tefnut,
+Sokar, Selket.
+
+575 3272045 2036
+Seshmu, Reshpu,
+Sobek, Wad&et.
+
+576 3274118 3086
+Heket, Mafdet,
+Nephthys, Nekhbet, Ra!
+
+577 3279998 2837
+# So you think
+you've got friends #
+
+578 3282871 2638
+# In high places #
+
+579 3285546 4754
+# With the power
+to put us on the run #
+
+580 3290337 3342
+# Well, forgive us
+these smiles #
+
+581 3293715 2597
+# On our faces #
+
+582 3296348 4421
+# You'll know what power is
+when we are done #
+
+583 3300806 1882
+Son.
+
+584 3304815 4468
+# You're playing
+with the big boys now #
+
+585 3309319 4969
+- # Playing with the big boys now #
+- Oh, that's pretty.
+
+586 3314324 4463
+- # Every spell and gesture #
+- # Tells you who's the best #
+
+587 3318824 6654
+# You're playing with
+the big boys now #
+
+588 3325515 6619
+# You're playing with
+the big boys now. #
+
+589 3332170 2174
+# Stop this
+foolish mission #
+
+590 3334381 2838
+# Watch a true magician #
+
+591 3337256 2683
+# Give an exhibition how #
+
+592 3339975 2299
+# Pick up your
+silly twig, boy #
+
+593 3342311 3211
+# You're playing with
+the big boys now #
+
+594 3345559 3175
+- Ha-ha-ha-ha-ha!
+- # By the power of Ra #
+
+595 3348770 2067
+# Mut, Nut #
+
+596 3350874 1994
+# Khnum, Ptah #
+
+597 3352905 4176
+# Sobek, Sekhmet
+Sokar, Selket #
+
+598 3357117 3712
+# Anubis, Anukis, Hemsut
+Tefnut, Meshkent, Mafdet #
+
+599 3360866 8060
+# You're playing with
+the big boys now #
+
+600 3368962 4171
+# By the might of Horus
+you will kneel before us #
+
+601 3373170 3472
+# Kneel to our
+splendorous power #
+
+602 3376678 1585
+- # You put up a front #
+- # You put up a fight #
+
+603 3378300 2174
+# And &ust to show
+we feel no spite #
+
+604 3380510 1929
+# You can be our acolyte #
+
+605 3382476 3629
+- # But first, boy it's time to bow #
+- # Kowtow #
+
+606 3386141 1423
+# Or it's your own grave
+you'll dig, boy #
+
+607 3387601 2972
+# You're playing with
+the big boys #
+
+608 3390609 6757
+# Playing with the big boys
+Playing with the big boys #
+
+609 3397402 3301
+# Playing with
+the big boys now ##
+
+610 3400739 2174
+They love it.
+
+611 3420055 2878
+All right, Moses.
+I know you.
+
+612 3422970 2841
+What's this really about?
+
+613 3426812 2920
+Rameses, look.
+
+614 3429768 2883
+What do you see?
+
+615 3436530 3712
+A greater Egypt
+than that of my father.
+
+616 3440279 2638
+That is not
+what I see.
+
+617 3442953 4593
+Moses, I cannot
+change what you see.
+
+618 3447583 3587
+I have to maintain
+the ancient traditions.
+
+619 3451206 3276
+I bear the weight
+of my father's crown.
+
+620 3454519 3241
+Do you still not understand
+what Seti was?
+
+621 3457796 3222
+He was
+a great leader.
+
+622 3461055 3670
+His hands bore the blood
+of thousands of children.
+
+623 3464761 1796
+Hmph.
+Slaves.
+
+624 3466593 1724
+My people.
+
+625 3468354 4379
+And I can no longer hide
+in the desert while they suffer...
+
+626 3472769 2174
+at your hands.
+
+627 3477863 2591
+So...
+
+628 3480491 2732
+you have returned...
+
+629 3483259 2695
+only to free them.
+
+630 3496507 2377
+I'm sorry.
+
+631 3507226 2043
+Yes.
+
+632 3510813 3044
+I had hoped...
+
+633 3513894 1882
+that-
+
+634 3528205 2044
+I do not know this God.
+
+635 3531333 2127
+Neither will I
+let your people go.
+
+636 3533497 2650
+Rameses, please,
+you must listen-
+
+637 3536184 2615
+I will not be
+the weak link!
+
+638 3546473 2941
+Tell your people
+as of today...
+
+639 3549450 2904
+their workload
+has been doubled,
+
+640 3552391 1924
+thanks to your God.
+
+641 3555649 3045
+Or is it thanks...
+
+642 3558730 1924
+to you?
+
+643 3565576 2711
+It's Moses.
+
+644 3570456 2356
+Moses! Ohh.
+
+645 3572849 2283
+So, Moses,
+
+646 3575169 3587
+how does it feel when you
+get struck to the ground?
+
+647 3580090 3045
+I didn't mean
+to cause you more pain.
+
+648 3583172 2888
+I'm &ust trying to do
+as God told me.
+
+649 3586096 3759
+God? When did God start
+caring about any of us?
+
+650 3589892 3399
+In fact, Moses, when did you start
+caring about slaves?
+
+651 3593327 3363
+Was it when you found out
+that you were one of us?
+
+652 3596727 2650
+Don't listen to him.
+
+653 3599414 2495
+No, he's-
+he's right.
+
+654 3601945 4051
+I did not see because
+I did not wish to see.
+
+655 3606033 2966
+Oh, you didn't see because
+you didn't wish to see.
+
+656 3609036 3170
+Ah! Well, that makes everything
+fine then, doesn't it?
+
+657 3612242 1888
+Aaron!
+
+658 3614166 2544
+You shame yourself.
+
+659 3618545 3170
+Miriam.
+
+660 3623676 2711
+I'm so sorry.
+
+661 3634979 2340
+Moses,
+
+662 3637356 2424
+hear what I say.
+
+663 3639817 2419
+I have been a slave...
+
+664 3642272 2013
+all my life,
+
+665 3644321 4463
+and God has never
+answered my prayers until now.
+
+666 3648821 1803
+God saved you
+from the river,
+
+667 3650661 2966
+He saved you
+in all your wanderings,
+
+668 3653664 3295
+and even now He saves you
+from the wrath of Pharaoh.
+
+669 3656995 2967
+God will not abandon you,
+
+670 3661297 2544
+so don't you abandon us.
+
+671 3696498 2545
+Miriam.
+Where are you going?
+
+672 3699079 1966
+M- Miriam.
+
+673 3714600 2961
+The ball disappears.
+Where is it? In his hand.
+
+674 3720981 1961
+Rameses!
+
+675 3724151 2878
+Let my people go!
+
+676 3728989 3087
+Still gnawing away
+at that bone, are we?
+
+677 3732112 1512
+Carry on.
+
+678 3733661 2215
+You cannot
+keep ignoring us.
+
+679 3735913 4338
+Enough! I will hear no more
+of this Hebrew nonsense.
+
+680 3740287 1882
+Bring him to me.
+
+681 3744004 2169
+- Moses!
+- No!
+
+682 3759353 4129
+Take the staff
+in your hand, Moses.
+
+683 3791844 1965
+Father.
+
+684 3793846 2189
+- It's-
+- Blood!
+
+685 3796072 2153
+Blood! Oh, blood!
+
+686 3809028 3800
+Hotep! Huy!
+Explain this to me!
+
+687 3812865 2549
+- Ah!
+- Rest assured, Your Ma&esty-
+
+688 3815451 3044
+Uh, yes, we were going to
+demonstrate the superior might...
+
+689 3818532 1882
+of our gods.
+
+690 3820451 1548
+Uh-
+
+691 3823709 3003
+By the power of Ra!
+
+692 3842394 3045
+Abandon this futile mission,
+Moses.
+
+693 3845476 3443
+I've indulged you
+long enough.
+
+694 3848955 3408
+This must now
+be finished.
+
+695 3854448 2258
+No, Rameses.
+
+696 3856742 2341
+It is only beginning.
+
+697 3859119 3254
+But, Moses, d-didn't you
+see what happened?
+
+698 3862409 2722
+The priests
+did the same thing.
+
+699 3865167 3045
+Pharaoh still has the power
+over our lives.
+
+700 3870798 3587
+Yes, Aaron, it's true.
+Pharaoh has the power.
+
+701 3875719 5714
+He can take away your food,
+your home, your freedom.
+
+702 3881470 4593
+He can take away
+your sons and daughters.
+
+703 3886100 2179
+With one word,
+
+704 3888315 3087
+Pharaoh can take away
+your very lives.
+
+705 3893320 4046
+But there is one thing
+he cannot take away from you:
+
+706 3897402 1883
+your faith.
+
+707 3901620 1966
+Believe,
+
+708 3903622 2878
+for we will see
+God's wonders.
+
+709 3917094 1340
+# Thus saith the Lord #
+
+710 3918470 2341
+# Since you refuse
+to free my people #
+
+711 3920848 3253
+- # Since you refuse to free my people #
+- # Since you refuse #
+
+712 3924138 2442
+# All through
+the land of Egypt #
+
+713 3926616 1871
+# I send a pestilence, a plague #
+
+714 3928523 1798
+# Into your house, into your bed #
+
+715 3930357 2127
+- # Into your streams Into your streets #
+- Hmm.
+
+716 3932521 2129
+# Into your drink
+Into your bread #
+
+717 3934687 2068
+# Upon your cattle, on your sheep #
+
+718 3936792 1996
+# Upon your oxen
+in your field #
+
+719 3938824 2503
+# Into your dreams, into your sleep #
+
+720 3941363 2466
+# Until you break
+Until you yield #
+
+721 3943866 2054
+# I send the swarm #
+
+722 3945956 5923
+# I send the horde
+Thus saith the Lord #
+
+723 3952838 2049
+# Once I called you brother #
+
+724 3954924 3294
+# Once I thought the chance
+to make you laugh #
+
+725 3958255 1590
+# Was all I ever wanted #
+
+726 3959887 2002
+# I send the thunder
+from the sky #
+
+727 3961925 1929
+# I send the fire
+raining down #
+
+728 3963891 3670
+# And even now I wish
+that God had chose another #
+
+729 3967598 2841
+# Serving as your foe
+on His behalf #
+
+730 3970476 1595
+# Is the last thing #
+
+731 3972107 2002
+- # That I wanted #
+- # I send a hail of burning ice #
+
+732 3974146 2758
+# On every field
+On every town #
+
+733 3976940 2305
+# This was my home #
+
+734 3979281 5255
+# All this pain and devastation
+how it tortures me inside #
+
+735 3984573 2174
+# All the innocent
+who suffer #
+
+736 3986784 1637
+# From your stubbornness #
+
+737 3988457 2252
+- # And pride #
+- # I send the locusts on the wind #
+
+738 3990746 2004
+# Such as the world
+has never seen #
+
+739 3992786 1933
+# On every leaf
+On every stalk #
+
+740 3994755 3212
+# Until there's nothing left
+of green #
+
+741 3998003 3175
+# I send my scourge
+I send my sword #
+
+742 4001215 1423
+# Thus saith the Lord #
+
+743 4002680 1715
+# You who I called brother #
+
+744 4004431 3692
+# Why must you call down another blow #
+
+745 4008159 3493
+# I send my scourge
+I send my sword #
+
+746 4011689 3461
+- # Let my people go #
+- # Thus saith the Lord #
+
+747 4015187 6804
+# Thus saith the Lord #
+
+748 4025369 1965
+# You who I called brother #
+
+749 4027371 3128
+# How could you have come
+to hate me so #
+
+750 4030536 1465
+# Is this what you wanted #
+
+751 4032042 2691
+# I sent the swarm
+I sent the horde #
+
+752 4034769 2617
+# Then let my heart
+be hardened #
+
+753 4037423 2919
+# And never mind
+how high the cost may grow #
+
+754 4040379 2299
+# This will still be so #
+
+755 4042714 2964
+# I will never let #
+
+756 4045714 2808
+# Your people go #
+
+757 4048559 4301
+# Thus saith the Lord #
+
+758 4052897 3920
+- # I will not let #
+- & Let #
+
+759 4056854 3884
+- # Your people #
+- # My people #
+
+760 4060774 4593
+- # Go ##
+- # Go ##
+
+761 4112248 2252
+Rameses?
+
+762 4116502 2132
+Rameses?
+
+763 4118671 2043
+Oh. Let me guess.
+
+764 4122299 2732
+You want me to...
+
+765 4125068 2695
+let your people go.
+
+766 4130557 2503
+I hoped
+I would find you here.
+
+767 4133096 2466
+Get out!
+
+768 4137147 4797
+Rameses, we must
+bring this to an end.
+
+769 4146907 3274
+Rameses, please,
+talk to me.
+
+770 4150218 3237
+We could always
+talk here.
+
+771 4162715 2002
+This place.
+
+772 4166218 2044
+So many memories.
+
+773 4171599 2674
+I remember the time you...
+
+774 4174310 3586
+switched the heads of the gods
+of the temple of Ra.
+
+775 4181692 1965
+If I recall correctly,
+
+776 4183694 4546
+you were there switching heads
+right along with me.
+
+777 4189116 2669
+No, it was you.
+I didn't do that.
+
+778 4191822 1887
+Oh, yes, you did.
+
+779 4193746 2711
+You put the hippo on the crocodile,
+and the crocodile-
+
+780 4196493 1888
+- On the falcon.
+- Yes!
+
+781 4198417 3587
+The priest thought it was a horrible
+omen and fasted for two months.
+
+782 4202040 3301
+Father was furious. You were
+always getting me into trouble.
+
+783 4212431 2044
+But then-
+
+784 4216477 3253
+you were always there
+to...
+
+785 4219766 3217
+get me out of trouble
+again.
+
+786 4223020 1882
+Hmmph.
+
+787 4229365 3545
+Why can't things be
+the way they were before?
+
+788 4234370 1715
+Father.
+
+789 4236121 2002
+It's so dark.
+
+790 4239458 2419
+I'm frightened.
+
+791 4242836 1919
+Why is he here?
+
+792 4248467 3045
+Isn't that the man
+who did all this?
+
+793 4253305 2466
+Yes.
+
+794 4255808 3044
+But one must wonder...
+
+795 4258889 1804
+why.
+
+796 4260729 5136
+Because no kingdom should be made
+on the backs of slaves.
+
+797 4265901 4421
+Rameses, your stubbornness
+is bringing this misery upon Egypt.
+
+798 4270359 3172
+It would cease if only you
+would let the Hebrews go.
+
+799 4273567 3508
+I will not be dictated to.
+I will not be threatened.
+
+800 4277111 3310
+I am the morning
+and the evening star. I am Pharaoh.
+
+801 4280457 4296
+Something else is coming. Something
+much worse than anything before.
+
+802 4284790 3088
+Please, let go of
+your contempt for life...
+
+803 4287915 3053
+before it destroys
+everything you hold dear.
+
+804 4291004 2049
+Think of your son!
+
+805 4293090 1887
+I do.
+
+806 4295014 3133
+You Hebrews have been
+nothing but trouble.
+
+807 4298183 3712
+My father had the right idea
+about how to deal with your people.
+
+808 4301932 3889
+- Rameses- - And I think
+it's time I finished the &ob.
+
+809 4305858 4504
+- Rameses! - And there shall be
+a great cry in all of Egypt...
+
+810 4310399 3050
+such as never has been
+or ever will be again!
+
+811 4328130 3587
+Rameses, you bring this
+upon yourself.
+
+812 4341435 3170
+God has come
+to me again, saying,
+
+813 4344641 1846
+"Take a lamb...
+
+814 4346523 2717
+and with its blood...
+
+815 4349276 3879
+mark the lintel and posts
+of every door,
+
+816 4355449 2925
+for tonight...
+
+817 4358410 4588
+I shall pass through
+the land of Egypt...
+
+818 4363035 3091
+and smite
+all the firstborn.
+
+819 4372091 3587
+But when I see the blood
+upon your door...
+
+820 4377179 2544
+I will pass over you,
+
+821 4381600 3587
+and the plague
+shall not enter. "
+
+822 4541719 3628
+You
+and your people...
+
+823 4545384 3592
+have my permission to go.
+
+824 4553731 2043
+Leave me!
+
+825 4649660 3712
+# Many nights we've prayed #
+
+826 4653408 2672
+# With no proof #
+
+827 4656116 2558
+# Anyone could hear #
+
+828 4658711 3920
+# In our hearts
+a hopeful song #
+
+829 4662668 4485
+# We barely understood #
+
+830 4667190 4330
+# Now we are not afraid #
+
+831 4671557 5088
+# Although we know
+there's much to fear #
+
+832 4676682 3222
+# We were moving mountains #
+
+833 4679940 6256
+# Long before
+we knew we could #
+
+834 4686233 3842
+# There can be miracles #
+
+835 4690112 3589
+# When you believe #
+
+836 4693737 3258
+# Though hope is frail #
+
+837 4697031 3221
+# It's hard to kill #
+
+838 4702004 4171
+# Who knows what miracles #
+
+839 4706211 3443
+# You can achieve #
+
+840 4709691 4310
+# When you believe #
+
+841 4714038 3805
+# Somehow you will #
+
+842 4717879 3770
+# You will when you #
+
+843 4721685 3133
+# Believe #
+
+844 4725986 3801
+# In this time of fear #
+
+845 4729823 3963
+# When prayers so often
+proved in vain #
+
+846 4733822 3926
+# Hope seemed like
+the summer birds #
+
+847 4737784 3806
+# Too swiftly flown away #
+
+848 4741627 4254
+- # Yet now I'm standing here #
+- # Now I'm standing here #
+
+849 4745918 4006
+# With heart so full
+I can't explain #
+
+850 4749960 3971
+# Seeking faith
+and speaking words #
+
+851 4753967 4403
+# I never thought I'd say #
+
+852 4758406 4205
+# There can be miracles #
+
+853 4762648 3795
+- # When you believe #
+- # When you believe #
+
+854 4766480 3264
+# Though hope is frail #
+
+855 4769780 4421
+- # It's hard to kill #
+- # It's hard to kill #
+
+856 4774238 3972
+# Who knows what miracles #
+
+857 4778247 4004
+- # You can achieve #
+- # You can achieve #
+
+858 4782287 4006
+# When you believe #
+
+859 4786330 3809
+# Somehow you will #
+
+860 4790175 3629
+# You will
+when you believe #
+
+861 4793841 4134
+# A-shi-ra I'A-don-ai #
+
+862 4798011 3014
+# Ki ga-oh ga-ah #
+
+863 4801061 3921
+# A-shi-ra I'A-don-ai #
+
+864 4805018 3264
+# Ki ga-oh ga-ah #
+
+865 4808319 5880
+# Mi-cha-mo-cha ba-elim
+Adonai #
+
+866 4814236 2504
+# Mi-ka-mo-cha #
+
+867 4816777 2433
+# Ne-dar ba-ko-desh #
+
+868 4819246 2669
+# Na-chi-tah v'- chas-d'- cha #
+
+869 4821952 2388
+# Am zu ga-al-ta #
+
+870 4824376 2127
+# Na-chi-tah v'- chas-d'- cha #
+
+871 4826540 3013
+# Am zu ga-al-ta #
+
+872 4829590 2799
+# A-shi-ra, a-shi-ra
+A- shi-ra #
+
+873 4832426 3441
+# A-shi-ra I'A-don-ai ki ga-oh ga-ah #
+
+874 4835903 3405
+# A-shi-ra I'A-don-ai
+ki ga-oh ga-ah #
+
+875 4839344 3631
+# Mi-cha-mo-cha ba-elim
+Adonai #
+
+876 4843012 3517
+# Mi-ka-mo-cha
+ne-dar ba-ko-desh #
+
+877 4846565 3337
+# Na-chi-tah v'- chas-d'- cha
+am zu ga-al-ta #
+
+878 4849938 3300
+# Na-chi-tah v'- chas-d'- cha
+am zu ga-al-ta. #
+
+879 4853275 2633
+# A-shi-ra, a-shi-ra #
+
+880 4855944 4182
+# A-shi-ra #
+
+881 4860162 4129
+# There can be miracles #
+
+882 4864328 3464
+# When you believe #
+
+883 4867828 3309
+# Though hope is frail #
+
+884 4871173 5005
+- # It's hard to kill #
+- # It's hard to kill #
+
+885 4876215 3555
+# Who knows what miracles #
+
+886 4879807 4212
+- # You can achieve #
+- # You can achieve #
+
+887 4884056 3651
+# When you believe #
+
+888 4887744 4039
+# Somehow you will #
+
+889 4891820 3841
+# Now you will #
+
+890 4895698 3175
+# You will when you #
+
+891 4898909 4630
+- # Believe #
+- # When you believe #
+
+892 4903575 4593
+- # You will when you #
+- # You will #
+
+893 4908205 4760
+# Believe ##
+
+894 5039800 2920
+With this staff,
+
+895 5042756 2505
+you shall do...
+
+896 5045297 2469
+My wonders!
+
+897 5125052 2169
+Leave it!
+
+898 5160879 1710
+Yeah, me too.
+
+899 5181358 3128
+Eeee-yaaaaah!
+
+900 5200461 3712
+Don't &ust stand there!
+Kill them!
+
+901 5204209 2508
+Kill them all!
+
+902 5208594 3712
+The soldiers! They're coming!
+
+903 5214475 2299
+Moses! Moses!
+
+904 5216810 2962
+- Hurry! Hurry! I got you.
+- Look! The shore!
+
+905 5244630 4129
+No!
+
+906 5339141 2002
+Thank you.
+
+907 5368670 4088
+Moses!
+
+908 5378013 4421
+Moses!
+
+909 5385646 1918
+Good-bye, brother.
+
+910 5397491 3462
+# A-shi-ra I'A-don-ai #
+
+911 5400989 2555
+# Ki ga-oh ga-ah #
+
+912 5403580 3838
+# A-shi-ra I'A-don-ai #
+
+913 5407454 1929
+# Ki ga-oh ga-ah #
+
+914 5409420 4587
+Look. Look at your people, Moses.
+
+915 5417803 2002
+They are free.
+
+916 5420889 3963
+# Na-chi-tah v'- chas-d'- cha #
+
+917 5424888 2984
+# Am zu ga-al-ta #
+
+918 5427909 2949
+# A-shi-ra, a-shi-ra #
+
+919 5430894 3968
+# A-shi-ra ##
+
+920 5483827 5589
+# Deliver us ##
+
+921 5498592 3759
+# Many nights we prayed #
+
+922 5502387 4046
+# With no proof
+anyone could hear #
+
+923 5506470 4009
+# In our hearts
+a hopeful song #
+
+924 5510515 4027
+# We barely understood #
+
+925 5514579 3830
+# Now we are not afraid #
+
+926 5518445 4254
+# Although we know
+there's much to fear #
+
+927 5522736 2680
+# We were moving mountains #
+
+928 5525452 7174
+# Long before
+we knew we could #
+
+929 5532663 2429
+# Ohhh-ohh, yes #
+
+930 5535129 3670
+# There can be miracles #
+
+931 5538835 3569
+# When you believe #
+
+932 5542440 4144
+# Though hope is frail #
+
+933 5546620 3946
+# It's hard to kill #
+
+934 5550602 3754
+# Who knows what miracles #
+
+935 5554393 3526
+# You can achieve #
+
+936 5557956 3997
+# When you believe #
+
+937 5561990 3502
+# Somehow you will #
+
+938 5565529 3467
+# You will when you #
+
+939 5569032 4223
+# Believe #
+
+940 5573292 3879
+- # Mmmm #
+- # Oooh, yeah #
+
+941 5577207 3347
+# In this time of fear #
+
+942 5580591 3983
+# When prayer so often
+proves in vain #
+
+943 5584610 3947
+# Hope seems like
+the summer birds #
+
+944 5588593 3902
+# Too swiftly flown away #
+
+945 5592532 3746
+# Yet now I'm standing here #
+
+946 5596315 3879
+# My heart's so full
+I can't explain #
+
+947 5600230 3842
+# Seeking faith
+and speaking words #
+
+948 5604109 6237
+# I never thought I'd say #
+
+949 5610383 6082
+# There can be miracles #
+
+950 5616502 3753
+- # When you believe #
+- # When you believe #
+
+951 5620292 3881
+# Though hope is frail #
+
+952 5624209 3737
+# It's hard to kill, mmm #
+
+953 5627983 3580
+# Who knows what miracles #
+
+954 5631600 3879
+- # You can achieve #
+- # You can achieve #
+
+955 5635515 3819
+# When you believe #
+
+956 5639370 3372
+# Somehow you will #
+
+957 5642779 3335
+# You will when you #
+
+958 5646151 5386
+# Believe #
+
+959 5660462 2711
+# They don't always happen #
+
+960 5663210 3216
+# When you ask #
+
+961 5666463 1804
+# Ah #
+
+962 5668303 3170
+# And it's easy to give in #
+
+963 5671510 2596
+# To your fears #
+
+964 5674142 1841
+- # Oooh #
+- # Ohhh #
+
+965 5676019 3551
+# But when you're blinded
+by your pain #
+
+966 5679606 3775
+# Can't see the way
+to get through the rain #
+
+967 5683417 3739
+- # Hold still #
+- # Reveal your voice #
+
+968 5687192 5266
+# Says help is very near
+Ohhh #
+
+969 5692494 3342
+- # There can be miracles #
+- # Miracles #
+
+970 5695873 4087
+- # When you believe #
+- # Ohh, when you believe, hey-ey-ey #
+
+971 5699996 2639
+- # Though hope is frail #
+- # Hope is frail #
+
+972 5702671 4630
+- # It's hard to kill #
+- # Hard to kill, oh, yeah #
+
+973 5707337 3764
+# Who knows what miracles #
+
+974 5711138 3420
+- # You can achieve #
+- # You can achieve #
+
+975 5714594 3264
+- # When you believe #
+- # Oooh-ooh-ooooh #
+
+976 5717895 4108
+- # Somehow you will #
+- # Somehow, somehow, somehow #
+
+977 5722039 4072
+- # And now you will #
+- # Now, now, now, ohhh-ohh-ohh #
+
+978 5726148 2554
+# You will when you #
+
+979 5728739 5464
+- # When you believe #
+- # Ohhh-ohh-ohh #
+
+980 5734239 2984
+# Ooooh, you will #
+
+981 5737260 2949
+# You will when you #
+
+982 5740245 4098
+# Believe #
+
+983 5744379 2315
+- # &ust believe #
+- # You will #
+
+984 5746731 2278
+- # Ohhh-ohh-ohh #
+- # You will #
+
+985 5749046 2763
+# And honey, honey, honey #
+
+986 5751845 4380
+- # &ust believe #
+- # You will when you #
+
+987 5756261 7221
+# Believe ##
+
+988 5766735 4671
+- # I will get through the night #
+- # Ohh, yeah #
+
+989 5771443 3008
+# And make it through
+to the other side #
+
+990 5774488 4681
+- # Get there #
+- # Get there #
+
+991 5779206 4504
+- # I been in these chains for so long #
+- # So long #
+
+992 5783747 2674
+# I'll break free
+and I'll be there #
+
+993 5786458 1595
+# Where I belong #
+
+994 5788090 1757
+# Hold my head up high #
+
+995 5789883 2211
+- # I'll stand tall #
+- # Stand tall #
+
+996 5792130 2388
+# And I swear this time #
+
+997 5794555 3023
+- # I won't fall #
+- # Get there #
+
+998 5797615 2987
+- # I will do this #
+- # Get there #
+
+999 5800639 3430
+# No matter what it takes #
+
+1000 5804106 4004
+# 'Cause I know no limitations #
+
+1001 5808146 3968
+# And I'll reach
+my destination #
+
+1002 5812150 2380
+# I will get there #
+
+1003 5814566 2277
+# I will get there. #
+
+1004 5816880 2121
+# I will get there #
+
+1005 5819037 2049
+# I will get there. #
+
+1006 5821123 2341
+- # Somehow #
+- # Somehow #
+
+1007 5823500 4380
+- # Cross that river #
+- # Cross that river #
+
+1008 5827916 4343
+- # Nothin's stoppin' me now #
+- # No-o-o-o-o #
+
+1009 5832295 3509
+# I will get through
+the night #
+
+1010 5835841 1089
+# You know #
+
+1011 5836972 2648
+# And make it through
+to the other side #
+
+1012 5839657 2612
+- # Get there, ooh, yeah #
+- # Get there #
+
+1013 5842305 2880
+- # Get there #
+- # Get there #
+
+1014 5845222 3633
+# Well, the night
+is cold and dark #
+
+1015 5848891 3862
+# But somewhere
+the sun is shining #
+
+1016 5852790 3827
+# And I'll feel it
+shine on me #
+
+1017 5856653 4194
+# I'll keep trying #
+
+1018 5860883 4159
+# I'll keep trying. #
+
+1019 5865078 2221
+# Oh, yeah #
+
+1020 5867336 4337
+- # I will get there #
+- # I will get there #
+
+1021 5871710 4301
+- # I will get there somehow #
+- # Somehow #
+
+1022 5876047 1596
+# Cross that river #
+
+1023 5877679 2591
+# I'll cross that river
+for you #
+
+1024 5880307 4504
+- # Nothin's stoppin' me now #
+- # Ohhhh-ahhh #
+
+1025 5884848 4348
+# I will get through
+the night #
+
+1026 5889233 3086
+# And make it through
+to the other side #
+
+1027 5892355 1429
+- # Get there #
+- # Get there #
+
+1028 5893820 3254
+- # Oooh, get there #
+- # Get there #
+
+1029 5897110 3217
+- # Ohhhh #
+- # I will get there #
+
+1030 5900363 1674
+# I will get there #
+
+1031 5902079 4343
+- # Nothin's stoppin' me now #
+- # No matter what #
+
+1032 5906458 4671
+- # I will get through the night #
+- # I'll get through the night #
+
+1033 5911166 3050
+# And make it through
+to the other side #
+
+1034 5914252 1763
+- # Get there #
+- # Get there #
+
+1035 5916051 3295
+- # Ooh, get there #
+- # Get there ##
+

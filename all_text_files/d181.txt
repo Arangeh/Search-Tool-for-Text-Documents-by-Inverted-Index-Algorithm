@@ -1,0 +1,3550 @@
+1 68152 1875
+[woman] You didn't wake me.
+
+2 71488 1584
+You were sleeping.
+
+3 73157 2209
+You can't bear
+to have breakfast with me.
+
+4 75451 3168
+I've boiled you an egg. See?
+I'd hardly have boiled you an egg
+
+5 78704 3753
+if I didn't want to see you.
+Um, tea or coffee?
+
+6 82541 2043
+Does any woman
+ever stay long enough
+
+7 84668 3544
+to find out what the hell
+goes on in your head?
+
+8 88839 2084
+What are you doing tonight?
+
+9 91008 1917
+I'm seeing my daughter.
+
+10 93010 3669
+Your daughter?
+You've kept very quiet about her.
+
+11 96764 2126
+Have I?
+
+12 98974 3377
+Well, she's been abroad for a year.
+
+13 103937 2001
+Did you say tea?
+
+14 106356 1376
+I'm going.
+
+15 110694 1918
+Have fun with your daughter.
+
+16 113280 2293
+[door shuts]
+
+17 123373 3086
+[train approaching]
+
+18 133050 2460
+[brakes squealing]
+
+19 142810 1500
+[woman speaks German]
+
+20 144394 1751
+[woman] Tickets, please.
+
+21 148398 2544
+Tickets. Excuse me.
+
+22 155697 1543
+Tickets.
+
+23 161203 1417
+Tickets, please.
+
+24 172840 3002
+[panting]
+
+25 180931 2335
+[gagging]
+
+26 195070 2835
+[thunder rumbles]
+
+27 199408 2918
+[vomiting]
+
+28 221305 2001
+[woman] Oh!
+
+29 223390 2376
+Hey. Hey, you!
+
+30 231106 2627
+[faucet turning on]
+
+31 253128 2418
+Your feet. Your feet.
+
+32 263513 2001
+[boy sobbing]
+
+33 274399 1668
+Hey, kid.
+
+34 277819 1084
+Up.
+
+35 281615 1751
+It's all right.
+
+36 292876 3336
+There. Where do you live?
+
+37 301510 4086
+It's just up here.
+I'll be fine now. Thank you.
+
+38 307432 1251
+Goodbye.
+
+39 317818 1500
+Look after yourself.
+
+40 325325 3836
+I'm worried about him.
+He looks terrible.
+
+41 329246 2418
+The boy's saying
+he doesn't need a doctor.
+
+42 331748 1918
+- He does.
+- I don't need a doctor.
+
+43 333750 2293
+- Good, then.
+- Peter.
+
+44 336128 3377
+We're not going to argue about this.
+
+45 340799 3211
+Remind me.
+How old are you, now?
+
+46 344094 1667
+[mother] Michael's 15.
+
+47 345846 2835
+- [doctor] It's scarlet fever.
+- [sighs]
+
+48 348765 2919
+[doctor] He'll be in bed
+for several months, at least.
+
+49 351768 2543
+Complete isolation.
+
+50 354396 3210
+Emily, keep away. He's contagious.
+
+51 359609 1668
+Emily!
+
+52 377836 2126
+[mother] How are you feeling?
+
+53 380922 1584
+Better.
+
+54 383925 1334
+I meant to tell you...
+
+55 386136 2001
+...the day I got ill, a woman helped me.
+
+56 388221 1835
+She helped you?
+
+57 390140 2418
+Yes. She brought me home.
+
+58 393643 1251
+Do you have her address?
+
+59 397481 3043
+- [banging]
+- [indistinct chatter]
+
+60 406364 2669
+[men shouting in German]
+
+61 424466 3044
+[woman singing in German on record]
+
+62 431181 3044
+- [Michael] Hello?
+- [woman] Yes?
+
+63 449950 2418
+[music continues]
+
+64 459960 3335
+I brought you these flowers
+to say thank you.
+
+65 463380 2209
+Put them over there in the sink.
+
+66 486528 3127
+I would have come earlier,
+I've been in bed three months.
+
+67 489739 4212
+- You are better now?
+- Yes. Thank you.
+
+68 494035 5463
+- Have you always been weak?
+- Oh, no. I've never been sick before.
+
+69 499583 4211
+It's incredibly boring.
+There's nothing to do.
+
+70 504296 1917
+I couldn't even be bothered to read.
+
+71 511094 2251
+Well, thank you again.
+
+72 514931 2085
+Wait.
+
+73 517100 2293
+I'll walk with you.
+I have to go to work.
+
+74 523273 2418
+Wait in the hall while I change.
+
+75 539372 2293
+[coin clatters on floor]
+
+76 580997 3753
+[men chattering outside]
+
+77 613530 3502
+[women chattering]
+
+78 625875 2377
+[woman shouts in German]
+
+79 638930 1959
+[man grunts]
+
+80 649649 1417
+[Michael gasps]
+
+81 672213 3628
+[footsteps approaching]
+
+82 694444 2084
+There are two more buckets downstairs.
+
+83 696613 2334
+You can fill them and bring them up.
+
+84 713880 3544
+[Michael coughing]
+
+85 717509 1792
+[laughs]
+
+86 723723 2502
+[woman laughing]
+
+87 726309 3169
+You look ridiculous.
+Look at you, kid.
+
+88 730647 1792
+[laughs]
+
+89 732524 2334
+You can't go home like that.
+
+90 738780 3544
+Take off your clothes.
+I'll run you a bath.
+
+91 745120 3210
+[water running]
+
+92 763054 2794
+Do you always take
+a bath in your trousers?
+
+93 777777 1334
+[clears throat]
+
+94 779195 2460
+It's all right. I won't look.
+
+95 848556 1626
+I'll get you a towel.
+
+96 909409 1876
+[moans]
+
+97 911369 2627
+[whispers] So that's
+why you came back.
+
+98 931514 2126
+[whispers] You're so beautiful.
+
+99 935351 2502
+[whispers] What are you talking about?
+
+100 947196 2043
+Look at me, kid.
+
+101 951200 1751
+Mm! Mm!
+
+102 953036 2084
+Slowly.
+
+103 955204 2210
+Slowly...
+
+104 957498 1793
+Shh.
+
+105 960877 1917
+[silverware clattering]
+
+106 962879 2793
+[blows, slurps]
+
+107 969552 2418
+[clock ticking]
+
+108 972055 1834
+[panting, moaning]
+
+109 977143 1959
+[moaning]
+
+110 984150 3085
+[panting]
+
+111 994535 1960
+You've inconvenienced your mother.
+
+112 996579 4045
+How many more times?
+I've said I'm sorry.
+
+113 1000708 2210
+- You scared her.
+- I got lost, that's all.
+
+114 1003002 2335
+That's why I was late.
+Can I have some more?
+
+115 1005421 2418
+How can anyone get lost
+in their own hometown?
+
+116 1007924 3002
+I meant to head for the castle,
+I ended up at the field.
+
+117 1011010 1959
+- Opposite directions.
+- None of your business.
+
+118 1013054 3794
+- He's lying.
+- He's not lying.
+
+119 1016933 1667
+Michael never lies.
+
+120 1022271 2585
+I've decided I want
+to go back to school tomorrow.
+
+121 1024941 3210
+- The doctor says you need three weeks.
+- Well, I'm going.
+
+122 1028236 2501
+[mother] Peter?
+
+123 1035284 1000
+[sighs]
+
+124 1036369 3586
+[children shouting]
+
+125 1043292 2419
+- Hey!
+- Ooh!
+
+126 1072155 3252
+- [grunts]
+- Like this?
+
+127 1075491 2001
+That's right.
+
+128 1079120 1876
+[moans]
+
+129 1082123 2543
+No, not so fast.
+
+130 1095094 1668
+Ah!
+
+131 1099515 2543
+It's all right.
+
+132 1102143 1959
+Do it again.
+
+133 1106689 2293
+Mm...
+
+134 1110443 1542
+Oh!
+
+135 1127043 2835
+What's your name?
+
+136 1129962 2794
+- What?
+- Your name.
+
+137 1132840 5213
+- Why do you want to know?
+- I've been here three times.
+
+138 1138137 4879
+I want to know your name.
+What's wrong with that?
+
+139 1143100 2127
+[laughs] Nothing, kid.
+
+140 1145311 3044
+There's nothing wrong with that.
+
+141 1148439 2919
+- It's Hanna.
+- You look so suspicious.
+
+142 1154403 3211
+- What's yours, kid?
+- Michael.
+
+143 1157698 3461
+Michael. Hmm.
+
+144 1161244 2251
+So I'm with a Michael.
+
+145 1165289 1543
+Hanna.
+
+146 1166916 4921
+[teacher] The notion of secrecy
+is central to Western literature.
+
+147 1173130 3378
+You may say the whole idea of character
+
+148 1176592 3253
+is defined by people
+
+149 1179929 2752
+holding specific information,
+
+150 1182765 2668
+which, for various reasons,
+
+151 1185518 3878
+sometimes perverse,
+sometimes noble,
+
+152 1189480 3419
+they are determined not to disclose.
+
+153 1200783 2543
+[laughs]
+
+154 1205496 3753
+[Hanna] You never tell me
+what you've been studying.
+
+155 1209333 1668
+Studying?
+
+156 1212628 1834
+At school.
+
+157 1217800 4170
+- Do you learn languages?
+- Yes.
+
+158 1223139 3836
+- What languages?
+- Latin.
+
+159 1230897 4003
+- Say something in Latin.
+- [laughing]
+
+160 1234984 2293
+[speaking Latin]
+
+161 1240781 2293
+It's Horace.
+
+162 1243159 2376
+It's wonderful.
+
+163 1246787 1876
+Do you want some Greek?
+
+164 1261719 3586
+[reading in Greek]
+
+165 1267516 2377
+It's beautiful.
+
+166 1269977 2502
+How can you tell?
+
+167 1272563 3378
+How do you know,
+when you've no idea what it means?
+
+168 1279362 2001
+What are you studying in German?
+
+169 1281447 1334
+I'm studying a play.
+
+170 1285242 3294
+By a writer called Gotthold
+Ephraim Lessing. You heard of him?
+
+171 1288621 4587
+The play's called Emilia Galotti.
+You can read it.
+
+172 1293292 2585
+I'd rather listen to you.
+
+173 1295962 1750
+All right.
+
+174 1307598 2377
+"Act One. Scene One.
+
+175 1310059 3210
+The setting:
+one of the prince's chambers.
+
+176 1313354 2543
+The Prince..."
+
+177 1315982 2668
+I'm not very good.
+
+178 1318734 1334
+Go on.
+
+179 1322029 3878
+"Complaints, nothing but complaints.
+
+180 1325992 4962
+For goodness sake,
+is there anything left but work?
+
+181 1331038 3252
+Just imagine that
+people actually envy us."
+
+182 1336085 2251
+You're good at it, aren't you?
+
+183 1340673 2251
+Good at what?
+
+184 1346345 1376
+Reading.
+
+185 1352059 1376
+What's funny?
+
+186 1356063 1918
+I didn't think I was good at anything.
+
+187 1358065 3503
+[boys shouting]
+
+188 1363779 2460
+[whistling, clapping]
+
+189 1370745 1709
+Whoo!
+
+190 1378127 2168
+[bell clangs]
+
+191 1425633 2585
+[footsteps approaching]
+
+192 1446028 3127
+What are you doing?
+What is this?
+
+193 1449240 2209
+Why did you behave
+as if you didn't know me?
+
+194 1451534 3961
+You didn't want to know me! You could
+see I was in the first carriage!
+
+195 1455579 3419
+- So why did you sit in the second?
+- What did you think I was doing?
+
+196 1459083 2626
+- Why did you think I was there?
+- How should I know?
+
+197 1461794 3711
+Now, I've been working.
+I need a bath.
+
+198 1465589 2293
+And I'd like to be by myself.
+
+199 1467967 1584
+Would you please leave?!
+
+200 1474390 2960
+I... I didn't mean to upset you.
+
+201 1479603 3253
+You don't have the power to upset me.
+
+202 1482940 2126
+You don't matter enough to upset me.
+
+203 1489822 2752
+[gas heater turns on,
+water runs]
+
+204 1519268 2293
+[sniffling]
+
+205 1562728 2001
+I don't know what to say.
+
+206 1567107 2210
+I've never been with a woman before.
+
+207 1573447 2877
+We've been together four weeks,
+
+208 1576408 2502
+and I can't live without you.
+
+209 1578994 2377
+I can't.
+
+210 1581455 2251
+Even the thought of it kills me.
+
+211 1589838 3378
+I sat in the second carriage
+because I thought you might kiss me.
+
+212 1594635 2918
+Kid, you thought
+we could make love in a tram?
+
+213 1603352 2543
+Is it true what you said?
+
+214 1605980 1792
+That I don't matter to you?
+
+215 1621120 2126
+Do you forgive me?
+
+216 1629211 1334
+Do you love me?
+
+217 1648397 4128
+- Do you have a book?
+- Yes, I have.
+
+218 1652609 1793
+I took one with me this morning.
+
+219 1656071 3211
+- What is it?
+- The Odyssey, by Homer.
+
+220 1659366 1834
+It's my homework.
+
+221 1664038 2418
+We're changing the order we do things.
+
+222 1666540 3836
+Read to me first, kid.
+Then we make love.
+
+223 1675966 3878
+- [Michael] The Odyssey, by Homer.
+- What's an odyssey?
+
+224 1679928 1835
+A journey.
+He sets out on a journey.
+
+225 1682765 1000
+[Hanna] Good.
+
+226 1688145 3836
+"Sing to me of the man, Muse
+The man of twists and turns
+
+227 1692066 3252
+Driven time and again off course
+Once he had plundered
+
+228 1695402 2961
+- The hallowed heights of Troy"
+- Come here.
+
+229 1705871 2502
+[Michael] "He pressed
+her hand to his lips.
+
+230 1709500 2543
+She was dead.
+
+231 1712127 3378
+- Past all help, or need of it."
+- [sobbing]
+
+232 1721428 1668
+[panting]
+
+233 1723180 3669
+[Michael] "I poked into the place a
+ways, encountered a little open patch
+
+234 1726934 3461
+as big as a bedroom,
+all hung around with vines,
+
+235 1730479 1918
+and found a man lying there asleep.
+
+236 1732481 4337
+And, by jings, it was my old Jim.
+
+237 1736902 3461
+'When you landed,
+I reckoned I could catch up with you
+
+238 1740447 3795
+on the land without having to shout
+at you. But when I see that house,
+
+239 1744326 1751
+I begin to go slow."' [laughs]
+
+240 1746161 4754
+"Lady Chatterley
+felt his naked flesh against her
+
+241 1750999 3211
+as he came into her.
+
+242 1754294 2252
+For a moment,
+he was still inside her..."
+
+243 1756630 2001
+This is disgusting.
+
+244 1760175 2210
+Where did you get this?
+
+245 1762469 2835
+- I borrowed it from someone at school.
+- Oh...
+
+246 1765389 1834
+You should be ashamed.
+
+247 1770769 1626
+Go on.
+
+248 1772479 1000
+[blows raspberry]
+
+249 1773564 4044
+"'Billions of bilious blue blistering
+barnacles in a thundering typhoon!
+
+250 1777693 3586
+It is water!' 'But what on earth
+did you expect it to be?"'
+
+251 1781363 4253
+- Whiskey.
+- "'Whiskey, by thunder, whiskey!'
+
+252 1785701 3419
+'Whiskey? Come now, captain,
+you can't be serious."'
+
+253 1789204 3127
+That's enough for today, kid.
+
+254 1792416 3753
+I was wondering, do you think
+you could get some time off?
+
+255 1796253 2543
+Maybe we could go on a trip.
+
+256 1798881 3168
+- What sort of trip?
+- A cycling holiday.
+
+257 1802134 1959
+Just two days.
+
+258 1808265 2835
+I've got a guide book.
+I've worked out the route.
+
+259 1811185 3585
+Look. What do you think?
+
+260 1818233 2418
+I think you like planning, don't you?
+
+261 1824698 2502
+[sighing]
+
+262 1836919 2751
+[Michael] "I'm not frightened.
+
+263 1839755 1917
+I'm not frightened of anything.
+
+264 1843550 4879
+The more I suffer, the more I love.
+
+265 1848514 2751
+Danger will only increase my love.
+
+266 1851350 3502
+It will sharpen it.
+It will give it spice.
+
+267 1856688 1709
+I'll be the only angel you need.
+
+268 1859399 3878
+You will leave life even more beautiful
+than you entered it.
+
+269 1863362 3669
+Heaven will take you back
+and look at you and say,
+
+270 1867115 5839
+'Only one thing can make a soul
+complete, and that thing is love."'
+
+271 1880128 2502
+[laughing]
+
+272 1899147 2127
+- Hello.
+- Hello.
+
+273 1905153 2794
+[boys laughing]
+
+274 1908031 2126
+- [woman] Excuse me.
+- Hello.
+
+275 1911243 2084
+Do you know what you'd like?
+
+276 1915914 3002
+- Um...
+- What are you having?
+
+277 1919001 3877
+- You order. I'll have what you have.
+- OK.
+
+278 1922963 1626
+Um...
+
+279 1924673 4921
+Two frankfurters, two potato salads
+and two beers, please.
+
+280 1929678 3085
+[boys laughing]
+
+281 1936810 1000
+[sighs]
+
+282 1938854 1876
+- Thank you.
+- Thank you.
+
+283 1940814 3294
+- I hope your mother was happy.
+- Thank you.
+
+284 1944192 2168
+She enjoyed her meal very much.
+
+285 1961877 1500
+Come on.
+
+286 1967549 3544
+[laughing, shouting]
+
+287 1979686 3795
+Here, let me show you
+where we're going.
+
+288 1983565 2794
+It's OK, kid.
+
+289 1986443 2585
+I don't want to know.
+
+290 2001166 3753
+[choir singing]
+
+291 2024606 4212
+[choir continues singing]
+
+292 2093925 1334
+[choir stops singing]
+
+293 2099306 3878
+- What are you doing?
+- I'm writing a poem. About you.
+
+294 2106229 2877
+- Can I hear it?
+- It's not ready.
+
+295 2110108 1542
+I'll read it to you one day.
+
+296 2137010 3503
+[bicycle bells ringing]
+
+297 2154528 3877
+[choral music plays in car]
+
+298 2176424 2961
+[music continues]
+
+299 2182430 1501
+[shuts off music]
+
+300 2188186 2460
+- Morning, Hendrick.
+- Good morning, Mr. Berg.
+
+301 2190730 2293
+- You're in court 306.
+- Thank you.
+
+302 2193108 1834
+- You all right, Michael?
+- I'm fine.
+
+303 2195026 3002
+- Hurry. You know what she's like.
+- [Michael] See you later!
+
+304 2198113 1667
+Good luck.
+
+305 2201366 1918
+[man] Please stand.
+
+306 2207747 1876
+Please sit down.
+
+307 2213587 2626
+[woman] The defendant, please.
+
+308 2216298 5129
+- [indistinct chatter]
+- [whistling]
+
+309 2227142 1292
+They're coming.
+
+310 2233732 3669
+- Hello.
+- Hello.
+
+311 2237485 2752
+- What did she say?
+- [teacher] Good morning, ladies.
+
+312 2240322 4128
+Welcome your new fellow-students.
+Treat them with courtesy.
+
+313 2244534 2710
+- Sit down.
+- Hello.
+
+314 2248663 3253
+- My name's Sophie.
+- I'm Michael.
+
+315 2252000 1918
+[teacher] The Odyssey.
+
+316 2254002 1834
+Take our your books.
+
+317 2259049 2918
+Everyone believes
+Homer's subject is homecoming.
+
+318 2262052 3002
+In fact, The Odyssey
+is a book about a journey.
+
+319 2265138 2794
+Home is a place you dream of.
+
+320 2268016 4086
+Berg, I don't mean to distract you, but
+we're meant to study Homer, not Sophie.
+
+321 2272187 3502
+- [laughter]
+- [shouting]
+
+322 2281112 2335
+- It's wonderful, isn't it?
+- Wonderful.
+
+323 2283531 1501
+It's gonna be a great summer.
+
+324 2299172 2835
+- Why do you leave early?
+- He always leaves early.
+
+325 2302092 3252
+- Do you have somewhere to go?
+- See you tomorrow.
+
+326 2313812 2084
+[Michael] Sorry I'm late.
+
+327 2317983 1959
+I got held up at school.
+
+328 2321945 1709
+I have a new book.
+
+329 2323738 3169
+The Lady with a Little Dog.
+
+330 2329536 1250
+By Anton Chekhov.
+
+331 2330870 3294
+"The talk was that a new face
+had appeared on the promenade,
+
+332 2334249 2168
+a lady with a little dog."
+
+333 2349097 2501
+[man] Schmitz, one moment, please.
+
+334 2352976 4170
+I read the reports on you.
+Every single one. Excellent work.
+
+335 2357230 2585
+You'll be working in the office.
+
+336 2359899 3378
+You got promoted. Congratulations.
+
+337 2370452 3961
+- [boy] Yee-haw!
+- Ah! [laughs]
+
+338 2374497 2210
+[boy] Let's get out of here!
+
+339 2376791 3294
+Come on! Michael, we're leaving.
+Let's go!
+
+340 2380170 1125
+Come on, Michael!
+
+341 2381379 3044
+It's meant to be a surprise
+for your birthday.
+
+342 2387969 2210
+- [boy] Come on!
+- [boy 2] What's the matter?
+
+343 2390263 3127
+- I'm sorry. Really.
+- [Sophie] We thought you'd like it.
+
+344 2393475 2209
+[boy] We've got beer!
+We're gonna dance!
+
+345 2396644 1126
+I promised someone.
+
+346 2398897 2001
+[girl] Michael, please!
+
+347 2405987 3669
+[Michael] "Here and there the reflection
+of the stars and the lights,
+
+348 2409741 2376
+on the bank quivered and trembled."
+
+349 2412202 2710
+- [Hanna] Oh, kid, kid.
+- What?
+
+350 2414996 2877
+- Stop.
+- What's wrong now?
+
+351 2417957 2544
+Nothing's wrong.
+
+352 2423046 1792
+It's nothing.
+
+353 2426925 3419
+You know, you never ask.
+
+354 2431012 2960
+You never bother to ask how I am!
+
+355 2434057 1667
+[Hanna] You never say.
+
+356 2437018 1834
+It just happens to be my birthday.
+
+357 2440688 2752
+It's my birthday, that's all!
+
+358 2443525 1875
+You've never
+even asked when it is.
+
+359 2445485 2668
+- If you want a fight, kid...
+- I don't want a fight!
+
+360 2448238 3586
+- What's wrong with you?!
+- What business is it of yours?!
+
+361 2451908 3377
+It's always on your terms.
+Everything.
+
+362 2455370 2710
+We do what you want.
+It's always what you want.
+
+363 2458164 2794
+- My friends were giving me a party.
+- Why are you here?
+
+364 2461042 3669
+Go back to your party.
+Is that what you want?
+
+365 2467048 2168
+Mm! Mm!
+
+366 2490363 1959
+It's always me
+that has to apologize.
+
+367 2492407 4295
+You don't have to apologize.
+No one has to apologize.
+
+368 2505420 1709
+War and Peace, kid.
+
+369 2584999 4254
+[panting]
+
+370 2612527 2209
+Now, you must go
+back to your friends.
+
+371 2620785 2752
+[chanting]
+
+372 2630920 1000
+Are you all right?
+
+373 2657363 3378
+[indistinct chatter]
+
+374 2723096 1333
+It's him.
+
+375 2728351 2168
+Good.
+
+376 2730603 2293
+Get the boy something to eat.
+
+377 2741906 3586
+[father] I think we all knew you'd
+come back to us eventually.
+
+378 2814562 3169
+Mr. Berg? It is 8:00.
+
+379 2817815 1751
+Your daughter.
+
+380 2822236 2085
+Thank you.
+
+381 2824405 41
+[indistinct chatter]
+
+382 2824447 2460
+[indistinct chatter]
+
+383 2826991 1834
+Julia.
+
+384 2828910 1917
+[laughing]
+
+385 2830912 3085
+- I've not kept you waiting?
+- I was early.
+
+386 2834081 2210
+Welcome back. [laughs]
+
+387 2839045 3127
+So how will you decide?
+
+388 2842256 2794
+I don't know.
+
+389 2845134 1876
+I'm happy back in Berlin, I suppose.
+
+390 2847094 2168
+- You've seen your mother?
+- Mm-hmm.
+
+391 2849347 2626
+I wanted to get away. That's all.
+
+392 2852058 2418
+It was Paris,
+but it could have been anywhere.
+
+393 2854560 2460
+Away from your parents?
+
+394 2858898 2418
+I'm aware I was difficult.
+
+395 2863152 1834
+I wasn't always open with you.
+
+396 2868533 2292
+I'm not open with anyone.
+
+397 2877333 1584
+I knew you were distant.
+
+398 2880795 4920
+You know...
+I always assumed it was my fault.
+
+399 2886801 2752
+Julia.
+
+400 2889637 1751
+How wrong can you be?
+
+401 2891472 1709
+[sobbing]
+
+402 2903150 2877
+- [Julia] I'll see you very soon.
+- [Michael] See you soon.
+
+403 2908781 2543
+- [Julia] Good night, Dad.
+- [Michael] Good night.
+
+404 2919083 2627
+[woman] Those of you
+for the special seminar group,
+
+405 2921794 1292
+please stay on in this room.
+
+406 2923087 833
+please stay on in this room.
+
+407 2924005 2751
+Professor Rohl will
+be here in a moment.
+
+408 2957413 4879
+Well, we seem
+to be quite a small group.
+
+409 2962376 3711
+A small group and a select one.
+
+410 2966172 3294
+Clearly, this is going
+to be a unique seminar.
+
+411 2969550 4545
+We are going to start
+with a reading list, gentlemen.
+
+412 2974180 2501
+Karl Jaspers...
+
+413 2976766 4295
+- And ladies.
+- ...The Question of German Guilt.
+
+414 2981145 3920
+[♪ Creation: Making Time]
+
+415 2997620 3002
+[girl] So this is where you are.
+
+416 3000706 1542
+Yes.
+
+417 3004043 1459
+Come in.
+
+418 3007588 3753
+- You take work seriously.
+- I don't know.
+
+419 3011425 2418
+You're rather a serious boy.
+
+420 3013928 2084
+It's how I was brought up.
+
+421 3017598 3086
+What about you? Are you serious?
+
+422 3023562 2460
+You're sure you want to work tonight?
+
+423 3027566 1167
+Yeah.
+
+424 3030444 1668
+But I won't work every night.
+
+425 3033280 1543
+See you tomorrow.
+
+426 3040788 3127
+- Yes. Exactly
+- That's right.
+
+427 3048713 1834
+You need a hand.
+
+428 3051382 3002
+[crowd shouting]
+
+429 3058389 2710
+[siren wailing]
+
+430 3073487 1834
+[crowd chanting]
+
+431 3075406 4170
+- Why all the police?
+- They're worried about demonstrators.
+
+432 3079660 2835
+- For or against?
+- Both.
+
+433 3087960 1501
+[girl] Wow. It's a circus.
+
+434 3092715 1917
+[man] All rise.
+
+435 3097219 2377
+All photographers
+are now asked to leave.
+
+436 3101015 2793
+This court is now in session.
+Please sit down.
+
+437 3107313 2501
+[judge] First thing I'm going to do
+is hear motions
+
+438 3109899 2209
+from each of the defendants' lawyers.
+
+439 3112193 3794
+They're arguing that there's
+no reason to keep the defendants in jail
+
+440 3116071 2711
+until the outcome
+of the forthcoming trial.
+
+441 3118866 2627
+- I'll take these cases one by one.
+- Want a pen?
+
+442 3121577 3294
+- I got a pen.
+- [judge] Hanna Schmitz.
+
+443 3126540 3753
+- Your name is Hanna Schmitz?
+- [Hanna] Yes.
+
+444 3130377 2377
+[judge] Can you speak louder please?
+
+445 3132838 3044
+- [Hanna] My name is Hanna Schmitz.
+- [judge] Thank you.
+
+446 3135966 5839
+- You were born on October 21st, 1922?
+- [Hanna] Yes.
+
+447 3141889 1792
+[judge] At Hermannstadt.
+
+448 3143766 4336
+- And you're now 43 years old?
+- [Hanna] Yes.
+
+449 3148187 5087
+- [judge] You joined the SS in 1943?
+- Yes.
+
+450 3153359 2543
+[judge] What was your
+reason for joining?
+
+451 3157613 3127
+You were working
+at the Siemens factory at the time?
+
+452 3160825 1083
+Yes.
+
+453 3161992 2585
+[judge] You'd recently
+been offered a promotion.
+
+454 3164662 1834
+Why did you prefer to join the SS?
+
+455 3166580 3253
+- Objection.
+- [judge] I'll re-phrase my question.
+
+456 3169917 2585
+I'm trying to ascertain
+
+457 3172586 3086
+if she joined the SS freely, hmm?
+
+458 3175756 1417
+Of her own free will.
+
+459 3178759 3586
+- I heard there were jobs.
+- [judge] Go on.
+
+460 3182429 2794
+[Hanna] I was working at Siemens
+
+461 3185307 3253
+when I heard the SS was recruiting.
+
+462 3188644 3878
+[judge] Did you know the kind of work
+you'd be expected to do?
+
+463 3192606 3586
+They were looking for guards.
+
+464 3196277 4253
+- I applied for a job.
+- [judge] You worked first at Auschwitz?
+
+465 3200614 3253
+- [Hanna] Yes.
+- [judge] Until 1944.
+
+466 3203951 4587
+Then you were moved to
+a smaller camp near Kraków?
+
+467 3208622 1584
+- [Hanna] Yes.
+- Are you OK?
+
+468 3210291 2751
+- [judge] You helped move prisoners...
+- I'm fine.
+
+469 3213127 3461
+...west in the winter of 1944
+in the so-called death marches?
+
+470 3237818 3711
+- So, what did you think?
+- I don't know.
+
+471 3242781 1960
+It wasn't quite what I was expecting.
+
+472 3244825 4253
+Wasn't it? In what way?
+What were you expecting?
+
+473 3249163 2334
+I thought it was exciting.
+
+474 3251582 2501
+[Rohl] Exciting? Why?
+
+475 3254168 2418
+Why did you think it was exciting?
+
+476 3256670 1751
+Because it's justice.
+
+477 3265137 3753
+- [shouting]
+- [glass breaking]
+
+478 3277858 2960
+[inaudible]
+
+479 3287660 5504
+Societies think they operate
+by something called morality,
+
+480 3293248 1501
+but they don't.
+
+481 3294833 4337
+They operate by something called law.
+
+482 3299254 5630
+You're not guilty of anything
+merely by working at Auschwitz.
+
+483 3304969 3252
+Eight thousand people
+worked at Auschwitz.
+
+484 3308305 5505
+Precisely 19 have been convicted,
+and only six for murder.
+
+485 3313894 4921
+To prove murder,
+you have to prove intent.
+
+486 3318899 1834
+That's the law.
+
+487 3320818 3711
+The question is never was it wrong,
+
+488 3324613 2877
+but was it legal.
+
+489 3327574 4754
+And not by our laws, no.
+
+490 3332413 4086
+- By the laws at the time.
+- But isn't that...
+
+491 3336583 2502
+- [Rohl] What?
+- ...narrow?
+
+492 3339169 3878
+Oh, yes. The law is narrow.
+
+493 3344049 2126
+On the other hand,
+
+494 3346260 3461
+I suspect people who kill other people
+
+495 3349805 3628
+tend to be aware that it's wrong.
+
+496 3354518 750
+[judge] Miss Schmitz,
+you're familiar with this book?
+
+497 3355269 3669
+[judge] Miss Schmitz,
+you're familiar with this book?
+
+498 3361066 2251
+- Yes.
+- Parts of it
+
+499 3363402 2460
+have already been
+read out in court.
+
+500 3365946 2585
+It's by a survivor,
+
+501 3368615 1918
+a prisoner who survived.
+
+502 3370617 2710
+Ilana Mather.
+
+503 3373412 2627
+She was in the camp
+when she was a child, wasn't she?
+
+504 3376123 2710
+- She was with her mother.
+- [Hanna] Yes.
+
+505 3378917 4295
+[judge] In the book,
+she describes a selection process.
+
+506 3383297 3043
+At the end of the month's labor,
+every month,
+
+507 3386425 3044
+sixty inmates were selected.
+
+508 3389553 3503
+Picked out to be sent from
+the satellite camp back to Auschwitz.
+
+509 3393140 1918
+That's right, isn't it?
+
+510 3396435 2209
+Yes, that's right.
+
+511 3398729 3377
+[judge] And, so far,
+each of your fellow defendants
+
+512 3402191 2793
+has specifically denied
+being part of that process.
+
+513 3405069 3961
+Now, I'm going to ask you.
+
+514 3409114 1376
+Were you part of it?
+
+515 3412993 1042
+Yes.
+
+516 3415329 2209
+[murmuring]
+
+517 3417623 3586
+So you helped make the selection?
+
+518 3421293 3002
+- Yes.
+- [judge] You admit that?
+
+519 3429760 3169
+Then tell me,
+
+520 3433013 2418
+how did that selection happen?
+
+521 3435516 2668
+[Hanna] There were six guards,
+
+522 3438268 4629
+so we decided we'd
+choose ten people each.
+
+523 3444483 2627
+That's how we did it every month.
+
+524 3447194 2251
+We'd all choose ten.
+
+525 3449530 2710
+Your fellow defendants
+took part in the process?
+
+526 3452324 2752
+We all did.
+
+527 3455160 2627
+[judge] Even though they've denied it?
+
+528 3457871 3753
+Saying "we," "we all"
+is easier than saying "I," "I alone,"
+
+529 3461708 1668
+isn't it, Miss Schmitz?
+
+530 3465045 3002
+Did you not realize
+
+531 3468132 2835
+that you were sending
+these women to their deaths?
+
+532 3471051 3628
+But they were new arrivals,
+new women were arriving all the time.
+
+533 3474763 4712
+So... the old ones had to make room
+for the new ones.
+
+534 3479560 1083
+[gasping]
+
+535 3480727 3503
+- I'm not sure you understand...
+- We couldn't keep everyone.
+
+536 3484314 2418
+- There wasn't room.
+- [judge] No.
+
+537 3486817 2918
+But what I'm saying...
+
+538 3489820 2752
+Let me rephrase.
+
+539 3492656 2835
+To make room, you were
+picking women out and saying,
+
+540 3495576 4587
+"You, you and you have
+to be sent back to be killed."
+
+541 3500247 2460
+Well, what would you have done?
+
+542 3513260 2460
+Should I never
+have signed up at Siemens?
+
+543 3528192 3585
+[man] Ms. Mather,
+they're ready for you now.
+
+544 3534198 2584
+Go, go. Go, go, go.
+
+545 3548253 2710
+- Where's Michael?
+- I don't know.
+
+546 3552299 4587
+[judge] In your book, you describe
+the process of selection.
+
+547 3556970 1584
+[Ilana] Yes.
+
+548 3558639 3919
+You were made to work and then,
+when you were no longer any use to them,
+
+549 3562643 3419
+then they sent you back
+to Auschwitz to be killed.
+
+550 3566146 2877
+[judge] Are there people here
+who made that selection?
+
+551 3569107 1835
+[Ilana] Yes.
+
+552 3571026 5463
+[judge] I need you to identify them.
+Can you please point them out?
+
+553 3589169 1709
+Her.
+
+554 3594383 1375
+And her.
+
+555 3598303 1459
+Her.
+
+556 3602140 2001
+And her.
+
+557 3606144 1918
+Her.
+
+558 3610232 1625
+And her.
+
+559 3613485 2877
+[judge] Thank you. Please continue.
+
+560 3616446 3545
+Each of the guards would choose
+a certain number of women.
+
+561 3620075 2168
+Hanna Schmitz chose differently.
+
+562 3622327 2543
+[judge] In what way differently?
+
+563 3629459 2252
+She had favorites.
+
+564 3633338 1751
+Girls, mostly young.
+
+565 3635173 2794
+We all remarked on it.
+
+566 3638051 3211
+She gave them food
+and places to sleep.
+
+567 3641346 4587
+In the evening,
+she... she asked them to join her.
+
+568 3646018 1583
+And we all thought...
+
+569 3647686 3002
+Well, you can imagine
+what we thought.
+
+570 3650772 5630
+And then we found out she was making
+these women read aloud to her.
+
+571 3659072 2168
+They were reading to her.
+
+572 3662451 4545
+At first, we thought this guard,
+this guard is...
+
+573 3667080 4796
+...more sensitive,
+she's more human, she's kinder.
+
+574 3672753 3419
+Often, she chose the weak, the sick.
+
+575 3677883 3335
+She picked them out.
+She seemed to be protecting them almost.
+
+576 3681303 2585
+But then she dispatched them.
+
+577 3686850 2084
+Is that kinder?
+
+578 3697778 3127
+[judge] I want to
+move on now to the march.
+
+579 3700989 4045
+As I understand it, you and your
+daughter were marched for many months.
+
+580 3705118 4170
+[Mrs. Mather] In the winter of 1944,
+our camp was closed down.
+
+581 3709373 5004
+We were told we had to move on.
+But the plan kept changing every day.
+
+582 3714461 3753
+Women were dying
+all around us in the snow.
+
+583 3718298 4587
+Half of us died on the march.
+My daughter says in the book,
+
+584 3722969 3294
+"Less a death march,
+more a death gallop."
+
+585 3727933 4086
+[judge] Please tell us about
+the night in the church.
+
+586 3739820 4670
+That night, we thought we were lucky
+because we had a roof over our heads.
+
+587 3744574 2836
+[judge] Go on.
+
+588 3747494 3085
+We'd arrived in a village.
+
+589 3750664 4462
+As always, the guards took the best
+quarters. They took the priest's house.
+
+590 3755210 3461
+But they let us sleep in a church.
+
+591 3758755 3503
+There was a bombing raid
+in the middle of the night.
+
+592 3762342 2168
+The church was hit.
+
+593 3766179 3711
+At first, we could only hear the fire.
+It was in the steeple.
+
+594 3771852 2876
+Then we could see burning beams...
+
+595 3776356 2543
+...and they began to crash to the floor.
+
+596 3781445 2251
+Everyone rushed...
+
+597 3785657 2418
+...rushed to the doors.
+
+598 3790245 3711
+But the doors had been
+locked on the outside.
+
+599 3794040 4337
+[judge] The church burned down?
+Nobody came to open the doors?
+
+600 3798462 2918
+Is that right?
+
+601 3801465 1959
+[Mrs. Mather] Nobody.
+
+602 3803508 3211
+[judge] Even though you
+were all burning to death?
+
+603 3809890 2042
+How many people were killed?
+
+604 3812017 3043
+Everyone was killed.
+
+605 3817606 1834
+[judge] But you survived?
+
+606 3827324 1709
+Thank you.
+
+607 3831077 3753
+I want to thank you
+for coming to this country
+
+608 3834915 2167
+today to testify.
+
+609 3841254 4254
+I don't know. I don't know
+what we're doing here anymore.
+
+610 3845592 2335
+Don't you?
+
+611 3848011 1918
+You tell us to think like lawyers,
+
+612 3850013 4045
+but there's something...
+disgusting about this.
+
+613 3854142 2377
+- How so?
+- This didn't happen to the Germans.
+
+614 3856603 2168
+It happened to the Jews.
+
+615 3859564 3378
+- What are we trying to do?
+- We're trying to understand.
+
+616 3863026 3002
+Six women locked 300 Jews in a church
+and let them burn.
+
+617 3866112 2210
+What is there to understand?
+
+618 3870951 3502
+Tell me! I'm asking!
+What is there to understand?
+
+619 3877666 3210
+I started out believing in this trial.
+I thought it was great.
+
+620 3880961 3335
+Now, I think it's...
+it's just a diversion.
+
+621 3884381 2835
+Yes? Diversion from what?
+
+622 3887300 3002
+You choose six women,
+you put them on trial,
+
+623 3890387 3252
+you say, "They were the evil ones,
+they were the guilty ones."
+
+624 3893723 2502
+One of the victims
+happened to write a book.
+
+625 3896309 3086
+That's why they're on trial
+and nobody else!
+
+626 3899479 3252
+Do you know how many camps
+there were in Europe?
+
+627 3902816 2418
+People go on about
+how much did everyone know?
+
+628 3905318 3878
+Who knew? What did they know?
+Everyone knew!
+
+629 3909281 4628
+Our parents, our teachers.
+That isn't the question!
+
+630 3913994 2084
+The question is,
+"How'd you let this happen?"
+
+631 3916162 3128
+Better, "Why didn't you
+kill yourself when you found out?"
+
+632 3922127 3335
+Thousands. That's how many.
+There were thousands of camps.
+
+633 3925547 1917
+Everyone knew.
+
+634 3936016 1333
+Look at that woman.
+
+635 3939311 3544
+- Which woman?
+- The woman you're always staring at.
+
+636 3942939 1459
+I'm sorry, but you are.
+
+637 3953533 1793
+I don't know which woman you mean.
+
+638 3956828 1834
+You know what I'd do?
+
+639 3961082 3711
+Put the gun in my hand,
+I'd shoot her myself.
+
+640 3968131 1876
+Shoot them all!
+
+641 4145600 2293
+[judge] Why did you
+not unlock the doors?
+
+642 4150063 40
+Why did you not unlock the doors?
+
+643 4150104 2627
+Why did you not unlock the doors?
+
+644 4155860 3086
+I've asked all of you,
+and I'm getting no answer.
+
+645 4160073 3419
+Two of the victims are in this court.
+They deserve an answer.
+
+646 4167497 2793
+This is the SS report.
+You all have copies.
+
+647 4171751 3586
+The report which was written,
+approved and signed by all of you
+
+648 4175421 3545
+immediately after the event.
+In the written report,
+
+649 4179050 4712
+you all claim you didn't even know
+about the fire until after it happened.
+
+650 4183847 2292
+But that isn't true, is it?
+
+651 4187392 1542
+Well?
+
+652 4190436 1167
+It's not true.
+
+653 4195984 3752
+- I don't know what you're asking.
+- The first thing I'm asking
+
+654 4199821 3794
+- is why didn't you unlock the doors?
+- Obviously.
+
+655 4203700 2001
+For the obvious reason.
+
+656 4206870 2126
+- We couldn't.
+- Why couldn't you?
+
+657 4209080 2835
+We were guards.
+
+658 4212000 3502
+Our job was to guard the prisoners.
+
+659 4215587 2293
+We couldn't just let them escape.
+
+660 4217964 3252
+I see. And if they escaped,
+then you'd be blamed,
+
+661 4221301 2418
+you'd be charged,
+you might even be executed?
+
+662 4223803 2085
+- [Hanna] No!
+- Well, then?
+
+663 4225972 3252
+If we'd opened the doors,
+there would have been chaos.
+
+664 4229309 2751
+How could we have restored order?
+
+665 4232145 3127
+It happened so fast.
+It was snowing. The bombs.
+
+666 4235356 3169
+The flames... There were flames
+all over the village.
+
+667 4238610 3127
+Then the screaming began,
+and got worse and worse.
+
+668 4241821 3419
+If they'd all come rushing out,
+we couldn't just let them escape.
+
+669 4245325 4169
+We couldn't.
+We were responsible for them!
+
+670 4252707 4045
+So you did know what was happening?
+You did know? You made a choice.
+
+671 4256836 2710
+You let them die,
+
+672 4259631 2668
+rather than risk letting them escape.
+
+673 4265011 3586
+The other defendants have made
+an allegation against you.
+
+674 4268681 1751
+Have you heard this allegation?
+
+675 4271684 3086
+They say you were in charge.
+
+676 4274854 3002
+It isn't true.
+I was... I was just one of the guards.
+
+677 4277941 2459
+- She was in charge.
+- [woman] She was!
+
+678 4280485 2460
+- Of course she was.
+- Did you write the report?
+
+679 4283029 4795
+No. No. We all discussed what to say.
+We all wrote it together.
+
+680 4287909 2251
+She wrote the report.
+She was in charge.
+
+681 4290244 1376
+- [judge] Is that true?
+- No.
+
+682 4291704 1751
+- Yes, you did!
+- Does it matter?
+
+683 4293539 2127
+- She wrote it.
+- [judge] I need a sample
+
+684 4295750 4128
+- of your handwriting.
+- My...
+
+685 4299963 2334
+- My handwriting?
+- Yes. I need to establish
+
+686 4302382 3168
+- who wrote the report.
+- I don't see how that's appropriate.
+
+687 4305635 3169
+- 20 years have gone by.
+- Take her paper. Approach the bench.
+
+688 4308888 3503
+- Compare handwriting of 20 years...?
+- [judge] Approach the bench.
+
+689 4317563 2335
+[judge] I will not be overruled
+in my own court.
+
+690 4319983 2209
+[counsel] I'm sorry...
+
+691 4329742 1793
+I'd rather listen to you.
+
+692 4351431 2001
+There's no need.
+
+693 4357270 1917
+I wrote the report.
+
+694 4359272 2960
+[murmuring]
+
+695 4373161 2376
+[judge] Silence, please.
+
+696 4376831 1125
+Order!
+
+697 4390553 2627
+You've been skipping seminars.
+
+698 4416496 2668
+I have a piece of information.
+
+699 4419248 2877
+Concerning one of the defendants.
+
+700 4422210 3002
+- Something they're not admitting.
+- What information?
+
+701 4434138 1876
+You don't need me to tell you.
+
+702 4436099 5087
+It's perfectly clear. You have a moral
+obligation to disclose it to the court.
+
+703 4441270 3753
+It happens this information
+is favorable to the defendant.
+
+704 4445108 2334
+It can help her case.
+
+705 4447527 3752
+It may even affect the outcome,
+certainly the sentencing.
+
+706 4451364 4420
+- So?
+- There's a problem.
+
+707 4455868 4003
+The defendant herself is determined
+to keep this information secret.
+
+708 4459956 2459
+[laughing]
+
+709 4463668 2126
+- [Rohl] A moment, please.
+- Sorry.
+
+710 4474053 2335
+What are her reasons?
+
+711 4478808 2126
+Because she's ashamed.
+
+712 4482061 2335
+Ashamed of what?
+
+713 4489777 3753
+- Have you spoken to her?
+- Of course not.
+
+714 4493614 3378
+Why "of course not?"
+
+715 4497076 1501
+I can't.
+
+716 4500121 2710
+I can't do that.
+
+717 4502915 1876
+I can't talk to her.
+
+718 4504876 4962
+What we feel isn't important.
+It's utterly unimportant.
+
+719 4509922 2377
+The only question is what we do.
+
+720 4514427 4545
+If people like you don't learn
+from what happened to people like me,
+
+721 4519056 3294
+then what the hell
+is the point of anything?
+
+722 4530443 2585
+Schmitz?
+
+723 4533112 2210
+You have a visitor.
+
+724 4536616 3085
+[children shouting]
+
+725 4539785 2293
+[laughing]
+
+726 4548169 2334
+[guard] Quiet, please!
+
+727 4550588 3127
+Gertrud Ballow.
+
+728 4555343 2835
+Andreas Michael Springer.
+
+729 4561307 1834
+Michael Berg.
+
+730 4566520 2460
+Walter Sherman.
+
+731 4663242 1751
+[guard] Time's up.
+
+732 4684430 1751
+[girl] Are you coming in?
+
+733 4696233 2001
+[girl] You took your time.
+
+734 4710414 3753
+[panting]
+
+735 4720633 1167
+What is it?
+
+736 4744031 2919
+Where are you going?
+
+737 4747034 2543
+I'm sorry.
+
+738 4749662 1876
+I need to sleep by myself.
+
+739 4790077 2001
+[door unlocks]
+
+740 4797376 1834
+I'll just be a minute.
+
+741 4804425 2501
+[siren wailing]
+
+742 4815478 1542
+[crowd chanting]
+
+743 4828866 1917
+- Nazi!
+- Nazi whore!
+
+744 4830868 2835
+- [shouting]
+- Nazi!
+
+745 4842338 4336
+[man] Silence in the court.
+Silence in the court.
+
+746 4846759 2001
+All rise.
+
+747 4855100 2919
+[judge] The court
+finds guilty the defendants
+
+748 4858103 2669
+Rita Beckhart, Caroline Steinhoff,
+
+749 4860856 2460
+Regina Kroit, Angela Zeva
+
+750 4863400 2252
+and Andrea Lumen
+
+751 4865736 4921
+of jointly aiding and abetting murder
+in 300 cases.
+
+752 4870741 2835
+The court finds guilty the defendant
+
+753 4873661 4670
+Hanna Schmitz of murder in 300 cases.
+
+754 4880834 1710
+[murmuring]
+
+755 4882628 3085
+The court sentences
+the accused as follows:
+
+756 4885798 3085
+Rita Beckhart, Caroline Steinhoff,
+
+757 4888968 4753
+Regina Kroit, Angela Zeva
+and Andrea Lumen
+
+758 4893806 5337
+to each serve a total sentence in prison
+of four years and three months.
+
+759 4899228 2293
+Hanna Schmitz,
+
+760 4901605 3711
+in view of your own admissions
+and your special role,
+
+761 4905401 3002
+you're in a different category.
+
+762 4908487 5213
+The court sentences the accused,
+Schmitz, to imprisonment for life.
+
+763 4913784 1626
+[murmuring]
+
+764 4946567 1917
+Where are we going?
+
+765 4948569 2918
+I said I'll tell you when we get there.
+
+766 4951572 4628
+- You told me you liked surprises.
+- I like surprises.
+
+767 4973969 2210
+[Michael] She's grown, hasn't she?
+
+768 4977931 3795
+I don't know. It's so long since
+I saw her, Michael. How can I tell?
+
+769 4983979 4295
+It's my fault.
+We shouldn't have come unannounced.
+
+770 4988359 3168
+[Julia] Daddy's going to live
+in his own house.
+
+771 4994698 3211
+Mother, I'm afraid
+I have some bad news.
+
+772 4997993 3002
+Julia knows.
+We've already told her.
+
+773 5001080 2167
+Gertrud and I,
+we are getting a divorce.
+
+774 5003332 4045
+You don't come for your father's
+funeral, but you come for this?
+
+775 5009797 2042
+It's not easy
+for me to visit this town.
+
+776 5011924 3127
+- Were you really so unhappy?
+- That's not what I'm saying.
+
+777 5015135 2460
+- It's not what I meant.
+- Well, then?
+
+778 5019973 4337
+You mustn't worry about Gertrud.
+I'm going to look after her.
+
+779 5024395 4295
+She's already a state prosecutor,
+so she earns far more than I do.
+
+780 5028774 1626
+[mother] Michael...
+
+781 5032111 2918
+...I'm not worried about Gertrud.
+
+782 5035114 1625
+I'm worried about you.
+
+783 5080909 4754
+"Sing to me of the Man, Muse
+
+784 5085748 4962
+The man of twists and turns
+Driven time and again off course
+
+785 5090794 4587
+Once he had plundered
+the hallowed heights of Troy"
+
+786 5117780 4878
+- [door unlocking]
+- [guard] 215, mail.
+
+787 5124203 3002
+217, mail.
+
+788 5128999 3002
+220, mail.
+
+789 5132085 2961
+[indistinct chatter]
+
+790 5143222 2876
+1219. 66215.
+
+791 5146183 1667
+Number?
+
+792 5149436 1751
+Open it.
+
+793 5167704 4212
+Testing, testing.
+One, two, three. Testing, testing.
+
+794 5187266 2376
+[static on tape]
+
+795 5191436 2252
+[Michael on tape] The Odyssey by Homer.
+
+796 5207202 2752
+The Odyssey by Homer.
+
+797 5210873 2793
+"Sing to me of the Man, Muse
+
+798 5213750 3044
+The man of twists and turns
+
+799 5216879 2960
+Driven time and again off course
+
+800 5219923 4003
+Once he had plundered
+the hallowed heights of Troy..."
+
+801 5224011 3586
+"...to the house of death.
+But they held fast in place,
+
+802 5227681 2084
+hoping that others might still come.
+
+803 5229850 3419
+Shades of famous heroes,
+men who died in the old days
+
+804 5233353 3586
+and ghosts of an even older age,
+I long to see."
+
+805 5237024 4044
+"Come, sheathe your sword,
+let's go to bed together.
+
+806 5241153 3419
+Mount my bed and mix
+in the magic work of love.
+
+807 5244656 2585
+We'll breed deep trust between us."
+
+808 5249328 4420
+"Not for all the world, not until
+you consent to swear, goddess,
+
+809 5253832 5088
+a blinding oath you'll never
+plot some new intrigue to harm me."
+
+810 5259004 3753
+"Straightaway, she began
+to swear the oath that I required.
+
+811 5262841 2085
+Never, she would never do me harm.
+
+812 5265010 2418
+And when she'd finished then, at last,
+
+813 5267512 3586
+I mounted Circes' gorgeous bed."
+
+814 5272351 3836
+"When young Dawn, with her
+rose-red fingers shone once more,
+
+815 5276271 1751
+they yoked their pair again,
+
+816 5278106 2627
+and out through the gates
+and echoing colonnade,
+
+817 5280817 3169
+they whipped the team
+to a run and on they flew,
+
+818 5284071 4545
+holding nothing back, and the princes
+reached the wheatlands..."
+
+819 5288700 3127
+"...those purebred stallions...
+
+820 5291912 2877
+...as the sun sank..."
+
+821 5294873 2418
+"...is my beginning."
+
+822 5297376 3711
+"Truly, and I have to confess,
+I am jealous.
+
+823 5301171 2293
+It's true, till now..."
+
+824 5303548 3420
+"Perfectly astonishing.
+I've always said it was all tricks,
+
+825 5307052 2084
+but he went to
+sleep under my very eyes."
+
+826 5309221 3043
+"He lifted a large newspaper
+from the table
+
+827 5312349 3127
+and began stamping his feet
+and flourishing the newspaper
+
+828 5315560 3628
+to drive Gregor back into his room."
+"Zhivago... even a cake,
+
+829 5319272 3837
+rather like a Baba au Rhum
+known as a Zhivago bun.
+
+830 5323193 3252
+At one time you only had to say
+to your sleigh driver in Moscow,
+
+831 5326530 2626
+'Zhivago's.' And,
+rather as if you had said..."
+
+832 5329241 3711
+[overlapping dialogue]
+
+833 5334997 958
+"The Lady with the Little Dog
+by Anton Chekhov."
+
+834 5335956 3252
+"The Lady with the Little Dog
+by Anton Chekhov."
+
+835 5340919 3878
+"The talk was that a new face
+had appeared on the promenade,
+
+836 5344881 2585
+a lady with a little dog.
+
+837 5347551 3294
+Dmitri Dmitritch Gurov
+had already spent two weeks in Yalta,
+
+838 5350929 3586
+so he was bored with it
+and always looking for fresh faces."
+
+839 5354599 2794
+Sitting in the pavilion at Vernet,
+
+840 5357477 2710
+he saw a young woman
+walking on the seafront.
+
+841 5360272 3836
+A fair-haired young lady
+of medium height, wearing a beret..."
+
+842 5364192 2335
+[voice trails off]
+
+843 5374745 1625
+I want to take out a book.
+
+844 5378290 1125
+Which book?
+
+845 5389384 2210
+Do you have
+The Lady with the Little Dog?
+
+846 5392888 1750
+What's your name?
+
+847 5397768 1417
+Hanna Schmitz.
+
+848 5429925 2585
+[Michael on tape]
+The Lady with the Little Dog.
+
+849 5434429 2377
+The Lady with the Little Dog.
+
+850 5436890 2418
+[muttering]
+
+851 5439392 1626
+...Dog.
+
+852 5450695 3253
+One, two, three, four, five, six.
+
+853 5454032 3086
+The Lady with the Little Dog.
+
+854 5457202 1667
+The...
+
+855 5462958 1375
+The.
+
+856 5465710 2836
+The. The. The.
+
+857 5469381 1375
+The.
+
+858 5477264 1000
+The.
+
+859 5544039 3586
+- No letter?
+- No letter. Sign.
+
+860 5635797 4003
+- [woman on phone] You're Michael Berg?
+- Yes.
+
+861 5639884 4546
+Thank you for calling me.
+You got my letter?
+
+862 5644514 1542
+I have it here.
+
+863 5646141 3919
+As I say, Hanna Schmitz
+is coming up for release very soon.
+
+864 5650145 4044
+Hanna has been in prison
+for over 20 years.
+
+865 5654274 1042
+She has no family.
+
+866 5655400 2877
+She has no friends.
+
+867 5658361 2460
+You're her only contact.
+
+868 5660905 3253
+And I'm told you don't visit her.
+
+869 5664242 1709
+No, I don't.
+
+870 5666036 2334
+When she gets out,
+she's going to need a job.
+
+871 5668455 2376
+She's going to need somewhere to live.
+
+872 5670915 4295
+You can't imagine how frightening
+the modern world will seem to her.
+
+873 5678631 1084
+Mm-hmm.
+
+874 5683428 1584
+I have no one else to ask.
+
+875 5686389 2877
+If you don't take
+responsibility for her,
+
+876 5689351 2626
+then Hanna has no future at all.
+
+877 5695398 2168
+It's kind of you.
+
+878 5697650 2293
+Thank you for letting me know.
+
+879 5743822 1667
+- You're Michael Berg?
+- Yes.
+
+880 5745573 1960
+I'm Louisa Brenner. Good morning.
+
+881 5747617 3419
+- How do you do?
+- We were expecting you earlier.
+
+882 5751121 4086
+I should warn you, for a long time
+Hanna held herself together.
+
+883 5755291 4003
+She was very purposeful. In the
+last few years, she's different.
+
+884 5759379 2209
+She's let herself go.
+
+885 5764634 3044
+I'm taking you straight to the canteen.
+
+886 5769013 2168
+They've just finished their lunch.
+
+887 5783194 2001
+[Brenner] Table four.
+
+888 5830700 2335
+You've grown up, kid.
+
+889 5847383 2001
+I've got a friend who's a tailor.
+
+890 5852555 1376
+He'll give you a job.
+
+891 5855934 3335
+And I've found you somewhere to live.
+It's a nice place.
+
+892 5859354 1584
+Quite small, but it's nice.
+
+893 5862524 2418
+- You'll like it.
+- Thank you.
+
+894 5866778 5045
+There are various social programs,
+cultural stuff I can sign you up for.
+
+895 5871908 2710
+And the public library is very close.
+
+896 5881084 1292
+You read a lot?
+
+897 5885296 2669
+I prefer being read to.
+
+898 5892595 1876
+That's over now, isn't it?
+
+899 5904148 2085
+Did you get married?
+
+900 5906317 3086
+I did. Yes, I did.
+
+901 5909487 2085
+We have a daughter.
+
+902 5911656 3419
+I'm not seeing as much of her
+as I'd like.
+
+903 5915159 2502
+I'd like to see
+a great deal more of her.
+
+904 5919914 2085
+The marriage didn't last.
+
+905 5937432 2459
+Have you spent time
+thinking about the past?
+
+906 5939976 3794
+- You mean with you?
+- No.
+
+907 5943855 3711
+No, I didn't mean with me.
+
+908 5957035 3752
+Before the trial,
+I never thought about the past.
+
+909 5960872 2168
+I never had to.
+
+910 5963124 2251
+Now?
+
+911 5966669 1417
+What do you feel now?
+
+912 5969839 2335
+It doesn't matter what I feel.
+
+913 5973176 2126
+It doesn't matter what I think.
+
+914 5977388 1834
+The dead are still dead.
+
+915 5986731 1918
+I wasn't sure what you'd learned.
+
+916 5988733 3836
+Well, I have learned, kid.
+
+917 5992654 2418
+I've learned to read.
+
+918 6008920 1625
+I'll pick you up next week, OK?
+
+919 6019931 1959
+That sounds a good plan.
+
+920 6024560 3628
+We can do it quietly,
+or we can make a fuss.
+
+921 6028272 1876
+Quietly.
+
+922 6032151 2252
+OK. Quietly.
+
+923 6037115 1875
+Quietly.
+
+924 6047625 4003
+- Take care, kid.
+- You, too. See you next week.
+
+925 6180091 1917
+[buzzing]
+
+926 6184345 2502
+I've come to collect Hanna Schmitz.
+
+927 6190768 3252
+Please. Please, take a seat.
+
+928 6219297 2626
+[Brenner] She didn't pack.
+
+929 6222008 2293
+She never intended to leave.
+
+930 6230057 3461
+[Michael] "The talk was that a new face
+
+931 6233603 3585
+had appeared on the promenade,
+
+932 6237273 2710
+a lady with a little dog."
+
+933 6246991 1709
+[Brenner] She left me a message.
+
+934 6250620 1875
+A sort of will.
+
+935 6254582 2918
+I'll read the bit that concerns you.
+
+936 6265301 2960
+"There is money in the old tea tin.
+
+937 6268346 2751
+Give it to Michael Berg.
+
+938 6271182 4670
+He should send it,
+alongside the 7,000 Marks in the bank,
+
+939 6275937 3794
+to the daughter who survived the fire.
+
+940 6279815 2127
+It's for her.
+
+941 6282026 3044
+She should decide what to do with it.
+
+942 6288574 2835
+And tell Michael I said hello."
+
+943 6298542 4462
+[sobbing]
+
+944 6333911 3377
+[horns honking]
+
+945 6369697 2376
+- Ms. Mather?
+- Yes.
+
+946 6372783 2085
+- You're Michael Berg.
+- Yes.
+
+947 6374952 1918
+I was expecting you.
+
+948 6378247 3669
+- Please.
+- Thank you.
+
+949 6382001 4462
+So you must tell me, exactly what
+brings you to the United States?
+
+950 6386547 3085
+I was here already.
+I was at a conference in Boston.
+
+951 6389717 1292
+- You're a lawyer?
+- Yes.
+
+952 6391093 5046
+I was intrigued by your letter,
+but I can't say I wholly understood it.
+
+953 6396223 4003
+- You attended the trial?
+- Yes. Almost 20 years ago.
+
+954 6400311 5838
+I was a law student. I remember you.
+I remember your mother very clearly.
+
+955 6406233 3837
+My mother died in Israel
+a good many years ago.
+
+956 6410154 3419
+I... I'm sorry.
+
+957 6413657 1918
+Go on, please.
+
+958 6417453 1876
+Perhaps you heard.
+
+959 6419413 4796
+Hanna Schmitz recently died.
+She killed herself.
+
+960 6425544 1459
+She was a friend of yours?
+
+961 6428506 1458
+A kind of friend.
+
+962 6431509 2001
+It's as simple as this.
+
+963 6433594 4337
+Hanna was illiterate
+for the greater part of her life.
+
+964 6438015 3169
+Is that an explanation
+of her behavior?
+
+965 6442895 2251
+- No.
+- Or an excuse?
+
+966 6445231 2126
+No. No.
+
+967 6450402 3712
+She taught herself to read
+when she was in prison.
+
+968 6454198 2668
+I sent her tapes.
+
+969 6459495 3878
+She had always liked...
+being read to.
+
+970 6470214 2752
+Why don't you start
+by being honest with me?
+
+971 6473050 3044
+At least start that way.
+
+972 6476178 2627
+What was the nature
+of your friendship?
+
+973 6483727 2836
+When I was young,
+I had an affair with Hanna.
+
+974 6492486 1876
+I'm not sure I can help you, Mr. Berg.
+
+975 6494446 2168
+And...
+
+976 6496699 2126
+...even if I could,
+I'm not willing to.
+
+977 6498909 2627
+I was almost 16
+when I took up with her.
+
+978 6501620 3253
+The affair only lasted a summer.
+But...
+
+979 6506417 2168
+But what?
+
+980 6514425 1709
+I see.
+
+981 6518345 4754
+And did Hanna Schmitz acknowledge
+the effect she'd had on your life?
+
+982 6524852 3336
+She'd done much worse
+to other people.
+
+983 6533152 1709
+I've never told anyone.
+
+984 6539200 3293
+People ask all the time
+what I learned in the camps.
+
+985 6542578 2710
+But the camps weren't therapy.
+
+986 6547416 2710
+What do you think these places were,
+universities?
+
+987 6551795 2585
+We didn't go there to learn.
+
+988 6554465 4044
+One becomes very clear
+about these things.
+
+989 6561972 2669
+What are you asking for?
+Forgiveness for her?
+
+990 6564725 2752
+Or do you just want
+to feel better yourself?
+
+991 6567561 3836
+My advice? Go to the theater
+if you want catharsis. Please.
+
+992 6571482 1876
+Go to literature.
+
+993 6573442 3211
+Don't go to the camps.
+
+994 6578197 2460
+Nothing comes out of the camps.
+
+995 6583160 2043
+Nothing.
+
+996 6598509 1834
+What she wanted...
+
+997 6601262 4420
+What she wanted was
+to leave you her money.
+
+998 6605766 2835
+- I have it with me.
+- To do what?
+
+999 6610688 1750
+As you think fit.
+
+1000 6623450 1584
+Here.
+
+1001 6633585 4796
+When I was a little girl,
+I had a tea tin for my treasures.
+
+1002 6638465 4295
+Not quite like this.
+It had Cyrillic lettering.
+
+1003 6645639 3252
+I took it with me to the camp,
+but it got stolen.
+
+1004 6648976 3502
+- What was in it?
+- Sentimental things.
+
+1005 6652563 4086
+A piece of hair from our dog.
+Some tickets to the operas
+
+1006 6656734 3919
+my father had taken me to.
+It wasn't stolen for its contents.
+
+1007 6660738 3877
+It was the tin itself
+
+1008 6664700 2627
+that was valuable,
+
+1009 6667411 1667
+what you could do with it.
+
+1010 6677254 2919
+There's nothing
+I can do with this money.
+
+1011 6680257 3419
+I give it to anything associated
+with extermination of Jews,
+
+1012 6683761 2585
+then to me it seems...
+
+1013 6686430 3336
+...like absolution, and that's
+something I'm neither willing
+
+1014 6689850 3711
+- nor in a position to grant.
+- I was thinking maybe
+
+1015 6693645 3878
+an organization to encourage literacy.
+
+1016 6701362 2501
+Good. Good.
+
+1017 6703947 2877
+Do you know if there
+is a Jewish organization?
+
+1018 6706909 1750
+I'd be surprised if there isn't.
+
+1019 6708744 3628
+There's a Jewish organization
+for everything.
+
+1020 6712456 3085
+Not that illiteracy
+is a very Jewish problem.
+
+1021 6717378 3252
+Why don't you find out?
+Send them the money.
+
+1022 6736855 1960
+Shall I do it in Hanna's name?
+
+1023 6740818 1500
+As you think fit.
+
+1024 6747616 1793
+I'll keep the tin.
+
+1025 6754331 1667
+Thank you.
+
+1026 6806550 1250
+[choral music plays]
+
+1027 6807885 4753
+- Where are we going?
+- I thought you liked surprises.
+
+1028 6812723 3127
+I do. I do like surprises.
+
+1029 6880123 2794
+[Julia] Hanna Schmitz.
+
+1030 6887256 1083
+Who was she?
+
+1031 6890884 2418
+That's what I wanted to tell you.
+
+1032 6895472 2126
+That's why we're here.
+
+1033 6905774 1584
+So tell me.
+
+1034 6919079 2418
+[Michael] I was 15.
+
+1035 6924084 2543
+I was coming home from school.
+
+1036 6928672 1834
+I was feeling ill.
+
+1037 6931842 3000
+And a woman helped me.
+

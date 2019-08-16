@@ -1,0 +1,4427 @@
+1 278600 1900
+Go inside.
+
+2 282400 2100
+Hurry up.
+
+3 284700 1800
+This way.
+
+4 292400 1600
+Hurry up.
+
+5 305900 2500
+Yeah, this'll do.
+Which one are you gonna have?
+
+6 308600 2000
+- l...
+- No, that's mine.
+
+7 310800 2100
+Alllz hup!
+
+8 347800 2200
+How far are the trees, Danny?
+
+9 351200 2200
+Over 200 feet.
+
+10 353600 1700
+Yeah, l'd say 300.
+
+11 355400 2100
+Long ways to dig.
+
+12 357600 3800
+We'll get Cavendish to make a survey.
+l wish Big X were here.
+
+13 362300 4200
+Willie, you think X got away?
+He'd have sent us word
+somehow if he had.
+
+14 366600 3200
+- Gestapo, you think?
+- Either that or he's dead.
+
+15 385400 1900
+- Group Captain Ramsey?
+- Yes.
+
+16 387500 4000
+l am Hauptfeldwebel Strachwitz.
+Will you accompany me, please?
+
+17 391700 2900
+- l'll look after your gear, sir.
+- Right.
+
+18 406000 2000
+Gruppenkommandeur Ramsey.
+
+19 408900 2200
+Good morning, Group Captain.
+
+20 411600 4700
+l'm Captain Posen, Von Luger's adjutant.
+Since you're senior British officer,
+
+21 416400 3800
+you are to be liaison between
+the prisoners and the colonel.
+
+22 421200 5100
+He wishes to make clear to you
+certain matters of...
+the word is ''policy''?
+
+23 426400 1200
+Yes.
+
+24 427800 1800
+Thank you.
+
+25 442800 2000
+Gruppenkommandeur Ramsey.
+
+26 445900 2800
+l am Colonel Von Luger. Please sit down.
+
+27 457000 3100
+Group Captain Ramsey,
+in the past four years
+
+28 460200 3100
+the Reich has been forced to spend
+an enormous amount of time,
+
+29 463400 5600
+energy, manpower and equipment
+hunting down escaping
+prisoner-of-war officers.
+
+30 469200 2900
+At least it's rather nice
+to know you're wanted, isn't it?
+
+31 472200 4900
+For us it's not a matter for levity.
+There will be no escapes from this camp.
+
+32 477200 4000
+Colonel Von Luger, it is the sworn duty
+of all officers to try to escape.
+
+33 481300 2300
+lf they can't, it is their duty
+to cause the enemy
+
+34 483700 2800
+to use an inordinate number
+of troops to guard them
+
+35 486600 5700
+and their sworn duty to harass
+the enemy to the best of their ability.
+Yes, l know.
+
+36 492500 3600
+The men under your authority
+have been most successful.
+
+37 496300 2700
+This man, Ashley-Pitt, for example.
+
+38 499200 3700
+Caught in the North Sea, escaped,
+recaptured, escaped, recaptured.
+
+39 503100 3600
+Archibald ''Archie'' lves:
+1 1 escape attempts.
+
+40 506800 3200
+Even tried to jump
+out of the truck coming here.
+
+41 510000 2100
+Dickes, William.
+
+42 512200 3000
+Known to have participated
+in digging of 1 1 escape tunnels.
+
+43 515400 4800
+Flight Lieutenant Willinski: four escapes.
+MacDonald: nine.
+Hendley, the American: five.
+
+44 520400 3900
+Haynes: four. Sedgwick: seven.
+The list is almost endless.
+
+45 524400 3700
+One man here has made
+1 7 attempted escapes.
+
+46 528200 5200
+Group Captain, this is close to insanity.
+- Quite.
+- And it must stop!
+
+47 533500 3400
+Colonel, do you expect officers
+to forget their duty?
+
+48 540000 1900
+No.
+
+49 542400 4100
+lt is because we expect the opposite
+that we have brought you here.
+
+50 547600 1900
+This is a new camp.
+
+51 550100 3100
+lt has been built
+to hold you and your men.
+
+52 553400 4500
+lt is organised to incorporate all
+we have learned of security measures.
+
+53 558000 4000
+And in me, you will not be
+dealing with a common jailer,
+
+54 562100 5000
+but with a staff officer
+personally selected for the task
+by the Luftwaffe high command.
+
+55 568800 4200
+We have in effect put
+all our rotten eggs in one basket,
+
+56 573200 3000
+and we intend to watch
+this basket carefully.
+
+57 577000 1300
+Very wise.
+
+58 582000 3200
+You will not be denied the usual facilities.
+
+59 585300 4300
+Sports, a library, a recreation hall,
+
+60 590500 3000
+and for gardening we will give you tools.
+
+61 593600 2700
+We trust you to use them for gardening.
+
+62 596400 2800
+Devote your energies to these things.
+
+63 599300 2800
+Give up your hopeless
+attempts to escape.
+
+64 602600 2500
+And, with intelligent cooperation,
+
+65 605900 2300
+we may all sit out the war
+
+66 609800 2400
+as comfortably as possible.
+
+67 628800 3100
+- What do you do here by the truck?
+- l'm stealing tools.
+
+68 632100 3300
+- For stealing tools, cooler.
+- l was only kidding.
+
+69 635400 2300
+- Oh, you're American.
+- Yes, and you're a German.
+
+70 637800 2700
+Of course.
+Why do you come to Germany?
+
+71 641000 3300
+- Why fight for England, your enemy?
+- Enemy? What are you talkin' about?
+
+72 644500 3600
+- ln 181 2 they burned your capital.
+- That's propaganda.
+
+73 648200 2700
+lt's in the history books. l read it.
+
+74 651600 4700
+Now go away from here.
+lf you steal tools, cooler.
+Yeah. No tools.
+
+75 661800 1400
+Hey, Virgil.
+
+76 663200 2600
+Hey, did you see the cooler?
+
+77 665900 4200
+Boy, is it ever a big one!
+- l think they expect a lot of business.
+- Yeah.
+
+78 670200 4200
+Those two guys who were with us in
+the old camp, in hut 1 4, l can't find them.
+
+79 674600 3200
+- You think the goons left 'em behind?
+- l guess.
+
+80 677800 3400
+What were their names?
+lt was Jackson and...
+
+81 681300 2100
+- And Dexter.
+- Dexter. That's right.
+
+82 683500 3500
+l'm gonna see who else l can find.
+l'll see you later.
+
+83 710200 2100
+Hey, Danny. Who are they?
+
+84 712400 2800
+Russian prisoners. They cut down trees.
+
+85 715300 3200
+- They keep them here?
+- No, they take them out.
+
+86 720600 1900
+Willie, cigarettes.
+
+87 742000 3500
+Danny and l have a blitz in mind. Could
+you put on a brief show for the goons?
+
+88 745700 2800
+Sure, man. What'll it be? An all-out go?
+
+89 748500 2400
+- Choir practice?
+- Knuckles, eh?
+
+90 751000 3300
+- Yeah. Knuckles will be fine.
+- Give him the coat.
+
+91 755300 5200
+- What are you doing with my coat, mate?
+- What? lt's mine!
+Are you pushing me?
+
+92 760700 2200
+That's mine, you son of a...
+
+93 791100 2800
+Stop it! Stop this nonsense!
+
+94 794000 3400
+lt's all right, mate. We're just
+having a friendly little argument.
+
+95 797600 2600
+- No more fighting. No more!
+- All right.
+
+96 800300 3700
+- Back in your huts.
+- Yes, sir.
+You, too!
+
+97 805300 2400
+Get away! Get back in your huts!
+
+98 810100 1100
+Go on!
+
+99 841700 3700
+Hey, Hilts. Looks like there's only
+one other American in the whole camp.
+
+100 845600 5200
+Some guy named Hendley
+in the RAF Eagle squadron.
+Hey, you got something goin' already?
+
+101 850900 3200
+See the way the goons
+got those towers placed?
+
+102 854200 2900
+- There's a blind spot through the middle.
+- A blind spot?
+
+103 857200 2700
+A guy could stand at that wire
+and not be seen by either tower.
+
+104 860100 2900
+They'd never see me, especially at night.
+
+105 863200 3600
+- You're crazy.
+- You think so? Let's find out right now.
+
+106 883300 2600
+Now, the next step's a little tricky.
+
+107 886000 4100
+- You're not goin' out there?
+- Not while they're lookin', l'm not.
+
+108 892100 2400
+l think l'll take a little walk.
+
+109 934800 4500
+- Danny, you speak Russian?
+- Only one sentence.
+Let me have it, mate.
+
+110 946600 3000
+- What's it mean?
+- l love you.
+
+111 949800 4900
+l love you? What bloody good is that?
+l don't know.
+l wasn't going to use it myself.
+
+112 978400 1900
+Out. Out!
+
+113 982200 2100
+- Your friend, yes?
+- Huh?
+
+114 985500 3200
+And who vouches for you,
+Lieutenant Willinski?
+
+115 988900 1800
+Get out, Sedgwick.
+
+116 1026200 1900
+Hold it, hold it!
+
+117 1031900 1900
+- Your name?
+- lves.
+
+118 1034500 2000
+lves.
+
+119 1036600 3900
+lves. Oh, yes. Archibald lves. Scots.
+
+120 1040600 2300
+The photograph doesn't do you justice.
+
+121 1043000 3500
+l'd like to see one of you
+under similar circumstances.
+
+122 1070200 2700
+l will not take action against you now.
+
+123 1072900 4800
+This is the first day here and there has
+been much stupidity and carelessness...
+
+124 1078400 1500
+on both sides.
+
+125 1097400 1400
+Hey! Get out!
+
+126 1102300 1800
+Don't shoot!
+
+127 1106800 5100
+You fool! To cross the wire is death!
+- What wire?
+- This wire! The warning wire!
+
+128 1113000 2700
+lt's absolutely forbidden to cross it.
+You know that.
+
+129 1115800 3300
+But my baseball rolled over there.
+How am l gonna get my baseball?
+
+130 1119200 2900
+- You first ask permission.
+- Oh, OK.
+
+131 1124200 3600
+- Gettin' my baseball.
+- Stop this! Get over the wire immediately!
+
+132 1127900 1900
+- OK.
+- You stay there!
+
+133 1129800 2200
+Out of the way. Out.
+
+134 1136200 4600
+What are you doing
+over here by the wire?
+Like l told Max, l was trying to get my...
+
+135 1152400 3800
+- What were you doing by the wire?
+- Well, like l told Max...
+
+136 1156200 4300
+l was trying to cut my way through
+your wire, because l wanna get out.
+
+137 1166500 1900
+Do you speak German?
+
+138 1169700 2400
+Wire cutters.
+
+139 1173600 4300
+l have had the pleasure of knowing quite
+a number of British officers in this war.
+
+140 1178100 3400
+And l flatter myself
+that we understand one another.
+
+141 1187000 5000
+You are the first American officer
+l have met. Hilts, isn't it?
+Captain Hilts, actually.
+
+142 1192100 1800
+- 1 7 escape attempts.
+- 18, sir.
+
+143 1194000 2900
+- Tunnel man, engineer.
+- Flier.
+
+144 1197100 4100
+l suppose what's called
+in the American army a ''hotshot pilot''.
+
+145 1201300 2400
+Unfortunately,
+you were shot down anyway.
+
+146 1203800 5100
+So we are both grounded
+for the duration of the war.
+Well, you speak for yourself, Colonel.
+
+147 1212800 3600
+- You have other plans?
+- l haven't seen Berlin yet.
+
+148 1216500 2800
+l plan on doing so before the war's over.
+
+149 1219500 3400
+Are all American officers so ill-mannered?
+
+150 1223000 2600
+About 99 per cent.
+
+151 1225800 3000
+Perhaps while you are with us,
+you will have a chance to learn some.
+
+152 1228900 2600
+10 days isolation, Hilts.
+
+153 1231600 2600
+- Captain Hilts.
+- 20 days.
+
+154 1234400 1200
+Right.
+
+155 1237200 2900
+Oh, you'll still be here when l get out?
+
+156 1240300 2000
+Cooler.
+
+157 1250300 2200
+- Name?
+- lves.
+
+158 1252600 1800
+Flying Officer lves.
+
+159 1254500 1800
+Cooler. 20 days.
+
+160 1259800 2100
+- Cooler, lves.
+- Pleasure.
+
+161 1356400 2300
+- Hilts.
+- Yeah?
+
+162 1358800 3100
+What did you do in the States?
+Play baseball?
+
+163 1362000 1900
+No, l was in college.
+
+164 1364800 2000
+- Say, lves.
+- Aye?
+
+165 1366900 4000
+- How many escapes have you tried?
+- Four over, seven under.
+
+166 1372700 3400
+- Tunnel man, huh?
+- Sure, l am that.
+
+167 1377800 2300
+How tall are you, lves?
+
+168 1380300 1800
+Five feet four. Why?
+
+169 1382800 1800
+Oh, just wondering.
+
+170 1385900 3600
+What did you do in college?
+Study physical education?
+
+171 1389700 4300
+Chemical engineering.
+Did a little bike riding, though.
+Bicycles?
+
+172 1395200 4600
+Motorcycles. Flat tracks, county fairs.
+Picked up a buck here and there.
+
+173 1400000 3400
+- Helped pay my tuition.
+- l did a wee bit of racing myself.
+
+174 1403500 1900
+- ln Scotland.
+- Bikes?
+
+175 1406000 2800
+No, horse racing. Jockey.
+
+176 1410800 1800
+Jockey.
+
+177 1415800 1100
+Jockey.
+
+178 1421100 1100
+Hilts?
+
+179 1423500 1900
+Are you there, Hilts?
+
+180 1427600 3800
+Yeah, l'm here.
+Don't you have them in the States?
+Jockeys?
+
+181 1432600 1400
+Sure.
+
+182 1434200 5300
+They were the days. Saturday nights
+in towns like Musselburgh and Hamilton.
+
+183 1440000 2400
+You had to fight off the birds.
+
+184 1442500 1900
+You know, birds.
+
+185 1444600 1800
+Girls, man. Girls.
+
+186 1447500 2500
+Do you not have them in the States?
+
+187 1451600 1900
+Hilts?
+
+188 1453600 1900
+Are you there, Hilts?
+
+189 1456700 1200
+lves.
+
+190 1460600 1800
+What?
+
+191 1462600 4400
+You know the kind of clay and gravel
+we got here in the compound?
+
+192 1467100 2900
+How many feet do you think
+you could get through in eight hours?
+
+193 1470100 4300
+l could go through this dirt here
+like the bit on an end of an auger.
+
+194 1475100 3000
+But you know it's not the digging.
+lt's the shoring up with wood
+
+195 1478300 3300
+and getting the dirt out -
+that's what you've to worry about.
+
+196 1481800 2700
+No, it isn't, lves.
+You don't have to worry about that.
+
+197 1484600 2700
+How are you going to get the dirt out?
+
+198 1487500 3200
+- What do they call a mole in Scotland?
+- A mole.
+
+199 1492000 1700
+Aye.
+
+200 1495300 2500
+Well, what do you think?
+
+201 1498900 4400
+l must say,
+it's an interesting first 20 minutes.
+l'd say we made fools of ourselves.
+
+202 1503400 3700
+As the sergeant out there says,
+this is only the first day.
+
+203 1523400 1800
+Eric.
+
+204 1525800 3600
+Don't take too much notice.
+The goons may not know who he is.
+
+205 1529500 3100
+- l'll pass the word.
+- l'll tell the old man.
+
+206 1534600 1800
+He has arrived.
+
+207 1543400 4500
+The prisoner Bartlett is discharged
+into your custody, Colonel Von Luger.
+
+208 1557300 5400
+l suggest this prisoner be kept
+under the strictest
+security confinement permanently.
+
+209 1563400 2900
+Make a note of Herr Kuhn's suggestion.
+
+210 1566500 5200
+We have reason to believe
+he is the leader
+of numerous criminal escape attempts.
+
+211 1572900 3800
+Squadron Leader Bartlett
+has been three months in your care,
+
+212 1576800 3300
+and the Gestapo has only
+''reason to believe''?
+
+213 1580200 3900
+lf he once more falls into our hands,
+he will not be so lucky.
+
+214 1584200 4300
+Air-force officer prisoners are
+the responsibility of the Luftwaffe,
+
+215 1588600 1800
+not the SS,
+
+216 1592000 1900
+or the Gestapo.
+
+217 1594700 5500
+At present, yes, Herr Oberst.
+That is why he is returned
+for the moment to your care.
+
+218 1600400 2600
+Of course, if the Luftwaffe
+is not up to the task,
+
+219 1603200 2900
+the prisoners will find themselves
+totally in our charge.
+
+220 1606200 3800
+We regretfully are not
+so professionally understanding.
+
+221 1614200 2300
+Squadron Leader Bartlett,
+
+222 1617000 4300
+if you escape again and be caught,
+you will be shot.
+
+223 1635300 1900
+Herr Kuhn.
+
+224 1677700 1700
+- Eric.
+- Hello, Roger.
+
+225 1679500 4400
+- They dumped you here, too.
+- What's this one like?
+Well, it's new.
+
+226 1684800 2800
+Here. Let's find you a bed.
+
+227 1687700 1900
+Thanks.
+
+228 1705100 1900
+Come in.
+
+229 1708500 2200
+- Hello, Roger.
+- Hello, sir.
+
+230 1711400 3500
+- l'll put your bag in your room.
+- Thanks, Eric.
+
+231 1715100 2700
+- How are you?
+- As well as can be expected.
+
+232 1717900 3400
+The fellows wanted to put up
+a welcome committee, but that's for later.
+
+233 1721400 4200
+- l saw Willie and Willinski with Mac.
+- A lot of old friends here.
+
+234 1725700 5300
+- How long have you been here, sir?
+- Arrived today.
+New camp, expert guards, the elite.
+
+235 1732200 1900
+You met the commandant?
+
+236 1734900 2000
+Yes, l did.
+
+237 1737100 2900
+What were the Gestapo
+and the SS doing with you?
+
+238 1740100 4500
+They wanted to find out
+who helped me to the border.
+Who else is here? Cavendish?
+
+239 1744800 2700
+- Nimmo and Sorren?
+- Griffith, Haynes.
+
+240 1747600 1900
+- Blythe?
+- Yes.
+
+241 1750300 2200
+Almost the whole X organisation.
+
+242 1752600 4800
+Almost. They cleaned out all the other
+camps and dumped us in this one.
+
+243 1757600 3700
+As Von Luger put it:
+''All the rotten eggs in one basket.''
+
+244 1762000 4600
+There's madness in their method.
+What about Tommy Bristol?
+
+245 1766700 2700
+No, but there's an American - Hendley.
+
+246 1770300 2300
+ls he a scrounger, blackmailer?
+
+247 1772800 3100
+- MacDonald says he's the best.
+- Good.
+
+248 1777200 5300
+Last of the tea until
+the Red Cross gets through again.
+l scrounged this from Sedgwick.
+
+249 1787600 2800
+Did the Gestapo give you a rough time?
+
+250 1790500 3200
+Not nearly as rough
+as l now intend to give them.
+
+251 1794100 4500
+Roger, personal revenge must be
+kept out of what we have to do here.
+
+252 1798800 2200
+Too many lives are at stake.
+
+253 1803300 3600
+What my personal feelings are
+is of no importance.
+
+254 1807900 3000
+You appointed me Big X,
+and it's my duty to harass,
+
+255 1811100 2600
+confound and confuse the enemy
+to the best of my ability.
+
+256 1813900 3000
+- That's true.
+- That's what l intend to do.
+
+257 1818400 3800
+l'm gonna cause such a terrible stink
+in this Third Reich of theirs
+
+258 1822300 4000
+that thousands of troops'll be
+tied up here looking after us.
+
+259 1826400 1300
+How?
+
+260 1827900 2800
+By putting more men out of this
+
+261 1830800 2800
+perfect camp of theirs
+than have ever escaped before.
+
+262 1833700 4700
+Not two or three or a dozen, but 200, 300.
+Scatter them all over Germany.
+
+263 1838600 2300
+- Think that's possible?
+- The men are here to do it.
+
+264 1841000 4600
+The goons have put every escape artist
+in Germany here. You said so yourself.
+
+265 1845600 2700
+Have you thought of what it might cost?
+
+266 1850400 4200
+l've thought of the humiliation
+if we just tamely submit,
+
+267 1854700 2200
+knuckle under and crawl.
+
+268 1857100 3000
+Surely you don't advocate that,
+do you, sir?
+
+269 1860200 2600
+l have to point out
+one thing to you, Roger.
+
+270 1863000 2800
+No matter how unsatisfactory
+this camp may be,
+
+271 1866000 4900
+the high command have left us
+in the hands of the Luftwaffe,
+not the Gestapo and the SS.
+
+272 1873000 5300
+Look, sir, you talk about
+the high command of the Luftwaffe,
+then the SS and the Gestapo.
+
+273 1878400 3700
+To me they're the same.
+We're fighting the bloody lot.
+
+274 1882300 1800
+There's only one way to put it, sir.
+
+275 1884300 3400
+They are the common enemies of
+everyone who believes in freedom.
+
+276 1887900 2800
+lf they didn't approve of Hitler,
+why didn't they throw him out?
+
+277 1890900 2500
+l have no argument with you, Roger.
+
+278 1893600 3800
+As senior officer, l'm merely
+pointing out a pertinent fact.
+
+279 1900800 2500
+When are you calling a meeting, X?
+
+280 1910800 1900
+Tonight.
+
+281 1923800 5600
+Gentlemen, no doubt you've heard the
+immortal words of our new commandant.
+
+282 1929600 2300
+''Devote your energies
+to things other than escape
+
+283 1932100 3200
+and sit out the war
+as comfortably as possible.''
+
+284 1936600 3000
+Well, that's exactly
+what we're going to do.
+
+285 1939600 3100
+We're going to devote our energies
+to sports and gardening,
+
+286 1942800 2700
+all the cultural pursuits
+as far as they're concerned.
+
+287 1945700 3100
+ln fact, we're going to
+put the goons to sleep.
+
+288 1949300 2700
+Meanwhile, we dig.
+
+289 1953600 2800
+Now, even a superficial look
+at the compound
+
+290 1956500 5400
+shows us that huts 104 and 5
+are closest to the woods.
+The first tunnel goes out from 105,
+
+291 1962100 3000
+directly east
+under the cooler and the wire.
+
+292 1965100 2100
+But that's over 300 feet, Roger.
+
+293 1967300 2800
+- Did you make a survey, Dennis?
+- Only a temporary one, sir.
+
+294 1970300 3400
+- l make it just over 335 feet.
+- Tell me when you've got an exact one.
+
+295 1973800 3800
+Willie, this time we'll dig straight down
+30 feet before we go horizontal.
+
+296 1977800 3100
+That'll rule out any question
+of sound detection or probing.
+
+297 1981000 6200
+All right, Roger,
+but did you say the first tunnel?
+l did. There'll be three.
+
+298 1988500 4000
+We'll call them Tom, Dick and Harry.
+Tom goes out directly east from 104.
+
+299 1992600 4800
+Dick goes north from the kitchen, and
+Harry goes out parallel to Tom from 105.
+
+300 1998900 3200
+lf the goons find one,
+we'll move into the other.
+
+301 2002600 3200
+How many men do you
+plan to take out, Roger?
+
+302 2006000 1000
+250.
+
+303 2008600 4300
+There'll be no half measures this time.
+ldentification papers for everyone.
+
+304 2013000 3100
+And, Griff, we'll need outfits for the lot.
+
+305 2016200 2400
+- 250?
+- Mostly civilian clothes.
+
+306 2018800 1800
+Yes, but...
+
+307 2022200 1500
+OK, Roger.
+
+308 2023900 4500
+Mac. Maps, blankets, rations,
+compasses for all the walkers.
+
+309 2028500 3000
+- Timetables for every train.
+- Right, Roger.
+
+310 2036300 5000
+- Sorry l'm late, Roger.
+- lt's all right, Colin. Sit down.
+We're going to tunnel.
+
+311 2042700 1800
+Splendid.
+
+312 2045000 5200
+Willie, you and Danny'll be tunnel kings.
+Danny, you'll be in charge of traps.
+
+313 2050300 3200
+Sedgwick, manufacturer.
+Griff, as l said, tailor.
+
+314 2053500 4600
+Nimmo and Haynes, diversions. Mac,
+of course, will take care of intelligence.
+
+315 2058300 2200
+Hendley. We haven't met.
+
+316 2060700 1800
+- Scrounger?
+- Right.
+
+317 2063500 2400
+Dennis, maps and surveys.
+
+318 2066000 4300
+Colin, you'll take your usual job. Eric,
+how are you gonna get rid of this dirt?
+
+319 2070400 4900
+Usual places. l hadn't anticipated
+three tunnels, but we'll manage.
+
+320 2075400 3300
+Roger, who's going to handle
+security for all this?
+
+321 2078700 3900
+You are. l want a system of stooges
+covering this compound
+
+322 2082700 3800
+from front to back,
+checking every goon in and out.
+
+323 2086600 4100
+l want a signal system so perfect
+that if ever a ferret gets within 50 feet
+
+324 2090900 4500
+of any of the huts in which we're working,
+we can shut down without a sign.
+
+325 2096600 3200
+Well, l don't think there's much point
+in discussing any more now.
+
+326 2099900 4800
+l'll meet each of you on the exercise
+circuit, and we'll pound out the details.
+
+327 2107000 4300
+Nothing else, is there, Mac?
+l shouldn't think so, Roger.
+
+328 2136000 2000
+Oh, hello.
+
+329 2138200 1600
+My name's Blythe.
+
+330 2141000 1200
+Hendley.
+
+331 2146000 5900
+- For birds.
+- l used to do a little hunting myself.
+Oh, not hunting. Watching.
+
+332 2152600 2800
+Oh, a bird watcher?
+
+333 2155600 3500
+Yes, that's right.
+Watching them and drawing them.
+
+334 2161800 4600
+l suppose you have
+bird watchers in the States?
+Yes, we have some.
+
+335 2167600 1300
+Tea?
+
+336 2169900 2700
+l only drank tea once, in the hospital.
+
+337 2174300 1700
+Where's your kit?
+
+338 2176200 4000
+This is it. The rest was confiscated
+in the last shakedown.
+
+339 2180700 4600
+The goons didn't appreciate
+some of my more personal items.
+
+340 2188500 1500
+Such as.
+
+341 2190500 3200
+- You're the scrounger.
+- Yes, that's right.
+
+342 2194300 1900
+l'll need a camera.
+
+343 2197300 2500
+- What kind?
+- A good one.
+
+344 2200000 5000
+A 35mm f2.8 with a focal-plane shutter
+should do all right.
+
+345 2207400 1400
+All right.
+
+346 2209000 2700
+- And film, of course.
+- Oh, of course.
+
+347 2213100 3300
+Oh, Hendley. l need a pick. Big heavy one.
+
+348 2216600 2500
+- Only one?
+- Two would be better.
+
+349 2223300 2300
+l'm afraid this tea's pathetic.
+
+350 2225700 3800
+l must have used these
+wretched leaves about 20 times.
+
+351 2229600 2400
+lt's not that l mind so much.
+
+352 2232200 2500
+Tea without milk is so uncivilised.
+
+353 2235400 1900
+Yeah.
+
+354 2237500 1700
+l'll get our wood.
+
+355 2246700 1800
+Close up! Close up!
+
+356 2256200 1900
+Close up!
+
+357 2259600 1500
+Close up!
+
+358 2261200 1200
+Close up!
+
+359 2262600 3200
+- No me sprlchln the English.
+- Close up!
+
+360 2289400 1800
+Splendid.
+
+361 2303300 2600
+Blythe, what are you doing here?
+
+362 2306700 3700
+l'm in Photographic Aerial
+Reconnaissance lnterpretation.
+
+363 2310500 3700
+Went for a joyride to see for myself.
+lt's my own silly fault.
+
+364 2314300 4700
+The aircraft bought it.
+Got shot down. Terrifying.
+
+365 2319500 4300
+- No, l mean, what do you do here?
+- Here?
+
+366 2326000 1900
+l'm the forger.
+
+367 2346900 2800
+Forgers are installing themselves
+in the recreation hut.
+
+368 2349800 1300
+- Sedgwick?
+- l'm in 1 10.
+
+369 2351200 3500
+- Griffith.
+- Well, l'd like to work in 109, Roger.
+
+370 2354800 2000
+109? Right.
+
+371 2357000 4300
+l'll work in 107. For now, Danny, Willie
+and their trap team will be in 104.
+
+372 2361400 4100
+l want to take a chance on the tunnels
+and press ahead without any shoring-up.
+
+373 2365600 3100
+We will need timber for the shafts
+and the entrance chambers.
+
+374 2368900 2500
+Hendley figures
+there are 36 empty bunks.
+
+375 2371500 3500
+We can tear up 1 5 and move the men
+around so the goons won't miss them.
+
+376 2375100 2000
+The rest will come
+from strips off the wall.
+
+377 2377300 2800
+- ls Hendley taking care of this himself?
+- Not yet.
+
+378 2380200 3500
+He's working on some steel
+for a pick that Danny needs.
+
+379 2400200 2600
+Hey! What the hell is going on here?
+
+380 2402800 3100
+Turn the water off! Get your hands away!
+
+381 2407100 1200
+Get away!
+
+382 2409200 2900
+Hey! What the hell's going on there?
+
+383 2413000 1800
+Stop this nonsense!
+
+384 2417800 1200
+Get away!
+
+385 2419100 1700
+Turn the water off!
+
+386 2420800 1300
+Somewhere!
+
+387 2460100 4900
+ln the stove, we keep fire burning always.
+The goons will not feel like moving it.
+
+388 2465200 4100
+- Good.
+- Hendley, two tiles, they are chipped.
+
+389 2469400 3000
+- We need new ones.
+- There's some in 1 1 3's washroom.
+
+390 2472600 2400
+- Should match perfectly.
+- Good.
+
+391 2483000 2700
+lt's going to be a bit tricky, Danny.
+
+392 2487000 2300
+Not when you're organised, Mac.
+
+393 2493500 2200
+- We're ready.
+- Big enough?
+
+394 2495700 3800
+lt's perfect. Right through
+the middle of the foundation.
+
+395 2505100 1900
+Good luck to us, Danny.
+
+396 2524800 2300
+Why 1 7?
+
+397 2527200 2800
+This is the 1 7th tunnel Danny's started.
+
+398 2560500 1900
+All right?
+
+399 2576900 1800
+lt's good.
+
+400 2587200 1900
+lt's very good.
+
+401 2625700 2000
+Get out! Get out!
+
+402 2650000 3700
+You're not in your hut?
+What are you doing here?
+
+403 2653800 1300
+Mopping up.
+
+404 2659000 2800
+- And you?
+- Shower. l need a wash.
+
+405 2665800 2700
+l'm watching him. l'm a lifeguard.
+
+406 2672800 3400
+Put on warm clothes.
+You might be outside all night.
+
+407 2722900 3800
+No. l vote no. Look, we've put
+the goons to sleep exactly like you said.
+
+408 2726900 4200
+But just one little thing like this
+and we're up the creek without a paddle.
+
+409 2731200 3300
+- lves, sit down, won't you?
+- Hello, sir.
+
+410 2734600 5300
+Hello. Squadron Leader Bartlett,
+Captain Hilts.
+Flight Lieutenant MacDonald.
+
+411 2740000 3400
+l understand you two
+are contemplating a blitz-out.
+
+412 2743600 2200
+Where'd you hear that... sir?
+
+413 2745800 3700
+MacDonald. lt's Mac's job
+to know everything that goes on.
+
+414 2749500 2800
+We thought perhaps we might talk it over.
+
+415 2752400 2300
+Why? lt's only a two-man job.
+
+416 2754800 3500
+Everybody in the camp is supposed to
+clear all escape attempts in advance
+
+417 2758400 4800
+with Squadron Leader Bartlett here.
+We don't necessarily want to interfere.
+
+418 2763300 5000
+lt's just that... well, what sort of blitz
+were you contemplating?
+
+419 2769000 3100
+We sneak out at night to a spot
+l found near the wire - a blind spot.
+
+420 2772200 3300
+Then we dig down, take the dirt,
+spread it on top so it won't make a pile,
+
+421 2775700 1600
+and then straight out.
+
+422 2777400 3800
+lves here is a tunnel man, so he digs
+in front, pushes the dirt behind him.
+
+423 2781300 3600
+l stash it behind me, then we burrow
+through the dirt like a couple of moles.
+
+424 2785100 4700
+By dawn we're under the wire, across
+the open space, into the woods and gone.
+
+425 2795900 1100
+Well...
+
+426 2799800 2300
+When do you intend to try this?
+
+427 2802300 3100
+- When do you intend to try it?
+- Oh, tonight.
+
+428 2805800 4300
+Hilts, this may not be quite
+the right time for this sort of thing.
+
+429 2810200 5500
+Look, sir, l've been in the bag
+nearly three years now,
+bloody close to being wire-happy.
+
+430 2815900 2800
+lt's a blitz-out for me, or forget it.
+
+431 2818800 2800
+lt'll work. l know it will.
+
+432 2829400 1300
+Good luck.
+
+433 2830900 1800
+Thank you.
+
+434 2834600 4000
+- Hilts, um... how do you breathe?
+- We got a steel rod with hinges on it.
+
+435 2838700 4500
+We shove it up and make air holes
+as we go along.
+Good night, sir.
+
+436 2848800 3000
+Now, why didn't anybody
+think of that before?
+
+437 2851800 3200
+lt's so stupid, it's positively brilliant.
+
+438 2855100 2900
+But it'll bring every goon
+in the camp down on top of us.
+
+439 2858100 4400
+l don't know.
+Perhaps we're being too clever.
+lf we stop all the breakouts,
+
+440 2862600 3400
+it may only convince the goons
+that we must be tunnelling.
+
+441 2866100 5400
+l hope it works. lf it doesn't, they're going
+to be in the cooler for an awful long time.
+
+442 2915400 3000
+- Good, huh?
+- Danny, it's bloody beautiful.
+
+443 2924500 4000
+- This is the dirt from the compound.
+- This is from the tunnel.
+
+444 2934000 3100
+Wherever we put it,
+they're going to spot it a mile away.
+
+445 2937400 2800
+Maybe we could put it under the huts.
+The dirt's dark there.
+
+446 2940300 3400
+lt's the first place the ferrets would look.
+l saw one measuring yesterday.
+
+447 2943900 2200
+Maybe we could dry it to the same colour.
+
+448 2946200 3900
+- There are 50 tons of it.
+- l was just thinking out loud.
+
+449 2950200 3200
+lf you must think,
+for God's sake, think clearly.
+
+450 2954400 2300
+Where the devil is Ashley-Pitt?
+
+451 2957800 3200
+We can't destroy the dirt
+and we can't eat it.
+
+452 2961200 3000
+The only thing left to do is camouflage it.
+
+453 2964400 2700
+That's as far as my thinking takes me.
+
+454 2968100 2300
+Didn't they teach you
+promptness in the RN?
+
+455 2970600 2800
+You'll never believe it,
+but l think l have the solution.
+
+456 2973600 5900
+The problem is somehow to get rid of
+this tunnel dirt over the compound.
+Well, of course.
+
+457 2980200 1800
+Would you mind?
+
+458 2991500 1900
+Now...
+
+459 2995000 3400
+you fill these bags
+with the dirt from the tunnel.
+
+460 2998600 3100
+Then, wearing them inside your trousers,
+
+461 3001900 6100
+you wander out into the compound
+where you pull these
+strings in your pockets.
+
+462 3008900 2200
+Out come the pins.
+
+463 3013800 4800
+- Eric, it's good.
+- All you have to do is kick it in.
+
+464 3019000 2300
+Unless you're a fool,
+the ferrets won't see a thing.
+
+465 3021400 2900
+lt's indecently brilliant.
+What do you think, Roger?
+
+466 3024500 4000
+- We'll try it first thing tomorrow.
+- l already have. lt works.
+
+467 3030200 2500
+Mac, this is what we'll do.
+
+468 3046800 3400
+- A little present from Tom, sir.
+- Thank you, Nimmo.
+
+469 3058200 2200
+Nice garden you've got, sir.
+
+470 3091700 2200
+All right. Let's look sharp.
+
+471 3100700 1600
+That looks sharp.
+
+472 3106000 1500
+Sir.
+
+473 3110800 4000
+Please, gentlemen, continue.
+This is merely a routine inspection.
+
+474 3129400 2500
+- Good morning, Squadron Leader.
+- Good morning, sir.
+
+475 3132000 5900
+l am sorry the soil here isn't
+better suited to your men's purpose.
+We'll manage, sir.
+
+476 3147000 4000
+l must say l am surprised with
+the extent of this activity, Group Captain.
+
+477 3151100 3700
+- Pleased, of course, but surprised.
+- Surprised, Colonel?
+
+478 3155000 5500
+Fliers are gentlemen, not peasants
+to dig in the earth. So l am surprised.
+
+479 3160600 6000
+The English are keen on gardening.
+Oh, yes, but flowers. ls this not so?
+
+480 3167400 2300
+You can't eat flowers, Colonel.
+
+481 3171800 1800
+Good point.
+
+482 3190000 3000
+l have the nasty feeling
+he knows exactly what we're doing.
+
+483 3193100 3100
+- Maybe he does.
+- You don't really think so, do you?
+
+484 3196400 2700
+lf he does, we'll find out soon enough.
+
+485 3210000 1900
+- Morning, Bob.
+- Andy.
+
+486 3212000 3200
+Here we are. Now, let's see.
+
+487 3215400 2300
+Biscuits, two packets.
+
+488 3217800 2200
+Coffee, two tins.
+
+489 3220200 2100
+Bovril, one jar.
+
+490 3222400 2500
+Cigarettes, six packets.
+
+491 3225400 3800
+Strawberry jam, Sorren's.
+Black currant jam, Cavendish.
+
+492 3229400 1900
+And marmalade, mine.
+
+493 3231400 4300
+Danish butter, Von Luger's.
+l liberated it from his mess supplies.
+
+494 3235800 4400
+Oh, yes. And Dutch chocolate. Two bars.
+
+495 3241500 3000
+That cleans out the gift food
+for the entire organisation.
+
+496 3244600 3100
+Now, the first thing we need
+is the new form of travel permit.
+
+497 3247800 4100
+The forgers have no idea
+what it looks like.
+l'll see what l can do.
+
+498 3252000 3500
+And, of course, any other
+identity cards, personal papers,
+
+499 3255600 4300
+documents you can put your hands on.
+- Anyway, put 'em to work, Bob.
+- Right.
+
+500 3260000 1900
+Good luck.
+
+501 3269600 3900
+O come all ye faithful
+
+502 3273600 3100
+Joyful and triumphant
+
+503 3276900 1800
+O come ye
+
+504 3278800 5500
+O come ye to Bethlehem
+
+505 3284400 3300
+Come and behold Him
+
+506 3287800 2900
+Born the King of Angels
+
+507 3290900 3400
+O come let us adore Him
+
+508 3294400 3300
+O come let us adore Him
+
+509 3297900 4400
+O come let us adore Him
+
+510 3302400 4400
+Louis, where the hell is the air pump?
+Patience is a virtue, Roger.
+
+511 3306900 3700
+Yes, l know, but the diggers
+can only work when the trap's open,
+
+512 3310700 2600
+and this is holding us up very badly.
+
+513 3315000 1900
+- ls it finished?
+- Of course.
+
+514 3317000 2700
+- Why isn't it in?
+- Working on the air ducts now.
+
+515 3319800 3300
+- Well, when will they be finished?
+- One or two days.
+
+516 3323200 2600
+- Does it work?
+- Of course it works.
+
+517 3326600 3500
+- Will it give us enough air?
+- As much as you'll need.
+
+518 3330200 1500
+Mac.
+
+519 3331800 1900
+Excellent.
+
+520 3334600 2300
+Have it in by tomorrow night.
+
+521 3338200 3000
+Christ the Lord
+
+522 3347400 2100
+- Got a light?
+- Yeah.
+
+523 3352600 1500
+Thanks.
+
+524 3354300 2300
+- lt's pretty, isn't it?
+- Yes.
+
+525 3364400 2500
+Oh, l'm sorry. Would you like one?
+
+526 3369200 2900
+l'll smoke it later when l'm off duty.
+Thank you.
+
+527 3372300 3000
+You probably have
+a couple of roommates, huh?
+
+528 3376200 4600
+- Beautiful day.
+- Yes, but l think it might rain later.
+
+529 3380900 1400
+No, no.
+
+530 3382500 3000
+Red sky in the morning,
+sailor takes warning.
+
+531 3385500 4100
+Red sky at night, sailor's delight.
+lt was a red sky last night.
+
+532 3389700 4200
+l never heard that before.
+l learned it in the Boy Scouts.
+
+533 3394000 2400
+- You were a Boy Scout? So was l.
+- Really?
+
+534 3396600 2900
+- Yes. l had 1 9 merit badges.
+- l had 20.
+
+535 3400300 3500
+l was working on my 20th when
+the government abolished scouting
+
+536 3404000 3500
+and sent me into the Hitler Youth instead.
+
+537 3410500 3900
+Werner, you think you'll stay
+in the army after the war?
+
+538 3414600 2600
+No. l'm not a well man.
+
+539 3417400 1700
+- And my teeth...
+- Your teeth?
+
+540 3419200 4900
+Yes. l could tell you
+stories about my teeth
+that would make your hair stand on end.
+
+541 3424200 2300
+Our dentist here is a butcher.
+
+542 3428000 2400
+But don't tell anyone l said so.
+
+543 3431100 2500
+lt's a soldier's right to complain.
+
+544 3433600 2300
+Maybe in your army, but here?
+
+545 3436500 4200
+One little criticism,
+and... to the Russian front.
+
+546 3440900 3300
+ls that so? Terrible.
+
+547 3445100 1800
+That's terrible.
+
+548 3452200 1800
+Werner.
+
+549 3456600 2200
+Why don't we go into my room?
+
+550 3458900 3100
+l'd better not.
+lf Strachwitz should see me...
+
+551 3464400 2500
+l was just gonna make some coffee.
+
+552 3469300 1900
+Real coffee.
+
+553 3498300 2600
+Coffee, coffee, coffee.
+
+554 3501100 1800
+Where is it?
+
+555 3508800 3100
+My grandmother keeps
+sending me this stuff.
+
+556 3517200 2300
+Oh, yeah. Here. Take one.
+
+557 3527500 1900
+Yeah. Keep it.
+
+558 3529600 1900
+Nlin. l must go.
+
+559 3532100 2600
+lt's OK. You can keep it. We're friends.
+
+560 3534800 3000
+With you in the cooler,
+will we be friends? l must report this.
+
+561 3537900 5100
+l don't understand you. Report what?
+That you and l were chatting in my room?
+
+562 3543200 2600
+- l must go.
+- Oh, here. lt's OK. Look, keep it.
+
+563 3546000 3400
+l'll never be able to eat it all.
+l've got all l could eat.
+
+564 3549500 2900
+l'm sorry. All right. Forget it. Forget it.
+
+565 3583400 4100
+And that, l'm sure you'll all remember,
+is the voice of the Nelles warbler.
+
+566 3587700 3200
+Let's turn our attention to this gentleman -
+the masked shrike.
+
+567 3591000 2500
+Kanius nubicus. The butcherbird.
+
+568 3593600 3300
+The shrike impales his foes
+on the spikes of thorn bushes.
+
+569 3597100 3600
+Not a very lovable character, you see.
+Let's have a look at the colouring.
+
+570 3600800 3300
+Uniform black above, from head to tail.
+
+571 3604300 5100
+A black rump, a black crown with a bold
+white flash, and a white line over the eye.
+
+572 3609500 2700
+The shrike lives
+in lightly wooded country...
+
+573 3612400 4100
+Ah. Hendley. Sit down. You'll find
+drawing materials on the table.
+
+574 3617000 3700
+The shrike lives in lightly wooded
+country, olive groves and gardens.
+
+575 3620900 2300
+Well, Hendley, have you
+taken to birds too now?
+
+576 3623400 5100
+Yeah. Stick around.
+You might learn something.
+l have better things to do than draw birds.
+
+577 3629400 5100
+The voice is a monotonous succession
+of scratchy, complaining notes.
+
+578 3634600 4100
+Now, let's have a good look at this bird.
+He's got a round shape...
+
+579 3657400 4000
+An Urlaubsschlin. Permission to
+cross a frontier. Here's another one.
+
+580 3661600 2200
+Which one's the forgery?
+
+581 3665000 2300
+- That one.
+- That's right.
+
+582 3667400 1700
+They both are.
+
+583 3669600 2900
+What's holding us up now is
+the new form of this travel permit.
+
+584 3672700 3300
+- We've no idea what they look like.
+- Here's one.
+
+585 3677000 2400
+And a military identity card.
+
+586 3680400 1300
+And a...
+
+587 3681800 1500
+- An Auswlis.
+- Yeah.
+
+588 3683400 3800
+- Permission to be on Reich property.
+- A ticket to Oden.
+
+589 3687300 3900
+What appears to be the ferret
+assignments for the next week.
+
+590 3691800 2200
+You get 10 out of 10 for this, old boy.
+
+591 3694200 4100
+- Thank you, sir. Take good care of that.
+- Where did you get this?
+
+592 3699000 1800
+lt's on loan.
+
+593 3702300 2600
+ln order to get
+the right amount of outfits, Roger,
+
+594 3705100 3400
+l suggest that we work
+mainly from service uniforms.
+
+595 3708500 3700
+l can do double-breasteds,
+single-breasteds,
+
+596 3712300 2800
+and rather nice lounge suits.
+
+597 3715200 2500
+Lapels. l can do quite a lot
+of things with those.
+
+598 3717900 4400
+l can have them deep like that
+or high ones like that.
+
+599 3723500 2900
+Here's one that
+we're working on right now.
+
+600 3726600 2500
+Oh, yes. What about buttons?
+
+601 3730200 4400
+Take a look at those.
+Here's one that l've finished, Roger.
+
+602 3736600 6200
+And here's one that l dyed
+with a bottle of blue ink.
+
+603 3744200 3100
+lt's rather good. What's up, Roger?
+
+604 3747400 2900
+The goons'd have a field day
+if they crashed in on this lot.
+
+605 3750400 6100
+That's Sorren's department. Now, l've
+started working on the other materials.
+This blanket.
+
+606 3756700 2900
+Particularly the stripes. Marvellous.
+
+607 3759800 1100
+- Coats.
+- Yes.
+
+608 3761000 2700
+l've got the chaps working on these
+all over the compound.
+
+609 3763900 2800
+Those battle dresses -
+l'm afraid they're a bit too short.
+
+610 3766800 4800
+l'll have to get the chaps to make those
+into some sort of workingman's outfits.
+
+611 3771600 2100
+Blanket ticking.
+
+612 3773800 4500
+Now, l've made these into
+rather nice little waistcoats.
+
+613 3778500 3400
+- Very dapper, yes. Dyed, of course.
+- Of course.
+
+614 3782000 2400
+Just take a look at this, Roger.
+
+615 3784500 5000
+Now, this blanket material, we scrape
+this down until it's really smooth,
+
+616 3789600 2100
+and then dye it with boot polish.
+
+617 3791900 3800
+Corduroy scrounged by Hendley.
+l wish we had more of this.
+
+618 3795800 2700
+- Where in God's name did you get these?
+- Hendley.
+
+619 3798700 2200
+- Where did he get them?
+- l asked him that.
+
+620 3801000 2600
+- What did he say?
+- ''Don't ask.''
+
+621 3803700 3700
+Let me show you some of the overcoats
+l've been working on.
+
+622 3835300 1900
+Good morning, Hilts.
+
+623 3838800 3100
+Well, if you're here to find out
+if l'm going out again, l am.
+
+624 3842000 1900
+- When?
+- 1 7 days. 7th of July.
+
+625 3844100 4200
+- Dark of the moon.
+- Correct.
+ls lves going with you?
+
+626 3848400 2700
+Yeah, if he wants to.
+
+627 3851200 3300
+You know that lves is close to cracking?
+
+628 3855600 1800
+Yeah.
+
+629 3858600 3300
+- Better for him to go out in the tunnel?
+- Safer.
+
+630 3867400 1100
+Right.
+
+631 3870700 3500
+lt's possible for one man to get out
+through the wire, even get away,
+
+632 3874400 5300
+but there are in fact a considerable
+number of people besides yourself
+
+633 3879800 2700
+in this camp who are trying to escape.
+
+634 3883000 1900
+l appreciate that.
+
+635 3887400 1900
+Something's coming - l can feel it -
+
+636 3889400 3400
+and it's coming right around the corner
+at me, Squadron Leader.
+
+637 3893000 4500
+- My name's Roger.
+- All right, Roger.
+Yours is Virgil, isn't it?
+
+638 3898600 2600
+Hilts. Just make it Hilts.
+
+639 3902300 4000
+Yes, well, as l was saying, Hilts,
+
+640 3907600 2700
+we have maps of Germany -
+general maps, that is.
+
+641 3910400 4000
+We have all the information we need
+for the escape routes out of Germany.
+
+642 3914600 2100
+But what we do not have...
+
+643 3916800 3300
+ls a clear idea of what's 500 yards
+beyond those trees.
+
+644 3920200 2700
+We've tried every goon in the camp.
+No go.
+
+645 3923000 3600
+We must know the exact position
+of the local town.
+
+646 3927100 2400
+We want to know where
+we hit the main roads.
+
+647 3929700 3400
+Where the police stations are,
+where they've got their roadblocks.
+
+648 3933300 4200
+And most important of all,
+we've got to know how to get from here
+
+649 3937700 2300
+to the railway station.
+
+650 3940200 3300
+No. Absolutely not.
+When l get through that wire,
+
+651 3943600 2500
+l'm not gonna be
+making maps for you guys.
+
+652 3946200 5400
+l'm gonna be so far away, you won't hear
+if they're shooting at me with howitzers.
+
+653 3951800 2600
+- Understandable.
+- Completely.
+
+654 3956800 2400
+l mean, l'd like to help, but...
+
+655 3962500 2300
+lnteresting idea.
+
+656 3964900 3100
+- How many you taking out?
+- 250.
+
+657 3970600 2000
+250?
+
+658 3972700 1800
+Yeah.
+
+659 3975100 1900
+You're crazy. You too.
+
+660 3977200 3400
+250 guys just walking down the road,
+just like that.
+
+661 3980600 3700
+Well, some on the road, some by train,
+some cross-country.
+
+662 3984500 4200
+They'll have forged papers, clothes,
+maps, compasses, rations.
+
+663 3988800 2700
+You're gonna alert
+every goon in the country.
+
+664 3991600 3000
+Anybody that can carry a pitchfork
+is gonna be out looking for you.
+
+665 3994800 4700
+They're gonna swoop down and scoop
+you up so fast it'd make your head swim.
+
+666 4002200 1800
+Yes, well, thanks, anyway.
+
+667 4004200 5100
+- lf l can help on the tunnel, let me know.
+- That's good of you.
+Any time.
+
+668 4010600 5100
+Wait a minute. You aren't seriously
+suggesting that if l get through the wire
+
+669 4015800 2900
+and case everything out there
+and don't get picked up,
+
+670 4018900 2600
+to turn myself in
+and get thrown back in the cooler
+
+671 4021700 2300
+so you can get the information you need?
+
+672 4024100 4500
+Yes. One has to ask some very
+strange things in the job l have.
+
+673 4028700 3000
+- We'll give you a front place.
+- l wouldn't do that for my own mother.
+
+674 4031900 1700
+- l don't blame you.
+- Well, OK, then.
+
+675 4033800 3300
+- lt's completely understandable.
+- Well, OK, then.
+
+676 4039000 2000
+Yes, well, thanks, Hilts.
+
+677 4048000 1800
+Check.
+
+678 4052700 1700
+Herr Hendley, l...
+
+679 4054500 2700
+Oh, it's all right. Blythe's a friend.
+
+680 4059800 3600
+- What's the matter, Werner?
+- My wallet, my papers, my identity card.
+
+681 4063500 3100
+Gone. l lost them. Everything.
+
+682 4067400 1900
+He lost his wallet.
+
+683 4069400 3300
+Do you realise what would happen
+if Strachwitz found this out?
+
+684 4072900 2500
+- The Russian front.
+- Dear, dear.
+
+685 4078000 2600
+l've looked every place, every place.
+
+686 4081300 3300
+l must have lost them while l was in here.
+
+687 4084700 2400
+- No.
+- Yes.
+
+688 4087200 3600
+Look, l told you we were friends.
+We'll find them.
+
+689 4090900 2300
+Oh, thank you, Herr Hendley.
+
+690 4094600 1600
+Werner.
+
+691 4096400 2900
+Not now. lt might look a little peculiar
+
+692 4099400 3800
+if you and l were seen
+probing around at this time of night.
+
+693 4103900 5000
+Look, l'll find them. l promise you l'll
+find 'em if l have to tear this room apart.
+
+694 4115300 2400
+- Thank you.
+- Forget it.
+
+695 4117900 3700
+- Werner.
+- Yes?
+There is one small favour.
+
+696 4122000 2200
+A camera.
+
+697 4125500 3400
+We want to take some snapshots.
+You know, keepsakes.
+
+698 4130200 3900
+35mm with a 2.8 lens and a plane shutter.
+
+699 4134300 1900
+Focal-plane shutter.
+
+700 4137800 3300
+Werner, that's a focal-plane shutter.
+
+701 4142400 2200
+Let me know when you got it.
+
+702 4148800 4400
+He's a crazy, mixed-up kid,
+that Werner, but l like him.
+
+703 4153300 1900
+Checkmate.
+
+704 4178300 2200
+How soon's our air pump
+going to be ready?
+
+705 4180600 3200
+- l'll have it for you tomorrow.
+- You're badly behind schedule.
+
+706 4184000 2200
+- How's it coming, Danny?
+- No good.
+
+707 4186300 2400
+- No good?
+- Today, three times.
+
+708 4205700 3300
+Willie, you all right?
+Pull!
+
+709 4236600 4800
+You're gonna have to shore up the whole
+bloody tunnel, Roger. All 335 feet of it.
+
+710 4241500 1900
+Four times today.
+
+711 4244500 3700
+This way we never get through.
+We must have more wood.
+
+712 4249200 3200
+lt's a lot of timber, Roger. Can you get it?
+
+713 4255200 2800
+We'll get it. We've gotta get it.
+
+714 4259100 3800
+l'll put Hendley on it,
+and the new man we got this morning.
+
+715 4263600 1300
+OK, Willie.
+
+716 4265000 3400
+On the first day of Christmas
+my true love sent to me
+
+717 4268600 2300
+A partridge in a pear tree
+
+718 4271300 3000
+On the second day of Christmas
+my true love sent to me
+
+719 4274500 3300
+Two turtle doves
+and a partridge in a pear tree
+
+720 4278300 3000
+On the fourth day of Christmas
+my true love sent to me
+
+721 4281400 6000
+Four calling birds, three French hens
+Two turtle doves
+and a partridge in a pear tree
+
+722 4287600 3400
+On the fifth day of Christmas
+my true love sent to me
+
+723 4291000 2900
+Five gold rings
+
+724 4295200 4200
+- How's it going with the rafters up there?
+- Taking out one in four.
+
+725 4304600 4100
+Stay with it.
+Five gold rings
+
+726 4308900 5500
+Four calling birds, three French hens
+Two turtle doves
+and a partridge in a pear tree
+
+727 4314500 3500
+On the seventh day of Christmas
+my true love sent to me
+
+728 4318000 5500
+Seven swans a-swimming,
+six geese a-laying
+Five gold rings
+
+729 4323700 6100
+Four calling birds, three French hens
+Two turtle doves
+and a partridge in a pear tree
+
+730 4342600 2900
+Five gold rings, four calling birds...
+
+731 4345600 4300
+Bloody singing. l've never worked
+so hard in all my life. Hi, Hilts.
+Say, Cavendish...
+
+732 4350100 3900
+Three French hens, two turtle doves
+And a partridge in a pear...
+
+733 4354100 1900
+Alllz hup!
+
+734 4362300 1800
+Never mind.
+
+735 4373800 4300
+Here's a present from our friend Werner.
+Splendid.
+
+736 4378200 1900
+Simply splendid.
+
+737 4381200 2100
+This should do very nicely.
+
+738 4386700 1700
+Those are Ashley-Pitt's men.
+
+739 4388600 4200
+He requested permission to dispose
+of some of his dirt in our attic.
+
+740 4457800 4100
+Tom has reached just beyond
+that pile of wood, sir.
+
+741 4462000 4100
+- Harry, of course, isn't as far as that.
+- How much further to the trees?
+
+742 4466300 2000
+We make it 50 feet, sir.
+
+743 4468300 3200
+- Dark of the moon is the 7th...
+- 8th and 9th.
+
+744 4471600 2000
+A day earlier in August.
+
+745 4479400 1800
+Morning.
+
+746 4482300 2000
+There he goes again.
+
+747 4484400 2500
+Why is he buying up all
+the potatoes in the camp?
+
+748 4487000 2700
+l've been working on that,
+but l can't find out.
+
+749 4489800 2500
+Hilts and Hendley
+lock themselves in every night.
+
+750 4492400 3100
+Sometimes Goff's with them.
+Other nights he's on guard outside.
+
+751 4495700 3800
+Mac, we'll close down Dick and Harry.
+Seal them off.
+
+752 4499600 4300
+Put the entire effort into Tom
+and press on into the trees.
+Right, Roger.
+
+753 4550000 1300
+Wow.
+
+754 4553300 1500
+Wow.
+
+755 4556700 1400
+Wow.
+
+756 4583600 1500
+Wow.
+
+757 4591400 1500
+Wow.
+
+758 4601200 1300
+Wow.
+
+759 4651200 1300
+About face!
+
+760 4653400 1900
+Forward march!
+
+761 4662200 3700
+- What is it?
+- They're celebrating the revolution.
+
+762 4666000 1900
+lt's the 4th of July.
+
+763 4677100 1900
+What the devil's this?
+
+764 4684500 2100
+Gentlemen, you're invited for free drinks.
+
+765 4686700 3700
+- A little present from the colonials.
+- Down the British.
+
+766 4690400 4600
+- Quite right too.
+- And a little drink to Tom.
+And to getting home.
+
+767 4695100 3400
+Very well. We accept.
+- Up the rebels!
+- Down the British!
+
+768 4698600 3400
+Gentlemen, follow us.
+About face!
+
+769 4720900 1800
+Company, halt!
+
+770 4726600 2500
+All right, let's line up down here!
+
+771 4730000 2200
+All right, grab a cup!
+
+772 4732400 1900
+Line it up! Here we go.
+
+773 4741100 2500
+That explains what happened
+to the potatoes.
+
+774 4743700 2900
+No harm in closing down Tom
+for one day, Roger.
+
+775 4746700 2700
+l suppose it'll do us all good
+to let off a bit of steam.
+
+776 4749600 3700
+There's only 1 4 feet to go, sir, and you
+can feel it throughout the whole camp.
+
+777 4753400 2800
+- l think that calls for a drink.
+- Hear, hear.
+
+778 4756300 2200
+- Drink it up!
+- What is this stuff, Hilts?
+
+779 4758600 3100
+Moonshine.
+American moonshine. Moonshine.
+
+780 4761800 2500
+Make my moustache grow. Cheers.
+
+781 4764400 2200
+Keep it moving.
+
+782 4766700 4500
+Hello, Eric. Don't spill any of that.
+- There you go.
+- Down with the British.
+
+783 4771500 3000
+All right, old cobber. Keep it mo...
+
+784 4775200 3000
+- Don't get any on your clothes.
+- Cheers!
+
+785 4779200 5100
+- Don't spill any of that.
+- Before your morning tea?
+Keep it moving.
+
+786 4784400 2000
+Don't get any on your clothes, sir.
+
+787 4786600 3200
+American moonshine.
+Don't smoke right after you drink it.
+
+788 4789900 3000
+No smoking.
+No smoking while you're drinking.
+
+789 4807200 2300
+Get good and stoned, my friend.
+
+790 4811400 2100
+Keep it going. Keep it...
+
+791 4814400 3200
+No taxation without representation.
+
+792 4817800 2300
+Keep it going, boys. Keep it...
+
+793 4821500 4700
+Keep it going, fellas. Enjoy yourselves.
+Well, let's drink to Tom.
+
+794 4826300 1900
+To Tom.
+
+795 4834800 4100
+ln the three years, seven months
+and two weeks that l've been in the bag,
+
+796 4839000 2900
+that's the most extraordinary
+stuff l've ever tasted.
+
+797 4842000 3400
+- lt's shattering.
+- Well, l think it's rather good.
+
+798 4847900 3700
+Well, with your permission, sir,
+l think l'll all on kive.
+
+799 4852700 1900
+Call on lves.
+
+800 4863800 1800
+Cheers, Hendley!
+
+801 4873600 1900
+You know what that is?
+
+802 4875500 2200
+l'll tell you what it isn't.
+
+803 4877800 2200
+lt isn't Napoleon brandy.
+
+804 4881500 2000
+How do you like it, sir?
+
+805 4884400 1800
+Well, it's...
+
+806 4886300 1900
+To the colonies.
+
+807 4888300 1900
+lndependence.
+
+808 4895600 4200
+How are you managing over there without
+us? Getting along all right, are you?
+
+809 4900000 3300
+We seem to be getting along all right,
+shir... sir.
+
+810 4910800 2300
+Yes, well, it's...
+
+811 4914300 1900
+lt's good stuff, Hilts.
+
+812 4918400 1900
+Thank you, sir.
+
+813 4939800 1800
+Danny! Here's to...
+
+814 4948800 2500
+Roger, goons in 105.
+
+815 4952000 2000
+- Who?
+- Strachwitz.
+
+816 4957100 4800
+We have to ignore it. lf we pay attention,
+the goons'll know the hut's important.
+
+817 4962800 1900
+Here's to going home.
+
+818 4979100 5100
+Come on, Danny.
+They've searched it a hundred times.
+Home!
+
+819 4996300 4000
+Anyway, l'm glad we've got you
+in the tunnel with us. To Tom, eh?
+
+820 5002600 3800
+Och, never mind. You'll be walking down
+Argyle Street in a couple of weeks.
+
+821 5006500 4600
+To Tom. You know, Sandy,
+l'm just beginning to realise that myself.
+
+822 5011200 4900
+Why shouldn't you, man?
+We're nearly at the trees, boy.
+We're nearly at the trees, eh?
+
+823 5061500 1900
+Herr Hauptfeldwebel!
+
+824 5064000 1800
+Herr Hauptfeldwebel!
+
+825 5102500 2300
+Oh, my God! They've found Tom.
+
+826 5118200 1900
+lt's the tunnel.
+
+827 5136200 1900
+Success.
+
+828 5161000 1300
+lves!
+
+829 5230600 3800
+Sir, let me know
+the exact information you need.
+
+830 5235500 2400
+- l'm going out tonight.
+- Right.
+
+831 5240100 2000
+Open up Harry.
+
+832 5242200 2500
+We dig. Around the clock.
+
+833 5336800 2100
+- Cooler.
+- Right.
+
+834 5342300 3100
+Well, l didn't think
+they'd catch him so soon.
+
+835 5346800 2000
+He wasn't caught.
+
+836 5361900 2100
+Hilts, welcome home.
+
+837 5414900 1100
+Danny?
+
+838 5418100 1900
+Danny?
+
+839 5422800 1800
+Danny?
+
+840 5430900 2000
+Are you all right, Danny?
+
+841 5434600 1800
+Yes.
+
+842 5436600 1800
+All right.
+
+843 5440500 3000
+All right. Bring some shovels. l'm all right.
+
+844 5445900 4400
+For God's sake,
+you've left out a whole eagle.
+That's impossible.
+
+845 5451400 1900
+Yes.
+
+846 5454000 2800
+Four days' work up the bloody spout!
+
+847 5457900 2000
+l'm sorry, Colin.
+
+848 5460100 1900
+lt's all right, Smithy.
+
+849 5463000 3700
+lt's getting late.
+You push off to bed. l'll pack up here.
+
+850 5466900 1800
+All right.
+
+851 5468800 2900
+- Good night, Colin.
+- Good night, Smithy.
+
+852 5510000 2200
+l can't see a bloody thing.
+
+853 5539200 4000
+- Your German's very good.
+- Thanks, Mac. l've put in a lot of...
+
+854 5543200 4200
+Watch it. That's the easiest way to trip up
+a suspect. Don't fall for that old gag.
+
+855 5547500 3400
+- l'm sorry, Mac.
+- OK. But remember, German always.
+
+856 5563100 3800
+One, two, three, four, five.
+
+857 5585500 1100
+Roger.
+
+858 5591400 1400
+No, it's me.
+
+859 5595100 3900
+How do you like the old escape suit?
+Fine, fine.
+
+860 5601300 1900
+Colin.
+
+861 5605300 2200
+How do you like mine?
+
+862 5607700 2200
+lt looks splendid.
+
+863 5635300 2200
+Where are you going?
+You'll get yourself shot.
+
+864 5637600 4000
+- What's the matter with you?
+- l'm going out through that fence.
+
+865 5643200 3400
+Danny, we're getting out through
+the tunnel. We're almost clear.
+
+866 5646700 2700
+Please, Willie, let me alone.
+
+867 5649600 2500
+l can't go in that tunnel any more.
+
+868 5652100 2500
+So l'm going out through the wire.
+
+869 5657800 3700
+Danny, think. We're getting out,
+but not through the wire.
+
+870 5661600 2800
+We're getting out through the tunnel.
+lt's finished.
+
+871 5664600 2100
+- l go out now.
+- No.
+
+872 5667800 3500
+Danny, you go through that wire
+and you'll get killed.
+
+873 5678000 1800
+Don't do that.
+
+874 5682000 1800
+Willie...
+
+875 5685400 2100
+Since l was a boy,
+
+876 5687700 4200
+l hate and feared little rooms,
+
+877 5692000 2100
+closets, caves.
+
+878 5694200 4700
+Danny, you've dug 1 7 tunnels.
+Over 1 7 tunnels.
+Because l must get out.
+
+879 5699000 3000
+l hide the fear, and l dig.
+
+880 5703100 3800
+But tomorrow night in the tunnel
+with all those men,
+
+881 5707000 5300
+l'm afraid maybe this time
+l will lose my head
+and ruin the escape for everybody.
+
+882 5715000 1900
+So l go now.
+
+883 5721500 2800
+Danny, l'll see you through the tunnel.
+
+884 5725700 3400
+l'll look after you.
+l'll stick with you all the way.
+
+885 5730400 1900
+All right.
+
+886 5740200 2300
+- Good evening.
+- Hello, Roger.
+
+887 5743000 2300
+Well, how do you think we look?
+
+888 5748800 1800
+lt's as bad as all that?
+
+889 5750700 6300
+Colin, l want first of all to say that without
+you, we would not have been ready.
+
+890 5757100 3800
+That's all right. l had lots of help.
+Lots of very good help.
+
+891 5762300 2000
+What's the matter, Roger?
+
+892 5765200 2300
+You can't go.
+
+893 5768000 3000
+- What do you mean?
+- l can't allow it.
+Why?
+
+894 5771100 5300
+You can't see your hand
+in front of your face.
+You'd be caught before you got 10 yards.
+
+895 5776600 1800
+That's ridiculous.
+
+896 5779400 3300
+That's ridiculous. Never heard
+anything so absurd in my life.
+
+897 5782800 3200
+l can see perfectly. l can see perfectly!
+
+898 5786700 3400
+l can see... that pin down there.
+
+899 5790200 2900
+- Does that satisfy you?
+- What pin? Where?
+
+900 5804000 3200
+Colin, do you see the foot of the door?
+
+901 5808400 1500
+Yes, of course.
+
+902 5811800 2900
+Put the pin down there, will you?
+
+903 5814800 1400
+All right.
+
+904 5820400 1700
+All right. Come on.
+
+905 5822700 1900
+Come on. Sit down.
+
+906 5826200 2300
+Sit down. lt was a good try.
+
+907 5829800 4000
+l hate these last-minute letdowns,
+but l've only just been told.
+
+908 5833800 3300
+- lt's too risky for you.
+- Don't you think that's Colin's decision?
+
+909 5837300 2400
+- No, l don't.
+- Come on, Roger.
+
+910 5839800 5100
+We all know the score here.
+Well, at least, most of us do.
+
+911 5845100 3000
+Your idea of this escape
+is to start another front,
+
+912 5848200 4100
+to foul up the Germans behind the lines.
+All right, that's fine.
+
+913 5852500 4300
+But once we get past that wire and have
+them looking all over Germany for us,
+
+914 5856900 2300
+that mission is accomplished.
+
+915 5859400 3100
+Afterwards, we have
+some ideas of our own.
+
+916 5863600 1900
+You mean getting home?
+
+917 5865500 2200
+- Back to your family?
+- That's right.
+
+918 5867900 5200
+Do you really believe
+l haven't thought about that too?
+l'm sure you have.
+
+919 5874200 1900
+l know Colin has.
+
+920 5877100 2000
+And, Roger, l have too.
+
+921 5879300 1800
+We think we can make it all the way.
+
+922 5881300 4700
+Not Colin. He'd be an appalling hazard
+to the escape. That must be my decision.
+
+923 5886000 3900
+Let's talk about hazard.
+Let's talk about you.
+
+924 5890000 3900
+You're the biggest hazard we have.
+The Gestapo has you marked.
+
+925 5895400 2200
+No one has said you can't go.
+
+926 5899000 2400
+That's true.
+
+927 5901600 2400
+l have thought about the Gestapo.
+
+928 5905800 5900
+But if you're asking me how far
+a commanding officer is allowed to go,
+or dare go,
+
+929 5912700 2500
+or should be permitted to play God,
+
+930 5916400 1800
+l can't answer you.
+
+931 5919500 1700
+But l can tell you
+
+932 5921600 3500
+a blind man is an unnecessary hazard
+to himself and the whole plan,
+
+933 5925300 3400
+and must therefore be
+eliminated from the operation.
+
+934 5938700 5000
+Colin's not a blind man as long
+as he's with me, and he's going with me.
+
+935 5949500 2300
+lt's all right with you, Colin?
+
+936 5953600 2500
+Oh, yes. Quite.
+
+937 5963500 5500
+Very well. l'll arrange for your escape
+numbers to be altered accordingly.
+
+938 5969900 1900
+Good night, gentlemen.
+
+939 5978400 1800
+Actually...
+
+940 5981400 2100
+he's quite right.
+
+941 5983600 1900
+He's completely right.
+
+942 5986100 5200
+l really shouldn't go at all.
+My eyes have been getting
+worse and worse lately.
+
+943 5991500 3200
+l think they call it progressive myopia.
+
+944 5995300 2900
+l can see things up here. Close to.
+
+945 5998400 2300
+l can see to work, but...
+
+946 6003500 2200
+you're just a blur.
+
+947 6005900 1800
+l know.
+
+948 6008500 4600
+Oh, hell. We'll make it in great shape.
+Colin, do you have any tea?
+
+949 6014200 2800
+- Yes, of course.
+- Then let's have some.
+
+950 6018200 1900
+Splendid.
+
+951 6064200 2000
+Hi, Hilts.
+
+952 6066300 1900
+Hey, Mac.
+
+953 6070400 1400
+When?
+
+954 6071900 5000
+Tonight. We thought
+they'd never let you out.
+Me, too. Let's get at it.
+
+955 6077000 3100
+- Bartlett's waiting for you.
+- l'll be there.
+
+956 6147900 1300
+What time?
+
+957 6151200 2300
+Only eight minutes now, Danny.
+
+958 6157200 1900
+You OK?
+
+959 6168900 1700
+Cavendish.
+
+960 6170800 3300
+Griff, down there.
+Goff, there.
+
+961 6193300 2900
+Smith, Foles, third on the right.
+
+962 6197000 3100
+Blythe, Hendley, third on the left.
+
+963 6228600 1800
+There are the lights.
+
+964 6231700 2200
+Right on the tick, Danny.
+
+965 6243000 2900
+Look down the tunnel, Danny. lt's lovely.
+
+966 6248400 3400
+lt's just like Blackpool
+at the height of the season.
+
+967 6253500 2500
+You ever been to Blackpool, Danny?
+
+968 6256000 1700
+Yes.
+
+969 6257800 1900
+No.
+
+970 6260400 1900
+l don't know.
+
+971 6265600 1900
+lt's time, Roger.
+
+972 6279300 3400
+Bartlett, MacDonald, Ashley-Pitt.
+
+973 6286200 1800
+lt's all clear, sir.
+
+974 6296200 1800
+All set, Roger.
+
+975 6310100 1600
+Roger.
+
+976 6311900 1800
+Good luck.
+
+977 6343400 2400
+They're coming down
+the shaft now, Danny.
+
+978 6345900 3300
+And then they'll be coming
+right up the tunnel.
+
+979 6355200 1900
+Willie...
+
+980 6357200 3000
+l can't wait. l must get out.
+
+981 6360600 3400
+Danny! Danny! Danny! Danny!
+
+982 6390800 3500
+What is it, Danny? What's the matter?
+Danny! Come here!
+
+983 6394800 2900
+Roger? Danny and l'll go later.
+We'll take another place.
+
+984 6397800 2900
+Danny, tell me what this is
+and tell me quickly!
+
+985 6400800 3900
+This tunnel is mine as much as anybody.
+l dug it. l built it.
+
+986 6404800 4200
+l was buried many times.
+l go when l want.
+Let me out. Let me out.
+
+987 6412200 2500
+Take him out, Willie. Take him out.
+
+988 6428900 1800
+Danny? What is it?
+
+989 6431200 2000
+Danny, what's going on?
+
+990 6433300 3800
+lt's all right, Sedgwick.
+lt's all right. We're going later.
+
+991 6442700 2700
+Danny, it's all right. lt's all right.
+
+992 6445400 3700
+We can take another place in the line.
+lt's all right.
+
+993 6449800 2300
+All right, Colin. Down you go.
+
+994 6452300 4500
+Sit down. Feel the top rung of
+the ladder with your right foot. Got it?
+
+995 6457000 1800
+Down you go.
+
+996 6473500 2000
+Danny cut out, huh?
+
+997 6475600 2500
+Willie took him up top. Hilts, l...
+
+998 6490700 2800
+- Remember, keep your head down.
+- Right.
+
+999 6509600 1900
+Right.
+
+1000 6518200 1700
+Bartlett.
+
+1001 6556600 2100
+All right?
+
+1002 6558800 3600
+- Hold on to yourself. You're 20 feet short.
+- What do you mean?
+
+1003 6562500 2700
+20 feet short of the woods.
+The hole is in the open.
+
+1004 6565300 4200
+The guard is between us and the lights.
+How could that happen?
+
+1005 6569600 3400
+What the hell difference does it make?
+lt's happened.
+
+1006 6586500 3100
+- Roger...
+- Damn it, Mac! l'm trying to think!
+
+1007 6590000 1900
+We could postpone it.
+
+1008 6592000 3400
+All the documents are dated today.
+lt's now or never.
+
+1009 6599000 4700
+One chance. When the guard goes to the
+far end, you might be able to move out.
+
+1010 6603800 3900
+l think l can make it to the woods,
+set up a signal when you're clear.
+
+1011 6607800 4500
+What about the towers?
+They're gonna be watching
+the compound, not the woods.
+
+1012 6616500 3100
+Mac, pass the word.
+Send down 30 feet of rope.
+
+1013 6619700 2100
+Send down 30 feet of rope!
+
+1014 6623100 2400
+Send down 30 feet of rope.
+
+1015 6627200 2100
+Send down 30 feet of rope!
+
+1016 6629300 1500
+- What?
+- 30 feet of rope!
+
+1017 6631000 4000
+- What do they want that for?
+- How should l know? Get the rope.
+
+1018 6648800 4300
+- How's it going? Have you heard?
+- Some kind of foul-up, l think, sir.
+
+1019 6653200 4100
+- Haven't they moved into the tunnel yet?
+- l don't think so, sir.
+
+1020 6678500 1900
+He's over there.
+
+1021 6686200 2100
+Right. You go first, Eric.
+
+1022 6689300 2600
+l'm staying here till we get moving.
+
+1023 6702400 3900
+- See you in Piccadilly.
+- Scott's Bar.
+Right.
+
+1024 6718600 1300
+Thank you.
+
+1025 6720000 1900
+- Good luck.
+- Right.
+
+1026 6745700 1900
+We're moving.
+
+1027 6753900 4100
+Danny, they're moving through
+the tunnel now. They're getting out.
+
+1028 6760500 5200
+When Warsaw fell, you escaped and
+came to England because you're a flier.
+
+1029 6765800 4200
+You came because you wanted to fly
+with us and fight the Germans.
+
+1030 6770100 3100
+We can get out now.
+We can get back to England.
+
+1031 6774700 2100
+lf you don't go through that tunnel,
+
+1032 6776900 3900
+everything you've done
+will have been for nothing - nothing!
+
+1033 6808100 2400
+- Blythe's behind, Mac.
+- Right.
+
+1034 6812600 1800
+ln here, Colin.
+
+1035 6814900 1900
+Sit down.
+
+1036 6821400 2600
+You're up, Sedgwick. l'll take over.
+
+1037 6827000 3200
+- What have you got in here? A piano?
+- That's very funny, mate.
+
+1038 6830300 3200
+- You won't get this thing through.
+- l'll cope.
+
+1039 6836600 3100
+- Was that Sedgwick with his trunk?
+- Who else?
+
+1040 6839700 2700
+l wish he was home with his kangaroos.
+
+1041 6848400 3100
+- We're 20 feet short.
+- How the hell...?
+
+1042 6851600 2300
+Hilts is on the other end
+of that rope in the woods.
+
+1043 6854100 4400
+As soon as you feel a couple of tugs,
+off you go, but keep Colin low.
+
+1044 6859600 2500
+- Good luck, Colin.
+- Thanks, Mac.
+
+1045 6871100 1900
+What's that?
+
+1046 6873800 2600
+- lt's an air raid.
+- Oh, God! No!
+
+1047 6876500 3400
+The goons'll pull the switches.
+We'll lose the lights in the tunnel.
+
+1048 6880000 3500
+Come on, Colin. We can get out
+when the lights go down.
+
+1049 6895300 1400
+Willie.
+
+1050 6897400 1100
+Willie!
+
+1051 6900400 3200
+lt's an air raid.
+Searchlights are out. Come on!
+
+1052 6909300 1900
+Get 'em out.
+
+1053 6916400 1800
+- lt's gonna give!
+- Danny.
+
+1054 6918300 3400
+Danny. Danny, it's all right.
+Danny, it's the lights.
+
+1055 6923500 3200
+Light the lamps down there!
+
+1056 6927200 5500
+There's been an air raid
+and they've cut the lights.
+Danny, it's all right. Listen to me!
+
+1057 6934000 1900
+Danny, look.
+
+1058 6939100 4400
+Come on, fellas. Move! Move!
+We can get dozens out in this darkness.
+
+1059 6950000 2100
+What the hell's going on?
+
+1060 6952200 2700
+- You go.
+- No. Danny.
+
+1061 6956800 1800
+Go.
+
+1062 6965800 1900
+- What is this, Willie?
+- Danny.
+
+1063 6967900 4200
+- ls he stuck in there?
+- He's all right.
+Get him out fast.
+
+1064 6974500 1800
+Come on.
+
+1065 6978700 1800
+Come on, Danny, move.
+
+1066 6996100 1800
+Up you go.
+
+1067 7003700 1800
+Give me your bag.
+
+1068 7012000 1900
+We're on the rope!
+
+1069 7057400 3300
+You and l had better get out, or we won't
+have a chance of any of the trains.
+
+1070 7060900 4300
+lt's moving. We'll just have to pass
+the instructions from man to man.
+
+1071 7065800 2600
+- Right.
+- l'll be right behind you.
+
+1072 7112400 2200
+Come on, come on.
+
+1073 7132800 1200
+Come on.
+
+1074 7151500 1800
+- Hey!
+- Don't shoot!
+
+1075 7153900 1800
+Don't shoot!
+
+1076 7156400 1800
+Don't shoot!
+
+1077 7162200 2100
+Get off! We're coming back!
+
+1078 7186500 3000
+Oh, boy. There's a hell of a lot
+of shooting going on up there.
+
+1079 7189600 5000
+Think they've been shooting them
+as they came out?
+We would've heard the shots before.
+
+1080 7197100 1000
+Pull!
+
+1081 7198200 1900
+Wait for me.
+
+1082 7205400 1800
+Out.
+
+1083 7227300 1100
+Out.
+
+1084 7261500 3400
+- How many did he say?
+- 76.
+76.
+
+1085 7265000 1500
+- 76.
+- 76.
+
+1086 7280400 1900
+- Dismissed.
+- Ten hut!
+
+1087 7336900 3000
+Half the guys who missed
+their trains are piled up here.
+
+1088 7340000 3100
+Ashley-Pitt, Roger, MacDonald, Nimmo.
+
+1089 7343200 1800
+Makes quite a group.
+
+1090 7345100 3600
+- What do we do?
+- Wait for the train.
+
+1091 7698500 1800
+Tallyho.
+
+1092 7741600 1900
+Tallyho.
+
+1093 7775000 5700
+- Are the police on the train?
+- The Gestapo are with them. Let's jump.
+All right.
+
+1094 7785100 4100
+- l'll tell you when.
+- l'd prefer you just to give me a firm push.
+
+1095 7807800 2900
+- Are you all right?
+- Yes, l'm fine.
+
+1096 7810800 2300
+That's quite exciting.
+
+1097 7814500 2900
+- lt isn't stopping.
+- No, we're all right.
+
+1098 7871000 1900
+Switzerland.
+
+1099 7904600 1100
+Hey!
+
+1100 8144000 1200
+Bartlett.
+
+1101 8201800 4600
+- Where were you going, Cavendish?
+- l... l hadn't quite decided.
+
+1102 8206500 3600
+What information were you
+to collect on the way?
+None.
+
+1103 8210200 2800
+What sabotage directions
+did you receive?
+
+1104 8213000 2600
+What have you done with your papers?
+
+1105 8216900 3200
+- Papers?
+- Forged papers and identity cards.
+
+1106 8220200 3200
+Don't be so stupid.
+What did you do with them?
+
+1107 8223500 2000
+All l did was escape from a prison camp.
+
+1108 8225600 3700
+You'd do the same if you'd been
+locked up for three years.
+
+1109 8229600 3600
+- l wanted to get home.
+- l don't think you'll see your wife again.
+
+1110 8233400 4500
+You've got the wrong man.
+l'm not even married.
+You're wearing civilian clothes.
+
+1111 8239300 3300
+You're a spy. Spies are being shot.
+
+1112 8242800 3700
+This is my uniform.
+l had to recut it when l lost weight.
+
+1113 8248100 4900
+l dyed it with boot polish
+to cover some oil smears
+l picked up when l was shot down.
+
+1114 8263200 2900
+And you lost your insignia
+over the years?
+
+1115 8266200 1800
+That's right.
+
+1116 8272900 2500
+- Look...
+- That's all, Cavendish.
+
+1117 8298800 1900
+Hello, boys.
+
+1118 8304400 1900
+Hello.
+
+1119 8308500 2600
+- Hello, Haynes.
+- Hello, Cavendish.
+
+1120 8312200 2400
+l wish l could say l was happy
+to see you again.
+
+1121 8314800 2700
+- Just picked up?
+- Yes, this morning.
+
+1122 8334300 5100
+There's a trainer out there l can fly.
+- Any sentries?
+- Yeah, it's gonna be a problem.
+
+1123 8404600 4500
+Colin, when l say go,
+crank this clockwise.
+
+1124 8409800 4600
+When the engine catches, don't move,
+or you'll get a mouth full of propeller.
+
+1125 8427200 900
+Go!
+
+1126 8476600 1900
+Next stop, Switzerland!
+
+1127 8557400 2000
+The Alps.
+
+1128 8559600 1200
+Splendid.
+
+1129 8572100 4200
+Over this range, then 20 more minutes
+and we've got it made.
+
+1130 8602000 3800
+- What is it? Petrol?
+- l don't know. We're losing power.
+
+1131 8630200 2400
+Go that way! l'll follow.
+
+1132 8656200 1200
+Hendley?
+
+1133 8661900 1800
+Colin!
+
+1134 8667600 2100
+Stop! Don't shoot! Please!
+
+1135 8673600 4300
+Colin, l'm sorry l fouled things up.
+
+1136 8679000 1900
+That's all right.
+
+1137 8681900 1800
+Thank you for...
+
+1138 8684600 2900
+getting me out.
+
+1139 8862400 1900
+Cafe Suzette.
+
+1140 8896400 1800
+Hello?
+
+1141 8898800 1900
+Hello?
+
+1142 8936400 1300
+Resistance.
+
+1143 8937900 1800
+Resistance?
+
+1144 8940300 1800
+You are English?
+
+1145 8942800 1900
+l'm Australian.
+
+1146 8945600 4400
+- You can speak English. l understand.
+- Bloody good. l'm a British officer.
+
+1147 8950100 3200
+l've just escaped from
+a prisoner-of-war camp in Germany.
+
+1148 8953500 3700
+l'm trying to make my way into Spain.
+You understand me?
+
+1149 8957400 1800
+Can you help me?
+
+1150 8962700 2800
+- l know someone who can.
+- Bloody good.
+
+1151 9007800 2700
+Good luck.
+Thank you.
+
+1152 9119000 1600
+You are English.
+
+1153 9160300 1900
+Herr Bartlett?
+
+1154 9169400 1900
+Your German is good.
+
+1155 9171800 2200
+And l hear also your French.
+
+1156 9175800 2900
+Your arms... up!
+
+1157 9213500 1900
+Herr Bartlett.
+
+1158 9215900 2300
+And Herr MacDonald.
+
+1159 9220900 2100
+We are together again.
+
+1160 9223600 3900
+You are going to wish
+you had never put us to so much trouble.
+
+1161 9242700 3500
+- What's troubling you, Roger?
+- l'm just a little surprised.
+
+1162 9246300 3300
+l expected either a long stay
+or a very short trip.
+
+1163 9249800 1800
+Yes.
+
+1164 9251700 2400
+l have to admit,
+l'm a little worried, though.
+
+1165 9254200 4700
+l hope to God l haven't
+blotted 70-odd ledgers.
+Och, no, no.
+
+1166 9259100 3400
+We're all over 21 ,
+footloose and fancy-free.
+
+1167 9262700 2800
+We'd never have got as far
+as we did without you, Roger.
+
+1168 9265600 3800
+For what it's worth,
+l think you did a damn good job.
+
+1169 9269600 2500
+- l think we all do.
+- Yes.
+
+1170 9310200 3600
+All right. You can get out now.
+Stretch your legs for five minutes.
+
+1171 9313900 3300
+lt will take hours
+before you reach the camp.
+
+1172 9337400 5700
+You know, Mac, all this - the organisation,
+tunnelling, Tom and Harry -
+
+1173 9343200 2300
+kept me alive.
+
+1174 9345700 1800
+And even though we...
+
+1175 9348900 2200
+l've never been happier.
+
+1176 9352000 1900
+You know, Mac...
+
+1177 9392600 3000
+1 1 of your men are being returned today.
+
+1178 9395700 1400
+Oh, who?
+
+1179 9397300 2300
+l do not have that information.
+
+1180 9399700 1900
+l...
+
+1181 9402200 4400
+l am directed by a higher authority
+to inform you that...
+
+1182 9407700 3500
+50 of your officers
+were shot while escaping.
+
+1183 9412600 1100
+Shot?
+
+1184 9414800 3600
+Their... personal effects will be returned.
+
+1185 9421700 2500
+How many of them were wounded?
+
+1186 9425000 2900
+Here are the names... of the dead.
+
+1187 9431600 2500
+How many of the 50 were wounded?
+
+1188 9435300 1800
+None.
+
+1189 9437600 2300
+They - the higher authority -
+
+1190 9440900 2600
+only directs me to inform you that...
+
+1191 9446200 1900
+that 50 men were...
+
+1192 9453900 1100
+l see.
+
+1193 9457000 2000
+Addison, John.
+
+1194 9459200 1700
+Alladale, Peter.
+
+1195 9461100 1900
+Bancroft, Edward.
+
+1196 9463200 2000
+Bartlett, Roger.
+
+1197 9465400 1700
+Cavendish, Dennis.
+
+1198 9467500 1800
+Eldridge, David.
+
+1199 9470100 1800
+Felton, William.
+
+1200 9472900 1800
+Fanshaw, Arthur.
+
+1201 9555500 1900
+l am your guide, senor.
+
+1202 9557600 1900
+Spain?
+
+1203 9580200 2400
+- Glad to see you're all safe.
+- Thank you, sir.
+
+1204 9582800 2300
+- How many have been brought back?
+- You're the first.
+
+1205 9585300 3000
+- Do you know how many got away?
+- Not yet.
+
+1206 9588500 2500
+What happened to Blythe?
+
+1207 9591100 2200
+He didn't make it, sir.
+
+1208 9593500 2100
+Roger was right about that.
+
+1209 9596400 2800
+l'm afraid Roger didn't make it, either.
+
+1210 9601400 3900
+l've just posted the list. They shot... 50.
+
+1211 9605800 2100
+The Gestapo murdered them.
+
+1212 9609000 1300
+50?
+
+1213 9610600 1900
+MacDonald, Ashley-Pitt?
+
+1214 9612900 1000
+Yes.
+
+1215 9614000 3300
+Danny and Willie?
+No, they're not on the list.
+
+1216 9617800 1800
+- Haynes?
+- Yes.
+
+1217 9621800 1300
+l'm sorry.
+
+1218 9625000 5600
+Roger's idea was to get back at
+the enemy the hardest way he could.
+Mess up the works.
+
+1219 9630800 3000
+From what we've heard here,
+l think he did exactly that.
+
+1220 9634300 2600
+Do you think it was worth the price?
+
+1221 9637400 3000
+That depends on your
+point of view, Hendley.
+
+1222 9642800 1900
+Yes, sir.
+
+1223 9692100 3800
+He is not to be saluted.
+He's no longer in command.
+
+1224 9703300 5800
+The job just didn't work out, huh?
+- You were lucky, Hilts.
+- Lucky? Because l didn't...
+
+1225 9711400 1700
+How many?
+
+1226 9713200 1900
+50.
+
+1227 9716200 5000
+lt looks, after all, as if
+you will see Berlin before l do.
+
+1228 9771600 1900
+Sir.
+
+1229 9779900 1400
+Hey, Hilts!
+

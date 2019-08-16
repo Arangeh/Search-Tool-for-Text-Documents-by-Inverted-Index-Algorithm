@@ -1,0 +1,3393 @@
+1 189707 3316
+(DOOR OPENS, CLOSES)
+
+2 230844 2461
+(SHIVERING)
+
+3 238351 2419
+â™ªâ™ª (JAZZ)
+(FOOTSTEPS ASCENDING STAIRS)
+
+4 242355 2586
+(DOOR OPENS, CLOSES)
+
+5 249321 1876
+It's gettin' cold.
+
+6 255535 3212
+That is one fine frame.
+
+7 258872 2127
+One fine frame that is.
+
+8 261124 3003
+(SHIVERING)
+How much...
+
+9 264252 1919
+(GRUNTS)
+
+10 266296 4463
+Does a fine frame like that
+cost, do you think?
+
+11 272636 4045
+I never told you, but you sound a little
+like Dr. Seuss when you're drunk.
+
+12 276806 3254
+I know.
+I'm serious.
+
+13 280185 1918
+Serious, I am.
+
+14 284522 2378
+I'd say it cost at least
+a couple hundred.
+
+15 287025 4463
+- I'm gonna read it for you.
+- Do I really sound like Dr. Seuss?
+
+16 291613 3086
+"In recognition of his
+outstanding achievement...
+
+17 294824 2545
+- "in the field of child psychology,
+- Mm-hmm.
+
+18 297494 4921
+His dedication to his work and his continuing
+efforts to improve the quality of life..."
+
+19 302540 3421
+(BLOWING BUBBLES)
+Will you concentrate?
+
+20 306086 3211
+"...his continuing efforts to
+improve the quality of life...
+
+21 309422 2837
+"for countless children
+and their families,
+
+22 312384 4004
+"the city of Philadelphia
+proudly bestows upon its son...
+
+23 316513 2669
+Dr. Malcolm Crowe..."
+That's you...
+
+24 319307 2920
+"...the Mayor's Citation
+for professional excellence."
+
+25 324145 2837
+They called you their son.
+
+26 327107 2669
+Wow.
+
+27 329901 2503
+We should hang it in the bathroom.
+
+28 335532 2544
+This is an important night for us.
+
+29 339578 4212
+Finally, someone is recognizing
+the sacrifices you've made...
+
+30 343915 4546
+that you have put everything
+second, including me,
+
+31 348587 3044
+for those families that
+they're talking about.
+
+32 355594 2877
+They're also saying that
+my husband has a gift.
+
+33 360098 1877
+You have a gift that teaches children...
+
+34 362100 2544
+how to be strong in situations...
+(KISSING)
+
+35 364769 2795
+Where most adults
+would piss on themselves.
+
+36 368690 2628
+I believe what they wrote is real.
+
+37 375697 1877
+Thank you.
+
+38 381202 2670
+- I would like some wine in a glass.
+- Mm-hmm.
+
+39 383997 1877
+I would not like it in a mug.
+
+40 385999 3230
+I would not like it in a jug.
+
+41 389254 1499
+(LAUGHING)
+
+42 390754 3295
+â™ªâ™ª (HUMMING)
+
+43 412692 1877
+Look.
+
+44 417155 2127
+(PHONE BUZZING OFF THE HOOK)
+
+45 426414 1919
+(SCREAMS)
+
+46 431253 3670
+(ZIPPER UNZIPS, RUSTLING)
+
+47 441346 1877
+(PERSON SNIFFLES)
+
+48 457779 2586
+Anna, don't move.
+Don't make a sound.
+
+49 465078 2920
+This is 47 Locus Street.
+
+50 469549 2302
+You've broken a window
+and entered a private residence.
+
+51 471876 3671
+You don't know so many things.
+
+52 475672 5714
+There are no needles or prescription
+drugs of any kind in this house.
+
+53 481511 1752
+(GASPS)
+
+54 485765 2419
+(SOBBING)
+
+55 488977 2794
+Do you know why you're afraid
+when you're alone?
+
+56 495317 2544
+I do.
+I do.
+
+57 497986 2210
+What do you want?
+
+58 500322 3753
+What he promised me!
+I want what he promised me.
+
+59 504200 2336
+ANNA :  Oh, my God.
+- Do I know you?
+
+60 506661 3545
+Don't you know me, hero?
+
+61 510332 2085
+Don't you even remember
+your own patients?
+
+62 517005 2669
+Downtown clinic.
+
+63 519799 2378
+Single-parent family.
+
+64 523595 1877
+Possible mood disorder.
+
+65 527807 2211
+I was afraid!
+
+66 530143 4546
+You told me I was having trouble
+coping with my parents' divorce.
+
+67 534814 2795
+You were wrong.
+You were wrong.
+
+68 540278 2503
+Now look at me!
+
+69 542906 4379
+- I don't want to be afraid no more.
+- Just give me a minute to think.
+
+70 547410 2127
+I waited ten years for you!
+
+71 549663 1876
+I'm not giving you nothin'!
+
+72 551665 2711
+Ben Friedkin?
+
+73 554501 4296
+Some people,
+they call me "freak."
+
+74 558922 2085
+Ryan Sumner?
+
+75 561132 3045
+I am. I am a freak.
+Look at...
+
+76 564302 1877
+(SOBBING CONTINUES)
+
+77 566304 2086
+Vincent.
+
+78 568515 1918
+Vincent Gray.
+
+79 572769 2586
+No, you don't.
+
+80 575480 2377
+I do remember you.
+
+81 577983 3545
+Quiet, very smart.
+
+82 581653 1877
+Compassionate.
+
+83 585365 2419
+Unusually compassionate.
+
+84 589995 2002
+You forgot cursed.
+
+85 595375 2544
+You failed me.
+
+86 598044 1835
+You failed me!
+
+87 603592 3753
+Vincent, I'm sorry if I wasn't...
+if I didn't help you.
+
+88 607470 2795
+But if you just let me try,
+
+89 610390 2127
+if you just give me a chance...
+
+90 612642 2211
+(ANNA SCREAMS)
+(GROANING)
+
+91 617188 1877
+(GUNSHOT)
+
+92 620567 2711
+(WHISPERING)
+Oh, God! Oh, God!
+
+93 623403 2878
+- Did Vincent...
+- Don't talk. Shh.
+
+94 626406 1919
+(GROANING)
+
+95 645342 2168
+(TRAIN CROSSING BELLS RINGING)
+
+96 647636 2585
+(TRAIN HORN BLOWING)
+
+97 650347 2168
+(CHILDREN SHOUTING, LAUGHING)
+
+98 657646 1918
+(DOOR OPENING)
+
+99 764127 2711
+(BOY WHISPERING IN LATIN)
+
+100 776181 1877
+MALCOLM : It's okay, Cole.
+
+101 778183 2753
+My name is Dr. Malcolm Crowe.
+
+102 782646 3795
+We were supposed to meet today,
+but I missed our appointment.
+
+103 786566 1919
+I'm sorry.
+
+104 797118 5131
+You know, in the olden days in Europe,
+people used to hide out in churches.
+
+105 802374 2252
+They would claim sanctuary.
+
+106 809798 1877
+What were they hiding from?
+
+107 815387 2210
+Bad people, mostly.
+
+108 817722 4421
+People that wanted to
+put them in jail, hurt them.
+
+109 824688 3753
+I noticed your eyeglasses.
+They don't have any lenses in them.
+
+110 828566 2169
+They're my dad's.
+
+111 830860 2378
+The lenses hurt my eyes.
+
+112 834948 4296
+What were you talking about with your
+soldiers when I came in? Day...
+
+113 839369 2878
+De profundus clamo adite domine.
+
+114 843331 1919
+It's called "Latin."
+
+115 849796 3378
+- All your soldiers speak Latin?
+- No.
+
+116 853300 1918
+Just one.
+
+117 857304 2419
+Are you a good doctor?
+
+118 860807 2419
+Well,
+
+119 863351 1877
+I used to be.
+
+120 866646 2962
+I won an award once from the mayor.
+
+121 870859 2169
+It had an expensive frame.
+
+122 887334 1876
+I'm gonna see you again, right?
+
+123 889336 2669
+If that's okay with you.
+
+124 903725 4087
+(DOOR OPENS, CLOSES)
+
+125 917322 1919
+(SIREN WAILING IN DISTANCE)
+
+126 925413 2378
+It's me.
+
+127 1023261 2419
+(CHURCH BELL TOLLING)
+
+128 1030685 3879
+(HELICOPTER BLADES WHIRRING)
+
+129 1034689 2480
+(MAN ON RADIO) The turnpike westbound
+slows at Valley Forge 24.
+
+130 1037901 3337
+On the Blue Ridge, both directions generally
+slow between number three and two...
+
+131 1041363 1877
+(VOLUME DECREASES)
+(DOG BARKING)
+
+132 1043365 1877
+(MAN CONTINUES, INDISTINCT)
+
+133 1045367 1877
+Hey, good morning.
+
+134 1054793 1877
+Cole.
+
+135 1060131 2878
+Cole!
+
+136 1063134 2586
+Hey, your Cocoa Puffs are gettin' soggy.
+
+137 1068139 3838
+Let me see you.
+Oh, honey, you got a spot.
+
+138 1072102 1877
+Head up.
+
+139 1079276 2627
+(MACHINE WHIRRING)
+Okay, here we go.
+
+140 1084614 1919
+(SCREAMS)
+
+141 1096084 2085
+Something you were looking for, baby?
+
+142 1101089 1919
+Pop Tarts?
+
+143 1105093 1877
+They're right here.
+
+144 1108430 1877
+Oh.
+
+145 1116605 2210
+Well, what are you thinking, Mama?
+
+146 1120609 3253
+Lots of things.
+(SIGHS)
+
+147 1123987 2127
+Anything bad about me?
+
+148 1126239 2878
+Hey, look at my face.
+
+149 1129242 2711
+I was not thinking
+something bad about you.
+
+150 1133163 1877
+Got it?
+
+151 1137375 1877
+Got it.
+
+152 1140879 1835
+Here, head up.
+(DOORBELL RINGS)
+
+153 1142839 2127
+- That's Tommy.
+- That's okay. You tuck it in.
+
+154 1145091 2461
+Cole, you want this?
+
+155 1177916 3420
+Hey, freak, how'd you like that
+"arm around the shoulder" bit?
+
+156 1181461 2586
+I just made that up.
+I went with it.
+
+157 1184172 2544
+It's what great actors do.
+It's called "improv."
+
+158 1192347 3045
+(SCHOOL BELL RINGING)
+(CHATTERING)
+
+159 1225547 2294
+Hey, baby.
+
+160 1227966 1877
+How was your day?
+
+161 1232012 2127
+Hmm?
+
+162 1237309 2419
+You know, you can tell me things
+if you need to.
+
+163 1245191 3087
+Well, you know what I did today?
+
+164 1248403 5047
+I, uh, I won the Pennsylvania Lottery
+in the morning,
+
+165 1253575 1835
+I quit my jobs,
+
+166 1255535 4963
+and I ate a big picnic in the park
+with lots of chocolate mousse pie.
+
+167 1260624 3295
+And then I swam
+in the fountain all afternoon.
+
+168 1264044 1918
+What'd you do?
+
+169 1271343 3461
+I was picked first for
+kick ball teams at recess.
+
+170 1274930 1876
+I hit a grand slam to win the game.
+
+171 1276932 4045
+Everybody lifted me up on their shoulders
+and carried me around, cheering.
+
+172 1285899 3003
+Well, in that case, I am gonna
+make you some triangle pancakes.
+
+173 1290028 1919
+You got an hour.
+
+174 1297994 2002
+MALCOLM : Hi.
+
+175 1304042 2294
+Wanna sit?
+
+176 1310924 2252
+Don't feel like talking today?
+
+177 1316972 1918
+Wanna play a game?
+
+178 1320600 2252
+It's a mind-reading game.
+
+179 1322978 1960
+Here's how it works.
+
+180 1325063 2377
+I read your mind.
+
+181 1327566 3253
+If what I say is right, you take
+one step towards the chair.
+
+182 1330944 4004
+If what I say is wrong,
+you take one step back...
+
+183 1335073 1877
+towards the doorway.
+
+184 1337075 3504
+If you reach the chair, you sit down.
+
+185 1340704 3795
+If you reach the door, you can go.
+
+186 1346084 1919
+Wanna play?
+
+187 1355302 1876
+Okay.
+
+188 1372944 3337
+When your mother and father
+were first divorced,
+
+189 1376406 4254
+your mom went to see a doctor
+like me, and he didn't help her.
+
+190 1380785 3087
+So you think I'm not going
+to be able to help you.
+
+191 1399971 4588
+You're worried that she said
+she told him things...
+
+192 1404684 2294
+things she couldn't tell anyone else.
+
+193 1408355 1877
+Secrets.
+
+194 1417614 2169
+You have a secret,
+but you don't want to tell me.
+
+195 1433171 4088
+Your dad gave you that watch
+as a present just before he went away.
+
+196 1448228 2377
+He forgot it in a drawer.
+
+197 1450730 1877
+Doesn't work.
+
+198 1464703 3378
+You keep pretty quiet in school, but...
+
+199 1468206 4797
+you're a good student, you've never
+really been in any serious trouble.
+
+200 1480343 1877
+We were supposed to draw a picture.
+
+201 1482345 2127
+Anything we wanted.
+
+202 1487434 2961
+I drew a man.
+
+203 1490520 2920
+He got hurt in the neck by
+another man with a screwdriver.
+
+204 1497110 2669
+You saw that on TV, Cole?
+
+205 1499905 1918
+(FOOTSTEPS)
+
+206 1503366 2378
+Everyone got upset.
+
+207 1506912 2752
+They had a meeting.
+
+208 1509789 1877
+Mom started crying.
+
+209 1511791 2461
+I don't draw like that anymore.
+
+210 1516421 2044
+How do you draw now?
+
+211 1520759 3336
+I draw... people smiling,
+
+212 1524220 1961
+dogs running,
+
+213 1527641 1876
+rainbows.
+
+214 1530810 3087
+They don't have meetings about rainbows.
+
+215 1535023 3212
+No.
+I guess they don't.
+
+216 1547160 2544
+What am I thinking now?
+
+217 1549829 3504
+I don't know what you're thinking now.
+
+218 1559673 1835
+I was thinking...
+
+219 1561633 1877
+you're nice,
+
+220 1566054 2044
+but you can't help me.
+
+221 1582028 2586
+(SIGHS)
+
+222 1584739 3504
+I thought you meant the other Italian
+restaurant I asked you to marry me in.
+
+223 1593290 2085
+(SIGHS)
+
+224 1595500 1877
+I'm so sorry, Anna.
+
+225 1598795 2628
+I just can't seem to keep track of time.
+
+226 1604134 3003
+And I didn't have
+a very good session today.
+
+227 1611558 2794
+They're both so similar.
+
+228 1614477 4380
+The same mannerisms, same expressions,
+same things hanging over their head.
+
+229 1622277 2461
+I think it might be some kind of abuse.
+
+230 1625822 3420
+Cole has...
+scratches on his arm.
+
+231 1629367 2586
+I think they might be fingernail cuts.
+
+232 1632078 2294
+Defensive cuts, maybe.
+I don't know.
+
+233 1635916 3378
+(SIGHS) Maybe a teacher or a neighbor.
+
+234 1639419 4713
+I don't think it's the mother. I've seen
+her with him, and it doesn't seem to fit.
+
+235 1647636 1876
+Or I could just be wrong.
+
+236 1649638 3044
+Maybe he's just a kid
+who likes to climb trees a lot.
+
+237 1661149 2169
+(SIGHS) Anna.
+
+238 1664736 2920
+I know that I've been
+a little distant, all right?
+
+239 1667781 3170
+I know that it makes you mad.
+I just...
+
+240 1671076 4045
+feel like I'm being given a second chance,
+and I don't want it to slip away.
+
+241 1676206 2127
+(SIGHS)
+Anna.
+
+242 1680377 1918
+Happy anniversary.
+
+243 1689761 2211
+(SIGHS)
+
+244 1692097 1918
+COLE : Stop looking at me.
+
+245 1694140 2837
+I don't like when people
+look at me like that.
+
+246 1697102 2502
+MALCOLM : Okay.
+(CHILDREN CHATTERING)
+
+247 1699729 3963
+I walk this way to school
+with Tommy Tammisimo.
+
+248 1703817 1877
+Is he your best buddy?
+
+249 1705819 1877
+He hates me.
+
+250 1707821 2377
+Do you hate him?
+
+251 1710323 2002
+No.
+
+252 1713868 2211
+Did your mom set that up?
+
+253 1716204 1877
+Yes.
+
+254 1719916 2503
+Did you ever talk to your mom
+about how things are with Tommy?
+
+255 1722544 2886
+- I don't tell her things.
+- Why not?
+
+256 1725455 3028
+'Cause she doesn't look at me like
+everybody else, and I don't want her to.
+
+257 1728508 2669
+- I don't want her to know.
+- Know what?
+
+258 1731303 2377
+That I'm a freak.
+
+259 1733805 2085
+Hey.
+
+260 1736016 3920
+You are not a freak.
+Okay?
+
+261 1740061 4755
+Don't you believe anybody that tries to
+convince you of that. That's bullshit.
+
+262 1744941 2336
+You don't have to go through
+your life believing that.
+
+263 1749029 1918
+Okay?
+
+264 1753408 1877
+Come on.
+
+265 1758622 3962
+- You said the "S" word.
+- Yeah, I know.
+
+266 1762709 1919
+Sorry.
+
+267 1767047 2419
+â™ªâ™ª (ROCK ON HEADPHONES)
+
+268 1796076 1877
+â™ªâ™ª (FADES)
+
+269 1831778 2419
+MALCOLM : So your dad lives
+in Pittsburgh with a lady...
+
+270 1834322 2253
+that works in a toll booth?
+
+271 1838702 3336
+COLE : I wonder if she has to pee
+when she's working.
+
+272 1842163 2002
+Think she just holds it?
+
+273 1844291 3253
+I don't know.
+I was just thinking about that myself.
+
+274 1849296 2002
+You asked a lot of questions
+about Dad today.
+
+275 1851423 2210
+How come?
+
+276 1853758 3712
+Well, sometimes we do things
+to draw attention,
+
+277 1857596 5088
+to express our feelings
+about certain issues...
+
+278 1862809 3337
+divorce, whatever.
+
+279 1866271 3670
+For example, a person might leave something
+on the desk for someone else to find.
+
+280 1874529 2544
+Do you know what free
+association writing is, Cole?
+
+281 1878325 2043
+COLE : No.
+
+282 1880493 4213
+MALCOLM : Free association writing
+is when you take a pencil in your hand,
+
+283 1884831 4739
+and you put the pencil to a piece
+of paper and you start writing.
+
+284 1889895 3128
+And you don't look at what you're writing
+or think about what you're writing.
+
+285 1893048 3336
+You just keep your hand moving.
+
+286 1896509 3963
+And after a while, if you keep
+your hand moving long enough,
+
+287 1900597 3337
+words and thoughts start coming out that
+you didn't even know you had in you.
+
+288 1904059 5463
+It could be something
+you heard somewhere else,
+
+289 1909648 3295
+or feelings you had deep inside of you.
+
+290 1916613 2544
+Have you ever done any
+free association writing, Cole?
+
+291 1923036 1877
+COLE : Yes.
+
+292 1925038 2002
+MALCOLM : What did you write?
+
+293 1928667 1876
+Upset words.
+
+294 1932379 3336
+Did you ever write any upset words
+before your father left?
+
+295 1937217 1877
+I don't remember.
+
+296 1941179 2044
+Can you do something for me?
+
+297 1945558 3838
+I want you to think about what you
+wanna get out of our time together...
+
+298 1949521 1877
+what our goal should be.
+
+299 1952607 2002
+Something I want?
+
+300 1956403 2669
+If you could change something
+in your life, anything at all,
+
+301 1959197 1877
+what would it be?
+
+302 1961199 3253
+Instead of something I want,
+can it be something I don't want?
+
+303 1966204 1919
+Okay.
+
+304 1969249 2419
+I don't want to be scared anymore.
+
+305 1978258 2377
+(KNOCKING ON DOOR)
+
+306 1984139 1877
+MALCOLM : You gonna get that?
+
+307 1987726 2294
+(KNOCKING CONTINUES)
+
+308 1992939 2127
+Are you gonna get that?
+
+309 1996276 3295
+(FOOTSTEPS)
+(DOOR OPENS)
+
+310 1999696 2069
+ANNA : Hi.
+MAN : Hi.
+
+311 2001790 2844
+- Don't you see enough of me at the store?
+- Yeah, I'm on my way out...
+
+312 2004659 1877
+to the flea market in the Amish country.
+
+313 2006661 1877
+I thought maybe you'd wanna come along...
+
+314 2008663 2711
+and show me how to buy
+at one of these things.
+
+315 2011499 2711
+I don't know if I can deal
+with the Amish today.
+
+316 2014336 3545
+You can't curse or spit
+or anything around them.
+
+317 2018006 2836
+I just figured maybe you'd just want to
+get out and get some air,
+
+318 2020967 2294
+because you've seemed
+kind of down lately.
+
+319 2024721 2544
+Um, I'm okay.
+
+320 2028984 3136
+Do you think that maybe I should stop by
+on the way back, show you what I got?
+
+321 2032145 2252
+Because that wouldn't be a problem.
+
+322 2034522 3379
+No, I... You know, I can see on Monday.
+
+323 2038026 3003
+Sure, yeah, that's fine.
+I'm just...
+
+324 2041154 3545
+Okay, so I guess I'm gonna get going then.
+I'll speak to you later.
+
+325 2044824 2837
+- Don't step in the horse manure.
+- Thank you very much.
+
+326 2047786 2586
+(DOOR CLOSES)
+
+327 2057754 2419
+Keep moving, cheese dick.
+
+328 2083989 4754
+Can anybody guess what city was capital
+of the United States of America...
+
+329 2088868 4255
+from 1790 to 1800?
+
+330 2096126 3545
+I'll give you a hint:
+It's the city you live in.
+
+331 2099796 2878
+(ALL TOGETHER) - Philadelphia!
+- Right, right.
+
+332 2102799 2503
+Philadelphia's one of the oldest cities
+in this country.
+
+333 2105427 2294
+A lot of generations
+have lived here and died here.
+
+334 2107846 4546
+Almost anyplace you go in this city
+has a history and a story behind it.
+
+335 2112517 3003
+Even this school
+and the grounds it sits on.
+
+336 2115645 4546
+Can anyone guess what this building
+was used for a hundred years ago...
+
+337 2120317 3837
+before you went to school here,
+before I went to this school even?
+
+338 2131703 1919
+Yes, Cole.
+
+339 2135999 2044
+They used to hang people here.
+
+340 2142923 3503
+No, uh, that... Mm-mm.
+That's not correct. Where'd you hear that?
+
+341 2146551 5047
+They pulled the people in, crying
+and kissing their families bye.
+
+342 2151723 3837
+People watching...
+spit at them.
+
+343 2157395 4338
+Uh, Cole, this building
+was a legal courthouse.
+
+344 2161858 3337
+Laws were passed here... some of
+the very first laws of this country.
+
+345 2165320 2169
+This whole building
+was full of, uh, lawyers,
+
+346 2167614 3170
+- lawmakers.
+- They were the ones that hanged everybody.
+
+347 2170909 2002
+(CHILDREN WHISPERING)
+(GIGGLING)
+
+348 2173036 1919
+Uh...
+
+349 2175080 2669
+I don't know which one
+of these guys told you that,
+
+350 2177874 3045
+but, uh, they were
+just trying to scare you.
+
+351 2190887 2920
+I don't like people
+looking at me like that.
+
+352 2195225 1877
+Like what?
+
+353 2197227 2044
+Stop it!
+
+354 2199396 3378
+I, uh, I-I-I don't know
+how else to look.
+
+355 2204276 1876
+You're Stuttering Stanley!
+
+356 2209030 2878
+- Excuse me?
+- You talked funny when you went to school here.
+
+357 2212033 2711
+You talked funny
+all the way to high school.
+
+358 2214869 1046
+What?
+
+359 2215940 2300
+You shouldn't look at people.
+It makes them feel bad.
+
+360 2219040 2878
+- How did you...
+- Stop looking at me!
+
+361 2222043 3003
+Who have you... (STAMMERING)
+Been speaking to?
+
+362 2225171 2503
+Stuttering Stanley!
+Stuttering Stanley!
+
+363 2227799 2169
+- Stop it. St-St-St...
+- Stuttering Stanley!
+
+364 2230093 3712
+- Stop that!
+- Stuttering Stanley! Stuttering Stanley!
+
+365 2233930 4004
+Stuttering Stanley!
+Stuttering Stanley!
+
+366 2238059 3337
+Shut up, you f-f-freak!
+
+367 2243356 2169
+(CHILDREN LAUGHING)
+(PLAYING)
+
+368 2249279 2085
+(FOOTSTEPS APPROACHING)
+
+369 2256453 1918
+Hey, big guy.
+
+370 2263043 1877
+How's it goin'?
+
+371 2265045 2377
+I don't wanna talk about
+anything right now.
+
+372 2267547 1919
+Okay.
+
+373 2284272 2544
+You like magic?
+
+374 2286942 1876
+Hmm?
+
+375 2292489 3462
+Observe:
+The magic penny.
+
+376 2296076 3211
+Looks like an ordinary penny.
+
+377 2299412 2461
+But I do my little magic shake, and...
+
+378 2303458 1919
+now it's in my right hand.
+
+379 2305502 1918
+But that's not the end
+of the magic trick.
+
+380 2309005 2628
+I do another little shake, and...
+
+381 2314177 1752
+right there in the vest pocket.
+
+382 2317514 2335
+But that's not the end
+of the magic trick.
+
+383 2319975 2502
+I do another little shake...
+
+384 2322602 1877
+and...
+
+385 2326106 2961
+right back in the left hand
+where it started.
+
+386 2330819 1877
+That isn't magic.
+
+387 2332821 3754
+What are you talking about?
+Of course it's magic.
+
+388 2336700 2544
+You just kept the penny
+in that hand the whole time.
+
+389 2344082 1877
+Think so?
+
+390 2347544 3003
+I didn't know you were funny.
+
+391 2360682 3295
+â™ªâ™ª (POP)
+
+392 2364102 3295
+WOMAN : Malcolm, sit your cute
+butt down and listen up.
+
+393 2368982 3420
+No doubt about it.
+Anna is like my sister.
+
+394 2372527 4046
+And you better make her happy.
+I'm not talkin' about no...
+
+395 2376698 2377
+"Mmm, this taste like
+real butterâ€ kind of happy.
+
+396 2379200 2920
+I'm talkin' about...
+What's up, girl?
+
+397 2382245 2544
+"Julie Andrews twirling around like...
+
+398 2384915 2335
+a mental patient on a mountaintop"
+kind of happy.
+
+399 2387375 3170
+That's the kind of happy
+I'm talkin' about.
+
+400 2390670 1919
+Shh.
+Come here.
+
+401 2392714 2461
+Don't tell her I told you,
+
+402 2395300 3378
+but she said she knew she love you...
+
+403 2398803 2837
+from the first time
+she met you on the street.
+
+404 2402933 4254
+(SOBBING) She'd do anything for you.
+
+405 2407312 1877
+I love you guys.
+
+406 2409314 2794
+(SNIFFLES)
+
+407 2412234 1876
+My nose is running.
+Turn it...
+
+408 2431753 2377
+(SHOWER WATER RUNNING)
+
+409 2486766 3379
+â™ªâ™ª (ROCK)
+
+410 2490270 1835
+(CHATTERING)
+
+411 2493648 2169
+And then you do the magic shake.
+
+412 2496943 2336
+The penny has moved from my pocket...
+
+413 2499404 2169
+all the way back
+to the hand it started in.
+
+414 2504409 1919
+That's stupid.
+
+415 2508496 2420
+It's supposed to be funny.
+
+416 2511041 3336
+It's stupid.
+I want my penny back.
+
+417 2517088 3337
+MISS SEAR : He doesn't get
+invited places, so it's our pleasure.
+
+418 2520550 3420
+Last time was a Chuck E. Cheese
+party a year ago.
+
+419 2524095 4130
+He hid in one of those purple plastic
+tunnels and didn't come out.
+
+420 2528350 2961
+- Chucky who?
+- Cheese. It's a kids place.
+
+421 2531436 2878
+- Excuse me.
+- Sorry.
+
+422 2537567 2503
+â™ªâ™ª (CONTINUES)
+
+423 2564010 4797
+(MAN SPEAKING, INDISTINCT)
+
+424 2568932 3086
+Is someone out there?
+
+425 2572143 2336
+Open this door, please.
+Come on.
+
+426 2574604 4880
+I can't breathe.
+If you can hear me, open this door.
+
+427 2579609 4088
+I swear on my life I didn't
+take the master's horse.
+
+428 2583822 3670
+Open this door, or I'll
+break through it and grab you!
+
+429 2587617 3221
+The star of the commercial
+always gets his own trailer.
+
+430 2590863 1299
+For what?
+
+431 2592163 3045
+He needs a place to think
+about his character, alone.
+
+432 2595333 2294
+You only had one line.
+(SIGHS)
+
+433 2600255 2085
+TOMMY : Derrick, check it out.
+
+434 2602465 2211
+Oh, yeah.
+
+435 2604801 2211
+My dad made me invite him.
+
+436 2617439 2002
+(BREATHING HEAVILY)
+
+437 2625363 2586
+Happy birthday, Derrick.
+
+438 2628074 2169
+Is there somethin'
+you want to see in there?
+
+439 2630368 2294
+No.
+
+440 2634915 1918
+We're gonna put on a pretend play.
+
+441 2636958 4088
+- Wanna be in it?
+- Okay.
+
+442 2641171 3503
+It's called
+"Locked in the Dungeon."
+
+443 2644799 3295
+Yes, Cole, and, uh, you get to be
+the one locked in the dungeon.
+
+444 2652224 2836
+Don't! Don't!
+Don't! Don't!
+
+445 2655185 2502
+(SCREAMING) Don't!
+
+446 2657812 1919
+(POUNDING ON DOOR)
+Let me out! No! No!
+
+447 2659856 2252
+No!
+No!
+
+448 2662234 3503
+(POUNDING STOPS)
+(FOOTSTEPS SHUFFLING)
+
+449 2665862 2169
+(COLE SCREAMS)
+
+450 2668156 4338
+â™ªâ™ª (CONTINUES LOUDLY)
+(SCREAMING CONTINUES, MUFFLED)
+
+451 2675705 2378
+(POUNDING, SCREAMING CONTINUE)
+
+452 2685090 2419
+(SCREAMING INTENSIFIES)
+Cole?
+
+453 2690345 2836
+(SCREAMING, SOBBING HYSTERICALLY)
+Cole!
+
+454 2693306 2878
+Is there a key for this door?
+
+455 2696309 2795
+Cole? Honey?
+Honey, can you hear me?
+
+456 2699229 3378
+(SCREAMING, SOBBING CONTINUE)
+
+457 2702732 2670
+ANNA : Oh, my God!
+Cole!
+
+458 2705527 4463
+Help me! Help!
+Help! Help!
+
+459 2710115 2794
+(DOOR UNLOCKS)
+(SCREAMING, POUNDING STOP)
+
+460 2721835 2669
+MAN : The tests would indicate
+he did not have a seizure.
+
+461 2724629 2378
+He's doing fine.
+
+462 2727132 2461
+After some rest, he can go home tonight.
+
+463 2733138 1918
+(CHUCKLES)
+
+464 2735181 4130
+There's some cuts and
+bruises on your son...
+
+465 2739436 2961
+- that are concerning me.
+- Oh, man.
+
+466 2744608 1835
+Yeah, those are from sports.
+
+467 2752616 1876
+You think I hurt my child?
+
+468 2758371 1794
+You think I'm a bad mother?
+
+469 2760290 3045
+Mrs. Sloan over there,
+
+470 2763460 2544
+she's a social worker with the hospital.
+
+471 2766129 2795
+She's gonna ask you a couple
+procedural questions.
+
+472 2770008 2544
+What happened to my child today?
+
+473 2772677 3297
+Something was happening to him,
+physically happening.
+
+474 2775999 2000
+Something was very wrong!
+
+475 2782395 1877
+Hey.
+
+476 2795617 2419
+Did your father used to
+tell you bedtime stories?
+
+477 2808630 3086
+Once upon a time
+there was this young prince,
+
+478 2811841 4630
+and he decided that
+he wanted to go for a drive.
+
+479 2816596 5047
+He got his driver,
+and they started driving.
+
+480 2821768 2961
+Driving, driving.
+
+481 2824854 2461
+(SIGHS) Driving a lot.
+
+482 2827440 2545
+And, uh,
+
+483 2830110 3587
+they drove so much that he fell asleep.
+
+484 2833822 1877
+And...
+
+485 2838952 3920
+Then he woke up, and he realized
+they were still driving.
+
+486 2842998 2252
+- This was a very long trip.
+- Dr. Crowe?
+
+487 2846918 2836
+You haven't told bedtime stories before.
+
+488 2849879 2169
+Uh, not too many, no.
+
+489 2852173 2461
+You have to add some twists and stuff.
+
+490 2856428 2127
+Okay.
+Some twists.
+
+491 2860223 3253
+Like what kind of twists?
+Give me an example.
+
+492 2865312 3503
+- Maybe they run out of gas.
+- They run out of gas?
+
+493 2868940 3045
+That's good, 'cause they're driving, right?
+Okay, so...
+
+494 2872110 2294
+Tell me the story about why you're sad.
+
+495 2877449 1877
+You think I'm sad?
+
+496 2882370 1877
+What makes you think that?
+
+497 2886458 2002
+Your eyes told me.
+
+498 2890253 2544
+Not supposed to talk
+about stuff like that.
+
+499 2904309 3045
+Once upon a time, there was
+this person named Malcolm.
+
+500 2907479 2502
+He worked with children.
+
+501 2911608 2502
+He loved it.
+
+502 2914236 2919
+He loved it more than anything else.
+
+503 2919741 1877
+And then one night, he found out that...
+
+504 2921743 3086
+he made a mistake with one of them.
+
+505 2924955 2585
+He couldn't help that one.
+
+506 2929167 2544
+And he can't stop thinking about it.
+
+507 2931836 2253
+He can't forget.
+
+508 2937300 2253
+Ever since then,
+things have been different.
+
+509 2941388 2961
+He's not the same person
+that he used to be.
+
+510 2946142 2253
+And his wife...
+
+511 2948520 3628
+doesn't like the person that he's become.
+
+512 2952274 2544
+They barely speak anymore.
+They're like strangers.
+
+513 2958363 3629
+And then one day, Malcolm meets
+this wonderful little boy.
+
+514 2962117 3628
+A really cool little boy.
+
+515 2965870 2545
+Reminds him a lot of the other one.
+
+516 2971126 3086
+And Malcolm decides
+to try and help this new boy...
+
+517 2976381 4463
+'cause he feels that
+if he can help this new boy,
+
+518 2980969 4671
+it will be like...
+helping that other one too.
+
+519 2988143 2669
+(WHISPERING) How does the story end?
+
+520 2992689 1919
+I don't know.
+
+521 3011833 3212
+(WHISPERING) I wanna tell you
+my secret now.
+
+522 3019799 1877
+Okay.
+
+523 3028725 2544
+I see dead people.
+
+524 3033939 1876
+In your dreams?
+
+525 3038026 2002
+While you're awake?
+
+526 3046117 3337
+Dead people, like, in graves, in coffins?
+
+527 3049579 3212
+Walking around like regular people.
+
+528 3053917 2461
+They don't see each other.
+
+529 3056503 2711
+They only see what they wanna see.
+
+530 3060507 2961
+They don't know they're dead.
+
+531 3065053 2252
+How often do you see them?
+
+532 3070725 2503
+All the time.
+
+533 3075689 2085
+They're everywhere.
+
+534 3080610 3045
+You won't tell anyone my secret, right?
+
+535 3083780 2377
+No.
+I promise.
+
+536 3088368 2753
+Will you stay here until I fall asleep?
+
+537 3093456 2211
+Of course.
+
+538 3103633 2169
+(TAPE RECORDER CLICKS)
+
+539 3105927 5381
+MALCOLM : Cole has pathologies
+more severe than initially assessed.
+
+540 3112517 2753
+He's suffering from
+visual hallucinations,
+
+541 3115395 2711
+Paranoia,
+(TIRES SCREECHING)
+
+542 3118231 4088
+Some kind of...
+school-age schizophrenia.
+
+543 3124446 3295
+Medication, hospitalization
+may be required.
+
+544 3134372 2086
+And I'm not helping him.
+
+545 3214869 1877
+(DIALING)
+
+546 3223920 2628
+Hi, this is Lynn Sear, Cole's mom.
+
+547 3228216 2586
+Yeah, uh, I...
+I'd like to talk to you...
+
+548 3230927 4838
+about your boy and his friends keeping
+their goddamn hands off my son.
+
+549 3275305 2544
+(URINATING)
+
+550 3302874 2920
+(FLUSHES)
+
+551 3319224 3211
+(FLOORBOARDS CREAKING)
+
+552 3332821 1877
+Mama?
+
+553 3335991 3295
+No, dinner is not ready!
+
+554 3339744 2586
+What are you gonna do?
+
+555 3342455 3129
+You can't hurt me anymore!
+
+556 3345709 3545
+Neddy!
+You're a terrible husband, Neddy!
+
+557 3349379 2628
+Look what you made me do!
+Neddy!
+
+558 3352132 2252
+(PANTING)
+
+559 3354509 4671
+(SOBBING)
+
+560 3359306 4754
+(CONTINUES SOBBING)
+
+561 3371526 2252
+TOMMY : Once there was a boy,
+
+562 3373904 2460
+very different from all the other boys.
+
+563 3376489 3879
+He lived in the jungle,
+
+564 3380493 3546
+and he could speak to the animals.
+
+565 3384164 3253
+â™ªâ™ª (PIANO)
+
+566 3387542 5381
+(CHILDREN MAKING ANIMAL NOISES)
+(APPLAUSE)
+
+567 3398428 2169
+COLE : Did you think the play
+sucked big time?
+
+568 3400722 3170
+(CHUCKLES) What?
+
+569 3404017 3378
+Tommy Tammisimo acted
+in a cough syrup commercial.
+
+570 3407520 2753
+He said everyone was self-conscious
+and unrealistic.
+
+571 3410398 1961
+He said the play sucked big time.
+
+572 3412484 2711
+This Tommy kid sounds like a real punk.
+
+573 3417197 3754
+I thought the play was excellent.
+Better than "Cats."
+
+574 3421076 2460
+- "Cats"?
+- Never mind.
+
+575 3426331 3086
+Cole, I was really interested
+in what you told me at the hospital.
+
+576 3429542 2545
+I'd like to hear more about it.
+
+577 3442222 2419
+Cole?
+
+578 3447602 1877
+What?
+
+579 3461866 3212
+Is something up there?
+
+580 3468498 3045
+Cole,
+
+581 3474045 2670
+I don't see anything.
+
+582 3480552 3211
+Be real still.
+
+583 3487183 2211
+Sometimes you feel it inside,
+
+584 3489519 2795
+like you're falling down real fast,
+
+585 3492439 2961
+but you're really just standing still.
+
+586 3499988 4212
+You ever feel the prickly things
+on the back of your neck?
+
+587 3504326 2877
+Yes.
+
+588 3507329 3795
+And the tiny hairs on your arm,
+you know, when they stand up?
+
+589 3511249 2586
+Yes.
+
+590 3515503 2711
+That's them.
+
+591 3520884 2294
+When they get mad,
+
+592 3526973 2670
+it gets cold.
+
+593 3546243 3712
+I don't see anything.
+Are you sure they're there?
+
+594 3551623 2502
+Cole?
+
+595 3555877 2711
+Please make them leave.
+
+596 3558713 2461
+I'm workin' on it.
+
+597 3563093 2461
+Come on.
+
+598 3592330 2836
+Aah!
+(CHUCKLES)
+
+599 3606845 1877
+(CHUCKLES)
+
+600 3610015 3420
+Mommy, Daddy?
+
+601 3613560 1960
+(COUGHING)
+
+602 3615645 2419
+My throat hurts.
+
+603 3626615 1876
+Run!
+Run!
+
+604 3630035 1918
+MALE ANNOUNCER : Pedia Ease
+cough suppressant.
+
+605 3632078 4213
+- Gentle, fast, effect...
+- Cole.
+
+606 3638084 2336
+I don't care what they say,
+this thing is broken.
+
+607 3648511 2294
+Take 'em off.
+
+608 3654434 2711
+I don't want them on my table.
+
+609 3661650 2961
+I saw what was in your bureau drawer
+when I was cleaning.
+
+610 3664736 1919
+Got something you want to confess?
+
+611 3669783 3503
+Hmm?
+The bumblebee pendant?
+
+612 3673411 2503
+Why do you keep taking it?
+
+613 3679751 2127
+It was Grandma's.
+
+614 3682003 3170
+You know, what if it broke?
+You know how sad I'd be.
+
+615 3687467 2711
+You'd cry 'cause you
+miss Grandma so much.
+
+616 3691555 2460
+That's right.
+
+617 3697769 3545
+Sometimes people think they lose things,
+
+618 3703275 3712
+and they really didn't lose them...
+it just gets moved.
+
+619 3707112 2252
+So, did you move the bumblebee pendant?
+
+620 3717872 2044
+Don't get mad.
+
+621 3720041 2002
+So, who moved it this time?
+
+622 3722168 3587
+Maybe someone came in our house, took the
+bumblebee pendant out of my closet...
+
+623 3725881 2210
+and placed it nicely in your drawer.
+
+624 3729426 3336
+- Maybe.
+(SIGHS) - God, I am so tired, Cole.
+
+625 3732888 2419
+I'm tired in my body,
+I'm tired in my mind,
+
+626 3735432 2961
+I'm... tired in my heart.
+
+627 3738518 2044
+I need some help.
+
+628 3740687 4171
+You know, I don't know if you noticed, but
+our little family isn't doing so good.
+
+629 3744983 1877
+I mean, I've been praying,
+
+630 3746985 3086
+but I must not be praying right.
+
+631 3750196 2795
+Looks like we're just gonna have to
+answer each other's prayers.
+
+632 3756620 2794
+If we can't talk to each other,
+we're not gonna make it.
+
+633 3763251 3629
+Now, tell me, baby.
+I-I-I won't get mad, honey.
+
+634 3767005 2586
+Did you take the bumblebee pendant?
+
+635 3778141 2377
+NO.
+(SILVERWARE CLATTERING)
+
+636 3782312 2711
+You've had enough roast beef.
+You need to leave the table.
+
+637 3787651 2168
+Go!
+
+638 3799621 3670
+(DOG WHIMPERING)
+
+639 3806211 1877
+(GASPS)
+
+640 3812759 5005
+Hey, come on. I'll show you where
+my dad keeps his gun. Come on.
+
+641 3820350 2544
+(WHIMPERING)
+
+642 3823019 3504
+(SOBBING) Sebastian, come on!
+
+643 3826648 4046
+Mama?
+(DOG WHIMPERING)
+
+644 3830819 2419
+(SOBBING)
+
+645 3835156 2628
+If you're not very mad,
+
+646 3837909 2586
+can I sleep in your bed tonight?
+
+647 3842372 2502
+Look at my face.
+
+648 3845000 2877
+I'm not very mad.
+
+649 3850839 3712
+(SOBBING)
+Baby, why are you shaking?
+
+650 3855844 2210
+Cole, what's wrong?
+
+651 3858179 3754
+Oh, God, please tell me!
+
+652 3862058 3337
+Oh, please.
+
+653 3866688 2544
+(SOBBING) Oh.
+
+654 3878408 2836
+It's Edwardian, beautifully worked...
+
+655 3881369 5005
+with mine-cut diamonds
+and an actual color Burmese sapphire.
+
+656 3886499 2628
+It's timeless.
+
+657 3889252 2336
+Oh!
+(DOOR CLOSES)
+( BELLS JINGLING)
+
+658 3891713 2377
+You, uh...
+(CLEARS THROAT)
+
+659 3894216 2711
+Got anything a little plainer?
+
+660 3897052 4713
+Plainer? You want a plain ring to go with
+your plain fiancé? Is that how it is?
+
+661 3901890 3837
+No!
+Baby, don't get in a tissy.
+
+662 3907938 4671
+Uh...
+You're so beautiful.
+
+663 3912734 3670
+You're like a Burmese sapphire
+all by yourself.
+
+664 3916529 2795
+- You don't need all that.
+- Uh-huh.
+
+665 3919449 2419
+Why don't you try it on...
+
+666 3921993 2211
+and see how you both feel about it.
+
+667 3929501 3462
+There.
+How does that feel?
+
+668 3933088 4254
+I think this piece,
+um, communicates a longing.
+
+669 3937467 3003
+I imagine that the woman who owned it...
+
+670 3940595 3087
+loved a man that she couldn't be with.
+
+671 3945141 3129
+Did he have wavy hair and chestnut eyes?
+
+672 3948395 4045
+- Huh?
+- Um, I don't know, but...
+
+673 3952566 2877
+a lot of the pieces
+in this store communicate,
+
+674 3955569 3420
+and I think you should choose
+a piece that speaks to you.
+
+675 3960532 4713
+I think maybe when people own things
+and then they pass away,
+
+676 3965370 3420
+a part of themselves gets
+printed on those things,
+
+677 3968915 3712
+like...
+like fingerprints.
+
+678 3974713 2043
+I'll just wrap it up.
+
+679 3983680 2252
+You don't need a guy with a Master's.
+
+680 3986057 2711
+You need a wrestler with a neck
+larger than his head.
+
+681 3988894 3169
+(CHUCKLES)
+No, I need a wrestler with a Master's.
+
+682 3993231 2461
+- What's this?
+- Happy birthday.
+
+683 3995817 2336
+- For me?
+- Mm-hmm.
+
+684 4005577 4171
+It's a...
+first edition.
+
+685 4009873 2461
+Wow.
+(CHUCKLES)
+
+686 4012459 2794
+- You know, this is too much.
+- No.
+
+687 4015378 1919
+Took it out of your Christmas bonus.
+
+688 4017422 4213
+(CHUCKLES) It's perfect, Anna.
+
+689 4021760 3503
+Thanks.
+(CHUCKLES)
+
+690 4029809 2795
+COLE : What do you want
+more than anything?
+
+691 4032729 2169
+MALCOLM : I don't know.
+
+692 4035023 2794
+COLE : I've told you what I want.
+(GLASS BREAKING)
+
+693 4040570 1877
+MALCOLM : I know what I want.
+
+694 4044741 2669
+I want to be able to
+talk to my wife again.
+
+695 4049704 3337
+The way we used to talk to each other.
+
+696 4053166 2586
+Like there was no one else
+in the world except us.
+
+697 4057963 1876
+COLE : How are you gonna do that?
+
+698 4065428 2002
+Can't be your doctor anymore.
+
+699 4067556 4504
+I haven't paid enough
+attention to my family.
+
+700 4072185 2086
+Bad things happen when you do that.
+
+701 4076064 2336
+Do you understand?
+
+702 4078525 2879
+I'm going to transfer you.
+I know two psychologists.
+
+703 4081429 1400
+Don't fail me.
+
+704 4084990 2544
+Don't give up. You're the only one
+who can help me, I know it.
+
+705 4089286 2752
+I can't help you.
+(SOBBING)
+
+706 4093290 1876
+You...
+
+707 4095292 3003
+Someone else can help you.
+
+708 4102132 3003
+You believe me, right?
+
+709 4108555 2544
+Dr. Crowe, you believe my secret, right?
+
+710 4113310 2794
+I don't know how to answer that, Cole.
+
+711 4126364 2836
+How can you help me...
+
+712 4129326 2711
+if you don't believe me?
+
+713 4135749 4129
+Some magic's real.
+
+714 4155143 3962
+(Vincent) Do you know why you're
+afraid when you're alone?
+
+715 4159231 3878
+I do.
+I do.
+
+716 4167155 3128
+(DOOR OPENING, CLOSING)
+
+717 4170408 4046
+(MALCOLM'S VOICE) I'm sorry, Vincent.
+I hope I didn't leave you alone too long.
+
+718 4174579 3128
+Whew.
+It's cold in here.
+
+719 4177832 2503
+(VINCENT SOBBING QUIETLY)
+
+720 4180460 3378
+Vincent, why are you crying?
+
+721 4187926 3337
+(VINCENT SNIFFLES) You won't believe.
+
+722 4196685 4045
+MALCOLM : Sorry, Vincent.
+I hope I didn't leave you alone too long.
+
+723 4200855 3087
+Whew.
+It's cold in here.
+
+724 4206778 2920
+Vincent...
+(TAPE MACHINE REWINDING)
+
+725 4209823 4212
+Whew.
+It's cold in here.
+
+726 4217557 1400
+(TAPE MACHINE CLICKS)
+
+727 4219583 2461
+Nah, you know what?
+I never liked him either.
+
+728 4223169 2461
+When I was a kid,
+I had this blood test done,
+
+729 4225755 3205
+and I threw up chili cheese
+fries all over this male nurse.
+
+730 4228985 2000
+(VINCENT LAUGHING)
+
+731 4231511 2711
+WOMAN : Excuse me.
+Dr. Reed is on line two.
+
+732 4234347 2711
+MALCOLM : Vincent, will you excuse me?
+I have to take this.
+
+733 4237183 2253
+- Just give me a minute, okay?
+VINCENT : Okay.
+
+734 4241146 2252
+(DOOR OPENS, CLOSES)
+
+735 4257621 3086
+(VOLUME INCREASES)
+
+736 4282270 2962
+(FAINT VOICE, INDISTINCT)
+
+737 4298703 2086
+(TAPE NOISE)
+
+738 4300914 2502
+(FAINT VOICE CONTINUES)
+
+739 4309798 4713
+(MAN SPEAKING IN SPANISH)
+
+740 4314636 2210
+(MAN SOBBING) No entiendes.
+
+741 4316972 2586
+Yo no quiero morir.
+
+742 4319683 3211
+(CONTINUES SPEAKING IN SPANISH)
+
+743 4326773 1877
+Yo no quiero morir.
+
+744 4328775 2878
+- Oh, my God.
+- Yo no quiero morir!
+
+745 4337659 3754
+You been running around?
+
+746 4343748 2211
+Make you feel better?
+
+747 4347377 2544
+I like to run around.
+It's good exercise.
+
+748 4353884 1876
+Do you want to ask me questions now?
+
+749 4357971 3587
+Want to be a lance corporal in Company
+"M," Third Battalion, Seventh Marines?
+
+750 4361683 3003
+We're being dispatched
+into the Quang Nam province.
+
+751 4364811 2419
+Maybe later.
+
+752 4369524 1960
+Something happened, didn't it?
+
+753 4374738 2502
+You wigging out?
+
+754 4378825 3045
+Yes.
+I think I am.
+
+755 4384623 3253
+Do you know what
+"Yo no quiero morir" means?
+
+756 4388001 3337
+It's Spanish.
+It means "I don't want to die."
+
+757 4394049 2544
+What do you think these ghosts want
+when they talk to you?
+
+758 4404726 2169
+I want you to think about it, Cole.
+
+759 4408438 3462
+I want you to think about it
+really carefully.
+
+760 4412025 2711
+What do you think they want?
+
+761 4418448 4338
+- Just help.
+- That's right. That's what I think too.
+
+762 4422911 2419
+They just want help, even the scary ones.
+
+763 4425455 3086
+I think I might know a way
+to make them go away.
+
+764 4428667 2878
+How?
+
+765 4431670 2377
+Listen to them.
+
+766 4435465 2336
+What if they don't want help?
+
+767 4437926 3295
+What if they're just angry and they
+just want to hurt somebody?
+
+768 4441346 2294
+I don't think that's the way it works.
+
+769 4443765 2628
+How do you know for sure?
+
+770 4447811 2753
+I don't.
+
+771 4459823 2169
+(DOOR OPENS, CLOSES)
+
+772 4469833 3128
+(ENGINE STARTS)
+Hey!
+
+773 4473086 2920
+(TIRES SQUEALING)
+Hey! Hey!
+
+774 4492439 4087
+(LYNN SOBBING) What's happening?
+
+775 4496651 4255
+(WHISPERING) What's happening?
+
+776 4502324 3211
+Go!
+(SOBBING)
+
+777 4505660 2962
+(QUIETLY SOBBING)
+
+778 4512375 2545
+(BREATHING HEAVILY)
+
+779 4517339 2711
+What's happening to you?
+
+780 4520175 3211
+Is someone hurting you?
+I'll kick their ass.
+
+781 4523511 3170
+Cole, if they're hurting you...
+(SOBBING)
+
+782 4529017 2377
+(MOANS)
+
+783 4539152 3003
+Mama, you sleep now.
+
+784 4551706 1961
+(EXHALES DEEPLY)
+
+785 4557045 2920
+(PANTING)
+
+786 4581653 2794
+(SNAPPING)
+
+787 4591746 2586
+(WHIMPERING)
+
+788 4600630 3170
+(SOBBING)
+
+789 4658063 3295
+(SWALLOWING)
+
+790 4661483 4838
+(GAGGING, PANTING)
+
+791 4666446 2336
+(SOBBING)
+
+792 4668907 2753
+I'm feeling much better now.
+
+793 4676164 2961
+(QUIVERING) Do you want to
+tell me something?
+
+794 4697894 2044
+(HYDRAULIC BRAKES HISSING)
+
+795 4707404 2127
+(GASPS)
+
+796 4714995 2836
+She came a long way
+to visit me, didn't she?
+
+797 4719291 2669
+I guess she did.
+
+798 4755911 2919
+(SOBBING)
+
+799 4767964 2127
+Can you get some water?
+
+800 4773970 1919
+That's her sister.
+
+801 4793740 4338
+You know, when I went through this
+with my father's cancer...
+
+802 4798203 3253
+I just can't imagine a child
+being in bed for two years.
+
+803 4801581 2461
+WOMAN : How many...
+How many doctors?
+
+804 4804167 2878
+- I think it was six.
+- Six different doctors?
+
+805 4807170 2336
+I think so, yes.
+
+806 4815387 4462
+I just heard the, uh,
+little one is falling ill now.
+
+807 4819975 2252
+God help them.
+
+808 4841746 2503
+Don't go home, okay?
+
+809 4844374 2419
+I definitely won't.
+
+810 4902057 2627
+Aah!
+(PANTING)
+
+811 4965245 2377
+Mister?
+
+812 4970667 2336
+Excuse me, mister.
+
+813 4977340 2461
+Are you Kyra's daddy?
+
+814 4993273 3545
+It's for you.
+
+815 4996943 3087
+Sh-She wanted
+to tell you something.
+
+816 5033605 2336
+(STATIC)
+
+817 5038151 2544
+(KYRA'S VOICE) Oh, no, here he comes.
+He's coming my way. Psst!
+
+818 5045408 2837
+Would you like to dance?
+
+819 5048370 3920
+Well, actually,
+I just came with my friends.
+
+820 5052415 2419
+Oh, well, how about this?
+
+821 5054960 3378
+We can dance for a little bit,
+and if you don't like the way I dance,
+
+822 5058463 1919
+you can kick me.
+
+823 5060507 2044
+Oh, okay then.
+
+824 5119024 2002
+(LIQUID POURING)
+
+825 5132662 3170
+WOMAN : It's time for lunch, Kyra.
+
+826 5139961 2670
+KYRA : I'm feeling much better now.
+- That's so great, honey.
+
+827 5142756 2294
+(KISSES) It's time for your food.
+
+828 5147052 2210
+Can I go outside if I eat this?
+
+829 5149387 2378
+I don't know. You know how
+you get sick in the afternoons.
+
+830 5151890 2753
+We'll see.
+
+831 5156311 3837
+Don't say that it tastes funny.
+You know I don't like to hear that.
+
+832 5162901 4171
+Tami's mom called.
+
+833 5182546 2377
+You were keeping her sick.
+
+834 5201815 2711
+You liked it, she said.
+
+835 5207571 3003
+She looked out for you.
+
+836 5210699 2252
+Is Kyra coming back?
+
+837 5216121 2878
+COLE : Not anymore.
+
+838 5226089 2252
+WOMAN : I think that's enough.
+That's enough makeup.
+
+839 5228466 2545
+COLE : Okay.
+
+840 5231136 3670
+- They're calling for the stable boy.
+- We have to hurry!
+
+841 5238351 2253
+Who, uh...
+Who were you talking to?
+
+842 5247485 3003
+Just practicing my lines.
+
+843 5253658 2753
+Thanks for giving me this part,
+Mr. Cunningham.
+
+844 5256536 3760
+You know, when I went to school here, there was
+a terrible fire in this section of the theater.
+
+845 5260373 1961
+They rebuilt the whole thing.
+
+846 5262459 2919
+Yeah, I know.
+
+847 5266963 2711
+(AUDIENCE SIGHING)
+
+848 5275597 4880
+Only he who is pure of heart
+can take the sword from the stone.
+
+849 5280602 2544
+Let the boy try.
+
+850 5285190 2127
+(SCATTERED APPLAUSE)
+
+851 5290362 2961
+He is a stable boy.
+He cleans up after the horses.
+
+852 5293448 2711
+Silence, village idiot.
+(SCATTERED GIGGLING)
+
+853 5296284 2753
+Let the boy step forward.
+
+854 5323603 2795
+(CHILDREN GASPING)
+
+855 5326523 2794
+(CHILDREN TOGETHER) Hail, King Arthur!
+
+856 5329442 3212
+(APPLAUSE)
+
+857 5334072 1960
+(CHILDREN) Yea!
+
+858 5336157 3587
+(CHEERING)
+(APPLAUSE CONTINUES)
+
+859 5345208 3212
+(AUDIENCE LAUGHING)
+
+860 5352883 3670
+(ALL LAUGHING)
+
+861 5356678 3295
+(CHATTERING)
+
+862 5361516 2878
+MALCOLM : I thought you were
+really great in the play, Cole.
+
+863 5364519 2127
+- Really?
+- Yeah.
+
+864 5366771 2378
+- You know what else?
+- What?
+
+865 5369274 4421
+I thought Tommy Tammisimo
+sucked big time. (CHUCKLES)
+
+866 5373820 2586
+(CHUCKLES)
+
+867 5380911 3336
+I got an idea how you can talk
+to your wife.
+
+868 5384372 3170
+Wait till she's asleep.
+
+869 5387667 3546
+Then she'll listen to you
+and she won't even know it.
+
+870 5398470 3170
+I'm not gonna see you anymore, am I?
+
+871 5403808 2837
+I think we said everything
+we needed to say.
+
+872 5408146 3003
+Maybe it's time to say things
+to someone closer to you.
+
+873 5413151 3087
+Maybe we can pretend like we're
+gonna see each other tomorrow.
+
+874 5418573 2336
+Just for pretend.
+
+875 5427207 2336
+Okay.
+
+876 5433755 2461
+I'm gonna go now.
+
+877 5442305 2378
+I'll see you tomorrow, Cole.
+
+878 5465036 2753
+(SIREN BLARING)
+(CHATTERING, INDISTINCT)
+
+879 5471960 3503
+I'm okay, Officer.
+I-I'm okay.
+
+880 5475589 2252
+I don't know what happened.
+
+881 5483179 2920
+LYNN : Hmm.
+
+882 5486224 3087
+Geez, I hope nobody got hurt.
+
+883 5492522 3087
+You're very quiet.
+
+884 5495734 3253
+You're mad I missed the play, aren't you?
+
+885 5499112 2336
+I have two jobs, baby.
+
+886 5501573 2919
+You know how important they are for us.
+
+887 5504618 1876
+(SIGHS)
+
+888 5506620 2377
+I'd give anything to have been there.
+
+889 5520967 2253
+I'm ready to communicate with you now.
+
+890 5528475 2043
+Communicate?
+
+891 5532103 2336
+Tell you my secrets.
+
+892 5536066 2419
+What is it?
+
+893 5542280 2753
+You know the accident up there?
+
+894 5545158 2961
+Yeah.
+
+895 5548245 2043
+Someone got hurt.
+
+896 5550413 2128
+They did?
+
+897 5552666 3503
+A lady.
+
+898 5556294 2211
+She died.
+
+899 5558630 2419
+Oh, my God.
+What, you can see her?
+
+900 5562551 3044
+- Yes.
+- Where is she?
+
+901 5569182 3879
+Standing next to my window.
+
+902 5579192 2920
+Cole, you're scaring me.
+
+903 5582237 2294
+They scare me too sometimes.
+
+904 5587200 2211
+They?
+
+905 5592330 1877
+Ghosts.
+
+906 5598628 2461
+You see ghosts, Cole?
+
+907 5603258 2794
+They want me to do things for them.
+
+908 5608930 2169
+They...
+They talk to you?
+
+909 5611224 3087
+They tell you to do things?
+
+910 5615437 2919
+They're the ones that used to hurt me.
+
+911 5619858 2711
+What are you thinking, Mama?
+
+912 5622694 4630
+- You think I'm a freak?
+- Look at my face.
+
+913 5627449 2919
+I would never think that about you.
+Ever.
+
+914 5631703 2419
+- Got it?
+- Got it.
+
+915 5641463 2043
+Just let me think for a minute.
+
+916 5647427 2044
+Grandma says hi.
+
+917 5652974 3128
+She says she's sorry for
+taking the bumblebee pendant.
+
+918 5656228 2627
+She just likes it a lot.
+
+919 5661316 3879
+- What?
+- Grandma comes to visit me sometimes.
+
+920 5667656 2669
+Cole, that's very wrong.
+
+921 5670450 2544
+- Grandma's gone, you know that.
+- I know.
+
+922 5673119 3254
+- She wanted me to tell you...
+- Cole, please stop.
+
+923 5676498 2711
+She wanted me to tell you
+she saw you dance.
+
+924 5680919 3587
+She said when you were little,
+
+925 5684631 1877
+you and her had a fight...
+
+926 5686633 2711
+right before your dance recital.
+
+927 5689612 1600
+(SNIFFLES)
+
+928 5691638 3671
+You thought she didn't
+come to see you dance.
+
+929 5700188 2294
+She did.
+
+930 5707904 3796
+She hid in the back so you wouldn't see.
+
+931 5711825 2753
+Sh-She said you were
+like an angel.
+
+932 5719249 2085
+(SOBBING)
+She said...
+
+933 5721459 3421
+you came to the place
+where they buried her,
+
+934 5727132 2419
+asked her a question.
+
+935 5732178 4213
+She said the answer is...
+
+936 5736516 1919
+every day.
+
+937 5741104 2419
+What did you ask?
+
+938 5743648 3212
+(SNIFFLES)
+
+939 5746985 2961
+(VOICE BREAKING)
+
+940 5751531 3170
+Do...
+
+941 5754826 3670
+Do I make her proud?
+
+942 5760999 2461
+(SOBBING) Mama.
+
+943 5768215 2335
+(SOBBING)
+
+944 5781728 4254
+(LAUGHING, CHATTERING)
+
+945 5792864 2503
+MAN : Hi, everybody.
+As most of you know,
+
+946 5795492 2586
+I'm not used to doing this,
+
+947 5798203 3587
+and I promised Anna
+that I'd try not to embarrass her.
+
+948 5801915 4129
+I'll leave that to her mother.
+(CHUCKLES)
+
+949 5806169 2127
+But we do want to thank
+all of you for coming...
+
+950 5808421 2795
+and for sharing
+this wonderful day with us.
+
+951 5811341 2794
+It's bittersweet almost, for me,
+
+952 5814261 2168
+'cause I hate giving her up.
+
+953 5816555 2127
+MALCOLM : Anna?
+
+954 5819933 2586
+(APPLAUSE ON TELEVISION)
+
+955 5828567 1918
+I miss you.
+
+956 5836408 2544
+I miss you too.
+
+957 5839077 2753
+Why, Malcolm?
+
+958 5841955 2711
+What?
+
+959 5846459 3587
+- What is it?
+- Why did you leave me?
+
+960 5850171 3254
+I didn't leave you.
+
+961 5856636 3170
+(OBJECT CLATTERS)
+
+962 5874112 3754
+COLE : I see people.
+
+963 5877991 2419
+They don't know they're dead.
+
+964 5884623 4713
+MALCOLM : How often do you see them?
+COLE : All the time.
+
+965 5892047 1835
+COLE : They're everywhere.
+
+966 5905352 2419
+They only see what they want to see.
+
+967 5913193 3503
+(MALCOLM ON TV) Okay, Mikey.
+
+968 5916821 3212
+Come on.
+Give me a minute.
+
+969 5923286 2586
+(DOORKNOB TURNING)
+
+970 5931002 1877
+(PANTING)
+
+971 5943223 2544
+(EXHALES DEEPLY)
+
+972 5945892 1877
+(SHIVERING)
+
+973 5951022 2044
+(GUNSHOT)
+
+974 5953191 2211
+(ANNA SCREAMS)
+
+975 5955527 2461
+(WHIMPERING)
+
+976 5958113 2294
+Oh, God.
+(GROANING)
+
+977 5960532 3628
+(MUMBLING) - It doesn't even hurt.
+- Let me see.
+
+978 5966746 3212
+Let me see. Put your hand...
+(GROANING)
+
+979 5970083 2211
+Oh, God.
+
+980 5977716 2043
+(BREATHING HEAVILY)
+Okay.
+
+981 5985348 2127
+(GRUNTS)
+
+982 5995525 3045
+(SOBBING)
+
+983 5998695 3795
+I think I'm okay.
+Really, I think it just went...
+
+984 6002616 2294
+went in and out.
+
+985 6007996 3170
+It doesn't even hurt anymore.
+
+986 6040528 2503
+I think I can go now.
+
+987 6046785 2377
+I just needed to do a couple things.
+
+988 6054334 2628
+I needed to help someone.
+
+989 6059548 2210
+I think I did.
+
+990 6067889 2670
+And I needed to tell you something.
+
+991 6075397 3086
+You were never second.
+
+992 6078608 2544
+Ever.
+
+993 6083405 2627
+I love you.
+
+994 6091663 2169
+You sleep now.
+
+995 6095792 2544
+Everything will be
+different in the morning.
+
+996 6104509 2878
+Good night, Malcolm.
+
+997 6112309 2377
+Good night, sweetheart.
+

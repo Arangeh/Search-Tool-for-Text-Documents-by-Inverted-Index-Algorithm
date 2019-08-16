@@ -1,0 +1,3038 @@
+1 18602 2293
+(ANIMAL CALLING)
+
+2 22356 3544
+(INSECT GRUNTING)
+
+3 25984 2961
+(ANIMAL GRUNTING)
+
+4 114573 3044
+(DIDGERIDOO PLAYS)
+
+5 127503 3294
+MAN ON RADIO: Thundershowers are
+expected in the Crocodile Falls area
+
+6 130881 3502
+and some ofthe surrounding gullies,
+so take out your...
+
+7 139097 1960
+WOMAN: Cody!
+
+8 141141 1125
+Yeah, Mom?
+
+9 142351 3377
+- What about your breakfast?
+- I've got some sandwiches in my pack.
+
+10 146104 3128
+- Be home for supper.
+- No worries, Mom.
+
+11 151902 2460
+(DIDGERIDOO PLAYS)
+
+12 160828 2209
+(BIRDS CALLING)
+
+13 166083 2209
+I know, I'm coming.
+
+14 168377 3127
+Hustle up, Nelson.
+Faloo's sounding the call!
+
+15 171588 2126
+(DIDGERIDOO PLAYS)
+
+16 178971 2626
+Come on, little wombats, hurry!
+
+17 193861 4003
+- (DIDGERIDOO PLAYS)
+- Who's caught this time?
+
+18 197948 1125
+You don't know her, Cody.
+
+19 199157 2544
+Her name is Marahute,
+the great golden eagle.
+
+20 201785 958
+Where is she?
+
+21 202828 3044
+She's caught, high on a cliff
+in a poacher's trap.
+
+22 206123 2585
+- You're the only one who can reach her.
+- I'll get her loose.
+
+23 208792 3002
+Righto. Hop on, no time to lose.
+
+24 230814 4170
+She's up on top of that ridge.
+Be careful, little friend.
+
+25 261678 2001
+Marahute!
+
+26 272147 2502
+(SCREECHING)
+
+27 275359 2793
+Calm down, calm down.
+
+28 278236 1668
+I'm not gonna hurt you.
+
+29 280405 2627
+That's a girl. Stay still.
+
+30 284576 1959
+It's okay.
+
+31 289331 2627
+No, wait! I'm here to help you.
+
+32 293043 1667
+Easy! Easy!
+
+33 302135 1501
+You're free!
+
+34 303720 2627
+(SCREAMING)
+
+35 324449 1042
+(GRUNTS)
+
+36 362863 1750
+Higher!
+
+37 370454 2084
+(MARAHUTE CALLING)
+
+38 375042 1583
+CODY: Whoa!
+
+39 376710 1751
+(LAUGHING)
+
+40 379296 1250
+(SCREECHES)
+
+41 381590 1750
+(MIMICS MARAHUTE)
+
+42 411244 2710
+(CODY LAUGHING)
+
+43 422881 4545
+- (BIRDS SQUAWKING)
+- Whoa!
+
+44 444820 1083
+(CALLING)
+
+45 464172 1918
+Wow.
+
+46 490907 1542
+You're a mom!
+
+47 496329 3545
+They're very warm.
+Are they gonna hatch soon?
+
+48 500000 2168
+(COOING)
+
+49 515682 1417
+Where's the daddy eagle?
+
+50 521688 2502
+Oh. My dad's gone, too.
+
+51 525567 3711
+(WHIMPERS)
+
+52 579496 2501
+(MARAHUTE CALLS)
+
+53 583166 3127
+(MIMICS PLANE)
+
+54 592384 3335
+(BELL JINGLING)
+
+55 599140 3002
+(GROANS)
+
+56 603186 1292
+(GASPING)
+
+57 605021 2752
+(CHUCKLING)
+Hey, little fella, what happened to you?
+
+58 607857 1459
+Oh, no! Get away!
+
+59 609401 2626
+- Don't worry. I'll get you loose.
+- It's a trap. Careful!
+
+60 613613 2502
+(ALARM BEEPING)
+
+61 621538 1459
+(ENGINE STARTING)
+
+62 623081 3961
+MAN: (LAUGHING) Got one!
+
+63 628628 2627
+- Are you all right?
+- Yeah, I think so.
+
+64 631631 3044
+- Okey-dokey.
+- Wait! Hey, come back!
+
+65 642434 4503
+(MOUSE GROANING)
+
+66 648815 1501
+Here you go, grab on.
+
+67 650400 4003
+That's great. Just a little more,
+a little further...
+
+68 654738 2084
+There! I got it.
+
+69 658408 2001
+(RUMBLING)
+
+70 661911 3128
+- Oh-oh.
+- (BIRDS SQUAWKING)
+
+71 679888 1959
+(SHRIEKS)
+
+72 689230 1793
+(DOOR OPENS, CLOSES)
+
+73 693068 2042
+- (SNARLS)
+- (SCREAMS)
+
+74 696279 2585
+- (GUN COCKING)
+- Well, Joanna, what'd we get today?
+
+75 698948 4254
+A dingo, a fat ol' razorback,
+or a nice big...
+
+76 703286 1250
+Boy?
+
+77 707582 2251
+(JOANNA GROWLS QUIETLY)
+
+78 711795 2543
+Joanna, you been diggin' holes
+out here again?
+
+79 714422 3419
+Dumb lizard always trying
+to bury squirrels out here.
+
+80 718301 3711
+Uh-uh. It's a trap,
+and poaching's against the law.
+
+81 722263 3253
+Trap? Where'd you get
+an idea like that?
+
+82 725600 3044
+I think you've been
+down in that hole for too long.
+
+83 729646 1959
+Come on, grab hold.
+
+84 736444 4337
+We'll get you out of this old lizard hole
+and you can just run along home.
+
+85 741324 2794
+This is a poacher's trap
+and you're a poacher.
+
+86 744202 1500
+(JOANNA SNARLS)
+
+87 745787 1417
+(SCREAMING)
+
+88 747288 1126
+(GUNSHOT)
+
+89 748498 2001
+Let go! Hey, get off of me.
+
+90 752168 1834
+McLEACH: I'm gonna kill her.
+
+91 754087 5671
+I'm gonna kill that dumb, slimy,
+egg-sucking salamander.
+
+92 759843 3002
+- Cut it out! Get off of me.
+- (GUN COCKING)
+
+93 764097 2710
+(WHIMPERS)
+
+94 772730 1251
+Hmm.
+
+95 774899 2252
+Good girl, Joanna.
+
+96 779904 2168
+Say, where'd you get
+this pretty feather, boy?
+
+97 782532 1375
+It was a present.
+
+98 783992 2835
+That's real nice. Who gave it to you?
+
+99 787537 1584
+It's a secret.
+
+100 789414 2293
+That's no secret, boy.
+
+101 791833 3336
+You see, I already got the father.
+
+102 796713 1167
+(CHUCKLING)
+
+103 797964 3711
+You just tell me where Momma
+and those little eggs are.
+
+104 802051 1376
+No!
+
+105 803595 1625
+Joanna, sic him!
+
+106 829329 1542
+You're coming with me, boy.
+
+107 830955 2001
+My mom'll call the rangers!
+
+108 833333 2751
+Oh, no. Not the rangers. What'll I do?
+
+109 836711 3419
+What'll I do?
+Don't let your mom call the rangers!
+
+110 840215 2126
+Please don't!
+
+111 844219 3919
+"My poor baby boy got eaten
+by the crocodiles!"
+
+112 848473 2418
+Boo hoo hoo.
+
+113 850975 1209
+Let's go, boy!
+
+114 853603 3836
+Help!
+
+115 863446 2168
+(THUNDER RUMBLING)
+
+116 873289 3169
+Help! Someone, help!
+McLeach took a little boy.
+
+117 876543 1417
+Send for help!
+
+118 878044 3961
+(BEEPING)
+
+119 898565 2793
+(BEEPING CONTINUES)
+
+120 912912 2669
+(ELECTRICAL HUMMING)
+
+121 915665 2501
+(BEEPING)
+
+122 925133 2543
+(ELECTRICAL STATIC, BLEEPS)
+
+123 936811 1375
+(WHISTLING)
+
+124 945987 2793
+(TELEPHONE RINGING)
+
+125 988821 2794
+(WIND HOWLING)
+
+126 995828 2126
+(BEEPING)
+
+127 1004921 3878
+Code red, code red! Attention
+all Rescue Aid Society delegates.
+
+128 1008883 3294
+All delegates report immediately
+to the main assembly hall.
+
+129 1012261 1751
+This is an emergency meeting.
+
+130 1014097 3252
+I repeat, this is a code red
+emergency meeting!
+
+131 1017600 2043
+(TAPPING)
+
+132 1019852 1334
+Order!
+
+133 1021688 3377
+Yes, I know it's late, but I'm...
+Really? Pajamas?
+
+134 1025149 2544
+Hello, Frank, how are you?
+Nice to see you!
+
+135 1027777 1751
+And Esmerelda, there you are!
+
+136 1029779 2627
+Quiet now, please,
+everyone pay attention.
+
+137 1032490 2752
+There has been
+a kidnapping in Australia.
+
+138 1035368 2793
+- (ALL GASP)
+- A young boy needs our help.
+
+139 1038246 3377
+This is a mission
+requiring our very finest,
+
+140 1041708 5129
+and I know we are all thinking
+ofthe same two mice. (CHUCKLING)
+
+141 1047922 3669
+- (ALL GASP)
+- What's this? Gone?
+
+142 1051676 4045
+We must find Bernard
+and Miss Bianca at once!
+
+143 1068025 1960
+Oh, pea soup.
+
+144 1080496 1668
+Pea soup!
+
+145 1093217 1417
+(INDISTINCT CHATTERING)
+
+146 1094719 1876
+(INDISTINCT LAUGHING)
+
+147 1097346 4379
+To my dear Bernard,
+and our wonderful partnership.
+
+148 1102101 3378
+Uh, yeah, wonderful.
+
+149 1108316 4837
+You've been very quiet this evening.
+Is there something on your mind?
+
+150 1113488 2334
+Well, um, actually...
+
+151 1116032 3794
+- I was wondering...
+- Yes, darling?
+
+152 1120369 2627
+I... Miss Bianca, would you...
+
+153 1124624 1167
+Would you...
+
+154 1126167 2084
+Would you excuse me for a minute?
+
+155 1146562 3336
+Pardonnez-moi, Mademoiselle Bianca,
+I have important news.
+
+156 1149982 1793
+Yes, François? What is it?
+
+157 1152235 2251
+You and Bernard
+have been asked to accept
+
+158 1154570 2502
+a dangerous mission to Australia.
+
+159 1157406 4045
+The poor boy. This is dreadful.
+
+160 1161744 2585
+Now where is Bernard?
+I must tell him at once!
+
+161 1164580 3461
+Allow me, madame,
+I will tell him immediately.
+
+162 1186227 1375
+Miss Bianca, will you marry me?
+
+163 1187687 3127
+Quickly, Monsieur Bernard!
+I must speak with you.
+
+164 1190898 3670
+- Not now, François, I'm busy!
+- No, monsieur, you don't...
+
+165 1198322 3878
+- Bernard, did you talk to François?
+- Yes, but there's something I want...
+
+166 1202285 3502
+I know what you're going to say.
+François told me about it.
+
+167 1205997 1041
+He did? How did he...
+
+168 1207123 3461
+It doesn't matter,
+I think it's a marvelous idea.
+
+169 1210751 1209
+You do?
+
+170 1212378 1751
+I mean, you really want to?
+
+171 1214255 4211
+I don't think it's a matter of wanting,
+it's a matter of duty.
+
+172 1218968 2877
+Duty? I never thought of it...
+
+173 1221929 3753
+Well, all right.
+How does next April sound to you?
+
+174 1225766 3753
+Heavens, no!
+We must act immediately, tonight!
+
+175 1229812 2668
+Tonight? But wait!
+
+176 1232982 4587
+Bianca, this is so sudden. I mean, don't
+you at least need a gown or something?
+
+177 1237737 3919
+No, just a pair of khaki shorts
+and some hiking boots!
+
+178 1241908 1166
+Hiking boots?
+
+179 1243242 2168
+- (CROWD APPLAUDS)
+- Oh, there you are.
+
+180 1245494 2252
+Come along, come along.
+
+181 1251334 3627
+Delegates, we have
+an important announcement.
+
+182 1255087 4879
+Bernard and I have decided
+to accept the mission to Australia.
+
+183 1260051 1000
+Australia?
+
+184 1261177 3419
+Good show!
+Now, you must fly out immediately!
+
+185 1264680 3294
+It's a little nippy outside,
+but we won't let that stop us, will we?
+
+186 1268059 1250
+(CHUCKLING)
+
+187 1277526 2377
+(WIND HOWLING)
+
+188 1282573 2043
+BERNARD: Miss Bianca,
+I'm not sure it's a good idea
+
+189 1284700 2001
+to fly this soon after eating!
+
+190 1286786 2418
+MISS BIANCA:
+Darling, you'll be just fine!
+
+191 1289372 3127
+But aren't you supposed
+to wait 45 minutes?
+
+192 1292583 5171
+Oh, just knock on the door
+and see if Orville is there!
+
+193 1301676 2001
+Nobody's home, let's go.
+
+194 1303886 4837
+This is no time to play in the snow.
+
+195 1309392 3085
+I wasn't playing in the snow.
+It was an avalanche.
+
+196 1312561 2127
+Look, Bernard!
+
+197 1314772 2960
+"Under new management, see Wilbur."
+
+198 1319527 2334
+(UP-TEMPO MUSIC PLAYS)
+
+199 1321988 3002
+Come on, darling. Let's get a move out!
+
+200 1330830 3335
+(MUSIC PLAYING)
+
+201 1338254 1500
+(SINGING ALONG)
+I'm the cat's pajamas
+
+202 1339839 2209
+Always run around
+with crazy little mamas
+
+203 1342174 1125
+Whoo!
+
+204 1343676 2084
+Yoo-hoo! Mr. Wilbur!
+
+205 1345845 1709
+Get down there, son!
+
+206 1347638 1084
+Hello?
+
+207 1349390 3210
+Pick it, boy, pick it! Yeah!
+
+208 1354437 3502
+Whoo! Here we go! Let's walk!
+
+209 1359692 1042
+Whoo!
+
+210 1361027 2584
+Look out! Excuse me, sir.
+
+211 1363696 3586
+Do something! He can't hear us!
+
+212 1367450 2126
+WILBUR: Big time, big time!
+
+213 1370661 2543
+The girls all look when I go by...
+
+214 1373289 2126
+- (MUSIC STOPS)
+- Who killed the music?
+
+215 1375499 1167
+That's better.
+
+216 1377460 4253
+Excuse us for interrupting.
+We're from the Rescue Aid Society.
+
+217 1382298 2251
+I am Miss Bianca, and this is my...
+
+218 1384633 2419
+The Miss Bianca? I don't believe it.
+
+219 1387136 4420
+My brother, Orville, told me all about
+you. Boy. This is an honor to have...
+
+220 1391807 3127
+May I just say, "Enchanté. Señorita,"
+to you? May I?
+
+221 1395019 2168
+- (SMOOCHING)
+- (CLEARS THROAT)
+
+222 1397646 2252
+We need to charter a flight.
+
+223 1399982 3711
+You've come to the right place,
+buddy boy. Welcome to...
+
+224 1404070 3502
+"Albatross Air.
+A fair fare from here to there."
+
+225 1407823 3711
+(CHUCKLING) Get it? A fair fare?
+It's a play on... Never mind.
+
+226 1411619 3043
+I've got tons of exotic
+destinations, faraway places,
+
+227 1414955 1417
+custom designed for
+
+228 1416457 2084
+(IN ACCENT)
+A romantic weekend getaway.
+
+229 1419210 2167
+The finest in-flight accommodations.
+
+230 1421670 2293
+Speaking of which, what can I get you?
+
+231 1424340 3419
+How about a nice mango Maui cooler?
+Very nice, very tasty.
+
+232 1427843 1167
+No, thank you.
+
+233 1430429 2585
+A coconut, guava nectar?
+It's carbonated.
+
+234 1433099 3168
+I got little umbrellas for each one,
+and a little coconut thing.
+
+235 1436352 3502
+- It's urgent that we leave immediately!
+- Nothing? Nothing at all?
+
+236 1440523 2876
+- How about a cream soda?
+- We need a flight to Australia.
+
+237 1443567 2210
+Australia? The land down under?
+
+238 1445861 3544
+That's a fabulous idea!
+So when can I pencil you in?
+
+239 1449615 2919
+After spring thaw?
+Mid-June would be very nice.
+
+240 1452660 1959
+We must leave tonight.
+
+241 1455746 1709
+Tonight? (GASPING)
+
+242 1459166 1751
+Come on, you're kidding me, right?
+
+243 1461377 3335
+Have you looked outside?
+It's suicide out there.
+
+244 1464797 2168
+Oh, no. Oh, no.
+
+245 1467049 3044
+I'm afraid your jolly little holiday
+will have to wait.
+
+246 1470219 1334
+What a bunch ofjokers.
+
+247 1471637 3753
+But you don't understand,
+a boy needs our help. He's in trouble.
+
+248 1475474 3211
+Boy? You mean, a little kid kinda boy?
+
+249 1478769 1250
+He was kidnapped.
+
+250 1480437 3461
+Kidnapped? Oh, that's awful.
+
+251 1483983 2209
+Locking up a little kid.
+
+252 1486485 1334
+A kid should be free.
+
+253 1488070 2960
+Free to run wild through the house
+on Saturday mornings.
+
+254 1491115 3836
+Free to have cookies and milk,
+and get those little white mustaches.
+
+255 1495077 3419
+Nobody's gonna take
+a kid's freedom away while I'm around.
+
+256 1498789 2251
+Does that mean you'll take us?
+
+257 1501250 5171
+Storm or no storm,
+Albatross Airlines, at your service!
+
+258 1507381 2543
+Passengers are requested
+to fasten their seat belts
+
+259 1510009 1417
+and secure all carry-ons.
+
+260 1511552 4337
+We'll be departing following our
+pre-flight maintenance. Thank you.
+
+261 1516515 3211
+Loosen up, get the blood flowing
+up to the head.
+
+262 1519810 2293
+And a couple of these...
+
+263 1522229 1084
+(BACK CRACKS)
+
+264 1523397 2251
+Okay, one's enough, there we go.
+
+265 1527276 2752
+Ah, yeah! That feels better. Oh, baby.
+
+266 1530321 2167
+Tie your kangaroos down, sports fans!
+
+267 1532615 2543
+Here we come!
+
+268 1535242 4963
+Let's go for it! Whoa! Hey!
+I didn't adjust for the winds.
+
+269 1540289 2919
+All right, we're gonna make it!
+Gotta duck down lower.
+
+270 1543292 3544
+Go under the wind, go under it!
+Here we go! Whoo-hoo!
+
+271 1547963 1834
+Ow! This is cold!
+
+272 1551175 1917
+Slippery! Ice!
+
+273 1553177 1375
+We got ice!
+
+274 1554803 2001
+Whoa! Hang on now!
+
+275 1559725 1626
+Here we go!
+
+276 1562478 5421
+Whoa! Cowabunga!
+
+277 1569526 3002
+(TIRES SCREECHING)
+
+278 1572988 4045
+MISS BIANCA: Captain, is this
+a non-stop flight to Australia?
+
+279 1577117 3795
+Well, not exactly no.
+I could definitely say no.
+
+280 1580996 2835
+We're gonna have to make
+connections with a bigger bird.
+
+281 1583999 3127
+Non-stop? What do I look like,
+Charles Lindbergh?
+
+282 1599139 3378
+Let me out of here!
+Let me go! You can't do this!
+
+283 1602851 2502
+Help!
+
+284 1605437 1626
+Breaker, breaker, little mate.
+
+285 1607356 4837
+I forgot to tell you around here,
+you need to be quiet!
+
+286 1613612 2168
+Or the rangers might hearyou.
+
+287 1616156 3461
+Now sit down and relax,
+enjoy the view.
+
+288 1620327 4879
+Nothing but abandoned opal mines
+as far as the eye can see.
+
+289 1626792 3461
+And dead ahead, is home sweet home.
+
+290 1631005 2918
+(SINGING) Home, home on the range
+
+291 1634008 3210
+Where the critters
+are tied up in chains
+
+292 1637303 3794
+I cut through their sides
+And I rip off their hides
+
+293 1641181 2877
+And the next day, I do it again
+
+294 1644226 1000
+Everybody!
+
+295 1645311 3085
+Home, home on the range...
+
+296 1648897 3878
+WOMAN: Cody! Cody!
+
+297 1654737 2209
+Cody!
+
+298 1662786 4045
+MAN: Ladies and gentlemen, Flight 12
+is now approaching Sydney airport.
+
+299 1666915 3044
+Make sure your seat belts
+are fastened and tables secured.
+
+300 1670044 2209
+Enjoy your stay in Australia.
+
+301 1676425 2293
+- Are we there yet?
+- Yes.
+
+302 1678802 2085
+Perhaps we should wake up Wilbur.
+
+303 1681221 2168
+All right, I'll get him up.
+
+304 1683932 2752
+- Wilbur.
+- (SNORING)
+
+305 1687436 1125
+Wilbur!
+
+306 1689313 1542
+- Just five more minutes, Ma.
+- (MISS BIANCA SCREAMS)
+
+307 1690939 2544
+- Wilbur!
+- That's all I need, five more minutes.
+
+308 1693901 2835
+Wilbur, are you awake?
+
+309 1696820 2418
+- Get up, we're there!
+- I'm up, I'm up.
+
+310 1699323 1417
+Watch out!
+
+311 1702159 2460
+Must have been sleeping on a bolt.
+
+312 1706622 1792
+Oh, boy.
+
+313 1708582 3127
+Throw another shrimp on the barbie,
+'cause here I come!
+
+314 1711794 4086
+- Here we go again!
+- Cannonball!
+
+315 1717800 2793
+Wee! (GIGGLING)
+
+316 1720677 3044
+Gangway! Coming through.
+Mice on board!
+
+317 1723806 2251
+Clear the way!
+Move over madam, there you go!
+
+318 1726141 2377
+Coming through, sir. Thank you.
+
+319 1730979 3545
+(CHUCKLING)
+Next stop, Mugwomp Flats.
+
+320 1734608 2794
+Did we lose anyone back there?
+
+321 1737486 3753
+BERNARD: Miss Bianca, from now on,
+can't we just take the train?
+
+322 1751041 4295
+MALE VOICE: Well, Sparky,
+you've had this coming for a long time.
+
+323 1755796 1876
+And now, you're gonna get it.
+
+324 1759341 1000
+Ha!
+
+325 1767933 1292
+Wise fly.
+
+326 1769601 1209
+(CHUCKLING)
+
+327 1770978 1208
+WILBUR: Mugwomp tower,
+
+328 1772271 4587
+this is Albatross 1-3
+requesting permission to land. Over?
+
+329 1776984 2877
+Albatross? Let's see.
+
+330 1780362 1542
+Finch, wren, scrub-bird, lorikeet,
+
+331 1781989 1959
+freckled duck, galah,
+kookaburra, parrot,
+
+332 1784032 3002
+cockatoo, alba... It's a jumbo!
+
+333 1787870 1500
+Negative, you'll have to turn back.
+
+334 1789455 3252
+- Our runway isn't long enough for you.
+- WILBUR: Not long enough?
+
+335 1792791 2669
+Look pal,
+I can land this thing on a dime!
+
+336 1795544 2668
+BERNARD: Wilbur,
+ifthe runway isn't long enough...
+
+337 1798297 4086
+WILBUR: You can't let radarjockeys
+push you around. Leave it to me.
+
+338 1802468 3127
+I say again, mate,
+our runway is too short.
+
+339 1805679 3544
+And I say again, mate, I'm coming in!
+
+340 1809308 3419
+Crazy Yank. Quick, Sparky,
+we gotta extend the runway.
+
+341 1817649 1501
+Here we go!
+
+342 1819234 1459
+We'll never make it!
+
+343 1824781 1459
+Hot!
+
+344 1826742 1917
+Passengers, please remain seated
+
+345 1828744 2668
+until the aircraft comes
+to a full and complete stop.
+
+346 1831497 1667
+Thank you.
+
+347 1833707 2168
+Whoa!
+
+348 1839922 2334
+Quick, Sparky,
+we need to make a drag line!
+
+349 1853894 3419
+Don't try and tell me
+the runway's too short.
+
+350 1857523 2126
+Hold this for me, will you, pal?
+
+351 1863779 1834
+Bloke ought to have his wings clipped.
+
+352 1865697 2836
+Captain thanks you
+for flying Albatross Airlines...
+
+353 1868825 1251
+Crazy Yanks.
+
+354 1870160 3169
+They think they can do any fool thing
+without regard for...
+
+355 1881421 2043
+(SIGHS)
+
+356 1884132 1876
+Welcome to Australia, ma'am.
+
+357 1886093 3210
+Name's Jake. If there's any way
+I can make your stay pleasant,
+
+358 1890305 1334
+don't hesitate to ask.
+
+359 1891723 3253
+- Oh, how kind.
+- Allow me to get that bag for you.
+
+360 1895143 4212
+(CLEARS THROAT)
+I've got a lot of luggage here.
+
+361 1899439 1793
+Let me give you a hand with those.
+
+362 1901316 2210
+Part of the friendly service
+at Albatross...
+
+363 1903610 2335
+- (BACK CRACKS)
+- Ow! Big time hurt!
+
+364 1906029 1376
+Back! It's out!
+
+365 1907489 3002
+- Are you all right?
+- Don't worry, I'll handle this.
+
+366 1910576 3335
+Sparky, watch the tower.
+We gotta get this bird to the hospital.
+
+367 1913996 3502
+Can't go down, can't go up.
+Take the bags!
+
+368 1921962 1792
+MICE: Heave! Ho!
+WILBUR: What are you doing?
+
+369 1923839 2793
+What's going on? Wait!
+
+370 1927092 4003
+- Wait a minute. Just stop everything.
+- MISS BIANCA: Wilbur, don't worry.
+
+371 1931179 2585
+We'll come back the moment
+we find the boy.
+
+372 1933849 3169
+Wait! Wait a minute!
+Don't leave me here, please!
+
+373 1937102 3878
+I'm feeling much better now.
+I'm even ready to hit the beaches.
+
+374 1941356 2794
+I'm even ready to mambo. (HUMMING)
+
+375 1944234 1501
+- (BACK CRACKS)
+- Ow!
+
+376 1946028 2042
+Doctor, will he be all right?
+
+377 1948155 2960
+Now, my dear. Keep a stiff upper lip.
+
+378 1951325 3919
+They all come in with a whimper,
+and leave with a grin.
+
+379 1955412 4128
+Off with you now. Leave everything
+to me. Shoo, shoo. Off you go.
+
+380 1960125 3127
+Hop to it, ladies.
+We've got a bent bird on our hands.
+
+381 1963378 3586
+- Move, bustle, bustle. That's it.
+- Will it hurt, Doc?
+
+382 1967049 2293
+Dear boy, you won't feel a thing.
+
+383 1969635 3085
+- Launch the back brace!
+- WILBUR: Hey, wait!
+
+384 1972929 3837
+(SCREAMS) I've been skewered!
+
+385 1976850 2126
+I've already missed tea, Mr. Albatross.
+
+386 1979061 3961
+Now don't force me to take
+drastic measures. You must relax.
+
+387 1983106 3086
+Relax? I have never been
+more relaxed in my life!
+
+388 1986276 2627
+If I were any more relaxed, I'd be dead!
+
+389 1990364 1792
+I'm not convinced.
+
+390 1992366 1375
+60 milligrams!
+
+391 1993992 2126
+60 milligrams.
+
+392 1996203 1208
+WILBUR: Hey! What?
+
+393 1998121 2585
+Are you guys crazy?
+You can't do that to me!
+
+394 2000791 2167
+I'm an American citizen, buddy!
+
+395 2003043 1792
+- Better double it!
+- Double?
+
+396 2004920 2293
+- Double, coming up!
+- WILBUR: No!
+
+397 2007297 2210
+Prepare the albatross for medication.
+
+398 2009591 3711
+I'm dreaming!
+Come on, Wilbur. Wake up, boy!
+
+399 2013387 1542
+- DOCTOR: Three degrees right.
+- Come on!
+
+400 2015055 2627
+- Three degrees right.
+- Down two degrees.
+
+401 2017766 1250
+Don't go down two!
+
+402 2019101 1458
+- Down two degrees.
+- Ready!
+
+403 2020769 1918
+No, I'm not ready! No, please!
+
+404 2022771 1000
+Aim!
+
+405 2024564 2085
+Please don't do this to me.
+
+406 2026733 1000
+DOCTOR: Fire!
+
+407 2027818 2334
+- (GUNSHOT)
+- WILBUR: Ow!
+
+408 2030237 3294
+Oh! Oh! (MOANING)
+
+409 2033865 2210
+Now we just gotta
+figure out how to get there.
+
+410 2036159 4712
+So are you and your husband here
+on a little outback excursion?
+
+411 2040956 2001
+No, we're not married.
+
+412 2045127 3252
+In fact, we're here
+on a top secret mission.
+
+413 2048463 1626
+Very hush-hush.
+
+414 2050799 2043
+Gonna rescue that kid
+McLeach nabbed?
+
+415 2052926 2627
+Why, that's right! How did you know?
+
+416 2055637 3503
+You'll find it's tough
+to keep secrets in the outback, miss.
+
+417 2059433 2501
+So which way you taking?
+
+418 2062060 3461
+Suicide Trail through Nightmare
+Canyon, or shortcut at Satan's Ridge?
+
+419 2065605 2210
+- "Suicide Trail"?
+- Good choice.
+
+420 2068066 2335
+More snakes, less quicksand.
+
+421 2070485 4128
+Then once you cross Bloodworm Creek,
+you're scot-free, that is until...
+
+422 2075031 1292
+Dead Dingo Pass.
+
+423 2076408 4420
+Wait a minute, I don't see
+any of that stuff on the map.
+
+424 2080912 1960
+A map's no good in the outback!
+
+425 2083165 4587
+What you really need is someone
+who knows the territory.
+
+426 2087836 2585
+Mr. Jake, will you guide us?
+
+427 2090505 1918
+At your service!
+
+428 2092507 3586
+Better take my arm, miss.
+It's gonna be a treacherous hike.
+
+429 2096178 4086
+I remember the time it was just me
+and 400 of these big, giant...
+
+430 2100348 3002
+Doesn't even know how to fold a map.
+
+431 2109024 2960
+This is how we get around
+in the outback, Miss B.
+
+432 2112694 2627
+The only way to travel, Berno.
+
+433 2115405 3544
+Yeah, it's just a little bumpy back here.
+
+434 2125499 3544
+Cinch up your seat belts, mates.
+We're coming in for a landing.
+
+435 2132631 2585
+Hold it, not yet!
+
+436 2136927 1750
+(GRUNTING)
+
+437 2160575 2418
+Well, boy, let's see
+if we can do something
+
+438 2163078 3627
+to refresh that
+rusty, old memory of yours.
+
+439 2170252 2751
+Is she on Satan's Ridge?
+
+440 2173088 3461
+Or Nightmare Canyon?
+
+441 2176883 1042
+What do you think?
+
+442 2179594 2877
+- (GROWLS)
+- Yeah, that's it.
+
+443 2182556 4712
+Right smack dab in the middle
+at Croc Falls!
+
+444 2188436 3503
+- Am I getting warm?
+- I told you, I don't remember.
+
+445 2192023 4254
+Don't you realize
+a bird that size is worth a fortune?
+
+446 2197153 3044
+I'll split the money 50/50.
+You can't get a better offer than that.
+
+447 2200282 3586
+You won't have any money
+after the rangers get through with you.
+
+448 2204160 3044
+(GROANS)
+
+449 2210709 2459
+(GROWLS)
+
+450 2218800 2001
+BERNARD: Jake's been gone... Ow!
+
+451 2222137 2168
+Been gone a long time.
+
+452 2224472 2001
+Maybe I should go... Oh!
+
+453 2227475 1668
+Maybe I should go look for him.
+
+454 2229311 3377
+Don't you worry about Jake.
+He can handle himself.
+
+455 2233189 1292
+Yeah, I noticed.
+
+456 2234774 2460
+I am just sure he'll be back in no time.
+
+457 2245660 4212
+You know,
+now that we're alone, there's...
+
+458 2249998 3461
+There's something that
+I've been wanting to ask you.
+
+459 2253543 1959
+Yes? What is it?
+
+460 2255587 3085
+Well, it's like this.
+
+461 2259007 4587
+Miss Bianca, I would be most honored
+
+462 2264554 1542
+if...
+
+463 2266222 1876
+Look out!
+
+464 2269559 1042
+(SCREAMS)
+
+465 2272437 2793
+No mice for you, Twister, not today!
+
+466 2275357 1000
+There!
+
+467 2277776 1375
+Miss Bianca!
+
+468 2279235 2544
+I've been looking all over for you.
+
+469 2281863 1626
+Now look.
+
+470 2283865 3461
+We got a long way to go,
+and you're gonna take us there.
+
+471 2287452 2627
+You're not gonna give us
+any trouble about it.
+
+472 2290830 1960
+Right?
+
+473 2294876 3377
+They're harmless once you look them
+in the eye, let them know who's boss.
+
+474 2298338 2793
+Ain't that right, mate? Now get.
+
+475 2301216 4754
+It's all right, Bernard.
+Jake has everything under control.
+
+476 2306054 2543
+Yeah, I noticed.
+
+477 2310225 4503
+You know, Miss Bianca, truth be told,
+I used to be quite a dingo wrestler.
+
+478 2315146 2919
+There was this one time,
+it was just me and 300
+
+479 2318191 2502
+of these ferocious,
+mouse-eating dingoes.
+
+480 2320777 2293
+Had me surrounded...
+
+481 2326950 1625
+(SIGHS)
+
+482 2332539 2168
+(DOOR OPENS)
+
+483 2338336 1876
+(DOOR SLAMS)
+
+484 2340505 2293
+I'll give you a night down here
+to think it over.
+
+485 2344718 4211
+But tomorrow, no more Mr. Nice Guy.
+
+486 2350015 1000
+(JOANNA SHRIEKS)
+
+487 2351099 2752
+Joanna! You thick-headed
+chunk of fish-bait!
+
+488 2353935 1501
+(JOANNA WHIMPERS)
+
+489 2356479 2001
+I'll never tell you where she is!
+
+490 2358898 2293
+Never! Never!
+
+491 2363153 4920
+Yeah, we'll never tell!
+You'll have to drag it out of us!
+
+492 2368491 1793
+Hey, where did you come from?
+
+493 2371619 1334
+The desert?
+
+494 2373038 3377
+Well, fancy that!
+
+495 2376624 3378
+Looks like McLeach
+has begun trapping his own kind!
+
+496 2380420 2627
+There's no hope for any of us now.
+
+497 2383131 2043
+No hope? No hope!
+
+498 2385508 2710
+- No!
+- But there must be a way out of here.
+
+499 2388303 2168
+There's a way out, all right.
+
+500 2390764 1166
+ALL: There is?
+
+501 2392015 1542
+Absolutely.
+
+502 2393808 5421
+You'll go as a wallet, you'll go
+as a belt, and our dear Frank...
+
+503 2399314 2752
+- I don't want to hear it.
+- Frank will go as...
+
+504 2402150 1792
+I can't hear you!
+
+505 2404027 2960
+(SINGING NONSENSICALLY)
+
+506 2408907 2668
+- A purse.
+- (WAILING) No!
+
+507 2411659 2085
+A lovely ladies' purse.
+
+508 2413828 2794
+I don't want to go as a purse.
+
+509 2417207 2376
+Please, don't let him do it!
+
+510 2419667 2919
+- Don't worry, we'll get out of here.
+- We are?
+
+511 2422670 4629
+Yeah. If we all put our heads together,
+I'm sure we'll think of something.
+
+512 2427383 2085
+Yeah, something.
+
+513 2429886 1459
+Frank, what's wrong?
+
+514 2431429 2168
+Oh, here he goes again.
+
+515 2433723 2710
+Take it easy.
+You don't want to hurt yourself again.
+
+516 2436726 2335
+Ooh. I got it!
+
+517 2440021 2251
+All we gotta do is get the keys!
+
+518 2442398 5672
+Oh. Is that all? Well then,
+we better start packing our bags.
+
+519 2448154 1876
+No, wait. He's right.
+
+520 2450406 2919
+If we could get
+these long pieces of wood...
+
+521 2453409 1751
+Yeah, wood, good.
+
+522 2455245 2459
+- Maybe we could...
+- (SQUAWKS)
+
+523 2458915 3377
+CODY: That's right,
+just a little more. There!
+
+524 2462377 2460
+Come on, everybody.
+Get some more stuff!
+
+525 2464921 3127
+The kid's right.
+What are we waiting for?
+
+526 2469926 2168
+CODY: That's it, you've got it!
+
+527 2473388 2168
+Hurry. We need something
+to tie it together.
+
+528 2478893 2752
+FRANK: Hey, what do you got?
+
+529 2481980 1041
+Shoelaces!
+
+530 2488570 1542
+Almost.
+
+531 2492740 3420
+- A little further.
+- FRANK: Yeah, yeah. (MOANS)
+
+532 2496244 3461
+- It's okay. Let's try again.
+- Yeah, yeah.
+
+533 2500081 2251
+CODY: Easy. Easy does it.
+
+534 2502584 2334
+Yeah, no, no! Yeah, yeah.
+
+535 2505003 1917
+Will somebody shut him up?
+
+536 2508131 2460
+CODY: We did it!
+FRANK: You've got it!
+
+537 2517599 4420
+(SNARLING)
+
+538 2532030 2126
+(SCOFFS)
+
+539 2545501 5213
+I've got it! I'll just take my tail,
+and I'll pick the lock, like this!
+
+540 2551633 1458
+Frank, give it a rest.
+
+541 2553176 1834
+You'll thank me when you're free.
+
+542 2555094 4587
+Look, I just insert my tail,
+like this, and I turn it like this,
+
+543 2559807 4003
+just a quarter turn to the left,
+and then push it a little bit further.
+
+544 2564062 3127
+(BABBLING INCOHERENTLY)
+
+545 2573363 2459
+(CHUCKLING)
+Show him who's boss, Berno!
+
+546 2590588 1793
+(SNEEZES)
+
+547 2608356 1500
+(GROANS)
+
+548 2610358 2919
+I feel like I got my head in a vice.
+
+549 2616906 1626
+Oh!
+
+550 2619867 1918
+(HUMMING)
+
+551 2622036 2252
+- Are we ready, nurse?
+- Ready, Doctor.
+
+552 2624789 2835
+All right, ladies, snap to it!
+
+553 2627875 1418
+(HOWLS)
+
+554 2629377 1709
+Ooh, that smarts!
+
+555 2632422 2334
+Ah, let me see here.
+
+556 2634841 2001
+(HUMMING)
+
+557 2636926 1834
+(MACHINE BEEPING)
+
+558 2638845 2126
+- Forceps!
+- Forceps.
+
+559 2641389 2335
+Oh, no, what now?
+
+560 2645268 3753
+- Spinal stretch-u-lator.
+- (MOANS) That's gonna hurt.
+
+561 2650189 1042
+Artery router.
+
+562 2652150 1167
+Mother!
+
+563 2653401 4086
+This is rusted tight. I wouldn't
+dream of using such a tool.
+
+564 2657947 2460
+Bring me
+the epidermal tissue disrupter!
+
+565 2660491 1835
+The epidermal what?
+
+566 2662660 2043
+Oh, no! No!
+
+567 2669417 1459
+(BELL RINGING)
+
+568 2671377 1918
+(ALARM SOUNDS)
+
+569 2673379 2460
+Mr. Albatross, we haven't operated yet!
+
+570 2675923 3211
+- You gotta catch me first, Doc.
+- Mr. Albatross, please!
+
+571 2679218 1751
+Cowabunga!
+
+572 2682430 3920
+Mr. Albatross, we must return you
+to the operating room!
+
+573 2686559 1667
+You'll never take me alive!
+
+574 2689103 1918
+Please don't do this!
+
+575 2691105 2794
+Your spine needs tender...
+
+576 2694359 3043
+...loving... care!
+
+577 2697487 1709
+(CRASH)
+
+578 2699280 2543
+Oh! Oh!
+
+579 2702075 4003
+(GASPS) My back!
+
+580 2706245 1376
+Hey! Hey!
+
+581 2707747 2168
+I can... It works! I'm cured!
+
+582 2710416 1668
+- My back!
+- (BACK CRACKS)
+
+583 2712919 2334
+Don't worry! I'm coming, you little mice.
+
+584 2715338 2460
+This is the finest fleet
+on two webbed feet.
+
+585 2718049 3919
+(GASPING) Oh, boy, I gotta go on a diet
+when I get home.
+
+586 2723137 2001
+Here we go!
+
+587 2730103 2376
+(KNOCK ON DOOR)
+
+588 2739320 2585
+MAN ON TV: In other news,
+authorities in Mugwomp Flats
+
+589 2741989 2210
+called offthe search
+for the missing boy.
+
+590 2744492 3711
+His backpack was found near
+Crocodile Falls, and rangers believe
+
+591 2748287 3002
+he was yet another victim
+ofcrocodile attack.
+
+592 2751499 3711
+Authorities once again warn residents
+to use extreme caution...
+
+593 2755378 3210
+(CACKLES) Think you're
+pretty smart, don't you?
+
+594 2758673 3127
+Who outsmarted who?
+Who? Who outsmarted who?
+
+595 2763845 2876
+I still gotta get that boy to talking.
+
+596 2770351 2960
+I'm hungry.
+Can't think on an empty stomach.
+
+597 2773396 3919
+Gotta have protein. Gotta have eggs.
+
+598 2779068 1417
+Everyone's got his price.
+
+599 2780820 2209
+All I gotta do is offer him
+whatever he wants,
+
+600 2783322 2127
+and then not give it to him.
+
+601 2789370 1459
+Did you take one of my eggs?
+
+602 2791914 1000
+Open your mouth.
+
+603 2796043 2710
+These are not Joanna eggs.
+
+604 2799755 2460
+- (GULPS)
+- Let's see. The boy's got the eagle.
+
+605 2802800 1626
+I want the eagle.
+
+606 2804510 2043
+The boy won't give me the eagle.
+
+607 2811726 2334
+If I could just find the boy's weak spot,
+
+608 2814145 3461
+I could get him to tell me
+where the eagle is.
+
+609 2826032 5045
+But the boy's only got one weak spot,
+and that is the eagle.
+
+610 2837084 4129
+Maybe if I stuck him in a giant anthill,
+
+611 2841631 2042
+that would loosen his tongue and then...
+
+612 2843758 2835
+- I got it!
+- (JOANNA HOWLS)
+
+613 2846677 2460
+Got your hand caught in the cookie jar.
+
+614 2849555 2835
+Who you think you're messing with,
+you dumb animal?
+
+615 2852475 5296
+My mental facilities are twice
+what yours are, you pea brain.
+
+616 2862485 4045
+Joanna, I give you platypus eggs,
+I give you snake eggs,
+
+617 2866614 5338
+why, I'll even give you eagle eggs,
+but I want you to stay away from my...
+
+618 2874455 2543
+The eagle's eggs!
+
+619 2877291 1334
+That's it!
+
+620 2879377 2084
+That's the boy's weak spot!
+
+621 2881546 1542
+(WHIMPERS)
+
+622 2884340 2084
+Push it in a little bit farther,
+
+623 2886509 2126
+take it back a little bit...
+
+624 2896686 2626
+(BAWLING)
+
+625 2899522 1959
+I give up!
+
+626 2901566 3544
+I'll never get this. We're doomed!
+
+627 2905319 1876
+Doomed!
+
+628 2908948 2585
+Hey, look! Krebbs, Frank's out!
+
+629 2911951 1959
+Frank, you're free!
+
+630 2913995 1250
+Free?
+
+631 2916914 2919
+I'm free! I'm free! I'm free!
+
+632 2920042 2585
+Shh! Joanna'll hear!
+
+633 2923796 2543
+Double or nothing,
+he's caught in five minutes.
+
+634 2927049 2710
+- Calm down, little mate.
+- Didn't I tell you?
+
+635 2929844 2543
+Look at me, I'm free!
+
+636 2932513 1459
+Frank, get the keys.
+
+637 2934724 1292
+I should get the keys.
+
+638 2938102 1250
+I'm stuck!
+
+639 2939478 1793
+Shh! Quiet!
+
+640 2941355 1542
+Quiet, you fool!
+
+641 2942982 2710
+Take it easy, I'll get you loose.
+
+642 2946068 1292
+There you go.
+
+643 2947445 3836
+- (GURGLES)
+- Now go get the keys.
+
+644 2951907 2252
+The keys.
+Yeah, yeah. Keys, keys, keys.
+
+645 2956704 1208
+I can't reach them.
+
+646 2957997 1917
+Quick, get something to stand on.
+
+647 2959999 1876
+Stand on, something to stand on.
+
+648 2962126 1334
+This ought to be rich.
+
+649 2963544 1834
+Stand on...
+
+650 2971719 1167
+ALL: Frank.
+
+651 2974013 3169
+Use the box! Climb up on the box!
+
+652 2977475 2334
+Of course, a box!
+
+653 2990613 2835
+- Quiet!
+- These darn things are heavy!
+
+654 2993699 2335
+(ALL GASPING)
+
+655 2996118 1042
+(SIGHING)
+
+656 3006712 1000
+Whoops.
+
+657 3007797 2960
+- (FRANK HOWLS)
+- (JOANNA SNARLS)
+
+658 3012218 2376
+The keys, give us the keys!
+
+659 3017431 2001
+Over here! Give us the keys!
+
+660 3030486 2335
+Yee-haw! Ride him, Frank!
+
+661 3034156 2377
+Yah-hoo! Howdy, howdy!
+
+662 3036617 2168
+Howdy, howdy, howdy!
+
+663 3039036 2043
+(SCREAMS)
+
+664 3041163 1918
+(HOWLING)
+
+665 3045000 4963
+Let me in! Let me in! Let me in!
+
+666 3055469 2252
+No! No! No!
+
+667 3059306 3253
+No! No! No! No!
+
+668 3066313 2419
+(SCREAMS)
+
+669 3068816 1626
+(GUNSHOT)
+
+670 3074655 2835
+Huh. Missed. (GURGLES)
+
+671 3080035 1126
+McLEACH: Surprise!
+
+672 3081328 2752
+If I didn't know better,
+I'd think you didn't like it here.
+
+673 3084874 2877
+Let me go, let go! Let go!
+
+674 3088794 1000
+(CHUCKLES)
+
+675 3089879 2293
+What are you doing out of your cage?
+
+676 3094675 1834
+Hmm. That's better.
+
+677 3096594 1500
+(GROWLS)
+
+678 3098304 1208
+Come on, boy.
+
+679 3100931 2919
+Say goodbye to your little friends.
+
+680 3103976 2293
+It's the last you'll ever see of them.
+
+681 3117782 1834
+There is no time to waste.
+
+682 3119700 3628
+- We must try to get in.
+- Here, Miss Bianca, start digging.
+
+683 3125998 4086
+(CHUCKLING) Has anyone considered
+trying, "Open sesame"?
+
+684 3130169 1667
+(RUMBLING)
+
+685 3132213 1834
+Hey, it worked!
+
+686 3142723 2960
+McLEACH: Get out of here! Go on! Get!
+
+687 3145768 2960
+Look, Bernard, it's the boy!
+
+688 3148979 1459
+And McLeach.
+
+689 3154735 1209
+It's all over, boy.
+
+690 3157863 2919
+Your bird's dead. Someone shot her.
+
+691 3160866 3252
+Shot her, right outta the sky.
+
+692 3166747 1209
+No!
+
+693 3168040 2376
+What do you mean, no?
+You callin' me a liar?
+
+694 3170876 1709
+I heard it on the radio.
+
+695 3172670 2168
+And she could have been mine
+if it weren't for you.
+
+696 3174922 3502
+Now you better get,
+before I change my mind.
+
+697 3178509 1375
+Go on, get!
+
+698 3181637 2752
+- Why is he letting him go?
+- It's gotta be a trick.
+
+699 3184807 3627
+Too bad about those eggs, eh, Joanna.
+
+700 3188686 2793
+They'll never survive
+without their mother.
+
+701 3191730 4337
+Oh, well. Survival of the fittest, I guess.
+
+702 3200656 1542
+Bingo!
+
+703 3204201 3419
+(BOTH LAUGHING)
+
+704 3208163 2043
+- Bird?
+- Eggs?
+
+705 3210291 2167
+- Shh. Listen.
+- (ENGINE RUMBLING)
+
+706 3220009 1083
+(CHUCKLING)
+
+707 3221802 4378
+I didn't make it all the way
+through third grade for nothing.
+
+708 3230561 2626
+JAKE: Don't know where he's going,
+but we can't let him get away.
+
+709 3233606 4044
+- Hurry up, you two!
+- Quickly, Bernard, now!
+
+710 3248621 1041
+Oh, no!
+
+711 3260257 1459
+Get between the treads!
+
+712 3272519 2794
+Bernard, Bianca, here, catch!
+
+713 3275981 3711
+Got it! Miss Bianca, you can do it!
+
+714 3294708 2585
+(GASPING)
+
+715 3298295 2585
+Boy, this is some head wind.
+
+716 3302299 3920
+Say, you lovely ladies wouldn't
+have seen two little mice
+
+717 3306303 3461
+running around down there, would you?
+
+718 3309932 1292
+Hey, where you going?
+
+719 3311350 2877
+I mean it, I'm looking for two little mice!
+
+720 3314436 1501
+Is it something I said?
+
+721 3338794 3419
+JAKE: He's going down the cliff.
+Come on, we gotta warn him.
+
+722 3405152 2126
+- MISS BIANCA: Cody.
+- Huh?
+
+723 3409114 2335
+- Who are you?
+- There is no time to explain.
+
+724 3411533 2585
+- You're in great danger.
+- (EAGLE CALLS)
+
+725 3414369 2627
+Marahute? It can't be!
+
+726 3419666 2210
+Cody, wait!
+
+727 3425464 1792
+She's alive!
+
+728 3427341 3002
+Cody, please! You must listen!
+
+729 3430677 1960
+That's right, McLeach is on the cliff.
+
+730 3438310 4253
+Marahute, no! Turn back! Turn back!
+
+731 3442856 1459
+Stay away! It's a trap!
+
+732 3451657 2293
+I got her! I got her!
+
+733 3454034 2126
+Did you see that? (CACKLING)
+
+734 3456328 3169
+Perfect shot! Perfect shot!
+
+735 3459581 1167
+She's mine!
+
+736 3461625 1459
+All mine!
+
+737 3468048 1793
+No!
+
+738 3474638 2877
+Hold tight you two.
+We're going for a ride!
+
+739 3478684 2543
+- Bianca!
+- Bernard!
+
+740 3489570 4295
+(GROWLS) Meddlin' brat.
+Gonna get rid of him for good.
+
+741 3500747 1751
+Help, I'm slipping!
+
+742 3502583 2501
+Cody, don't move!
+
+743 3526023 1834
+There she is, Joanna.
+
+744 3529318 3043
+Just look at her. Look at the size of her.
+
+745 3532863 2543
+The rarest bird in the world.
+
+746 3535699 2668
+That bird's gonna make me rich.
+
+747 3538535 1918
+Filthy rich.
+
+748 3541288 5046
+I got what I want.
+Now, what does Joanna want?
+
+749 3546793 4212
+Does she wanna make sure
+that bird stays rare?
+
+750 3553300 5588
+How about some great, big,
+triple-A, jumbo eagle eggs?
+
+751 3558972 1417
+Huh? You want them?
+
+752 3560474 3043
+Huh? You want them? Go get them!
+
+753 3563644 2001
+No! Please!
+
+754 3571151 2752
+(WHIMPERS)
+
+755 3575113 1042
+(GULPS)
+
+756 3576657 3127
+Why, whatever is the matter?
+
+757 3581036 1959
+(BABBLES INDISTINCTLY)
+
+758 3583830 2419
+- McLEACH: Get moving!
+- (HOWLS)
+
+759 3646351 3294
+- (HOWLS)
+- McLEACH: Joanna!
+
+760 3650230 3377
+You hurry up and eat those eggs
+and get your tail up here!
+
+761 3653817 1167
+Move it!
+
+762 3658530 2043
+(SNICKERS)
+
+763 3693565 2001
+Okay, you guys, she fell for it.
+
+764 3696943 1709
+Looks like the coast is clear.
+
+765 3699488 2251
+WILBUR: Girls? Girls, I'm here!
+
+766 3702449 3586
+(CHUCKLING) Where are you,
+you little chickees, you?
+
+767 3706286 1334
+Wilbur?
+
+768 3707913 1375
+Wilbur!
+
+769 3709456 2001
+(SCREAMS)
+
+770 3711750 2126
+Don't ever do that to me again!
+
+771 3714836 2627
+Boy, I lost a lot of feathers on that one.
+
+772 3717547 2085
+Wilbur, am I glad to see you!
+
+773 3719800 2501
+- Help me with these eggs, will you?
+- Sure.
+
+774 3722636 3002
+Wait a minute, what the heck
+are you doing up here?
+
+775 3725806 3419
+The kidnapper took the boy and Jake.
+Miss Bianca.
+
+776 3729309 2502
+Miss Bianca's in trouble? Whoa!
+
+777 3732729 4337
+That's terrible! We gotta do something!
+Bernard, I'm disappointed in you.
+
+778 3737150 1918
+Hiding under a nest
+while Bianca needs help.
+
+779 3739444 2460
+- I gotta talk to you, mister.
+- Wilbur.
+
+780 3741988 4462
+You should start searching the desert
+for her, and I'll scan the coastline!
+
+781 3746535 2501
+That's what I'll do.
+Ask the chicks on the beach.
+
+782 3749121 1041
+What?
+
+783 3750247 3043
+Listen! There's some chicks
+here that need help.
+
+784 3753375 1751
+Really?
+
+785 3758130 2626
+Oh, no. Wait a minute. Hold it.
+
+786 3760966 3210
+I know what you're thinking,
+and you're wrong. Don't even, no.
+
+787 3765011 2710
+Don't look at me! You're getting "no."
+Understand?
+
+788 3767806 2126
+I will not ever sit on those eggs!
+
+789 3771101 2960
+Aw, nuts! (SIGHS)
+
+790 3774396 3002
+Gotta learn to be more assertive.
+No is no is no.
+
+791 3778525 1208
+Hey, quit moving in there!
+
+792 3787200 5546
+Well, Joanna, it looks like Lady Luck
+has finally decided to smile on us.
+
+793 3792831 2585
+Everything's going our way.
+
+794 3796626 3461
+CODY: You can't do this!
+You're gonna get in big trouble!
+
+795 3800213 2627
+I'll tell the rangers where you are!
+
+796 3803842 1709
+I almost forgot.
+
+797 3806219 3962
+We got a loose end to tie up,
+haven't we, girl?
+
+798 3824237 3962
+Now, now, Cody, we mustn't lose hope.
+
+799 3828408 2710
+- Bernard is still out there.
+- That's right!
+
+800 3831203 3335
+If anyone can get us
+out of this scrape, it's old Berno!
+
+801 3836291 3044
+- Nice bluff, Miss B.
+- I wasn't bluffing.
+
+802 3839544 2961
+You don't know Bernard like I do.
+
+803 3842756 1625
+He'll never give up.
+
+804 3869115 1376
+Oh, my gosh!
+
+805 3875288 5046
+- (BERNARD SIGHS)
+- (SNORING)
+
+806 3888468 1667
+(GULPS)
+
+807 3901690 3210
+Uh... (CLEARS THROAT)
+
+808 3906528 1751
+Uh... Excuse me.
+
+809 3909197 1584
+(GROWLING)
+
+810 3911074 3169
+Look, I've got a long way to go,
+you're going to take me there,
+
+811 3914327 2669
+and you're not going
+to give me any trouble, right?
+
+812 3917372 2001
+(WHIMPERS)
+
+813 3920667 1167
+Good.
+
+814 3923962 1375
+Now, get!
+
+815 3946234 1376
+Are you ready, boy?
+
+816 3947694 3961
+It's time you learned
+how to fish for crocs!
+
+817 3952574 3419
+They like it when you use live bait.
+
+818 3956745 3252
+And you're as live as they come.
+(CHUCKLING)
+
+819 3962834 1167
+Oh!
+
+820 3964085 4212
+(SINGING) You get a line
+And I'll get a pole, matey
+
+821 3969049 3502
+You get a line
+I'll get a pole, friend
+
+822 3972719 4670
+Oh, you get a line, I'll get a pole
+We'll go fishing in the crocodile hole
+
+823 3977474 3377
+Buddy, pal of mine
+
+824 3982270 3086
+That's right, babies. Suppertime!
+
+825 3989486 3127
+(CONTINUES SINGING)
+
+826 3994407 3419
+It don't look good, Miss B.
+I can't see any way out of this one.
+
+827 3997911 3002
+Bernard, please hurry!
+
+828 4003833 2794
+Now, this is my idea of fun.
+
+829 4010131 4420
+Nothing personal, boy, but I wouldn't
+want to disappoint the rangers.
+
+830 4014886 2293
+They was looking so hard for you,
+
+831 4017263 2627
+and now they're gonna find you!
+
+832 4025605 2001
+What the blaze is going on here?
+
+833 4027857 2836
+(PIG SNORTING)
+
+834 4032779 2001
+Joanna.
+
+835 4036116 5379
+Did you know there was a razorback
+in my truck? Did ya?
+
+836 4041579 1918
+There was a razorback in my truck!
+
+837 4044124 4420
+Now you quit playing around and
+do your job, you four-legged python!
+
+838 4053508 1959
+Hey, what happened to them keys?
+
+839 4056594 1417
+Must be around here somewhere.
+
+840 4058096 2543
+They couldn't just get up
+and walk away.
+
+841 4062976 4920
+Something weird's going on
+around here. I smell a big, fat rat.
+
+842 4079826 1042
+(HISSING)
+
+843 4085540 2627
+- Look, it's Bernard!
+- I don't believe it!
+
+844 4088251 3586
+- Way to go, mate!
+- Miss Bianca, Jake, catch!
+
+845 4095216 2835
+- (JOANNA SNARLS)
+- Whoa!
+
+846 4101973 3377
+Well, there's more than one way
+to skin a cat.
+
+847 4105435 2460
+- (CHUCKLING)
+- (GUN COCKING)
+
+848 4117322 1208
+(HOWLS)
+
+849 4123203 1792
+(GUN BLAST)
+
+850 4128124 1751
+Blast!
+
+851 4131085 3545
+Oh, my gosh!
+I hope I know what I'm doing.
+
+852 4136216 1750
+(GUN BLAST)
+
+853 4145099 1584
+(SNARLS)
+
+854 4150730 2335
+Hey, get off me!
+
+855 4153191 2835
+Whoa! Whoa!
+
+856 4156110 1584
+(SCREAMS)
+
+857 4164035 2543
+Joanna! Joanna!
+
+858 4166663 2877
+You stupid lizard! Get off me!
+
+859 4169624 2460
+- You idiot!
+- (WHIMPERING)
+
+860 4172168 1876
+Get off of me!
+
+861 4176506 2084
+No! No!
+
+862 4185473 1667
+Bernard, the boy!
+
+863 4198570 2084
+(INHALES DEEPLY)
+
+864 4202282 5671
+Help!
+
+865 4213209 1209
+Get back!
+
+866 4216129 2543
+Get away. Get away!
+
+867 4219299 3627
+(CACKLING) I whooped you!
+I whooped you all!
+
+868 4223136 4295
+You'll think twice before messing
+with Percival C. McLeach!
+
+869 4227640 1000
+(LAUGHING)
+
+870 4231769 3086
+(SCREAMING)
+
+871 4238818 2168
+No!
+
+872 4250163 1333
+Don't give up, Cody!
+
+873 4252457 1208
+There!
+
+874 4255084 2293
+- Hop on, Miss B!
+- (SHRIEKING)
+
+875 4260173 2209
+Help! Help!
+
+876 4263217 2043
+(SCREECHING)
+
+877 4287700 2085
+(CODY MIMICS MARAHUTE)
+
+878 4293873 1292
+It's okay.
+
+879 4295708 1668
+Come on.
+
+880 4299587 1459
+Thanks, little mate.
+
+881 4304842 5880
+Oh, Bernard, you are magnificent.
+You are absolutely the hero of the day.
+
+882 4311015 3211
+Miss Bianca,
+before anything else happens,
+
+883 4316354 2710
+- will you marry me?
+- Bernard.
+
+884 4319148 2502
+Of course, I will!
+
+885 4323152 1417
+Well done, mate.
+
+886 4324946 3794
+Come on, Marahute, let's all go home.
+
+887 4351014 1083
+WILBUR: Help!
+
+888 4352181 1584
+Anybody!
+
+889 4354100 1626
+Bernard!
+
+890 4356102 1959
+Bianca!
+
+891 4358146 2293
+Where are you?
+
+892 4360857 3210
+Okay, that's it, I'm out of here.
+This is ridiculous.
+
+893 4364152 2334
+You can't leave me here alone.
+(CHUCKLING)
+
+894 4366612 2001
+I'm gone! I am gone.
+
+895 4368698 2084
+- (CRACKING)
+- (CHICKS CHIRPING)
+
+896 4370992 3502
+No, stay in those eggs!
+That's a direct order!
+
+897 4375413 1792
+Oh.
+
+898 4377457 4670
+Hey, you're kind of a cute little feller.
+Coochy, coochy...
+
+899 4382211 3711
+- (BONES CRUNCHING)
+- Yeowww! Ohhh!
+

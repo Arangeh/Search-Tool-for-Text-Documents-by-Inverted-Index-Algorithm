@@ -1,0 +1,4445 @@
+1 191859 2377
+Hi. I've got an appointment
+with Mr. Ullman.
+
+2 194403 1960
+My name is Jack Torrance.
+
+3 196572 2502
+His office is the first door
+on the left.
+
+4 199283 1251
+Thank you.
+
+5 217885 834
+Mr. Ullman?
+
+6 218927 1293
+I'm Jack Torrance.
+
+7 220429 1960
+Come on in, Jack.
+
+8 223473 2545
+-Very nice to meet you.
+-Nice to meet you.
+
+9 226226 1502
+This is my secretary, Susie.
+
+10 228145 2502
+-Susie, how do you do?
+-Any trouble finding us?
+
+11 230856 2836
+No problem at all.
+I made the trip in 3 1 l2 hours.
+
+12 233901 1876
+That's very good time.
+
+13 236111 1627
+Sit down a minute, Jack.
+
+14 237946 1794
+Just make yourself at home.
+
+15 239948 1252
+Like some coffee?
+
+16 241408 2461
+If you're having some,
+I wouldn't mind. Thanks.
+
+17 244119 959
+-Susie.
+-Sure.
+
+18 245287 1752
+And ask Bill Watson to join us.
+
+19 247247 1418
+Yes, I will.
+
+20 259551 1126
+Mom?
+
+21 261553 1168
+Yeah?
+
+22 263138 3629
+Do you really want to go and live
+in that hotel for the winter?
+
+23 267351 1376
+Sure I do.
+
+24 268936 1918
+It'll be lots of fun.
+
+25 272731 2085
+Yeah. I guess so.
+
+26 275025 4171
+Anyway, there's hardly anybody
+to play with around here.
+
+27 279988 3629
+I know. It always takes
+a little time to make new friends.
+
+28 285118 2294
+Yeah, I guess so.
+
+29 288163 1043
+What about Tony?
+
+30 289414 2420
+He's looking forward
+to the hotel, I bet.
+
+31 292334 2377
+No, I ain't, Mrs. Torrance.
+
+32 295128 2420
+Now, come on, Tony.
+Don't be silly.
+
+33 297965 2002
+I don't want to go there.
+
+34 300425 2044
+How come you don't want to go?
+
+35 302678 2127
+Ijust don't.
+
+36 305013 2795
+Let's just wait and see.
+
+37 308058 2711
+We're all going to have
+a real good time.
+
+38 312145 2461
+Bill, I'd like you
+to meet Jack Torrance.
+
+39 314815 1418
+How do you do, Bill?
+
+40 316441 1961
+-Nice to meet you.
+-Pleasure to meet you.
+
+41 318610 1919
+Grab a chair, Bill. Join in.
+
+42 320737 4130
+Jack is going to take care of
+the Overlook for us this winter.
+
+43 325117 2961
+I'd like you to take him around
+soon as we're through.
+
+44 328287 917
+Fine.
+
+45 329872 1876
+Jack is a schoolteacher.
+
+46 332040 1961
+Formerly a schoolteacher.
+
+47 334209 1669
+What line of work are you in now?
+
+48 336086 1585
+I'm a writer.
+
+49 337921 3629
+Teaching's been more or less
+a way of making ends meet.
+
+50 341758 1961
+This ought to be
+quite a change for you.
+
+51 344678 1793
+I'm looking for a change.
+
+52 346680 3587
+Our people in Denver recommended
+Jack very highly, and for once...
+
+53 350475 1585
+...l agree with them.
+
+54 352728 1793
+Let's see, where were we?
+
+55 354730 2586
+I was about to explain...
+
+56 357566 4129
+...that our season here runs from
+May 1 5th to October 30th.
+
+57 361904 3461
+Then we close down completely
+until the following May.
+
+58 365574 2794
+Do you mind if I ask
+why you do that?
+
+59 368577 3462
+It seems to me that the skiing
+up here would be fantastic.
+
+60 372247 2628
+It would be. The problem is
+the enormous cost...
+
+61 375083 2545
+...it would be to keep
+the road to Sidewinder open.
+
+62 378253 1752
+It's a 25-mile stretch of road.
+
+63 380214 2377
+It gets 20 feet of snow
+during the winter.
+
+64 382758 3253
+There's just no way to make it
+economically feasible...
+
+65 386220 1918
+...to keep it clear.
+
+66 388347 2377
+When the place was built in 1 907...
+
+67 390933 2544
+...there was very little interest
+in winter sports.
+
+68 393685 4880
+This site was chosen for its
+seclusion and scenic beauty.
+
+69 398774 2544
+It's certainly got
+plenty of that.
+
+70 401527 1209
+That's right.
+
+71 403445 2795
+Did they give you
+any idea in Denver...
+
+72 406448 1668
+...about what the job entails?
+
+73 408325 2085
+Only in a very general way.
+
+74 412913 2586
+The winters can be
+fantastically cruel.
+
+75 415707 3462
+The basic idea is to cope
+with the very costly damage...
+
+76 419378 2002
+...and depreciation
+which can occur.
+
+77 421588 2419
+This consists mainly
+of running the boiler...
+
+78 424216 3962
+...heating different parts of the
+hotel on a daily rotating basis...
+
+79 428387 2711
+...repairing damage as it occurs...
+
+80 431306 2795
+...and doing repairs so the
+elements can't get a foothold.
+
+81 435185 2252
+That sounds fine to me.
+
+82 437813 3003
+Physically, it's not
+a very demanding job.
+
+83 440983 3169
+The only thing that can get a bit
+trying here during the winter...
+
+84 444361 2628
+...is a tremendous sense
+of isolation.
+
+85 448156 4547
+That just happens to be
+exactly what I'm looking for.
+
+86 453036 3129
+I'm outlining a new
+writing project.
+
+87 456582 3295
+Five months of peace
+is just what I want.
+
+88 460669 1710
+That's very good, Jack.
+
+89 462671 3170
+Because, for some people...
+
+90 466049 1752
+...solitude...
+
+91 468010 1626
+...and isolation...
+
+92 470512 2294
+...can, of itself, become a problem.
+
+93 473599 1585
+Not for me.
+
+94 475726 3253
+How about your wife and son?
+Do you think they'll take to it?
+
+95 480772 1168
+They'll love it.
+
+96 482149 1168
+Great.
+
+97 486236 3253
+Before I turn you over to Bill...
+
+98 489698 3462
+...there's one other thing I think
+we should talk about.
+
+99 493368 1460
+Not to sound melodramatic...
+
+100 495037 2544
+...but it's been known to
+give a few people...
+
+101 497789 2211
+...second thoughts about the job.
+
+102 500709 1627
+I'm intrigued.
+
+103 502544 2336
+I don't suppose they
+said anything in Denver...
+
+104 505088 3963
+...about the tragedy we had up here
+during the winter of 1 970.
+
+105 509676 1961
+I don't believe they did.
+
+106 514223 1710
+My predecessor in this job...
+
+107 516683 3212
+...hired a man named Charles Grady
+as the winter caretaker.
+
+108 520103 3546
+He came up with his wife and
+2 little girls of about 8 and 1 0.
+
+109 523857 2961
+He had a good employment record,
+good references.
+
+110 527069 2252
+And from what I've been told,
+he seemed...
+
+111 529530 2669
+...like a completely
+normal individual.
+
+112 532407 2378
+But at some point
+during the winter...
+
+113 534993 3629
+...he must have suffered some kind
+of a complete mental breakdown.
+
+114 538831 2377
+He ran amuck...
+
+115 544586 2211
+...and killed his family
+with an ax.
+
+116 548090 4629
+Stacked them neatly in a room
+in the west wing, and then...
+
+117 553512 3712
+...he put both barrels
+of his shotgun in his mouth.
+
+118 558433 1794
+The police thought...
+
+119 560435 4088
+...that it was what the old-timers
+used to call cabin fever.
+
+120 564731 3003
+A kind of claustrophobic reaction
+which can occur...
+
+121 567943 4129
+...when people are shut in together
+over long periods of time.
+
+122 577160 1460
+That is...
+
+123 578787 1543
+...quite a story.
+
+124 581623 1502
+Yeah, it is.
+
+125 584209 3295
+It's still hard for me to believe
+it actually happened here.
+
+126 587838 1710
+But it did.
+
+127 591300 4045
+I think you can appreciate
+why I wanted to tell you about it.
+
+128 595888 2502
+I certainly can.
+
+129 598891 2544
+I also understand
+why your people in Denver...
+
+130 601643 2294
+...left it for you to tell me.
+
+131 605147 2669
+Obviously, some people
+can be put off...
+
+132 608025 4087
+...from staying in a place where
+something like that happened.
+
+133 612321 4921
+You can rest assured that's not
+going to happen with me.
+
+134 617451 3670
+And as far as my wife
+is concerned...
+
+135 621330 3795
+...l'm sure she'll be absolutely
+fascinated when I tell her.
+
+136 625334 2836
+She's a confirmed ghost story...
+
+137 628378 2461
+...and horror film addict.
+
+138 635677 3671
+Tony, do you think
+Dad'll get the job?
+
+139 640766 2210
+He already did.
+
+140 643393 3754
+He's going to phone Wendy up
+in a few minutes to tell her.
+
+141 661870 2628
+-Hi, babe.
+-Hi, hon. How's it going?
+
+142 664706 3629
+Great. I'm at the hotel and
+I still have a lot to go through.
+
+143 668544 3128
+I don't think I can get home
+before 9:00 or 1 0:00.
+
+144 671880 1460
+Sounds like you got the job.
+
+145 673549 2711
+Right. It's a beautiful place.
+
+146 676468 2127
+You and Danny are going to love it.
+
+147 680055 2920
+Tony, why don't you want to go
+to the hotel?
+
+148 683225 1752
+I don't know.
+
+149 686061 3504
+You do too know.
+Now come on, tell me.
+
+150 690148 2044
+I don't want to.
+
+151 692901 1293
+Please.
+
+152 695404 1126
+No.
+
+153 696864 2085
+Now, Tony, tell me.
+
+154 728854 2711
+Now, hold your eyes still
+so I can see.
+
+155 736069 2211
+That's good. Now the other one.
+
+156 739698 1460
+Good boy.
+
+157 748499 1376
+Now, Danny...
+
+158 750334 2043
+...when you were brushing
+your teeth...
+
+159 752586 3003
+...do you remember if you
+smelled anything funny...
+
+160 755797 4755
+...or saw any bright, flashing
+lights or anything at all strange?
+
+161 763388 1168
+No.
+
+162 765641 2460
+Do you remember when you were
+brushing your teeth?
+
+163 768685 1293
+Yes.
+
+164 771146 3629
+What's the next thing you remember
+after you were brushing your teeth?
+
+165 778987 2628
+My mom was saying, "Wake up.
+Wake up, Danny, wake up."
+
+166 785827 2211
+Can you remember
+what you were doing...
+
+167 788247 2919
+...just before you started
+brushing your teeth?
+
+168 793669 1793
+Talking to Tony.
+
+169 796129 2336
+Is Tony one of your animals?
+
+170 799341 2961
+No. He's a little boy
+that lives in my mouth.
+
+171 802594 2378
+Tony's his imaginary friend.
+
+172 807933 3378
+If you were to open your mouth now,
+could I see Tony?
+
+173 814022 1210
+Why not?
+
+174 816525 1793
+Because he hides.
+
+175 819069 1668
+Where does he go?
+
+176 821864 1793
+To my stomach.
+
+177 825701 2878
+Does Tony ever tell you
+to do things?
+
+178 832666 2669
+I don't want to talk
+about Tony anymore.
+
+179 837963 1418
+That's fine.
+
+180 840174 1793
+All right, Danny.
+
+181 842759 2795
+I'm going to ask you
+to do me a favor...
+
+182 845762 3379
+...and stay quietly in bed
+for the rest of the day. Okay?
+
+183 849349 1126
+Do I have to?
+
+184 850684 2252
+Yes. I'd like you to.
+
+185 853145 2753
+We're going in the other room
+for a few minutes and talk.
+
+186 856106 2127
+I'll come back and check on you.
+
+187 866742 2419
+-Shall we go into the living room?
+-Yes.
+
+188 872873 1835
+-Please.
+-Thank you.
+
+189 878587 4379
+Mrs. Torrance, I don't think
+you have anything to worry about.
+
+190 883175 4046
+I'm quite sure there's nothing
+physically wrong with Danny.
+
+191 891934 3128
+He seems absolutely fine now.
+
+192 895270 1001
+But you should've seen him.
+
+193 896939 1042
+I know.
+
+194 898190 1710
+IKids can scare you to death.
+
+195 900108 2837
+But believe me, these episodes
+are not at all uncommon.
+
+196 903153 2586
+And they look much worse
+than they are.
+
+197 906281 2628
+But what was the matter with him?
+
+198 909117 4130
+Most of the time, these episodes
+with kids are never explained.
+
+199 913455 4838
+They're brought on by emotional
+factors and rarely occur again.
+
+200 919127 2962
+They're more akin
+to autohypnosis...
+
+201 922297 2962
+...a kind of self-induced trance.
+
+202 925467 1960
+If it reoccurs, which I doubt...
+
+203 928303 3128
+...we can always think about
+having some tests done.
+
+204 934017 2253
+I'm sure you're right.
+
+205 937938 2669
+Have you been in Boulder long?
+
+206 941441 1293
+Only about three months.
+
+207 942943 3337
+We're from Vermont. My husband
+was teaching school there.
+
+208 948323 3796
+Did the appearance
+of Danny's imaginary friend....
+
+209 952536 834
+Tony.
+
+210 953579 3962
+Did Tony's first appearance happen
+to coincide with your arrival here?
+
+211 960669 1293
+Let's see....
+
+212 962671 2586
+I guess Danny started
+talking to Tony...
+
+213 965465 2670
+...about the time we put him
+in nursery school.
+
+214 968552 2294
+Did he adjust well to school?
+
+215 973056 1961
+He didn't like it too much
+at first.
+
+216 975184 3294
+Then he had an injury, so we kept
+him out for a while and....
+
+217 979897 3920
+I guess that's about when I first
+noticed he was talking to Tony.
+
+218 984818 2378
+What sort of injury did he have?
+
+219 987863 2169
+He dislocated his shoulder.
+
+220 990532 2252
+How did he manage to do that?
+
+221 996205 3086
+It was just one of
+those things, you know.
+
+222 999500 1960
+Purely an accident.
+
+223 1002461 2794
+My husband had been drinking...
+
+224 1005464 3336
+...and he came home
+about three hours late.
+
+225 1009092 4588
+So he wasn't exactly
+in the greatest mood that night.
+
+226 1014389 4797
+And Danny had scattered some of his
+school papers all over the room...
+
+227 1019394 4296
+...and my husband grabbed his arm
+to pull him away from them.
+
+228 1023899 3045
+It's just the sort of thing you do
+1 00 times with a child...
+
+229 1027152 2044
+...you know, in a park
+or in the street.
+
+230 1030280 2628
+But on this particular occasion...
+
+231 1033116 2628
+...my husband just used
+too much strength...
+
+232 1035953 2586
+...and he injured Danny's arm.
+
+233 1041583 4546
+Anyway, something good did come out
+of it all because he said...
+
+234 1046380 2544
+..."Wendy, I'm never going to
+touch another drop.
+
+235 1049132 1961
+And if I do, you can leave me."
+
+236 1051260 1334
+And he didn't.
+
+237 1052803 4504
+He hasn't had any
+alcohol in 5 months.
+
+238 1084168 4170
+We must really be high up.
+The air feels so different.
+
+239 1093969 1251
+Dad?
+
+240 1098015 1710
+I'm hungry.
+
+241 1101560 2711
+You should've eaten your breakfast.
+
+242 1105147 2878
+We'll get you something
+as soon as we get to the hotel.
+
+243 1108233 1627
+Okay, Mom.
+
+244 1111320 4129
+Wasn't it around here that
+the Donner party got snowbound?
+
+245 1117159 3503
+I think that was farther west,
+in the Sierras.
+
+246 1122164 2419
+What was the Donner party?
+
+247 1126502 4295
+They were a party of settlers
+in covered wagon times.
+
+248 1131006 3295
+They got snowbound one winter
+in the mountains.
+
+249 1134510 4170
+They had to resort to cannibalism
+in order to stay alive.
+
+250 1139848 2878
+You mean they ate each other up?
+
+251 1142935 3086
+They had to in order to survive.
+
+252 1146230 1251
+Jack.
+
+253 1147689 1085
+Don't worry, Mom.
+
+254 1148982 4338
+I know all about cannibalism.
+I saw it on TV.
+
+255 1153529 2627
+See, it's okay.
+
+256 1156365 2419
+He saw it all on the television.
+
+257 1189481 1835
+-What time does the plane leave?
+-8:30.
+
+258 1191525 2753
+That gives us plenty of time
+to go over everything.
+
+259 1194486 1919
+-Goodbye, Mr. Ullman.
+-Bye.
+
+260 1196613 3128
+Good morning. I hope you
+haven't been waiting too long.
+
+261 1199950 2628
+No problem. We had time
+to grab a bite to eat.
+
+262 1202786 2920
+Good. Glad you made it
+before they shut down the kitchen.
+
+263 1205914 1710
+Is your family
+having a look around?
+
+264 1207833 3378
+No, my son's
+discovered the games room.
+
+265 1211420 3086
+-Has your luggage been brought in?
+-Right there.
+
+266 1215090 1960
+In view of all we have
+to cover today...
+
+267 1217259 3629
+...l suggest we have a quick look
+at your apartment and get started.
+
+268 1221096 2795
+Have the Torrances' things
+brought to their apartment.
+
+269 1224099 2669
+I'd better collect my family first.
+
+270 1234943 2336
+This is our Colorado Lounge.
+
+271 1237487 2461
+It's beautiful.
+
+272 1240324 1877
+My God!
+
+273 1242409 2544
+This place is fantastic,
+isn't it, hon?
+
+274 1245162 1335
+It sure is.
+
+275 1246705 2795
+I've never seen anything
+like this before.
+
+276 1251126 2002
+Are all these
+lndian designs authentic?
+
+277 1253295 1460
+I believe they're based...
+
+278 1254963 3170
+...mainly on Navajo and Apache motifs.
+
+279 1258342 1960
+They're really gorgeous.
+
+280 1260511 1042
+As a matter of fact...
+
+281 1261762 3086
+...this is probably the most
+gorgeous hotel I've ever seen.
+
+282 1265265 2962
+This old place has had
+an illustrious past.
+
+283 1268435 3087
+In its heyday, it was a stopping
+place for the jet setters...
+
+284 1271730 2961
+...even before anybody knew
+what a jet set was.
+
+285 1274900 3045
+We had four presidents
+who stayed here.
+
+286 1278237 1251
+Lots of movie stars.
+
+287 1279696 1544
+Royalty?
+
+288 1281657 1376
+All the best people.
+
+289 1336170 2544
+This is the staff wing
+of the hotel.
+
+290 1339715 3295
+None of the other bedrooms
+are heated during the winter.
+
+291 1343260 2920
+-Goodbye, Mr. Ullman.
+-Goodbye, girls.
+
+292 1346388 2002
+And here are your quarters.
+
+293 1348807 2586
+Living room, bedroom, bathroom.
+
+294 1351602 2502
+And a small bedroom for your son.
+
+295 1357733 2002
+Perfect for a child.
+
+296 1366950 3462
+Well, then. Place is
+very nicely self-contained.
+
+297 1370621 1585
+Easy to keep.
+
+298 1374958 1085
+Cozy.
+
+299 1376251 2253
+Yes, very cozy for a family.
+
+300 1378754 1626
+If you feel like spreading out...
+
+301 1380589 2669
+...you have the rest of the hotel
+to move around in.
+
+302 1384927 2460
+Well, it's very...
+
+303 1387930 1293
+...homey.
+
+304 1392142 2252
+This is our famous hedge maze.
+
+305 1394603 4296
+It's quite an attraction here.
+The walls are 1 3 feet high...
+
+306 1399107 2294
+...and the hedge is as old
+as the hotel itself.
+
+307 1401610 2628
+A lot of fun, but I wouldn't
+want to go in there...
+
+308 1404446 3003
+...unless I had an hour
+to spare to find my way out.
+
+309 1408867 2086
+When was the Overlook built?
+
+310 1411954 2252
+Construction started in 1 907.
+
+311 1414414 1961
+It was finished in 1 909.
+
+312 1416583 2670
+The site's supposed to be
+on an lndian burial ground.
+
+313 1419461 1627
+They actually had to repel...
+
+314 1421296 2878
+...a few lndian attacks as they
+were building it.
+
+315 1424800 1877
+That's our Snowcat.
+
+316 1427386 2002
+Can you both drive a car?
+
+317 1429972 3545
+That's fine. Basically the Snowcat
+operates very much like a car.
+
+318 1433725 2545
+It won't take you long
+to get the hang of it.
+
+319 1437479 3379
+As a matter of fact, we brought
+a decorator in from Chicago...
+
+320 1441066 3128
+...just last year to refurbish
+this part of the hotel.
+
+321 1444403 1960
+He sure did a beautiful job.
+
+322 1446572 2335
+Pink and gold
+are my favorite colors.
+
+323 1449700 2377
+This is our Gold Ballroom.
+
+324 1453662 1251
+I'll say!
+
+325 1455122 3754
+We can accommodate up to
+300 people here very comfortably.
+
+326 1459418 2878
+Boy, we could really have
+a good party in this room.
+
+327 1462504 3796
+I'm afraid you won't do too well
+here unless you brought supplies.
+
+328 1466508 3045
+We remove the booze from
+the premises when we shut down.
+
+329 1469761 3045
+That reduces the insurance
+we normally have to carry.
+
+330 1473015 1001
+We don't drink.
+
+331 1474183 1459
+Then you're in luck.
+
+332 1475851 4212
+Dick, come on over and say hello
+to Mr. and Mrs. Torrance.
+
+333 1480272 2127
+This is Dick Hallorann,
+our head chef.
+
+334 1482608 2711
+Mr. Hallorann, I'm Jack.
+This is my wife, Winifred.
+
+335 1485527 1210
+Glad to meet you.
+
+336 1486945 2878
+The Torrances will take care
+of the Overlook this winter.
+
+337 1490032 3712
+That's just great. How do you
+folks like our hotel so far?
+
+338 1493952 1877
+It's just wonderful.
+
+339 1496038 1501
+Hi, Danny!
+
+340 1498457 2711
+I found him outside
+looking for you.
+
+341 1502377 2837
+Did you get tired
+of bombing the universe?
+
+342 1506632 1501
+Come on over here.
+
+343 1508342 1168
+Thank you, Susie.
+
+344 1509718 3962
+I think it'd be good if you could
+show Mrs. Torrance the kitchen...
+
+345 1513889 1877
+...while I continue on with Jack.
+
+346 1515974 2419
+It would be a pleasure.
+Right this way.
+
+347 1518602 1585
+Great. See you later, hon.
+
+348 1520395 1335
+Bye, darling.
+
+349 1524107 3337
+Mrs. Torrance, your husband
+introduced you as Winifred.
+
+350 1527653 2502
+Now, are you a "Winnie,"
+or a "Freddie"?
+
+351 1530405 1252
+I'm a Wendy.
+
+352 1531865 3170
+Wendy. That's nice.
+That's the prettiest.
+
+353 1535244 1626
+This is the kitchen, huh?
+
+354 1537079 1626
+This is it.
+
+355 1538914 2920
+How do you like it, Danny?
+ls it big enough for you?
+
+356 1542668 2210
+It's the biggest place I ever seen.
+
+357 1545087 2335
+This whole place
+is such an enormous maze.
+
+358 1547631 3587
+I'll have to leave a trail of
+breadcrumbs every time I come in.
+
+359 1552094 1877
+Don't let it get you down.
+
+360 1554179 2503
+It's big, but it ain't
+nothing but a kitchen.
+
+361 1556890 2169
+A lot of this stuff
+you'll never have to touch.
+
+362 1559268 2252
+I wouldn't know
+what to do with it if I did.
+
+363 1561728 3129
+One thing for sure, you don't
+have to worry about food.
+
+364 1565065 4671
+You folks could eat here for a year
+and never have the same menu twice.
+
+365 1569945 3086
+Right here is
+our walk-in freezer.
+
+366 1574158 3086
+This is where we keep
+all of our meat.
+
+367 1577452 1961
+You got 1 5 rib roasts...
+
+368 1579621 2127
+...30 ten-pound bags of hamburger.
+
+369 1581957 3086
+We got 1 2 turkeys,
+about 40 chickens...
+
+370 1585252 3086
+...50 sirloin steaks,
+two dozen of pork roast...
+
+371 1588547 2961
+...and 20 legs of lamb.
+Do you like lamb, Doc?
+
+372 1592759 2336
+You don't?
+What's your favorite food, then?
+
+373 1595304 1877
+French fries and ketchup.
+
+374 1597931 1961
+I think we can
+manage that too, Doc.
+
+375 1600142 1710
+Come along, now.
+Watch your step.
+
+376 1608609 1543
+How'd you know we call him Doc?
+
+377 1610360 4046
+-Beg your pardon?
+-Doc. You called Danny "Doc" twice.
+
+378 1614615 1376
+I did?
+
+379 1616825 3128
+We call him Doc sometimes,
+like in the Bugs Bunny cartoons.
+
+380 1620162 1251
+But how did you know?
+
+381 1621622 2502
+I guess I probably
+heard you call him that.
+
+382 1624333 2294
+It's possible.
+But I honestly don't remember...
+
+383 1626835 2169
+...calling him that
+since we've been with you.
+
+384 1629213 2210
+Anyway, he looks
+like a Doc, doesn't he?
+
+385 1632841 1460
+What's up, Doc?
+
+386 1636136 2169
+Now, this is the storeroom.
+
+387 1640057 1835
+In here is where we keep...
+
+388 1642100 2795
+...all the dried goods
+and the canned goods.
+
+389 1645103 2420
+We got canned fruits
+and vegetables...
+
+390 1647731 3796
+...canned fish and meats,
+hot and cold cereals.
+
+391 1651735 3212
+Post Toasties, Corn Flakes,
+Sugar Puffs...
+
+392 1655155 4004
+...Rice IKrispies, oatmeal,
+Wheatena and Cream of Wheat.
+
+393 1659409 2420
+You got a dozen jugs
+of black molasses.
+
+394 1662037 3212
+We got 60 boxes of dried milk...
+
+395 1672881 2503
+How'd you like some ice cream, Doc?
+
+396 1677761 2002
+Sociables, finger rolls...
+
+397 1679972 1501
+...and 7 kinds of what have you.
+
+398 1681723 3504
+Now, we've got dried peaches,
+dried apricots...
+
+399 1685435 3087
+...dried raisins and dried prunes.
+
+400 1688730 4296
+You know, you got to keep regular
+if you want to be happy.
+
+401 1695946 1627
+-How're you getting on?
+-Fine.
+
+402 1697781 3587
+Can we borrow Mrs. Torrance?
+We're on our way to the basement.
+
+403 1701577 1918
+I promise we won't
+keep her very long.
+
+404 1703704 3170
+No problem, Mr. Ullman. I was just
+getting to the ice cream.
+
+405 1707082 1877
+You like ice cream, Doc?
+
+406 1709835 959
+I thought you did.
+
+407 1711003 3044
+You folks mind if I give Danny
+some ice cream while we wait?
+
+408 1714256 1835
+-Not at all.
+-We don't mind.
+
+409 1716300 2210
+-Good.
+-Sound good to you, Doc?
+
+410 1718719 2043
+Okay, you behave yourself.
+
+411 1723765 1877
+What kind of ice cream
+do you like?
+
+412 1725851 876
+Chocolate.
+
+413 1726935 3003
+Chocolate it shall be.
+Come on, son.
+
+414 1734484 2002
+It's amazing, all this
+activity today.
+
+415 1736695 2795
+The guests and some staff
+left yesterday, but the...
+
+416 1739698 1418
+...last day's always hectic.
+
+417 1741325 3044
+Everybody wants to be on their way
+as early as possible.
+
+418 1744620 4004
+By 5:00 tonight, you'll never
+know anybody was ever here.
+
+419 1748832 2086
+Just like a ghost ship, huh?
+
+420 1756590 2961
+Do you know how I knew
+your name was Doc?
+
+421 1766141 2378
+You know what I'm
+talking about, don't you?
+
+422 1775484 3503
+I can remember when I was
+a little boy...
+
+423 1779404 2503
+...my grandmother and I
+could hold conversations...
+
+424 1782157 3796
+...entirely without ever
+opening our mouths.
+
+425 1787037 2294
+She called it "shining."
+
+426 1790833 2752
+And for a long time I thought
+it was just the two of us...
+
+427 1793794 2627
+...that had "the shine" to us.
+
+428 1797005 3003
+Just like you probably thought
+you was the only one.
+
+429 1800676 1877
+But there are other folks...
+
+430 1802761 3712
+...though mostly they don't
+know it, or don't believe it.
+
+431 1811186 2419
+How long have you
+been able to do it?
+
+432 1818819 2377
+Why don't you want
+to talk about it?
+
+433 1826451 2044
+I'm not supposed to.
+
+434 1830080 2544
+Who says you ain't supposed to?
+
+435 1836044 1418
+Tony.
+
+436 1839423 1668
+Who's Tony?
+
+437 1843552 3420
+Tony's the little boy
+that lives in my mouth.
+
+438 1848891 2043
+Is Tony the one
+that...
+
+439 1851143 1543
+...tells you things?
+
+440 1857232 2378
+How does he tell you things?
+
+441 1861445 4296
+It's like I go to sleep,
+and he shows me things.
+
+442 1865949 4088
+But when I wake up,
+I can't remember everything.
+
+443 1871914 3670
+Does your mom and dad
+know about Tony?
+
+444 1878921 2544
+Do they know he tells you things?
+
+445 1882341 2919
+Tony told me never to tell them.
+
+446 1887429 3337
+Has Tony ever told you
+anything about this place?
+
+447 1890974 2586
+About the Overlook Hotel?
+
+448 1896813 1544
+I don't know.
+
+449 1899274 2795
+Now think real hard, Doc.
+
+450 1902277 1043
+Think.
+
+451 1906448 2711
+Maybe he showed me something.
+
+452 1910118 2628
+Try to think of what it was.
+
+453 1915749 3295
+Mr. Hallorann, are you scared
+of this place?
+
+454 1922130 2253
+Scared of nothing here.
+
+455 1924842 1501
+It's just that...
+
+456 1927094 2836
+...you know, some places
+are like people.
+
+457 1930764 1668
+Some shine...
+
+458 1932641 1418
+...and some don't.
+
+459 1935310 2127
+I guess you could say
+the Overlook Hotel...
+
+460 1937646 3295
+...has something about it
+that's like shining.
+
+461 1943986 2377
+Is there something bad here?
+
+462 1958000 2419
+You know, Doc,
+when something happens...
+
+463 1960627 3629
+...it can leave a trace
+of itself behind.
+
+464 1965007 1585
+Say, like...
+
+465 1966800 3045
+...if someone burns toast.
+
+466 1971972 4671
+Maybe things that happen
+leave other kind of traces behind.
+
+467 1977811 3420
+Not things that anyone
+can notice.
+
+468 1981440 4796
+But things that people
+who shine can see.
+
+469 1987362 3295
+Just like they can see things
+that haven't happened yet...
+
+470 1992910 4170
+...sometimes they can see things
+that happened a long time ago.
+
+471 1998624 2878
+I think a lot of things
+happened right here...
+
+472 2001710 3670
+...in this particular hotel
+over the years.
+
+473 2005923 2419
+And not all of them
+was good.
+
+474 2011637 2627
+What about room 237?
+
+475 2017601 2210
+Room 237?
+
+476 2021104 3087
+You're scared of room 237,
+ain't you?
+
+477 2025984 1460
+No, I ain't.
+
+478 2028946 3837
+Mr. Hallorann, what is in room 237?
+
+479 2034117 1377
+Nothing.
+
+480 2035911 3253
+There ain't nothing in room 237.
+
+481 2039373 3211
+But you ain't got no business
+going in there anyway.
+
+482 2042793 2127
+So stay out.
+
+483 2045128 2503
+You understand? Stay out!
+
+484 2147022 1710
+Good morning, hon.
+
+485 2150734 1752
+Your breakfast is ready.
+
+486 2153278 1627
+What time is it?
+
+487 2155113 1877
+It's about 1 1 :30.
+
+488 2158867 1627
+Jesus.
+
+489 2161411 2420
+I guess we've been
+staying up too late.
+
+490 2164164 1418
+I know it.
+
+491 2166875 2878
+I made them just the way
+you like them, sunny-side up.
+
+492 2170045 1585
+Nice.
+
+493 2173882 1794
+It's really pretty outside.
+
+494 2175884 3253
+How about taking me for a walk
+after you finish your breakfast?
+
+495 2179721 4338
+I suppose I ought to try
+to do some writing first.
+
+496 2185519 1668
+Any ideas yet?
+
+497 2188188 1669
+Lots of ideas.
+
+498 2190065 1502
+No good ones.
+
+499 2192067 2461
+Something will come.
+
+500 2195028 3921
+It's just a matter of settling into
+the habit of writing every day.
+
+501 2200534 1668
+That's all it is.
+
+502 2204329 2294
+It's really nice up here,
+isn't it?
+
+503 2207040 1418
+I love it.
+
+504 2208959 1585
+I really do.
+
+505 2211461 3045
+I've never been this happy
+or comfortable anywhere.
+
+506 2214715 3753
+It's amazing how fast you get
+used to such a big place.
+
+507 2218677 2878
+I tell you, when we first
+came up here...
+
+508 2221763 2086
+...l thought it was kind of scary.
+
+509 2224266 2586
+I fell in love with it right away.
+
+510 2227519 2795
+When I came up here
+for my interview...
+
+511 2230689 3837
+...it was as though
+I'd been here before.
+
+512 2234735 2627
+I mean, we all have moments
+of deja vu...
+
+513 2237571 2169
+...but this was ridiculous.
+
+514 2240491 1876
+It was almost as though I knew...
+
+515 2242576 3712
+...what was going to be
+around every corner.
+
+516 2279446 3170
+The loser has to keep
+America clean. How's that?
+
+517 2282825 2585
+-All right.
+-And you're going to lose.
+
+518 2285619 3128
+And I'm going to get you.
+You'd better run fast!
+
+519 2293752 1126
+Look out!
+
+520 2295087 1877
+I'm coming in close.
+
+521 2297172 2461
+Loser has to keep America clean.
+
+522 2299883 1627
+IKeep America clean.
+
+523 2302511 1460
+Danny, you win.
+
+524 2304346 2294
+Let's take the rest
+of this walking.
+
+525 2309184 1418
+Give me your hand.
+
+526 2313230 1793
+Isn't it beautiful?
+
+527 2332791 1377
+Dead end.
+
+528 2391600 1627
+We made it.
+
+529 2393769 1209
+Isn't it beautiful?
+
+530 2416667 1835
+It's so pretty.
+
+531 2423090 2961
+I didn't think it was
+going to be this big. Did you?
+
+532 2437312 2419
+Rutherford was serving
+a life sentence...
+
+533 2439940 1752
+...for a 1968 shooting.
+
+534 2441900 3879
+And the search continues
+for that missing Aspen woman.
+
+535 2445988 3336
+24-year-old Susan Robertson
+has been missing 10 days.
+
+536 2449533 2753
+She disappeared on a hunting
+trip with her husband.
+
+537 2452494 2795
+They may have to
+call off the search...
+
+538 2455497 2503
+...if a predicted snowstorm
+moves in tomorrow.
+
+539 2458208 1877
+It's so beautiful
+in Denver today...
+
+540 2460294 2127
+...it's hard to believe
+a snowstorm could be close.
+
+541 2462629 2211
+I want to go outside
+and lie in the sun...
+
+542 2465048 4130
+...yet to our north, to our west,
+it is snowing and cold.
+
+543 2469386 1210
+And it's moving...
+
+544 2470804 3170
+...right here towards Colorado
+as we talk. It's incredible.
+
+545 2622581 1418
+Hi, hon.
+
+546 2627628 1376
+How's it going?
+
+547 2631590 1168
+Fine.
+
+548 2634843 1585
+Get a lot written today?
+
+549 2643477 2544
+The weather forecast
+said it's going to snow tonight.
+
+550 2651235 2335
+What do you want me
+to do about it?
+
+551 2655697 2169
+Come on, hon.
+
+552 2658200 2044
+Don't be so grouchy.
+
+553 2660661 1334
+I'm not...
+
+554 2662371 1168
+...being grouchy.
+
+555 2663747 2795
+I just want to finish my work.
+
+556 2670045 2419
+Okay. I understand.
+
+557 2672714 2586
+I'll come back later
+with a couple of sandwiches.
+
+558 2675509 2461
+Maybe you'll let me
+read something then.
+
+559 2681181 1085
+Wendy...
+
+560 2682474 2586
+...let me explain something to you.
+
+561 2685978 3879
+When you come in and interrupt,
+you're breaking my concentration.
+
+562 2690065 1418
+You're distracting me...
+
+563 2691692 3420
+...and it will then take me time
+to get back to where I was.
+
+564 2695320 1418
+Understand?
+
+565 2700242 1126
+Fine.
+
+566 2702578 1710
+We're going to make a new rule:
+
+567 2704496 1418
+Whenever I'm in here...
+
+568 2706123 2252
+...and you hear me typing...
+
+569 2710210 2920
+...or whatever the fuck
+you hear me doing in here...
+
+570 2713338 2294
+...when I'm in here,
+that means I am working.
+
+571 2715841 2210
+That means don't come in.
+
+572 2718260 2294
+Now, do you think
+you can handle that?
+
+573 2725184 1126
+Fine.
+
+574 2727352 3295
+Why don't you start right now
+and get the fuck out of here?
+
+575 2766600 1335
+All right, you!
+
+576 2769394 1794
+I know you've got more.
+
+577 2773315 1043
+Missed!
+
+578 2779947 834
+Don't have!
+
+579 2780989 1752
+No fair anymore.
+
+580 2850392 1293
+I knew it.
+
+581 2881965 3504
+This is IKDIK 1 2 calling IKDIK 1 .
+
+582 2887971 3712
+KDK 12 to KDK 1.
+
+583 2891892 3128
+This is IKDIK 1 .
+We're receiving you. Over.
+
+584 2895395 3129
+Hi, this is Wendy Torrance
+at the Overlook Hotel.
+
+585 2899107 2795
+Hi, how are you folks
+getting on up there? Over.
+
+586 2902152 1335
+We're just fine.
+
+587 2903695 2461
+But our telephones
+aren't doing too well.
+
+588 2906365 3003
+Are the lines down,
+by any chance? Over.
+
+589 2910035 3796
+Yes, quite a few of them are down
+due to the storm. Over.
+
+590 2914122 3212
+Any chance of them
+being repaired soon? Over.
+
+591 2917543 1167
+Well, I wouldn't like to say.
+
+592 2918919 3420
+Most winters they stay that way
+until spring. Over.
+
+593 2922840 3420
+Boy, this storm is really something,
+isn't it? Over.
+
+594 2926718 2878
+Yes. It's one of the worst we've
+had for years.
+
+595 2930180 3212
+Is there anything else we can
+do for you, Mrs. Torrance?
+
+596 2933851 2168
+I suppose not. Over.
+
+597 2936645 3295
+If you folks have any problems
+up there, just give us a call.
+
+598 2940149 1292
+And, Mrs. Torrance?
+
+599 2941650 4171
+It might be a good idea if you
+leave your radio on all the time.
+
+600 2946655 1502
+Okay. We'll do that.
+
+601 2948365 2044
+It was real nice talking to you.
+
+602 2950659 2628
+Bye. Over and out.
+
+603 2988197 2168
+Hello, Danny.
+
+604 2995662 2419
+Come and play with us.
+
+605 3002961 2753
+Come and play with us, Danny.
+
+606 3007549 1877
+Forever...
+
+607 3011220 1751
+...and ever...
+
+608 3013889 2044
+...and ever.
+
+609 3047422 1627
+Tony...
+
+610 3050050 2002
+...l'm scared.
+
+611 3057558 3545
+Remember what Mr. Hallorann said.
+
+612 3062729 3879
+It'sjust like
+pictures in a book, Danny.
+
+613 3066817 2169
+It isn't real.
+
+614 3079997 1793
+Please let me give you
+some money.
+
+615 3081999 2043
+I wouldn't think of it.
+
+616 3084293 1251
+Well, how can I repay you?
+
+617 3086503 1919
+It's okay. Really.
+
+618 3089047 2086
+Well, I'm going to have
+some coffee.
+
+619 3091341 1544
+Would you like some?
+
+620 3094636 1043
+Sure.
+
+621 3095888 1876
+Great. Sit down.
+
+622 3107691 2628
+Marvelous doughnuts.
+Help yourself.
+
+623 3111945 2419
+Coffee will be ready
+in a few minutes.
+
+624 3118160 3337
+Can I go up to my room
+and get my fire engine?
+
+625 3122915 2752
+Not right now.
+Daddy's asleep.
+
+626 3126627 2168
+I won't make any noise.
+
+627 3130214 1876
+Now come on, Doc.
+
+628 3132299 1710
+He only went to bed
+a few hours ago.
+
+629 3134218 1793
+Can't you wait till later?
+
+630 3136220 3128
+I won't make a sound.
+I promise I'll tiptoe.
+
+631 3142559 1293
+All right.
+
+632 3144019 2419
+But really don't make a sound.
+
+633 3146647 1501
+I won't, Mom.
+
+634 3148899 1793
+Make sure you
+come right back...
+
+635 3150901 1960
+...because I'm going to
+make lunch soon.
+
+636 3155030 1460
+Okay, Mom.
+
+637 3205789 3128
+Can I go to my room
+and get my fire engine?
+
+638 3212671 2211
+Come here for a minute first.
+
+639 3251877 1793
+How's it going, Doc?
+
+640 3258258 1794
+Having a good time?
+
+641 3262137 1460
+Yes, Dad.
+
+642 3266517 1209
+Good.
+
+643 3269937 2168
+I want you to
+have a good time.
+
+644 3272815 1626
+I am, Dad.
+
+645 3284868 1794
+Do you feel bad?
+
+646 3292626 2294
+I'm just a little bit tired.
+
+647 3296505 2544
+Then why don't you
+go to sleep?
+
+648 3302636 1543
+I can't.
+
+649 3305681 2294
+I got too much to do.
+
+650 3317276 2252
+Do you like this hotel?
+
+651 3325576 1376
+I do.
+
+652 3327911 1335
+I love it.
+
+653 3331456 1335
+Don't you?
+
+654 3335169 1501
+I guess so.
+
+655 3339298 1209
+Good.
+
+656 3343719 2335
+I want you to like it here.
+
+657 3350017 3378
+I wish we could stay here
+forever...
+
+658 3353604 1793
+...and ever...
+
+659 3356106 1293
+...and ever.
+
+660 3362863 1043
+What?
+
+661 3365157 3045
+You would never hurt Mommy or me,
+would you?
+
+662 3373749 1460
+What do you mean?
+
+663 3380339 2586
+Did your mother ever
+say that to you?
+
+664 3383592 1835
+That I would hurt you?
+
+665 3386178 1335
+No, Dad.
+
+666 3389723 1543
+You sure?
+
+667 3391767 1626
+Yes, Dad.
+
+668 3398190 2044
+I love you, Danny.
+
+669 3401443 2586
+I love you
+more than anything else...
+
+670 3404238 2544
+...in the whole world...
+
+671 3407574 3045
+...and I would never do anything
+to hurt you...
+
+672 3410911 1251
+...never.
+
+673 3413038 2044
+You know that, don't you?
+
+674 3415582 1543
+Yes, Dad.
+
+675 3418085 1042
+Good.
+
+676 3507090 1794
+Mom, are you in there?
+
+677 3588130 1043
+What happened?
+
+678 3589381 1251
+Honey...
+
+679 3591508 1377
+...what's wrong?
+
+680 3601059 1419
+I had the most...
+
+681 3602686 2586
+...terrible nightmare I ever had.
+
+682 3607191 2961
+-It was the most horrible dream.
+-It's okay, it's okay now.
+
+683 3611320 1376
+Really.
+
+684 3616992 1585
+I dreamed that l...
+
+685 3618744 2461
+...that I killed
+you and Danny.
+
+686 3623957 2211
+But I didn't just kill you.
+
+687 3627461 2794
+I cut you up
+into little pieces.
+
+688 3632925 1501
+My God.
+
+689 3635135 2586
+I must be losing my mind.
+
+690 3640015 2586
+Everything's going to be
+all right.
+
+691 3644728 2711
+Come on. Let's get up
+off the floor.
+
+692 3655280 2253
+There. Now sit up.
+
+693 3658200 1335
+It's okay.
+
+694 3660619 1460
+It's okay.
+
+695 3666083 1251
+Danny!
+
+696 3667626 1960
+Everything's okay!
+
+697 3669753 3170
+Just go play in your room
+for a while.
+
+698 3673215 2127
+Your dad's just got
+a headache.
+
+699 3676635 3045
+Danny, mind what I say.
+Go play in your room.
+
+700 3681598 3003
+Honey, let me just go
+get him out of here.
+
+701 3684768 1543
+I'll be right back.
+
+702 3688230 2044
+Why don't you mind me?
+
+703 3696864 1876
+Oh, my God.
+
+704 3699950 2377
+What happened to your neck?
+
+705 3704288 2127
+What happened to your neck?
+
+706 3735360 1961
+You did this to him...
+
+707 3737779 1419
+...didn't you?!
+
+708 3741033 2085
+You son of a bitch!
+
+709 3743285 1877
+You did this to him!
+
+710 3745370 1460
+Didn't you?!
+
+711 3748165 1626
+How could you?!
+
+712 3750042 1710
+How could you?!
+
+713 3842634 3087
+God! I'd give anything
+for a drink.
+
+714 3848390 2878
+I'd give my goddamn soul...
+
+715 3851477 2502
+...for just a glass of beer.
+
+716 3868952 1502
+Hi, Lloyd.
+
+717 3873999 2419
+A little slow tonight,
+isn't it?
+
+718 3881298 2252
+Yes it is, Mr. Torrance.
+
+719 3885636 1459
+What will it be?
+
+720 3888764 2961
+I'm awfully glad
+you asked me that, Lloyd...
+
+721 3891934 3336
+...because I just happen to have
+two twenties...
+
+722 3895479 2878
+...and two tens
+right here in my wallet.
+
+723 3898565 3254
+I was afraid they were
+going to be there until next April.
+
+724 3902528 1835
+So here's what:
+
+725 3904655 2294
+You slip me a bottle of bourbon...
+
+726 3907157 2795
+...a little glass and some ice.
+
+727 3910160 2044
+You can do that,
+can't you, Lloyd?
+
+728 3912663 2335
+You're not too busy, are you?
+
+729 3915582 2503
+No, sir.
+I'm not busy at all.
+
+730 3918585 1543
+Good man.
+
+731 3920462 1085
+You set them up...
+
+732 3921839 2836
+...and I'll knock them back,
+one by one.
+
+733 3925843 2919
+White man's burden,
+Lloyd, my man.
+
+734 3928971 2169
+White man's burden.
+
+735 3937187 1126
+Say, Lloyd...
+
+736 3938522 2794
+...it seems I'm temporarily light.
+
+737 3941650 2419
+How's my credit
+in this joint, anyway?
+
+738 3944361 2336
+Your credit's fine, Mr. Torrance.
+
+739 3947406 1626
+That's swell.
+
+740 3949241 1710
+I like you, Lloyd.
+
+741 3951160 1668
+I always liked you.
+
+742 3953036 2294
+You were always the best of them.
+
+743 3955539 2377
+Best goddamned bartender...
+
+744 3958125 2919
+...from Timbuktu
+to Portland, Maine.
+
+745 3961253 2252
+Or Portland, Oregon,
+for that matter.
+
+746 3963755 1794
+Thank you for saying so.
+
+747 3967885 4504
+Here's to 5 miserable months
+on the wagon...
+
+748 3972598 4087
+...and all the irreparable harm
+that it's caused me.
+
+749 3994912 2460
+How are things going,
+Mr. Torrance?
+
+750 3998707 2586
+Things could be better.
+
+751 4002794 2753
+Things could be
+a whole lot better.
+
+752 4006423 2336
+I hope it's nothing serious.
+
+753 4011762 2002
+Nothing serious.
+
+754 4015432 2544
+Just a little problem with...
+
+755 4018185 3128
+...the old sperm bank
+upstairs.
+
+756 4021522 2377
+Nothing I can't handle,
+though.
+
+757 4024107 1669
+Thanks.
+
+758 4026276 960
+Women.
+
+759 4027444 1543
+Can't live with them...
+
+760 4029196 1835
+...can't live without them.
+
+761 4034243 1543
+Words of wisdom, Lloyd.
+
+762 4035994 1460
+Words of...
+
+763 4037663 1543
+...wisdom.
+
+764 4050717 3212
+I never laid a hand on him,
+goddamn it.
+
+765 4054137 1627
+I didn't.
+
+766 4057808 4629
+I wouldn't touch one hair
+on his goddamn little head.
+
+767 4063021 3129
+I love the little
+son of a bitch.
+
+768 4067776 2836
+I'd do anything for him.
+
+769 4070821 2794
+Any fucking thing for him.
+
+770 4077661 2586
+But that bitch!
+
+771 4081248 1710
+As long as I live...
+
+772 4083208 3420
+...she'll never let me forget
+what happened.
+
+773 4096221 2836
+I did hurt him once, okay?
+
+774 4099433 2044
+It was an accident.
+
+775 4101810 2586
+Completely unintentional.
+
+776 4105689 2211
+It could have happened
+to anybody.
+
+777 4109651 3420
+And it was three goddamn
+years ago!
+
+778 4113280 2878
+The little fucker had thrown all my
+papers all over the floor.
+
+779 4116366 2461
+All I tried to do was pull him up.
+
+780 4121580 4713
+A momentary loss of
+muscular coordination.
+
+781 4126585 1251
+I mean...
+
+782 4128378 3504
+...a few extra foot-pounds
+of energy...
+
+783 4132090 2837
+...per second, per second.
+
+784 4151068 1877
+Thank God you're here.
+
+785 4156198 2169
+There's someone else
+in the hotel with us.
+
+786 4158575 2503
+There's a crazy woman
+in one of the rooms.
+
+787 4161286 2586
+She tried to strangle Danny.
+
+788 4166416 2420
+Are you out of your fucking mind?
+
+789 4170754 2044
+It's the truth! Really.
+
+790 4173006 2002
+I swear it.
+Danny told me.
+
+791 4175342 1835
+He went up into
+one of the bedrooms.
+
+792 4177386 3462
+The door was open, and he saw this
+crazy woman in the bathtub.
+
+793 4181098 2294
+She tried to strangle him!
+
+794 4187104 1793
+Which room was it?
+
+795 4196530 2127
+From Channel 10 in Miami...
+
+796 4198866 2377
+...this is Newswatch
+with Glen Rinker...
+
+797 4201451 4171
+...Ann Bishop, and
+the award-winning Newswatch team.
+
+798 4205956 2419
+Good evening. I'm Glen Rinker,
+Newswatch Ten.
+
+799 4208584 3169
+As Miami continues to swelter
+in a record winter heat wave...
+
+800 4211962 2127
+...bringing temperatures
+to the 90s...
+
+801 4214298 3128
+...Central and Mountain states
+are buried in snow.
+
+802 4217634 3963
+In Colorado, 10 inches of snow
+fell injust a few hours tonight.
+
+803 4221805 2211
+Travel in the Rockies
+is almost impossible.
+
+804 4224224 3003
+Airports are shut down, stranding
+thousands ofpassengers.
+
+805 4227436 1877
+Highways are blocked
+by snowdrifts.
+
+806 4229521 1752
+Railroad tracks are frozen.
+
+807 4231482 2043
+Officials in Colorado
+tell Newswatch...
+
+808 4233734 3545
+...at least 3 have been killed
+by exposure to freezing winds.
+
+809 4237488 2252
+The governor of Colorado
+is expected...
+
+810 4239948 1794
+...to declare
+a weather emergency.
+
+811 4241950 1835
+The National Guard
+might be called out...
+
+812 4243994 1168
+...to clear streets and roads.
+
+813 4245370 2253
+Weather forecasters
+predict more snow...
+
+814 4247831 1960
+...and heavy winds
+tonight and tomorrow...
+
+815 4250000 2628
+...with temperatures dropping
+well below zero.
+
+816 4252836 2961
+Back here in Florida,
+we've got the opposite problem.
+
+817 4256048 2252
+The heat and humidity
+are supposed to climb.
+
+818 4258509 1960
+Local beaches
+should bejammed.
+
+819 4260677 2002
+Our weather expert,
+Walter Cronice...
+
+820 4262888 3253
+...will have the local forecast
+later on Newswatch.
+
+821 4597806 4630
+We're sorry. Your call cannot
+be completed as dialed.
+
+822 4602769 3129
+If you need assistance,
+please call the operator.
+
+823 4623165 1835
+Yes, it's me.
+
+824 4625209 1418
+Thank God.
+
+825 4631298 1752
+Did you find anything?
+
+826 4633258 2753
+No. Nothing at all.
+
+827 4636595 3170
+I didn't see one goddamn thing.
+
+828 4642518 3461
+You went into the room Danny said?
+To 237?
+
+829 4646230 1543
+Yes, I did.
+
+830 4648232 1793
+And you didn't see anything at all?
+
+831 4650234 2002
+Absolutely nothing.
+
+832 4652444 1251
+How is he?
+
+833 4653904 1793
+He's still asleep.
+
+834 4656114 1127
+Good.
+
+835 4663080 3086
+I'm sure he'll be himself again
+in the morning.
+
+836 4670629 2502
+Are you sure it was the right room?
+
+837 4673340 3170
+I mean, maybe Danny made a mistake.
+
+838 4676718 2336
+He must have gone in that room.
+
+839 4679263 2669
+The door was open,
+the lights were on.
+
+840 4684601 2294
+I just don't understand it.
+
+841 4691275 3003
+What about those bruises
+on his neck?
+
+842 4696446 2336
+Somebody did that to him.
+
+843 4707082 1418
+I think...
+
+844 4710169 2544
+...he did it to himself.
+
+845 4718760 1210
+No.
+
+846 4720637 2044
+That's not possible.
+
+847 4727978 3670
+Once you rule out his version
+of what happened...
+
+848 4731899 2586
+...there is no other explanation.
+
+849 4734985 1293
+Is there?
+
+850 4738655 2920
+It wouldn't be that different
+from the episode...
+
+851 4741783 3337
+...that he had before
+we came up here.
+
+852 4745329 1251
+Would it?
+
+853 4754505 2961
+Whatever the explanation is...
+
+854 4760928 1376
+...l think we...
+
+855 4762513 2752
+...have to get Danny out of here.
+
+856 4770020 1835
+Get him out of here?
+
+857 4776026 1752
+You mean...
+
+858 4778821 1960
+...just leave the hotel?
+
+859 4789748 1460
+It is so...
+
+860 4791416 2420
+...typical of you to create
+a problem like this...
+
+861 4794044 2544
+...when I finally have a chance
+to accomplish something!
+
+862 4796797 2544
+When I'm really into my work!
+
+863 4799550 3962
+I could really write my own ticket
+if I went back now, couldn't l?
+
+864 4803720 3754
+Shoveling out driveways,
+work in a car wash.
+
+865 4807683 2085
+Any of that appeal to you?
+
+866 4810978 2711
+I have let you fuck up my life
+so far...
+
+867 4813897 3629
+...but I am not going to let you
+fuck this up.
+
+868 4895437 2294
+Good evening. Forest Service.
+
+869 4898315 1418
+My name is Dick Hallorann.
+
+870 4899942 2419
+I'm the head chef at
+the Overlook Hotel.
+
+871 4902569 2127
+Good evening.
+What can I do for you?
+
+872 4904905 3545
+I've been trying to make
+an urgent phone call up there...
+
+873 4908659 3295
+...but the operator said
+that the phone lines are down.
+
+874 4912162 3629
+A lot of lines around here
+are down due to the storm.
+
+875 4915999 2628
+I hate to put you through
+any trouble...
+
+876 4918836 3253
+...but there's a family up there
+all by themselves with a young kid.
+
+877 4922297 1669
+And with this storm
+and everything...
+
+878 4924174 2878
+...l'd appreciate it if you'd give
+them a call on your radio...
+
+879 4927261 2002
+...just to see if
+everything's okay.
+
+880 4929763 1293
+I'll be glad to do that.
+
+881 4931265 2794
+Why don't you call me back
+in about 20 minutes?
+
+882 4934268 2002
+Thank you very much.
+I'll do that.
+
+883 4936520 1418
+All right, sir.
+
+884 4958250 1960
+Good evening, Mr. Torrance.
+
+885 4960419 1460
+Good evening.
+
+886 4986445 1460
+Hi, Lloyd.
+
+887 4988113 1877
+Been away, but now I'm back.
+
+888 4990240 1752
+Good evening, Mr. Torrance.
+
+889 4992659 1001
+It's good to see you.
+
+890 4993869 2669
+It's good to be back, Lloyd.
+
+891 4997164 1710
+What'll it be, sir?
+
+892 4999708 2252
+Hair of the dog that bit me.
+
+893 5003378 1669
+Bourbon on the rocks.
+
+894 5005881 1376
+That'll do her.
+
+895 5020771 2294
+No charge to you, Mr. Torrance.
+
+896 5024483 1960
+No charge?
+
+897 5027110 1961
+Your money's no good here.
+
+898 5034743 1710
+Orders from the house.
+
+899 5039665 2502
+Orders from the house.
+
+900 5045420 1961
+Drink up, Mr. Torrance.
+
+901 5049633 4505
+I'm the kind of man likes to know
+who's buying their drinks, Lloyd.
+
+902 5056473 2920
+It's not a matter that concerns you,
+Mr. Torrance.
+
+903 5059601 1919
+At least, not at this point.
+
+904 5066316 2419
+Anything you say, Lloyd.
+
+905 5069153 2002
+Anything you say.
+
+906 5084168 2460
+Oh, dear! I'm so sorry, sir.
+
+907 5087713 1460
+Oh, dear. Oh, dear.
+
+908 5089381 2544
+I've made an awful mess
+of your jacket, sir.
+
+909 5093177 3628
+That's all right.
+I've got plenty of jackets.
+
+910 5097014 2794
+I'm afraid it's advocaat, sir.
+It tends to stain.
+
+911 5100017 1126
+Advocaat, is it?
+
+912 5101351 2169
+Yes, sir.
+I think the best thing...
+
+913 5103729 2210
+...is to come along
+to the gentlemen's room...
+
+914 5106148 2502
+...and we'll get
+some water to it, sir.
+
+915 5109526 3295
+Looks like you might have got a
+spot of it on yourself...
+
+916 5113030 959
+...Jeevesy old boy.
+
+917 5114198 3169
+That doesn't matter, sir.
+You're the important one.
+
+918 5117701 2377
+Awfully nice of you to say.
+
+919 5120537 2836
+Of course, I intended to change
+my jacket this evening...
+
+920 5123582 2252
+...before the fish and
+goose soiree.
+
+921 5126043 2043
+Very wise, sir. Very wise.
+
+922 5128295 1335
+Here. I'll just...
+
+923 5130422 2252
+...hold this for you there,
+Jeevesy.
+
+924 5132883 1793
+Thank you, sir. Thank you.
+
+925 5135719 3629
+Let's see if we can improve this
+with a little water, sir.
+
+926 5139556 1293
+All right. I'll just...
+
+927 5141058 4171
+...set my bourbon and advocaat
+down right there.
+
+928 5145813 1376
+Won't keep you a moment.
+
+929 5147397 1419
+Fine.
+
+930 5151860 1710
+What do they call you,
+Jeevesy?
+
+931 5153779 2544
+Grady, sir. Delbert Grady.
+
+932 5161119 835
+Grady?
+
+933 5162162 1335
+Yes, sir.
+
+934 5164665 1334
+Delbert Grady.
+
+935 5166208 1501
+That's right, sir.
+
+936 5176426 1460
+Mr. Grady...
+
+937 5178595 2086
+...haven't I seen you
+somewhere before?
+
+938 5180889 2753
+Why, no, sir. I don't believe so.
+
+939 5190691 1835
+It's coming off now, sir.
+
+940 5197447 1585
+Mr. Grady...
+
+941 5200534 2461
+...weren't you once
+the caretaker here?
+
+942 5203203 2795
+Why, no, sir. I don't believe so.
+
+943 5209042 3295
+You a married man, are you,
+Mr. Grady?
+
+944 5212546 834
+Yes, sir.
+
+945 5213589 3295
+I have a wife and
+two daughters, sir.
+
+946 5217926 1502
+And...
+
+947 5221138 1251
+...where are they now?
+
+948 5222598 4045
+They're somewhere around.
+I'm not quite sure at the moment.
+
+949 5237321 2419
+You were the caretaker here.
+
+950 5241158 2002
+I recognize you.
+
+951 5244536 3087
+I saw your picture
+in the newspapers.
+
+952 5248081 1752
+You...
+
+953 5250334 3503
+...chopped your wife and daughter
+up into little bits.
+
+954 5254338 1418
+And...
+
+955 5256381 1919
+...then you blew your brains out.
+
+956 5268227 1751
+That's strange, sir.
+
+957 5271021 2669
+I don't have any recollection
+of that at all.
+
+958 5277402 1877
+Mr. Grady...
+
+959 5279696 3337
+...you were the caretaker here.
+
+960 5290874 2753
+I'm sorry to differ with you, sir.
+
+961 5295504 1710
+But you...
+
+962 5297965 1835
+...are the caretaker.
+
+963 5302052 2878
+You've always been the caretaker.
+
+964 5307850 1835
+I should know, sir.
+
+965 5311145 2585
+I've always been here.
+
+966 5331957 2169
+Did you know, Mr. Torrance...
+
+967 5334376 1752
+...that your son...
+
+968 5336545 2711
+...is attempting to bring
+an outside party...
+
+969 5339465 2210
+...into this situation?
+
+970 5344261 1668
+Did you know that?
+
+971 5352186 2085
+He is, Mr. Torrance.
+
+972 5356607 1167
+Who?
+
+973 5360027 1626
+A nigger.
+
+974 5365699 1376
+A nigger?
+
+975 5369828 1460
+A nigger...
+
+976 5371497 1084
+...cook.
+
+977 5379129 1251
+How?
+
+978 5382633 1793
+Your son...
+
+979 5384843 2795
+...has a very great talent.
+
+980 5388639 3461
+I don't think you are aware
+how great it is.
+
+981 5392851 3253
+But he is attempting to use
+that very talent...
+
+982 5396271 1961
+...against your will.
+
+983 5406782 1293
+Well...
+
+984 5410828 3086
+...he is a very willful boy.
+
+985 5416333 2377
+Indeed he is, Mr. Torrance.
+
+986 5418919 2878
+A very willful boy.
+
+987 5422005 1335
+A rather...
+
+988 5423549 1543
+...naughty boy...
+
+989 5425300 3128
+...if I may be so bold, sir.
+
+990 5435727 1752
+It's his mother.
+
+991 5439648 1460
+She...
+
+992 5441316 1961
+...interferes.
+
+993 5446405 3086
+Perhaps they need a good...
+
+994 5449700 1585
+...talking-to.
+
+995 5451743 835
+If...
+
+996 5452786 2753
+...you don't mind my saying so.
+
+997 5456373 1627
+Perhaps...
+
+998 5458542 1627
+...a bit more.
+
+999 5463380 1293
+My girls, sir...
+
+1000 5464840 3837
+...they didn't care for
+the Overlook at first.
+
+1001 5469344 3879
+One of them actually stole
+a pack of matches...
+
+1002 5473432 2669
+...and tried to burn it down.
+
+1003 5477186 1668
+But l...
+
+1004 5479021 2002
+...corrected them, sir.
+
+1005 5482357 4130
+And when my wife tried to prevent me
+from doing my duty...
+
+1006 5486695 1251
+...l...
+
+1007 5488947 2044
+...corrected her.
+
+1008 5505297 1919
+We have the Snowcat.
+
+1009 5510636 1751
+If the weather breaks...
+
+1010 5512596 1793
+...we might just be able...
+
+1011 5514598 1835
+...to get down the mountain.
+
+1012 5519311 2920
+I could call
+the forest rangers first...
+
+1013 5522439 1293
+...and...
+
+1014 5524066 1877
+...tell them that we're coming...
+
+1015 5526360 1168
+....so that...
+
+1016 5527736 4088
+...they could start searching
+for us in case we didn't make it.
+
+1017 5535619 2127
+And if Jack won't come with us...
+
+1018 5540249 3712
+...l'll just have to tell him that
+we're going by ourselves.
+
+1019 5544169 1961
+That's all there is to it.
+
+1020 5547506 1501
+Redrum.
+
+1021 5549967 1668
+Redrum.
+
+1022 5562896 1168
+What's the matter, hon?
+
+1023 5564273 876
+Redrum!
+
+1024 5565357 2044
+Are you having a bad dream?
+
+1025 5573365 1251
+Hon?
+
+1026 5580414 3837
+Danny's not here, Mrs. Torrance.
+
+1027 5589298 1543
+Come on, hon.
+
+1028 5591842 1418
+Wake up.
+
+1029 5594178 2294
+You just had a bad dream.
+
+1030 5597848 2127
+Everything's okay.
+
+1031 5604062 3879
+Danny can't wake up, Mrs. Torrance.
+
+1032 5617367 1794
+Wake up!
+
+1033 5620370 1335
+Come on.
+
+1034 5621914 1543
+Right now.
+
+1035 5623916 1376
+Wake up!
+
+1036 5629338 4004
+Danny's gone away, Mrs. Torrance.
+
+1037 5643477 2836
+This is KDK 1 calling
+KDK 12.
+
+1038 5646522 2919
+KDK 1 calling KDK 12.
+
+1039 5649733 1794
+Are you receiving me?
+
+1040 5654738 3462
+This is KDK 1 calling
+KDK 12.
+
+1041 5658575 2795
+KDK 1 calling KDK 12.
+
+1042 5661578 1627
+Do you read me?
+
+1043 5667584 3045
+This is KDK 1 calling
+KDK 12.
+
+1044 5670838 2544
+KDK 1 calling KDK 12.
+
+1045 5673590 1794
+Are you receiving me?
+
+1046 5711753 1919
+Good evening. Forest service.
+
+1047 5713881 2210
+This is Dick Hallorann again.
+
+1048 5716300 3086
+I called a while ago about
+the folks at the Overlook Hotel.
+
+1049 5720637 3796
+We tried to contact them several
+times but they didn't answer.
+
+1050 5724641 3587
+Maybe they got their radio
+turned off or they can't hear it.
+
+1051 5728437 2919
+If you'd like, I'd be glad
+to try again later on.
+
+1052 5731857 2127
+That's very nice of you.
+
+1053 5734193 1751
+I'll call you back later.
+
+1054 5736153 1043
+Bye.
+
+1055 5784284 3003
+Pardon me, miss.
+What time will we get to Denver?
+
+1056 5787496 2169
+We're due to arrive at 8:20, sir.
+
+1057 5789873 1585
+Thank you very much.
+
+1058 5855397 918
+Durkin's Garage.
+
+1059 5856523 1126
+Can I speak to Larry?
+
+1060 5857858 959
+Speaking.
+
+1061 5859109 2503
+Hi, Larry. This is Dick.
+Dick Hallorann.
+
+1062 5861904 1668
+Dick! How you doing?
+
+1063 5863739 1376
+How's the weather down there?
+
+1064 5865324 3170
+I'm not in Florida.
+I'm calling from Stapleton Airport.
+
+1065 5868869 1585
+What are you doing there?
+
+1066 5870913 3420
+I just got in from Miami.
+I got to get to the Overlook today.
+
+1067 5874541 1627
+What's the weather like there?
+
+1068 5876794 2877
+The snowplows are keeping things
+moving in town...
+
+1069 5879880 1919
+...but the mountain roads
+are blocked.
+
+1070 5882341 2711
+Then I'm going to need a Snowcat
+to get up there.
+
+1071 5885260 1835
+Can you fix me up with one?
+
+1072 5887262 2127
+What's the big deal
+about getting there today...
+
+1073 5889598 1543
+...especially in this weather?
+
+1074 5892017 3462
+Larry, just between you and me,
+we got a very serious problem...
+
+1075 5895687 2253
+...with the people taking care
+of the place.
+
+1076 5898148 3837
+They turned out to be
+completely unreliable assholes.
+
+1077 5902194 1793
+Ullman phoned me last night.
+
+1078 5904196 3378
+And I'm supposed to find out
+if they have to be replaced.
+
+1079 5909034 2044
+How long will it take you
+to get here?
+
+1080 5911411 1669
+About five hours.
+
+1081 5913288 2211
+I'm going to rent a car
+here at the airport.
+
+1082 5915999 1752
+Okay, I'll take care of it.
+
+1083 5917960 2836
+Thanks, Larry.
+I really appreciate that.
+
+1084 5920963 2586
+That's all right. Drive carefully.
+
+1085 5929304 3254
+You're with Hal and Charlie
+on Radio 63, KHOW, Denver.
+
+1086 5932766 2544
+And we have a bad day out there.
+
+1087 5935519 3378
+Heavy snow throughout
+the Denver metro area.
+
+1088 5939106 1501
+Many mountain passes...
+
+1089 5940816 2836
+... Wolf Creek and Red Mountain
+passes are closed...
+
+1090 5943861 3295
+...and the chain law is in effect
+at the Eisenhower Tunnel.
+
+1091 5947364 1668
+We hear from the news department...
+
+1092 5949241 3211
+...only a few flights are
+landing at Stapleton Airport...
+
+1093 5952661 1585
+...and with storms like this...
+
+1094 5954454 4130
+...l guess the entire airport will
+be closed within the hour.
+
+1095 5958750 2878
+The storm will continue through
+the day and the Weather Service...
+
+1096 5961837 2461
+...has declared a stockman's
+and traveler's advisory...
+
+1097 5964506 2795
+...for all areas outlying
+the Denver metro region.
+
+1098 5967509 1335
+Get the cows in the barn.
+
+1099 5990365 1043
+Hon?
+
+1100 5996371 2461
+Listen to me
+for a minute, will you?
+
+1101 6002628 3712
+I'm just going to go and
+talk to Daddy for a few minutes...
+
+1102 6006548 2002
+...and I'll be right back.
+
+1103 6009551 2503
+I want you to just stay here...
+
+1104 6012262 2503
+...and watch your cartoons, okay?
+
+1105 6017893 1460
+Okay, hon?
+
+1106 6022648 2878
+Yes, Mrs. Torrance.
+
+1107 6034284 1210
+All right.
+
+1108 6037579 2878
+I'll be back
+in just about five minutes.
+
+1109 6041291 2294
+I'm going to lock the door
+behind me.
+
+1110 6249958 1669
+How do you like it?
+
+1111 6258258 1502
+How do you like it?
+
+1112 6269728 2669
+What are you doing down here?
+
+1113 6276777 2335
+I just...
+
+1114 6279571 1043
+...wanted...
+
+1115 6281031 1752
+...to talk to you.
+
+1116 6285160 1251
+Okay.
+
+1117 6286995 1502
+Let's talk.
+
+1118 6298298 2002
+What do you want to talk about?
+
+1119 6308183 3170
+I can't really remember.
+
+1120 6312187 2127
+You can't remember.
+
+1121 6315107 1334
+No...
+
+1122 6316817 1376
+...l can't.
+
+1123 6323532 3253
+Maybe it was about Danny?
+
+1124 6329163 2711
+Maybe it was about him.
+
+1125 6335502 3295
+I think we should discuss Danny.
+
+1126 6341592 1793
+I think...
+
+1127 6343802 3754
+...we should discuss
+what should be done with him.
+
+1128 6352269 2586
+What should be done with him?
+
+1129 6359860 1793
+I don't know.
+
+1130 6362154 2002
+I don't think that's true.
+
+1131 6364364 2586
+I think you have some
+very definite ideas...
+
+1132 6367159 1710
+...about what should be done
+with Danny.
+
+1133 6369077 2586
+And I'd like to know
+what they are.
+
+1134 6373582 1793
+Well, l...
+
+1135 6375667 4421
+...l think maybe he should be taken
+to a doctor.
+
+1136 6380255 3337
+You think "maybe"
+he should be taken to a doctor?
+
+1137 6385803 3336
+When do you think "maybe"
+he should be taken to a doctor?
+
+1138 6389765 1376
+As soon as possible?
+
+1139 6391767 2335
+"As soon as possible?"
+
+1140 6396772 1418
+Please.
+
+1141 6399608 3253
+You believe his health
+might be at stake.
+
+1142 6404446 1502
+Yes.
+
+1143 6407282 2628
+And you are concerned about him.
+
+1144 6412496 2252
+And are you concerned about me?
+
+1145 6415582 1168
+Of course I am.
+
+1146 6416959 2210
+Of course you are!
+
+1147 6419378 3128
+Have you ever thought about
+my responsibilities?
+
+1148 6422714 1502
+What are you talking about?
+
+1149 6424424 2837
+Have you ever had
+a single moment's...
+
+1150 6427469 2044
+...thought about
+my responsibilities?
+
+1151 6429721 2253
+Have you ever thought
+for a single moment...
+
+1152 6432182 2795
+...about my responsibilities
+to my employers?!
+
+1153 6435269 1835
+Has is ever occurred to you...
+
+1154 6437312 3462
+...that I have agreed to look after
+the hotel until May 1 st?
+
+1155 6441024 2044
+Does it matter to you at all...
+
+1156 6443277 3086
+...that the owners have placed
+their complete confidence in me...
+
+1157 6446572 3128
+...and that I have signed
+a letter of agreement...
+
+1158 6449908 2586
+...in which I've accepted
+that responsibility?
+
+1159 6452995 2002
+Do you have the slightest idea...
+
+1160 6455205 3254
+...what a moral and ethical
+principal is? Do you?!
+
+1161 6458834 3086
+Has it ever occurred to you what
+would happen to my future...
+
+1162 6462129 2377
+...if I fail to live up to
+my responsibilities?
+
+1163 6464715 2294
+Has it ever occurred to you?
+Has it?!
+
+1164 6467217 1543
+Stay away from me!
+
+1165 6469636 1043
+Why?
+
+1166 6471013 2961
+I just want to go back to my room.
+
+1167 6474183 1251
+Why?
+
+1168 6476059 876
+Well...
+
+1169 6478061 2044
+...l'm very confused.
+
+1170 6481231 3671
+And I just need a chance
+to think things over.
+
+1171 6485944 3921
+You've had your whole fucking life
+to think things over!
+
+1172 6490073 2795
+What good's a few minutes more
+going to do you now?
+
+1173 6493827 1502
+Stay away from me!
+
+1174 6495662 1293
+Please!
+
+1175 6497706 1085
+Don't hurt me.
+
+1176 6498999 1335
+I'm not going to hurt you.
+
+1177 6500542 1168
+Stay away from me!
+
+1178 6501919 876
+Stay away!
+
+1179 6503003 1001
+Darling.
+
+1180 6504213 1543
+Light of my life.
+
+1181 6506215 1334
+I'm not going to hurt you.
+
+1182 6507716 2002
+You didn't let me finish
+my sentence.
+
+1183 6509927 2210
+I said,
+"I'm not going to hurt you."
+
+1184 6512346 2752
+I'm just going to bash
+your brains in.
+
+1185 6515390 2962
+I'm going to bash them
+right the fuck in.
+
+1186 6519394 1585
+Stay away from me!
+
+1187 6521480 1043
+Stay away from me!
+
+1188 6522731 2377
+I'm not going to hurt you.
+
+1189 6525400 1502
+Stay away from me!
+
+1190 6527152 1043
+Stay away!
+
+1191 6529071 1251
+Please!
+
+1192 6531365 1751
+Stop swinging the bat.
+
+1193 6533325 1251
+Stay away from me.
+
+1194 6535369 1293
+Put that bat down, Wendy.
+
+1195 6536870 1502
+Stop it!
+
+1196 6539832 1126
+Give me the bat.
+
+1197 6541166 1126
+Please!
+
+1198 6542543 2210
+-Stay away!
+-Give me the bat.
+
+1199 6544920 1084
+Stop it!
+
+1200 6546255 1418
+Give me the bat.
+
+1201 6548006 1627
+-Stay away from me.
+-Stop swinging the bat.
+
+1202 6549842 1376
+Please stop!
+
+1203 6551426 1168
+Give me the bat.
+
+1204 6552803 1251
+Stay away from me.
+
+1205 6554304 2378
+-Stop it!
+-Give me the bat.
+
+1206 6558100 1001
+Goddamn--!
+
+1207 6634384 1710
+What are you doing?
+
+1208 6638889 1460
+Wait a minute.
+
+1209 6641767 2002
+What are you doing?
+
+1210 6646605 1251
+What are you doing?
+
+1211 6661703 1502
+Wait a minute!
+
+1212 6665582 1585
+What are you doing?
+
+1213 6667417 1752
+Open the door!
+
+1214 6670462 1043
+Goddamn it!
+
+1215 6671713 3546
+Let me out of here!
+Open the goddamn door!
+
+1216 6678971 1251
+Wendy, listen.
+
+1217 6680639 2920
+Let me out and I'll forget
+the whole goddamn thing.
+
+1218 6683767 2461
+It'll be just like
+nothing ever happened.
+
+1219 6700909 1377
+Baby.
+
+1220 6703495 3295
+I think you hurt my head
+real bad.
+
+1221 6708417 1668
+I'm dizzy.
+
+1222 6711086 2169
+I need a doctor.
+
+1223 6720137 1209
+Honey.
+
+1224 6724016 2335
+Don't leave me in here.
+
+1225 6734943 1919
+I'm going to go now.
+
+1226 6739948 1835
+I'm going to try...
+
+1227 6741950 3003
+...to get Danny down
+the Sidewinder...
+
+1228 6745662 2378
+...in the Snowcat today.
+
+1229 6750292 1835
+I'll bring back a doctor.
+
+1230 6757466 1877
+I'm going to go now.
+
+1231 6766809 3795
+You've got a big surprise
+coming to you.
+
+1232 6772064 2586
+You're not going anywhere.
+
+1233 6776318 4129
+Go check out the Snowcat and the
+radio, and you'll see what I mean.
+
+1234 6785077 1710
+Go check it out.
+
+1235 6788914 2211
+Go check it out!
+
+1236 6794503 1918
+Go check it out.
+
+1237 6904279 2378
+It's Grady, Mr. Torrance.
+
+1238 6907407 1961
+Delbert Grady.
+
+1239 6910953 1585
+Grady?
+
+1240 6932891 1835
+Hello, Grady.
+
+1241 6939398 1793
+Mr. Torrance...
+
+1242 6943152 3712
+...l see you can hardly
+have taken care of the...
+
+1243 6947614 2503
+...business we discussed.
+
+1244 6956832 2919
+No need to rub it in, Mr. Grady.
+
+1245 6960627 4046
+I'll deal with that situation
+as soon as I get out of here.
+
+1246 6965549 2753
+Will you indeed, Mr. Torrance?
+
+1247 6968802 1835
+I wonder.
+
+1248 6971805 2086
+I have my doubts.
+
+1249 6975100 4254
+I, and others, have come
+to believe...
+
+1250 6979521 3003
+...that your heart is not in this.
+
+1251 6983192 2502
+That you haven't the belly for it.
+
+1252 6991867 4338
+Just give me one more chance
+to prove it, Mr. Grady.
+
+1253 6997039 1918
+That's all I ask.
+
+1254 7000501 4254
+Your wife appears to be stronger
+than we imagined, Mr. Torrance.
+
+1255 7004963 1460
+Somewhat more...
+
+1256 7006632 1960
+...resourceful.
+
+1257 7008884 2753
+She seems to have got
+the better of you.
+
+1258 7014890 2669
+For the moment, Mr. Grady.
+
+1259 7018268 2169
+Only for the moment.
+
+1260 7022356 4171
+I fear you will have to deal
+with this matter...
+
+1261 7026777 3670
+...in the harshest possible way,
+Mr. Torrance.
+
+1262 7031031 1543
+I fear...
+
+1263 7032866 2544
+...that is the only thing to do.
+
+1264 7038914 2085
+There's nothing
+I look forward to...
+
+1265 7041208 3879
+...with greater pleasure,
+Mr. Grady.
+
+1266 7046505 2753
+You give your word on that,
+do you, Mr. Torrance?
+
+1267 7050717 2002
+I give you my word.
+
+1268 7124833 2586
+Redrum.
+
+1269 7128337 2586
+Redrum.
+
+1270 7258884 1543
+Danny, stop it!
+
+1271 7317234 1460
+I'm home.
+
+1272 7356064 2837
+Come out, come out,
+wherever you are.
+
+1273 7384468 1877
+I can't get out.
+
+1274 7387137 1126
+Run!
+
+1275 7389097 1460
+Run and hide!
+
+1276 7391099 1127
+Run!
+
+1277 7392434 1210
+Quick!
+
+1278 7395354 4546
+Little pigs, little pigs,
+let me come in.
+
+1279 7405572 3420
+Not by the hair
+on your chinny-chin-chin?
+
+1280 7410536 2085
+Then I'll huff...
+
+1281 7412830 1918
+...and I'll puff...
+
+1282 7414957 2043
+...and I'll blow your house in!
+
+1283 7431932 1376
+Please!
+
+1284 7434017 1794
+Don't!
+
+1285 7436478 1502
+Don't!
+
+1286 7456582 1251
+Stop it!
+
+1287 7462045 1585
+Here's Johnny!
+
+1288 7625542 1252
+Hello?
+
+1289 7632216 1793
+Anybody here?
+
+1290 7656031 1585
+Hello?
+
+1291 7669962 1835
+Anybody here?
+
+1292 7701743 1961
+Anybody here?
+
+1293 7744703 1710
+Danny-boy!
+
+1294 7907199 1919
+I'm coming!
+
+1295 7911662 1960
+I'm coming, Dan!
+
+1296 7974391 2419
+Great party, isn't it?
+
+1297 7994453 2252
+I'm coming!!
+
+1298 7999249 2294
+You can't get away!
+
+1299 8005422 2503
+I'm right behind you!
+
+1300 8246288 2002
+-Mommy!
+-Danny, come here!
+
+1301 8249500 1751
+Mommy.
+

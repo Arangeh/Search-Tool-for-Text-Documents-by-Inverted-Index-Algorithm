@@ -1,0 +1,4360 @@
+1 13413 3766
+[Girl] "I'll miss you, Chihiro.
+Your best friend, Rumi."
+
+2 17250 2992
+[Man] Chihiro.
+Chihiro, we're almost there.
+
+3 22288 2696
+[Woman] This really is in
+the middle of nowhere.
+
+4 25058 2730
+I'm gonna have to
+go to the next town to shop.
+
+5 27861 2230
+We'll just have to learn to like it.
+
+6 32298 3834
+Look, Chihiro, there's your new school.
+Looks great, doesn't it?
+
+7 36202 3128
+[Woman]
+It doesn't look so bad.
+
+8 46413 4300
+It's gonna stink.
+I liked my old school.
+
+9 50784 2867
+
+10 53720 2434
+Mom! My flowers are dying.
+
+11 56222 2662
+I told you not to
+smother them like that.
+
+12 58958 4061
+We'll put them in water
+when we get to our new home.
+
+13 63096 3697
+I finally get a bouquet, and it's
+a good-bye present. That's depressing.
+
+14 66866 3367
+Daddy bought you a rose for
+your birthday. Don't you remember?
+
+15 70303 2992
+Yeah, one.
+Just one rose isn't a bouquet.
+
+16 73373 2764
+Hold on to your card.
+I'm opening the window.
+
+17 76209 3629
+And quit whining.
+It's fun to move to a new place.
+
+18 79913 1991
+It's an adventure.
+
+19 116315 2798
+Wait. Did I take the wrong turn?
+
+20 121020 1490
+This can't be right.
+
+21 122588 2434
+- Look, there's our house.
+- Huh?
+
+22 125090 2434
+[Mother]
+It's that blue one on the end.
+
+23 127593 3766
+Oh, you're right.
+I must have missed the turnoff.
+
+24 131430 2434
+This road should get us there.
+
+25 133932 2332
+[Mother] Don't take a shortcut.
+You always get us lost.
+
+26 136335 2969
+- Trust me. It's gonna work.
+- [Chihiro] What are those stones?
+
+27 139371 2935
+- They look like little houses.
+- They're shrines.
+
+28 142374 2969
+Some people think
+little spirits live there.
+
+29 149815 4460
+- Dad, I think we're lost.
+- We're fine. I've got four-wheel drive.
+
+30 154353 2093
+- Sit down, please, sweetie.
+
+31 162661 2935
+
+32 173672 1831
+- [Mother] Honey! Honey!
+
+33 175574 3367
+- Slow down! You're gonna kill us.
+
+34 180579 2491
+What's that?
+
+35 196462 4198
+- What's this old building?
+- It looks like an entrance.
+
+36 200733 3629
+Honey, get back in the car.
+We're going to be late.
+
+37 204436 2059
+Chihiro.
+
+38 206572 1934
+Oh, for heaven's sake.
+
+39 208574 2696
+This building's not old. It's fake.
+
+40 211343 2264
+These stones are
+just made of plaster.
+
+41 214613 2901
+
+42 220619 2366
+
+43 223055 1934
+- The wind's pulling us in.
+
+44 225057 3936
+- What is it?
+- Let's go in. I want to see
+what's on the other side.
+
+45 229061 2662
+I'm not going.
+It gives me the creeps.
+
+46 231797 2696
+Don't be such
+a scaredy-cat, Chihiro.
+
+47 234566 3936
+- Let's just take a look.
+- The movers will get to
+our house before we do.
+
+48 238570 3731
+It's all right. They've got the keys.
+They can start without us.
+
+49 242374 3561
+- All right. Just a quick look.
+- Forget it. I'm not going.
+
+50 247279 2332
+Come on, you guys.
+Let's get out of here.
+
+51 249681 1934
+Come on, honey. It'll be fun.
+
+52 251683 2434
+I'm not going!
+
+53 258690 2730
+
+54 261493 2901
+Chihiro, just wait in the car then.
+
+55 264463 3060
+But, Mom!
+
+56 267599 3697
+- Wait for me!
+
+57 276408 2400
+Everybody, watch your step.
+
+58 278877 3060
+Chihiro, don't cling like that.
+You'll make me trip.
+
+59 313278 1991
+What is this place?
+
+60 315347 3834
+- Oh, do you hear that?
+
+61 321787 3936
+
+62 325791 3492
+- It sounds like a train.
+- We must be near a train station.
+
+63 329361 2298
+Come on. Let's go check it out.
+
+64 351149 2195
+
+65 367466 3959
+- What are those weird buildings?
+- I knew it.
+
+66 371503 3731
+It's an abandoned theme park. See?
+
+67 375307 3595
+They built them
+everywhere in the early '90s.
+
+68 378977 3902
+Then the economy went bad,
+and they all went bankrupt.
+
+69 382948 1900
+This must be one of them.
+
+70 384917 2992
+Where are you going?
+You said just a quick look.
+
+71 387986 2628
+Now let's go back.
+
+72 390689 1991
+
+73 392758 2195
+Hey!
+
+74 395961 1991
+
+75 399498 2400
+
+76 403969 2468
+Did you hear that building?
+It was moaning.
+
+77 406505 1934
+It's just the wind.
+
+78 408507 1900
+Oh, what a beautiful place.
+
+79 410475 2935
+We should have brought our lunch.
+We could have had a picnic.
+
+80 413478 2230
+
+81 415781 2662
+Look. They were planning
+to put a river here.
+
+82 419518 2867
+Hmm?
+
+83 422454 3868
+- Hey, you smell that?
+
+84 426391 2867
+- Something smells delicious.
+- Yeah, and I'm starving.
+
+85 429328 2867
+Maybe this theme park's
+still in business. Let's go.
+
+86 432264 1934
+Chihiro, hurry it up.
+
+87 434266 1991
+Wait a minute.
+
+88 438704 2468
+
+89 451149 3595
+Hmm.
+
+90 457923 1991
+Over there.
+
+91 465931 3231
+
+92 469234 1991
+This way.
+
+93 475674 2798
+How strange.
+They're all restaurants.
+
+94 478543 2264
+Where is everybody?
+
+95 481980 2969
+Ah, there it is.
+
+96 489021 2969
+Hey, I found it!
+
+97 492057 1991
+
+98 501500 2560
+Hey, you gotta see this. In here.
+
+99 506438 2025
+Ahh, look at this.
+
+100 508540 3299
+Hello in there!
+Does anybody work here?
+
+101 511910 2764
+- Come in, Chihiro. It looks delicious.
+- Mm-mmm.
+
+102 514746 1991
+Anybody?
+
+103 520352 3436
+Don't worry, honey. We can pay the bill
+when they get back.
+
+104 523855 2400
+Good plan. Hey, that looks great.
+
+105 526324 3936
+I wonder what this is called.
+
+106 530328 3163
+Oh, it's delicious. Chihiro,
+you have to taste this.
+
+107 533565 4562
+I don't want any. We're gonna get
+in trouble. Let's just get out of here.
+
+108 538203 2969
+Don't worry.
+You've got Daddy here.
+
+109 541239 2662
+He's got credit cards and cash.
+
+110 543975 1991
+Mmm.
+
+111 547846 4334
+- Chihiro, you have to
+try this. It's so tender.
+- Mm-mmm.
+
+112 552250 1991
+- Mustard?
+- Thank you.
+
+113 556088 2992
+- [Mother] Mmm.
+
+114 562728 1934
+
+115 564730 3800
+Come on, you guys. You can't.
+
+116 568600 2560
+
+117 632297 2298
+
+118 636601 1900
+That's weird.
+
+119 638570 1991
+
+120 644576 2025
+
+121 648713 2400
+[Chihiro]
+It's a bathhouse.
+
+122 660759 2059
+
+123 668333 2662
+There's the train.
+
+124 673138 1968
+
+125 676107 1433
+
+126 679211 3333
+- You shouldn't be here.
+Get out of here now!
+
+127 682614 1934
+- What?
+- It's almost night.
+
+128 684616 1934
+Leave, before it gets dark.
+
+129 686618 2127
+
+130 688820 2594
+They're lighting the lamps.
+Get out of here.
+
+131 691489 3561
+You've gotta get across the river. Go!
+I'll distract them.
+
+132 696995 2628
+
+133 708139 2434
+What's up with him?
+
+134 718149 1934
+Mom! Dad!
+
+135 720151 4494
+Come on! Quit eating.
+Let's get out of here!
+
+136 726925 2525
+
+137 736968 2935
+
+138 743008 1900
+
+139 744976 2696
+
+140 747746 1900
+
+141 751149 4334
+Mom! Dad! Where are you?
+
+142 761660 3367
+Mommy!
+
+143 765096 1934
+
+144 767098 1991
+
+145 772337 1991
+
+146 787585 1797
+Water?
+
+147 796361 1763
+
+148 801833 2025
+What?
+
+149 803935 2195
+I'm dreaming!
+I'm dreaming!
+
+150 807973 2434
+Come on. Wake up! Wake up!
+
+151 811509 2730
+Wake up.
+
+152 818350 3993
+It's just a dream.
+It's just a dream. Go away.
+
+153 822420 2992
+Away. Disappear.
+
+154 826424 3902
+
+155 833264 3993
+I'm see-through!
+
+156 837335 2969
+It's just a bad dream.
+
+157 840372 2730
+
+158 863795 3094
+
+159 868967 1934
+
+160 870969 1934
+
+161 872971 2434
+- Oh!
+
+162 875473 1968
+
+163 879811 3492
+[Woman]
+You're thriving. Ah, yes.
+
+164 883381 3197
+- Looking forward to a relaxing time.
+- Quite a long journey.
+
+165 886651 3959
+- [Woman] I hope they have...
+
+166 891689 1729
+
+167 893491 2434
+Don't be afraid.
+I just want to help you.
+
+168 895994 2059
+No! No! No!
+
+169 898129 2093
+Open your mouth and eat this.
+
+170 900298 3663
+You have to eat some food from
+this world, or else you'll disappear.
+
+171 904035 1695
+No!
+
+172 908773 2696
+Don't worry.
+It won't turn you into a pig.
+
+173 911543 3436
+- Chew it and swallow.
+
+174 915046 3663
+
+175 918783 1991
+
+176 923955 2332
+There you go. You're all better.
+
+177 926357 1991
+See for yourself.
+
+178 935800 2730
+- I'm okay.
+- You see?
+
+179 938603 2696
+- Now, come with me.
+- Where are my mom and dad?
+
+180 941372 2298
+They... didn't really
+turn into pigs, did they?
+
+181 943741 2662
+You can't see them now,
+but you will.
+
+182 947779 2867
+- Don't move.
+
+183 968900 4198
+That bird's looking for you.
+You've gotta get out of here.
+
+184 973171 2628
+My legs! I can't stand up.
+
+185 975874 1934
+Help! What do I do?
+
+186 977876 2935
+Calm down.
+Take a deep breath.
+
+187 980879 1934
+
+188 982881 4903
+In the name of the wind
+and water within thee, unbind her.
+
+189 987852 2696
+- Get up.
+
+190 990622 2491
+
+191 1011342 2434
+
+192 1021085 2696
+- [Man] Welcome. Welcome.
+
+193 1023855 3731
+Always nice to see you.
+Welcome back.
+
+194 1027659 2901
+- Welcome. Welcome.
+
+195 1030628 4061
+[Man]
+You have to hold your breath
+while we cross the bridge.
+
+196 1034766 5336
+Even the tiniest breath will break the
+spell, and then everyone will see you.
+
+197 1040171 2696
+- [Man] Wonderful to see you.
+
+198 1042941 2059
+- [Woman] Nice to see you.
+- Welcome back.
+
+199 1045076 2025
+I'm scared.
+
+200 1047178 1934
+Now just stay calm.
+
+201 1049180 2901
+Welcome. Welcome.
+Always nice to see you.
+
+202 1052150 2468
+Welcome back.
+Welcome. Welcome.
+
+203 1054686 2400
+- I'm back from my mission.
+- Ahh, welcome.
+
+204 1057155 1934
+Welcome back, Master Haku.
+
+205 1059157 2867
+- Take a deep breath.
+
+206 1062093 2059
+Hold it.
+
+207 1066564 1991
+
+208 1079944 2230
+Welcome. Welcome.
+
+209 1082247 2798
+Welcome back.
+Good to see you.
+
+210 1085116 1991
+- Hang on. Almost there.
+
+211 1087185 2434
+Master Haku!
+
+212 1089687 2332
+Where have you been?
+
+213 1092090 3128
+Wha... A human?
+
+214 1095293 2059
+Let's go!
+
+215 1098963 1991
+
+216 1101032 3299
+
+217 1106638 3697
+Huh? Huh? Huh?
+
+218 1110408 1900
+
+219 1113911 4630
+Master Haku!
+Master Haku!
+
+220 1118616 2798
+[Man] Hurry. Boy, boy, boy,
+it stinks up the place.
+
+221 1121486 2798
+- They know you're here.
+- I'm sorry. I took a breath.
+
+222 1124355 2025
+No, Chihiro, you did very well.
+
+223 1126457 2434
+Listen carefully to
+what I tell you to do.
+
+224 1128960 1934
+You can't stay here.
+They'll find you...
+
+225 1130962 1991
+and you'll never get
+to rescue your parents.
+
+226 1133031 1991
+I'll create a diversion
+while you escape.
+
+227 1135099 2230
+No! Don't leave me.
+I don't wanna be alone.
+
+228 1137402 3458
+You don't have any choice if you want
+to help your parents.
+
+229 1140938 1991
+This is what you have to do.
+
+230 1143007 4198
+They did turn into pigs.
+I wasn't dreaming.
+
+231 1147278 1991
+Don't worry.
+
+232 1149347 3868
+[Haku Narrating]
+Now, when things quiet down,
+go out through the back gate.
+
+233 1153284 3299
+Go all the way down the stairs
+until you reach the boiler room...
+
+234 1156654 2264
+where they stoke the fires.
+
+235 1158990 3060
+There you'll find Kamajii,
+the boiler man.
+
+236 1162126 2264
+Kamajii?
+
+237 1164462 2662
+Tell him you want to work here.
+
+238 1167198 2491
+Even if he refuses, you must insist.
+
+239 1169767 3902
+If you don't get a job,
+Yubaba will turn you into an animal.
+
+240 1173738 1934
+Yubaba. Huh?
+
+241 1175740 2400
+You'll see. She's the witch who
+rules the bathhouse.
+
+242 1178209 3197
+Kamajii will try to turn you away
+or trick you into leaving...
+
+243 1181479 1934
+but just keep asking for work.
+
+244 1183481 3367
+It'll be hard work,
+but you'll be able to stay here.
+
+245 1186918 2491
+- Then, even Yubaba can't harm you.
+- Mm-hmm.
+
+246 1189487 2935
+- Master Haku?
+- Master Haku, where are you?
+
+247 1192490 3697
+I have to go. Don't forget, Chihiro,
+I'm your friend.
+
+248 1196260 1900
+How did you know
+my name's Chihiro?
+
+249 1198229 2434
+I've known you
+since you were very small.
+
+250 1200732 2935
+Good luck, and whatever you do,
+don't make a sound.
+
+251 1203735 1934
+- [Man] Master Haku.
+
+252 1205737 1991
+Calm down. I'm coming.
+
+253 1209774 2127
+[Man] Master Haku,
+Yubaba wants to see you.
+
+254 1211976 4027
+I know. It's about
+my mission, right?
+
+255 1226824 2764
+There's a human someplace.
+We must find him.
+
+256 1229660 2662
+Let's go this way.
+
+257 1232397 2935
+Wait for me.
+Wait for me. Wait.
+
+258 1235400 2025
+Come on. Everything's fine.
+
+259 1237502 3527
+
+260 1241105 3663
+
+261 1246944 1900
+
+262 1253951 3094
+
+263 1279877 1934
+
+264 1283314 1968
+
+265 1298663 2628
+
+266 1314645 3094
+
+267 1317815 3197
+
+268 1325356 4562
+
+269 1329994 1991
+
+270 1334599 1991
+
+271 1349447 1991
+
+272 1358189 1968
+
+273 1367765 2992
+
+274 1386384 1991
+
+275 1399564 2560
+
+276 1402199 2264
+
+277 1412577 2332
+
+278 1418649 1934
+
+279 1420651 3436
+
+280 1429493 2594
+
+281 1434098 2195
+
+282 1446210 2764
+
+283 1449046 1991
+
+284 1457288 1991
+
+285 1463327 3731
+Uh, hello. Excuse me.
+
+286 1469367 2594
+
+287 1474071 2696
+Uh, hello?
+
+288 1482279 2298
+Uh, hello. Are you Kamajii?
+
+289 1484649 2491
+Eh?
+
+290 1487218 2764
+Huh?
+
+291 1490054 4835
+Haku told me to come here
+and ask you for work.
+
+292 1494959 2491
+- Could you give me a job?
+
+293 1497528 2161
+
+294 1499764 4562
+Four bath tokens at once.
+
+295 1504402 2366
+- Come on. Get to work, you little runts.
+
+296 1506837 2696
+Yeah, I'm Kamajii...
+
+297 1509607 3595
+slave to the boiler
+that heats the baths.
+
+298 1513277 2764
+Move it, ya stupid soot balls.
+
+299 1516113 2594
+Please, I've gotta get a job here.
+
+300 1518783 1934
+I don't need any help.
+
+301 1520785 3629
+The place is full of soot.
+I just cast a spell on them...
+
+302 1524488 2696
+and I've got all
+the workers I need.
+
+303 1540237 2764
+- Oh. Sorry.
+
+304 1543074 2730
+
+305 1545876 2434
+Wait. Just a second.
+
+306 1548379 2969
+
+307 1559290 3060
+- Out of the way.
+
+308 1578943 1991
+
+309 1589053 1900
+
+310 1591021 3766
+
+311 1596694 1968
+
+312 1600197 1991
+
+313 1604368 1991
+
+314 1607772 1900
+
+315 1611308 1991
+
+316 1614845 2434
+What should I do with this?
+
+317 1622987 2400
+Should I leave it here?
+
+318 1625456 2468
+Finish what you started, human.
+
+319 1643274 1991
+
+320 1661325 2195
+
+321 1663594 3936
+
+322 1670601 2195
+
+323 1672870 2935
+- Hmm?
+
+324 1675873 1934
+
+325 1677875 3401
+
+326 1687585 4164
+Hey, you runts. You wanna turn
+back into soot?
+
+327 1691822 3527
+And you, back off. You can't just take
+someone else's job.
+
+328 1695426 3401
+If they don't work, the spell wears off.
+They turn back into soot.
+
+329 1698896 4334
+There's no work for you here, got it?
+Try somewhere else.
+
+330 1703300 2298
+
+331 1705669 2161
+
+332 1710908 4403
+You soot balls got a problem?
+Get back to work!
+
+333 1716380 2730
+Chow time. What's going on?
+
+334 1719183 2264
+Are you guys fighting again?
+
+335 1721518 2730
+- Where's your other bowl?
+
+336 1724321 1934
+- Oh. Ahh.
+- From yesterday?
+
+337 1726323 2730
+I keep telling you
+to leave it out, Kamajii.
+
+338 1729126 2025
+Meal time! Take a break.
+
+339 1731228 1991
+
+340 1734231 1991
+
+341 1744375 2161
+
+342 1746610 5700
+A human! You're in trouble.
+You're the one everyone's looking for.
+
+343 1752383 2628
+- She's my granddaughter.
+- Granddaughter?
+
+344 1756587 1934
+She said she wants to work here...
+
+345 1758589 2127
+but I've got all the help I need.
+
+346 1760791 3265
+Will you take her to see Yubaba?
+She's a tough little girl.
+
+347 1764128 1934
+I think she can handle it.
+
+348 1766130 2628
+No way.
+I'm not gonna risk my life.
+
+349 1768832 4164
+What if I give you
+this roasted newt? Hmm?
+
+350 1773070 2264
+It's a good one.
+
+351 1775406 4027
+If you want a job, you'll have to
+make a deal with Yubaba.
+
+352 1779510 2400
+She's the head honcho here.
+
+353 1781979 3936
+Give me that! Come on, little girl.
+You better follow me.
+
+354 1788118 1900
+
+355 1791956 3993
+- Can't you even manage a
+"Yes, ma'am" or a "Thank you"?
+- Yes, ma'am.
+
+356 1796026 1934
+What a dope. Hurry up.
+
+357 1798028 2264
+- Yes, ma'am.
+
+358 1800364 2798
+You don't need
+your shoes or your socks.
+
+359 1803233 1934
+- Just leave 'em.
+- Yes, ma'am.
+
+360 1805703 5233
+
+361 1811008 4596
+Thank the boiler man, you idiot.
+You know, he's really sticking
+his neck out for you.
+
+362 1815679 3731
+Thank you, Mr. Boiler Man.
+
+363 1819483 2764
+Good luck.
+
+364 1830561 5165
+We have to go all the way to the
+top floor. That's where Yubaba lives.
+
+365 1835799 2594
+
+366 1848112 2764
+Get over here.
+
+367 1855219 2935
+- You wanna lose your nose?
+
+368 1863327 3936
+
+369 1868332 2992
+[Man]
+More appetizers.
+
+370 1871402 1934
+[Man #2]
+Not spicy enough.
+
+371 1881979 2594
+- We're halfway there. Just stay close.
+- Okay.
+
+372 1888218 2366
+Here we go.
+
+373 1892856 2468
+The radish spirit.
+
+374 1895392 5495
+
+375 1900964 2025
+Sorry, sir. This elevator
+doesn't go any higher.
+
+376 1903067 3401
+You'll have to take
+another one. Thank you.
+
+377 1910040 2560
+
+378 1924621 3527
+
+379 1928225 2969
+- He's following us.
+- Just don't look at him.
+
+380 1933197 2992
+
+381 1946376 2400
+- Step out to the right,
+please, gentlemen.
+
+382 1950380 3401
+I don't think they're big enough.
+
+383 1953851 1934
+Your rooms are right this way.
+
+384 1957321 2696
+- Hmm. Rin?
+- What?
+
+385 1960090 2025
+
+386 1962192 2195
+What's that smell?
+
+387 1964461 3527
+- It's human. You smell
+just like a human.
+- Oh, really?
+
+388 1968065 4164
+Where's it coming from, Rin?
+Come on.
+
+389 1972302 3401
+You're hiding something, aren't you?
+
+390 1975772 2969
+- Show it to me.
+- Is this what you smell?
+
+391 1978809 2696
+Roasted... newt!
+
+392 1981578 3367
+No way, frog.
+I'm saving every last bite for myself.
+
+393 1985015 2992
+Please, just a little bit.
+Just give me a leg.
+
+394 1988085 4096
+- If you wanna go up,
+pull the lever on your right.
+
+395 1992256 4835
+[Frog]
+Gimme, gimme, gimme.
+How could you be so cruel?
+
+396 1997161 3527
+- [Frog] Can't you share?
+
+397 2000764 2935
+Let me suck on the tail. Please!
+
+398 2003767 3561
+- Let me... 
+- Mmm.
+
+399 2010474 3595
+
+400 2019883 3800
+## [Shamisen, Faint]
+
+401 2037134 2594
+
+402 2097494 2025
+- Aren't you even going to knock?
+
+403 2099596 3766
+You're the most pathetic little girl
+I've ever seen.
+
+404 2104935 1399
+
+405 2106403 2195
+
+406 2113510 2059
+Well, come in.
+
+407 2118649 3401
+- I said, come in.
+
+408 2139036 3993
+
+409 2143106 1968
+
+410 2147678 3163
+Quiet down.
+You're making a racket.
+
+411 2150914 3197
+
+412 2169800 3800
+Excuse me. I was wondering
+if you could give me a job?
+
+413 2176907 3231
+
+414 2180210 4596
+I don't want to hear
+such a stupid request.
+
+415 2184881 3663
+You're just a stinking,
+useless weakling.
+
+416 2188618 5267
+And this is certainly
+no place for humans.
+
+417 2193957 3197
+It's a bathhouse for the spirits.
+
+418 2197227 3697
+It's where they come
+to replenish themselves.
+
+419 2200997 3401
+And you humans
+always make a mess of things.
+
+420 2204468 4937
+Like your parents, who gobbled up
+the food of the spirits like pigs.
+
+421 2209473 4300
+They got what they deserved,
+and you should be punished too.
+
+422 2213844 5905
+Hmm.
+
+423 2219816 1991
+You could be a piglet.
+
+424 2221885 4300
+Or, maybe you'd prefer
+a lump of coal?
+
+425 2228325 2798
+
+426 2231194 2992
+
+427 2234264 4437
+I can see you shaking. Actually,
+I'm impressed you made it this far.
+
+428 2238769 3959
+But I'm sure
+you didn't do it on your own.
+
+429 2242806 2798
+Let's thank whoever helped you.
+
+430 2245675 4164
+Just who was it, dear?
+Why don't you tell me.
+
+431 2249913 4460
+- Please! Can't you give me a job?
+
+432 2254451 3128
+- Don't start that again.
+- Please, I just want to work.
+
+433 2257654 4198
+Don't say that!
+
+434 2266930 3595
+Why in world do you think
+I should give you a job?
+
+435 2270600 3367
+Anyone can see you're
+a lazy, spoiled crybaby...
+
+436 2274037 2560
+and you have no manners.
+
+437 2276673 3231
+This is a high-class place
+I'm running here.
+
+438 2279976 5939
+So there's no job for you.
+Now get out. I've got
+all the lazy bums I need.
+
+439 2285982 5768
+- Or maybe I'll give you the most
+difficult job I've got...
+
+440 2291822 2434
+and work you until you breathe...
+
+441 2294324 4528
+your very last breath.
+
+442 2298929 1991
+
+443 2300997 3401
+
+444 2304468 3333
+
+445 2307871 2867
+
+446 2310807 3265
+Oh, dear,
+you woke up the baby.
+
+447 2314144 3731
+Mommy's here.
+Be a good boy now.
+
+448 2317948 2662
+Why are you still here?
+I told you to leave.
+
+449 2320684 1968
+I want you to give me a job, please!
+
+450 2322719 2594
+Quiet down! You're scaring the baby.
+
+451 2325388 3697
+- Ooh! Hi, sweetie. Don't be angry.
+
+452 2329159 4460
+- That's a good boy.
+
+453 2333697 2332
+I'm not leaving
+till you give me a job.
+
+454 2336099 2434
+- Okay. Okay. Just be quiet.
+
+455 2338602 4869
+Here comes Mommy.
+I'm coming to get you.
+
+456 2359122 2992
+
+457 2363994 1968
+That's your contract.
+
+458 2366029 5597
+Sign your name away,
+and I'll put you to work.
+
+459 2371701 2025
+If I hear one little
+complaint out of you...
+
+460 2373803 3197
+you'll be joining
+your parents in the pigpen.
+
+461 2377073 2400
+So I...
+Do I sign my name here?
+
+462 2379543 3401
+Just sign it.
+Do you want the job or not?
+
+463 2388084 2195
+- I can't believe I took that oath.
+
+464 2390353 2992
+Give a job to anyone who asks.
+
+465 2394958 4528
+Ridiculous. I hate being
+so nice all the time. Ha!
+
+466 2399563 2560
+Are you done yet?
+
+467 2406136 3561
+- So, your name's Chihiro.
+- Yes, ma'am.
+
+468 2409773 2798
+What a pretty name.
+
+469 2421718 3163
+And it belongs to me now.
+
+470 2424955 3026
+From now on, your name is Sen.
+You got that?
+
+471 2428058 2798
+- Answer me, Sen!
+- Yes, ma'am.
+
+472 2430927 4767
+You called for me?
+
+473 2435765 3401
+This girl signed a contract.
+Set her up with a job.
+
+474 2439235 2833
+Right. What's your name?
+
+475 2442138 3663
+What? Chih... Oh. It's Sen.
+
+476 2445875 2400
+Okay, Sen. Follow me.
+
+477 2455952 2161
+Haku, uh...
+
+478 2458188 4198
+Don't talk to me,
+and address me as Master Haku.
+
+479 2473136 4630
+
+480 2477841 5461
+- I don't care if Yubaba
+gets angry with us.
+- We're not taking humans.
+
+481 2483380 2400
+- She's already under contract.
+- What?
+
+482 2485849 4198
+- I promise to work very hard.
+- We are not gonna
+take her in our department.
+
+483 2490120 2025
+- She'll stink up the whole place.
+- We don't want her.
+
+484 2492222 3197
+Three days of eating our food,
+and her smell will go away.
+
+485 2495492 5336
+If she doesn't work hard, roast her,
+boil her, do whatever you want.
+
+486 2500897 2525
+Now get back to work.
+Where is Rin?
+
+487 2503500 2434
+What? Don't you dump her on me.
+
+488 2506002 2833
+- You said you wanted an assistant.
+- That's perfect.
+
+489 2508905 2195
+- Give the girl to Rin.
+- Oh, great.
+
+490 2511174 2833
+- Sen, get going.
+- Right.
+
+491 2514077 3436
+Why are you picking on me?
+You owe me one, Haku. You hear me?
+
+492 2517580 3766
+- Have a nice day.
+- Hmph.
+
+493 2521418 2264
+Come on.
+
+494 2531695 1991
+I can't believe you pulled it off.
+
+495 2533763 2696
+- Huh?
+- You're such a dope.
+I was really worried.
+
+496 2536533 4733
+Now, keep on your toes,
+and if you need anything, ask me. Okay?
+
+497 2541337 2628
+- Okay.
+- Hmm? What's wrong?
+
+498 2544040 2935
+I don't feel so good.
+
+499 2551181 2992
+So, this is our room.
+
+500 2554250 2594
+A little food and some sleep
+and you'll be fine.
+
+501 2559189 3959
+Here's your apron. You have to
+wash it yourself. Your pants.
+
+502 2563226 3800
+You're so puny.
+
+503 2567097 2093
+Way too big.
+
+504 2569265 3595
+- Rin, you know Haku?
+- What about him?
+
+505 2572936 2264
+There aren't two of him
+here, are there?
+
+506 2575271 4801
+Two Hakus?
+I can barely stand one. Too big.
+
+507 2580143 3231
+He's Yubaba's henchman.
+Don't trust anything he says.
+
+508 2583446 3197
+
+509 2586716 2696
+- Let's see.
+
+510 2589486 5404
+Ah, here we go.
+Wh-What's wrong with you?
+
+511 2594958 3128
+Are you feeling okay?
+
+512 2598161 2025
+Quiet down. What's your problem?
+
+513 2600263 3231
+It's the new girl.
+She doesn't feel so good.
+
+514 2637000 2992
+
+515 2656352 3401
+
+516 2661357 3959
+
+517 2695091 3595
+Meet me at the bridge.
+I'll take you to your parents.
+
+518 2707036 2332
+
+519 2730093 2798
+
+520 2743439 4994
+- My shoes are gone.
+
+521 2750713 2525
+- Huh?
+
+522 2758855 1991
+Thank you.
+
+523 2770433 2992
+
+524 2827690 2195
+- Follow me.
+
+525 2839669 4596
+We don't have much time.
+If you're found here, you'll be
+turned into a pig yourself.
+
+526 2846242 4562
+- You must never come here
+without me. Understand?
+
+527 2850880 2400
+I understand.
+
+528 2854951 2992
+
+529 2873436 4562
+Mom, Dad, are you all right?
+It's me, Sen. Hey, wake up!
+
+530 2878074 2400
+Mom! Dad!
+
+531 2884213 2264
+What's wrong with them?
+Are they sick?
+
+532 2886549 2491
+No. They ate too much.
+They're sleeping it off.
+
+533 2889118 2400
+They don't remember
+being human.
+
+534 2891587 2434
+So look hard. It's up to you
+to remember which ones they are.
+
+535 2898394 1991
+Don't you worry, I promise
+I'll get you out of here.
+
+536 2900463 3800
+So just don't get any fatter
+or they'll eat you!
+
+537 2911641 2798
+Here are your clothes. Hide them.
+
+538 2916779 4596
+- I thought they'd been thrown away.
+- You'll need them to get home.
+
+539 2926489 2901
+My good-bye card's still here.
+
+540 2931961 4460
+Chihiro. Chihiro.
+That's my name, isn't it?
+
+541 2936499 2400
+That's how Yubaba controls you...
+by stealing your name.
+
+542 2938968 2230
+So hold on to that card.
+Keep it hidden.
+
+543 2941270 2901
+While you're here,
+you must call yourself Sen.
+
+544 2944240 2992
+I can't believe I forgot my name.
+She almost took it from me.
+
+545 2947310 4801
+If you completely forget it,
+you'll never find your way home.
+
+546 2952181 2525
+I've tried everything
+to remember mine.
+
+547 2954784 1934
+You can't remember your name?
+
+548 2956786 3401
+No. But for some reason,
+I remember yours.
+
+549 2962291 3401
+Here you go. Eat this.
+You must be hungry.
+
+550 2965761 3993
+- No.
+- I put a spell on it so it'll
+give you back your strength.
+
+551 2969832 2560
+Just eat it.
+
+552 3000296 3959
+
+553 3007870 2400
+Have some more. You'll be all right.
+
+554 3021584 2992
+[Haku] I've got to go now.
+I'll be back to help you soon.
+
+555 3024654 4596
+- Just stay out of trouble.
+- Thank you, Haku. You're a good friend.
+
+556 3039969 3436
+
+557 3043472 1991
+Haku.
+
+558 3048578 2992
+He's a dragon?
+
+559 3066162 2992
+
+560 3076339 1865
+Huh?
+
+561 3094490 3800
+
+562 3124053 4027
+- Where were you, Sen?
+I was really worried.
+- I'm sorry.
+
+563 3128157 2992
+
+564 3137366 1865
+- Out of my way.
+
+565 3139302 2992
+
+566 3148811 2935
+- Gee, Sen...
+
+567 3151814 2992
+haven't you ever worked
+a day in your life?
+
+568 3154884 2491
+- Rin and Sen, you get the big tub today.
+- What?
+
+569 3157453 4198
+- Hey, that's frog work.
+- Orders from the top.
+So quit your complaining.
+
+570 3182311 2594
+Hello. Aren't you
+getting wet out there?
+
+571 3189018 2992
+- [Rin] Sen, hurry up.
+- Coming.
+
+572 3192088 2594
+I'll leave the door open for you.
+
+573 3221751 2059
+- Heard you got the big tub, Rin.
+- Leave me alone.
+
+574 3227523 2833
+Those jerks. They haven't cleaned
+this tub in months.
+
+575 3230426 2400
+
+576 3235364 3697
+
+577 3242471 3731
+We only use this tub
+for our really filthy guests.
+
+578 3246275 3936
+Disgusting. This sludge is so caked on,
+it'll take days to scrub off.
+
+579 3250279 2696
+Rin, Sen, you've got
+some customers on the way.
+
+580 3253048 3401
+Wait! Give us a minute.
+This is clearly harassment.
+
+581 3256519 5028
+We'll have to soak it off. Get an herbal
+soak token from the foreman.
+
+582 3261624 2696
+A what?
+
+583 3264393 4027
+- An herbal soak token.
+- All right.
+
+584 3268497 2025
+Hey, Rin, what's a foreman?
+
+585 3273102 3959
+Hmm. Something's coming.
+I wonder what?
+
+586 3285881 5199
+What useless scum
+is sleeking around in the rain?
+
+587 3308737 2969
+
+588 3314710 4437
+I can't waste a token on you.
+Relax. Good morning.
+
+589 3319215 2264
+Enjoy. Have a nice bath.
+
+590 3321550 3629
+- For the radish spirit.
+- One sulfur soak.
+
+591 3325254 2969
+Why are you still standing here?
+Scrub it yourself.
+
+592 3328290 3800
+I'm not giving you a token.
+Relax. Good morning.
+
+593 3332161 4528
+- I said scrub it yourself.
+- But I was told it has
+to have an herbal soak.
+
+594 3336765 5939
+Well, that's too bad. Mugwort bath?
+Relax and enjoy it.
+
+595 3342771 1900
+
+596 3348777 2798
+- Hmm?
+
+597 3351647 3458
+Foreman speaking. Oh, yes. What?
+
+598 3355184 3800
+- Thank you very much.
+- Get back here!
+
+599 3359054 2195
+- Hey! Wait a minute.
+- [Yubaba] What's going on?
+
+600 3361323 3060
+- Nothing. Everything's fine.
+- We have an intruder.
+
+601 3364460 4630
+- Is it a human?
+- I'm not quite sure.
+Figure it out and report back.
+
+602 3369164 2560
+Wow, Sen. You got a really good one.
+
+603 3371800 3731
+Clip this on, then let go.
+
+604 3375604 3163
+It goes straight to Kamajii,
+then he sends us our water.
+
+605 3383546 2992
+You pull on this to start
+the water flowing. Give it a try.
+
+606 3395457 3993
+- Uh, you're such a klutz.
+- Yuck! What's in this water?
+
+607 3399528 2833
+Dried worm salt.
+It's supposed to be good for you.
+
+608 3402431 4460
+And with water this murky,
+you can't see all the sludge in the tub.
+
+609 3406969 3766
+Yank it again when the bath
+is full, it'll stop.
+
+610 3410806 3595
+You can let go of the rope now.
+I'll get us some breakfast.
+
+611 3414476 1991
+Okay.
+
+612 3436999 2594
+Ow!
+
+613 3444506 2730
+Uh, sir.
+The bath's not ready yet.
+
+614 3450713 4801
+- There's so many.
+
+615 3457119 4664
+- What? They're all for me?
+- Uh... Uh...
+
+616 3461857 2525
+Thanks, but I don't need any more.
+
+617 3466562 2366
+- Uh...
+- No. I only need one.
+
+618 3468998 3561
+
+619 3475004 2366
+
+620 3483946 2025
+- Oh, Yubaba.
+- It's a stink spirit.
+
+621 3486048 4369
+- And apparently,
+it's an extra smelly one.
+- He's headed for the bridge.
+
+622 3490486 2400
+
+623 3492955 3959
+We're closed.
+Go away. We're not open.
+
+624 3496992 2594
+- Go! Please, go. Leave us.
+- There's no one here.
+
+625 3502464 4232
+Hmm. Something's fishy.
+That doesn't seem like
+a stink spirit to me.
+
+626 3506769 2400
+But we have no choice.
+Go greet him.
+
+627 3509238 4437
+Just give him a bath and get him
+out of here as fast as you can.
+
+628 3513742 3936
+Everybody go back to your rooms.
+Back to your rooms.
+
+629 3517746 3993
+- Don't worry about a thing.
+Everybody just be calm.
+- Sen, Yubaba wants to see you.
+
+630 3521817 3197
+- Yes, sir.
+- Sen, don't mess this up.
+
+631 3525087 3333
+Take this guest to the big tub
+and take care of him.
+
+632 3528490 2935
+- But-But, I...
+- No buts, or I'll turn you into coal.
+
+633 3531493 3060
+- You hear me?
+- It's here.
+
+634 3534630 2400
+
+635 3541770 2468
+
+636 3544306 2730
+Hands down. You'll insult our guest.
+
+637 3551747 2992
+
+638 3554817 4460
+Look about you, customer.
+Welcome to our baths.
+
+639 3561323 2798
+Oh, it's money.
+
+640 3564193 3993
+- Sen, take the nice customer's money.
+- Yes, ma'am.
+
+641 3574303 2230
+
+642 3576605 4596
+Don't make him wait.
+Get him to the bath.
+
+643 3581276 2468
+This way.
+
+644 3594990 3902
+
+645 3598961 3595
+- Get out of my way!
+- Sen!
+
+646 3606869 2764
+
+647 3609705 1934
+Our food!
+
+648 3611707 2127
+Open your windows, all of them!
+
+649 3613909 1900
+[Man]
+Quickly!
+
+650 3622084 1934
+
+651 3630993 1900
+
+652 3651313 3197
+
+653 3657019 2400
+What? Just a minute, sir.
+
+654 3659488 1934
+
+655 3663926 2696
+Disgusting?
+
+656 3666695 3128
+- I don't think it's very funny.
+- Let's see what she'll do next.
+
+657 3674303 2468
+Look. She wants to refill the tub.
+
+658 3676839 2992
+Oh, dear! She's gonna waste
+all our good water!
+
+659 3682177 2560
+Ow!
+
+660 3686849 1934
+
+661 3692054 2560
+Hmm. Who gave her
+all the bath tokens?
+
+662 3694690 1934
+Don't look at me. I didn't do it.
+
+663 3726255 1900
+
+664 3739101 2491
+Oh, no! That's our best
+herbal formula!
+
+665 3767529 2059
+Sen! Sen, where are you?
+
+666 3769665 2400
+Over here!
+
+667 3772134 2969
+Don't worry.
+St-Stay right where you are.
+I'm coming to help you.
+
+668 3775170 2525
+You're gonna be fine.
+I won't let him hurt you.
+
+669 3777773 3766
+I think he needs help. It feels like
+there's a thorn in his side.
+
+670 3781610 2628
+- A thorn?
+- It won't come out!
+
+671 3784313 3902
+What's that?
+He has a thorn? Hmm.
+
+672 3788283 2867
+- Get the staff down there. Step on it!
+- Huh?
+
+673 3791219 3026
+Right, right, right!
+Get downstairs! Help her! You!
+
+674 3794323 1968
+- All of you!
+- Listen to me.
+
+675 3796358 2400
+That's no stink spirit
+we have on our hands...
+
+676 3801196 2195
+- Grab onto this rope.
+- Wait!
+
+677 3812174 2935
+- Mmm. Hold on tight.
+- Got it.
+
+678 3815177 1900
+- Hurry up, now.
+- Get in there!
+
+679 3817145 1934
+Everyone get in there
+and help them.
+
+680 3819147 1900
+We've got it tied on!
+
+681 3822551 3401
+Everyone, ready on my command.
+
+682 3826021 2560
+And... heave!
+
+683 3828657 2434
+[All]
+And... heave!
+
+684 3831159 2434
+- Heave!
+- And...
+
+685 3833662 2434
+- heave!
+- Heave!
+
+686 3836164 2434
+And heave!
+
+687 3838667 3936
+And heave!
+
+688 3842671 2025
+A bicycle?
+
+689 3844773 1934
+Thought so.
+
+690 3846775 1934
+Get ready, now!
+
+691 3848777 3026
+- Heave!
+- Heave!
+
+692 3851880 2025
+Heave!
+
+693 3857219 2298
+
+694 3868597 1934
+
+695 3872134 1831
+
+696 3876304 2560
+
+697 3882944 2628
+Sen! Sen, where are you?
+
+698 3895924 2525
+Well done.
+
+699 3903765 1991
+Huh?
+
+700 3916945 2867
+Ahh!
+
+701 3927989 2594
+- Gold!
+- Gold!
+
+702 3930659 2230
+Hey, wait!
+That's company property!
+
+703 3932961 1934
+- Stop!
+- Back off!
+
+704 3934963 2696
+- Our guest is still here, you idiots!
+
+705 3937732 3299
+
+706 3942571 2696
+Sen, you're in our guest's way.
+Step aside.
+
+707 3945340 2628
+- Yes, ma'am.
+- Open the main gates! Make way!
+
+708 3951847 3128
+
+709 3960355 2525
+
+710 3970398 1934
+
+711 3974536 5165
+Sen, you did great!
+We made so much money!
+
+712 3979774 4198
+That spirit is rich and powerful.
+Everyone, learn from Sen.
+
+713 3984045 2969
+- Sake's on the house tonight.
+
+714 3987082 3401
+- But first, hand over
+all the gold you picked up.
+
+715 3990552 3401
+- That's not fair!
+- How stingy! That's no fair!
+
+716 4002230 2230
+Here.
+
+717 4004533 3492
+- I swiped a dumpling for you.
+- Thank you.
+
+718 4008103 2491
+What a day. Mmm.
+
+719 4012207 3231
+- Rin, have you seen Haku?
+- Not Haku again.
+
+720 4016778 1968
+He just disappears sometimes.
+
+721 4018813 3902
+Rumor has it he runs around
+doing Yubaba's dirty work.
+
+722 4022784 2867
+- Does he really?
+- [Woman] Lights out, Rin.
+
+723 4025720 1900
+Fine.
+
+724 4051846 2628
+There's so much water.
+It looks like a sea.
+
+725 4054549 3026
+What'd you expect
+after all that rain?
+
+726 4059688 4300
+I've gotta get out of this place.
+Someday, I'm getting on that train.
+
+727 4074603 2491
+Mmm.
+
+728 4083245 3026
+
+729 4086348 2434
+- What's wrong?
+
+730 4088850 1900
+
+731 4108069 1934
+Ah!
+
+732 4113108 2025
+Hmm.
+Uh-uh.
+
+733 4116878 2332
+Huh?
+Ahh!
+
+734 4119281 2298
+It's gold! Huh?
+
+735 4123318 2298
+What do you think you're doing?
+You're not allowed in there.
+
+736 4125687 2366
+The bath's closed.
+Get out, you! Get out of there!
+
+737 4133028 2833
+Ooh! Oh! More gold!
+
+738 4135930 1900
+Are you... Are you...
+Are you giving them to me?
+
+739 4142971 2560
+Wait. You can make gold?
+
+740 4148076 1991
+Ahh.
+
+741 4150145 1934
+Uh, gimme!
+
+742 4153748 2400
+Ahh.
+
+743 4156217 3231
+
+744 4159521 2434
+What's going on in there?
+
+745 4163124 2127
+It's way past bedtime. Come on!
+
+746 4165327 2935
+-Wh...
+
+747 4168330 3868
+Hey, boss, up here.
+I'm hungry. Starving!
+
+748 4172267 2230
+- And I want you to serve me.
+- I know that voice.
+
+749 4174569 1900
+Here, I'll pay you up front.
+
+750 4176538 2867
+And... I wanna take a bath too.
+
+751 4179474 2127
+Why don't you wake everyone up?
+
+752 4187248 2696
+Mom, Dad, I got a gift
+from the river spirit!
+
+753 4190018 2696
+Maybe if you eat it,
+it'll break the spell.
+
+754 4195290 2161
+
+755 4197525 2594
+Which ones are you?
+
+756 4200195 2093
+Mom, Dad!
+
+757 4202364 3299
+
+758 4210872 2560
+Bad dream.
+
+759 4215110 2332
+Rin?
+
+760 4220348 1934
+Where is everybody?
+
+761 4228590 2230
+Wow. It really is a sea.
+
+762 4232026 2491
+There's Mom and Dad's pigpen.
+
+763 4235997 3094
+I sure hope they're doing
+all right over there.
+
+764 4242937 2560
+Kamajii lit the boiler already?
+
+765 4245573 2798
+How long was I asleep?
+
+766 4248443 2400
+- Hurry up!
+
+767 4250912 2935
+Come on, he's starving!
+Can't you cook any faster?
+
+768 4253915 4027
+Serve everything you've got,
+even leftovers if you have to.
+Hurry up! He's starving!
+
+769 4259954 2434
+- Hey, Sen.
+- Oh, Rin.
+
+770 4262457 2594
+I was just coming
+to wake you up. Look.
+
+771 4265126 3401
+It's real gold.
+There's a new guest here who's loaded.
+
+772 4268596 2434
+He's giving gold away
+by the handfuls!
+
+773 4276204 2901
+
+774 4281509 3595
+Just keep the food coming.
+I wanna eat everything!
+
+775 4287949 2468
+Hmm. Who is the guest?
+
+776 4290485 3936
+Oh, who cares? Come on,
+before Yubaba wakes up.
+
+777 4294489 1934
+I'm going to go look for Haku.
+
+778 4296491 3026
+Oh! Would you quit
+worrying about Haku?
+
+779 4299594 2264
+- Come on, Sen. Let's go get some gold.
+- Come on, Rin!
+
+780 4301930 2161
+- Let's go get some more!
+- You bet!
+
+781 4304165 1900
+[Girl]
+Hey, wait for me!
+
+782 4323418 3458
+Where is Haku?
+
+783 4328690 3959
+He better get here before I forget
+what my parents look like.
+
+784 4332727 2696
+I sure hope Dad hasn't gotten too fat.
+
+785 4348309 2366
+Hmm?
+
+786 4354015 1900
+Haku?
+
+787 4363591 2764
+It's Haku! He's back!
+
+788 4369998 2434
+Are birds chasing him?
+
+789 4382877 3128
+Haku! Fight 'em! Come on!
+
+790 4386080 2696
+He's hurt!
+
+791 4388850 2992
+Haku, this way!
+
+792 4391920 1627
+Aah!
+
+793 4400228 2992
+
+794 4406801 2400
+Huh? It's just paper.
+
+795 4437665 2332
+Haku, you're bleeding.
+
+796 4445673 4937
+Hold still.
+Those paper things are gone now.
+You're going to be all right.
+
+797 4450678 2628
+
+798 4463558 4960
+He went in that top window.
+I've got to get there
+before he bleeds to death!
+
+799 4476104 3527
+# Welcome the rich man
+He's hard for you to miss #
+
+800 4479707 3299
+# His butt keeps getting bigger
+so there's plenty there to kiss #
+
+801 4483077 3561
+Oh, hey, everybody, bow down.
+
+802 4486714 1934
+[All]
+Welcome, rich man.
+
+803 4488716 3697
+# Beg for tips
+This is the time #
+
+804 4492487 2696
+- # Beg for tips
+Make yourselves a dime #
+
+805 4496791 3834
+Give me some dough!
+Give me some tips!
+
+806 4500695 4130
+I'll do anything for you!
+Just give me some tips!
+
+807 4507335 2867
+- Hey, what are you doing?
+
+808 4510271 3128
+- Going upstairs.
+- No, you're not.
+
+809 4513474 1695
+Huh? Aah! Blood!
+
+810 4518913 2434
+Get out of the way!
+Our guest is coming through here!
+
+811 4522950 1991
+Thank you for helping me earlier.
+
+812 4525019 2969
+- Don't talk to him, you stinking hum...
+- Hey!
+
+813 4528056 3299
+
+814 4532960 2867
+
+815 4536898 2662
+
+816 4548443 2628
+I don't want any, but thanks.
+
+817 4553781 2935
+I'm sorry,
+but I'm in a really big hurry.
+
+818 4557985 3094
+
+819 4568129 2798
+- Hey, there! Hey!
+Get back! Get back now!
+- Ow!
+
+820 4570998 2798
+Everybody, out!
+
+821 4573868 1934
+Oh, I'm terribly sorry, sir.
+
+822 4575870 3265
+You'll have to excuse the little girl.
+She's just a human.
+
+823 4582243 2161
+- Wipe that smile off your face.
+- What?
+
+824 4584479 2059
+- You're still smiling.
+- No, I'm not.
+
+825 4586614 2434
+
+826 4589117 1592
+
+827 4590785 2662
+
+828 4603264 1934
+
+829 4640234 1900
+Aah!
+
+830 4669463 1934
+
+831 4673034 1900
+Huh?
+
+832 4680074 1900
+It's Yubaba!
+
+833 4707068 1934
+
+834 4714609 2161
+
+835 4754315 2161
+[Yubaba]
+We're in a big mess.
+
+836 4756550 2468
+I found out who
+our rich customer is.
+
+837 4759086 2867
+He's a No-Face!
+It's all your fault. You're so greedy.
+
+838 4762023 4130
+You attract terrible guests.
+All right, I'm on my way.
+
+839 4766227 3458
+Don't let him eat anyone else
+till I get down there.
+
+840 4769764 3458
+Haku is bleeding
+all over the carpet.
+
+841 4773301 2935
+Get him out of here.
+He'll be dead soon anyway.
+
+842 4778472 1365
+
+843 4782109 1934
+
+844 4794088 2298
+- Ahh.
+
+845 4798359 3401
+Hi, sweetie.
+Hiding under the cushions again?
+
+846 4801829 3561
+
+847 4805466 4334
+Oh, I woke you,
+and you were sound asleep.
+
+848 4809870 2969
+I'm sorry.
+Let me give you a kiss.
+
+849 4812907 2798
+
+850 4815776 1900
+Go back to sleep, now.
+
+851 4843437 2195
+
+852 4847174 1991
+Ow! Let go of me!
+
+853 4849243 3561
+Wow, you're a big baby.
+Would you mind letting go of me?
+
+854 4852880 3731
+- I'm in a really big hurry.
+- You came in here to make me sick.
+
+855 4856684 3163
+- Huh?
+- You're a bad germ from
+outside, aren't you?
+
+856 4859920 2696
+I'm not a germ, I'm a human.
+
+857 4862690 1934
+Now, would you please let go of me?
+
+858 4864692 2662
+You'll get sick if you go outside.
+
+859 4867428 1934
+So stay here and play with me.
+
+860 4869430 2525
+- You won't get sick.
+- Yes, you will.
+
+861 4872033 1934
+That's why I've never left this room.
+
+862 4874035 2798
+Staying in this room
+is what'll make you sick.
+
+863 4876904 3902
+Listen, someone very important
+to me is terribly hurt.
+
+864 4880875 2901
+I've got to go right now,
+so please let go of me.
+
+865 4883844 2992
+If you go I'll cry,
+and Mama will hear me...
+
+866 4886914 2366
+and Mama will come in here and kill you.
+
+867 4889350 3436
+- Play with me, or I'll break your arm.
+- That hurts!
+
+868 4892853 2059
+Please! I'll play with you later, okay?
+
+869 4894989 4164
+- No, I wanna play now!
+
+870 4899226 3766
+- Germs! I've got germs, see?
+
+871 4903064 1934
+
+872 4914175 1991
+Haku!
+
+873 4916243 3299
+What are you doing? Get away!
+Get back! Haku, are you okay?
+
+874 4919613 1991
+- Can you hear me?
+
+875 4921682 2366
+- Shut your mouth! Haku!
+
+876 4927021 3527
+- Get back!
+
+877 4932726 2798
+Stop it!
+
+878 4944972 2298
+
+879 4949443 3936
+I'm not afraid of germs.
+If you don't play with me, I'll cry.
+
+880 4953447 1934
+Please don't cry. Just wait.
+
+881 4955449 3026
+Right now, or I'll start crying.
+
+882 4958552 2093
+
+883 4960721 1934
+Don't cry! Don't cry!
+
+884 4962723 2901
+What a spoiled brat!
+
+885 4965693 2662
+Shut your big mouth!
+
+886 4968429 2161
+You're a bit of a porker, aren't you?
+
+887 4977238 3060
+- Hmm. Still see-through.
+- Mama?
+
+888 4980374 5097
+You pea-brain. Can't you even tell me
+from your own mother?
+
+889 4992586 3527
+There, now. Your body
+matches your brain.
+
+890 4996190 3265
+Let's see.
+What else can we mess with?
+
+891 5002429 2127
+
+892 5013641 2798
+
+893 5017511 1934
+This is our little secret.
+
+894 5019513 2798
+You tell anyone else,
+and I'll rip your mouth out.
+
+895 5024051 3868
+- Who are you?
+- Zaneba. I'm Yubaba's twin sister.
+
+896 5027988 3629
+It was nice of you to lead me
+straight to this dragon's hiding place.
+
+897 5031692 1934
+Now, hand him over to me.
+
+898 5033694 2491
+What do you want with Haku?
+He's badly hurt.
+
+899 5036263 3834
+Too bad. He stole my solid gold seal.
+
+900 5040167 2662
+It's magic and powerful,
+and I want it back!
+
+901 5042903 2901
+Haku wouldn't steal.
+He's a good person.
+
+902 5045873 4130
+Huh! Do you know why he became
+my sister's apprentice?
+
+903 5050077 4437
+To steal her magic secrets,
+and now he's stolen my magic too.
+
+904 5054582 4164
+He's a greedy little thief.
+There's nothing good about him.
+
+905 5058819 4960
+Step aside, little girl.
+I'm going to take my seal back from him.
+
+906 5063857 5131
+There's a spell on the seal,
+and anyone who steals it will die.
+
+907 5069063 2935
+- No, you can't!
+
+908 5078672 3492
+You idiots! What's your problem?
+
+909 5082243 3800
+Keep quiet. I don't want my sister
+coming up here.
+
+910 5091852 2161
+Ow. A paper cut.
+
+911 5094321 2161
+Haku, we're falling!
+
+912 5116076 1900
+Haku!
+
+913 5140301 2525
+
+914 5144405 1558
+
+915 5146040 3094
+- What's going on here?
+Sen, be careful! Stay back!
+- Haku!
+
+916 5150444 2969
+Are you okay? Haku!
+
+917 5153480 2935
+
+918 5156483 3231
+- What's wrong with you?
+
+919 5162089 2434
+This looks serious.
+
+920 5166226 3197
+Haku, don't give up!
+What do we do? Is he dying?
+
+921 5169496 3333
+It looks like he's bleeding
+from the inside.
+
+922 5172900 4403
+- From the inside?
+- I think so.
+Maybe he swallowed something.
+
+923 5177371 3697
+Haku, I got this gift
+from the river spirit.
+
+924 5181141 2025
+Eat it. Maybe it'll help.
+
+925 5185279 2400
+Come on! Open your mouth!
+
+926 5187748 2764
+Please, Haku! Eat it!
+
+927 5192152 1934
+See? It's okay.
+
+928 5194154 2264
+Medicine from the river spirit.
+
+929 5196490 3265
+Open your mouth. That's it.
+
+930 5202963 2366
+Got it.
+
+931 5205399 2161
+- Now swallow.
+
+932 5225152 3026
+- Sen, look there!
+
+933 5238832 3731
+- The gold seal!
+- Get that black slug!
+Over there! Get it!
+
+934 5242636 2833
+Get it!
+Get it!
+
+935 5245539 2491
+
+936 5248108 1900
+
+937 5253080 1900
+
+938 5258819 3458
+[Kamajii] You killed it?
+Those things are bad luck.
+
+939 5262356 2560
+Hurry, before it rubs off on you!
+
+940 5264992 3492
+Put your thumbs
+and forefingers together.
+
+941 5268562 4403
+- Evil, be gone!
+- Haku stole this seal
+from Yubaba's sister.
+
+942 5273033 2935
+Zaneba's solid gold
+monogrammed seal.
+
+943 5276036 2696
+That's as powerful as it gets.
+
+944 5280941 1934
+Look! He's changed back.
+
+945 5282943 1934
+Help me. What do we do?
+
+946 5284945 1991
+
+947 5287014 2560
+- Haku! Haku, wake up!
+
+948 5291652 2059
+Zaneba put a curse on the seal.
+
+949 5293787 3800
+That's strong magic.
+It's made him gravely ill.
+
+950 5306934 2798
+That should make him
+more comfortable.
+
+951 5312473 3595
+Poor Haku. He's had it
+hard ever since he got here.
+
+952 5316143 4061
+He just showed up
+out of nowhere, just like you did.
+
+953 5320280 4232
+But he got mixed up with Yubaba.
+He took a job as her apprentice.
+
+954 5324585 2594
+I warned him it was too dangerous.
+"Just quit.
+
+955 5327254 2332
+Go back home, "I told him.
+
+956 5329656 4096
+But he said for some reason
+he had no home to return to.
+
+957 5333827 2264
+Once Yubaba
+got control over him...
+
+958 5336163 3834
+his face turned pale
+and his eyes turned steely.
+
+959 5340067 3231
+- He's never been the same.
+
+960 5343370 3993
+Kamajii, what if I take
+the gold seal back to Zaneba?
+
+961 5347441 3663
+I could give back the seal
+and apologize to her for Haku.
+
+962 5351178 2059
+Can you tell me
+where Zaneba lives?
+
+963 5353313 2332
+You'd go to Zaneba's?
+
+964 5355716 3492
+- It might help, but she's
+one dangerous witch.
+- Please?
+
+965 5359286 4164
+Haku helped me before.
+Now I wanna help him.
+
+966 5363524 2093
+Hmm.
+
+967 5365692 5199
+I know how you can get there,
+but you'll have to get back on your own.
+
+968 5370964 2491
+Wait here.
+
+969 5373534 4630
+Let's see, now. I know it's
+around here somewhere.
+
+970 5378238 3663
+Everyone, I need my shoes
+and clothes, please.
+
+971 5383777 2491
+I guess my parents will have to wait.
+
+972 5390484 2662
+Sen! I've looked everywhere for you.
+
+973 5395889 2127
+- Rin!
+- There's blood everywhere.
+
+974 5398091 3333
+What's going on here?
+Who are those guys?
+
+975 5401495 3299
+I picked up some new friends. See?
+
+976 5404865 3401
+- Everyone's looking for you.
+Yubaba is furious.
+- Huh?
+
+977 5408335 3697
+The guy with all the gold
+turned out to be a monster
+called "No-Face."
+
+978 5412105 3128
+And he says that you
+let him into the bathhouse.
+
+979 5417678 1934
+I did let him in.
+
+980 5419680 1968
+Are you serious?
+
+981 5421715 2059
+Yeah. I thought he was a customer.
+
+982 5423850 2969
+What? He's a monster.
+He's already swallowed three people.
+
+983 5426887 3629
+Found it! Here it is, Sen.
+
+984 5430591 4460
+- Hey, we're busy, boiler man.
+- You can use this.
+
+985 5435128 3197
+You've got train tickets?
+Uh, how did you get a hold of them?
+
+986 5438398 2560
+I've been saving them
+for 40 years.
+
+987 5441034 3663
+Now, listen carefully. The train stop
+you want is called Swamp Bottom.
+
+988 5444771 2400
+- Swamp Bottom?
+- That's where Zaneba lives.
+
+989 5447240 1934
+- The sixth stop.
+- Sixth stop.
+
+990 5449242 3595
+Make sure you get it right.
+The train used to run
+in both directions...
+
+991 5452913 2025
+but these days it's a one-way ride.
+
+992 5455015 1934
+Still want to go?
+
+993 5457017 4596
+Yep. I'll walk back along the tracks.
+
+994 5461688 4061
+- Sen, what about No-Face?
+- I'll take care of that now.
+
+995 5465826 3936
+Haku, I'll be back soon.
+Just hold on.
+
+996 5469830 2434
+What's going on?
+
+997 5472332 2798
+Something you wouldn't recognize.
+It's called "love."
+
+998 5475369 2662
+
+999 5478105 1934
+
+1000 5482843 2798
+- He just keeps getting bigger!
+- I'm scared.
+
+1001 5485712 2434
+- I don't wanna be eaten by it.
+- It's her.
+
+1002 5488215 2662
+
+1003 5496156 2969
+Oh, Sen, thank goodness.
+Yubaba can't hold him off much longer.
+
+1004 5499192 2230
+
+1005 5501495 1991
+[Yubaba]
+There's no need to get upset.
+
+1006 5503563 3595
+- I'm sure they'll find Sen somewhere.
+
+1007 5507234 2195
+Where is Sen? I want Sen!
+
+1008 5509503 1900
+Hurry! This way!
+
+1009 5517010 3299
+- Madam, Sen is here now.
+- Finally!
+
+1010 5520380 4869
+Sen has arrived, sir. She'll be
+with you in just a few minutes.
+
+1011 5525318 3902
+- He's destroying everything.
+It's costing us a fortune.
+
+1012 5529289 3959
+So suck up to him and get every last
+speck of gold he's...
+
+1013 5533326 1934
+
+1014 5535328 3436
+Ew! What's that dirty mouse doing here?
+
+1015 5538832 3458
+Huh? He's your...
+He doesn't look familiar?
+
+1016 5542369 4494
+Familiar? Don't be stupid.
+Now, get in there.
+
+1017 5548375 2491
+Here's Sen.
+
+1018 5550944 3231
+Will Sen be all right
+in there by herself?
+
+1019 5554247 2935
+- You wanna take her place? Hmph!
+- Huh?
+
+1020 5576770 3094
+Try this. It's delicious.
+
+1021 5581808 4164
+Want some gold? I'm not giving it
+to anybody else.
+
+1022 5589583 3527
+Come closer, Sen.
+What would you like?
+
+1023 5593186 2332
+Just name it.
+
+1024 5595589 2093
+I would like to leave, sir.
+
+1025 5597758 2491
+I have someplace
+I need to go to right away, please.
+
+1026 5602362 2730
+You should go back
+to where you came from.
+
+1027 5605165 4630
+Yubaba doesn't want you
+in the bathhouse any longer.
+
+1028 5609870 3231
+Where is your home?
+Don't you have any friends or family?
+
+1029 5614508 2730
+No. No!
+
+1030 5617310 2730
+I'm lonely.
+I'm lonely.
+
+1031 5622215 2059
+What is it that you want?
+
+1032 5624351 3333
+I want Sen.
+I want Sen!
+
+1033 5628955 1991
+Take the gold. Take it!
+
+1034 5631024 2594
+- Are you going to eat me?
+- Take it!
+
+1035 5633693 2195
+- Ooh! Huh?
+
+1036 5637831 2264
+- Huh.
+- Ow.
+
+1037 5640167 2400
+
+1038 5642636 2935
+If you want to eat me,
+eat this first.
+
+1039 5645639 2764
+I was saving this for my parents...
+
+1040 5648475 2764
+but I think you'd better have it.
+
+1041 5651311 3436
+
+1042 5663957 1900
+
+1043 5671498 3060
+- Sen!
+
+1044 5674634 2400
+Sen, what did you do to me?
+
+1045 5679306 1934
+Aah!
+
+1046 5685979 3595
+
+1047 5692853 2400
+Enough! I don't care if he's rich!
+
+1048 5696489 2491
+This nonsense has gotta stop!
+
+1049 5711504 1934
+[Sen]
+No-Face!
+
+1050 5713506 2434
+Over here!
+
+1051 5717143 2468
+
+1052 5723383 1900
+Run for your life!
+
+1053 5729489 1900
+
+1054 5742102 2298
+
+1055 5744471 1934
+
+1056 5751444 2662
+
+1057 5754180 2468
+Now, that's an esophagus!
+
+1058 5756716 2298
+
+1059 5759085 2901
+I'll get you for this, Sen!
+
+1060 5764224 1991
+Duck!
+
+1061 5773733 2400
+
+1062 5776202 1900
+Excuse me.
+
+1063 5779306 1934
+Sen, this way!
+
+1064 5797190 2400
+Hey, over here!
+
+1065 5799659 1934
+Sen, don't call him over!
+
+1066 5805198 2935
+I think being in the bathhouse
+makes him crazy.
+
+1067 5808201 1934
+He needs to get out of there.
+
+1068 5810203 2594
+- Yeah? And go where?
+- I don't know.
+
+1069 5812872 4232
+You don't know? Great.
+Now he's following us.
+
+1070 5817177 1934
+[Sen]
+He won't hurt us.
+
+1071 5820447 1900
+
+1072 5831024 2764
+Hmm?
+
+1073 5833860 2798
+- You'll have to walk from here.
+- Okay.
+
+1074 5836730 2127
+The station's just down the tracks.
+
+1075 5838932 1934
+Thanks, Rin.
+
+1076 5840934 3936
+- You better come back, you hear me?
+- I will.
+
+1077 5847874 5131
+Sen, I'm sorry I called you
+a dope before! I take it back!
+
+1078 5861187 4096
+No-Face, if you put even one scratch
+on that girl, you're in big trouble.
+
+1079 5868628 2560
+There's the station.
+
+1080 5881307 1991
+Here comes the train. Come on.
+
+1081 5905965 3697
+Oh. We'd like to go
+to Swamp Bottom, please.
+
+1082 5913940 2332
+Huh?
+
+1083 5916342 2525
+- Oh. You wanna come with us?
+- Uh-huh.
+
+1084 5918945 2434
+He'd like to come too, please.
+
+1085 5958218 2230
+Uh... Uh...
+
+1086 5961821 3595
+Sit here. Behave yourself, okay?
+
+1087 5995021 2468
+
+1088 6068595 4130
+
+1089 6087580 2161
+- Kamajii, wake up.
+- Hmm?
+
+1090 6091517 4266
+- Haku, you're all right.
+- I'm fine. Where is Sen?
+
+1091 6095855 2901
+Did she go somewhere?
+Can you tell me what's going on?
+
+1092 6098825 3060
+You blacked out, remember?
+
+1093 6101961 2798
+Yeah, I remember being in darkness.
+
+1094 6104831 3060
+Then I could hear Sen's voice
+calling out my name.
+
+1095 6107967 2195
+So I followed her voice,
+and the next thing I knew...
+
+1096 6110236 1934
+I was lying here
+feeling better than ever.
+
+1097 6112238 3993
+Pure love. It broke Zaneba's spell.
+
+1098 6116309 2992
+Sen left to return the golden seal.
+
+1099 6119379 2195
+She did it to save you.
+
+1100 6121648 3367
+[Yubaba]
+This gold doesn't even come close...
+
+1101 6125084 3436
+to covering the damage
+that stupid No-Face caused.
+
+1102 6128588 2833
+Sen didn't get nearly enough.
+She'll have to be punished.
+
+1103 6131491 4198
+- Madam, you see, Sen was the one
+that saved us from No-Face.
+- Yes, yes.
+
+1104 6135762 3766
+So what?
+This whole mess is her fault.
+
+1105 6139599 2560
+And now she's run away from here.
+
+1106 6142235 2366
+She's even abandoned
+her own parents!
+
+1107 6144671 3197
+- Those pigs must be ready
+to eat by now.
+
+1108 6147940 3766
+- Turn them into bacon.
+- Wait a minute.
+
+1109 6151778 1934
+- Huh?
+- Master Haku?
+
+1110 6153780 4198
+You're still alive?
+What is it you want?
+
+1111 6158051 3436
+You still haven't noticed that something
+precious to you has been replaced.
+
+1112 6161554 3367
+Don't get fresh with me, young man.
+
+1113 6164991 2400
+Since when do you talk
+that way to your master?
+
+1114 6172899 1934
+
+1115 6176436 2491
+Huh.
+
+1116 6192018 1934
+
+1117 6209702 1934
+
+1118 6219178 2230
+My baby!
+
+1119 6223316 2560
+No!
+
+1120 6225952 1763
+
+1121 6227787 1934
+- My baby!
+- It's just dirt.
+
+1122 6229789 3026
+Where's my baby?
+
+1123 6232892 2935
+Where are you, sweetie?
+
+1124 6237063 2901
+Come out! Please, come out!
+
+1125 6240032 1900
+Where are you?
+
+1126 6244871 3527
+Sweetie!
+Sweetie pie!
+
+1127 6251978 2230
+You!
+
+1128 6256783 4494
+Where is he?
+
+1129 6262822 4562
+What did you do with my baby?
+
+1130 6267460 1934
+He's with your sister.
+
+1131 6269462 2025
+Zaneba?
+
+1132 6275134 1934
+Uh...
+
+1133 6277136 1934
+
+1134 6289649 1934
+
+1135 6292785 3197
+Very clever, Haku. I get it.
+
+1136 6296055 2867
+You'll get my baby back for me,
+but at a price.
+
+1137 6298991 3697
+So, what do you want?
+
+1138 6302762 2434
+Tear up Sen's contract.
+
+1139 6305264 4460
+And then I want you to return
+Sen and her mother and father
+back to the human world.
+
+1140 6309802 2468
+Fine, but on one condition.
+
+1141 6312338 3936
+I get to give Sen one final test.
+
+1142 6316342 1900
+If she fails, she's mine.
+
+1143 6362188 2901
+I hope this is the right stop.
+
+1144 6366225 1991
+Let's go.
+
+1145 6378638 2730
+
+1146 6381440 2901
+
+1147 6386646 1934
+
+1148 6394253 2798
+You can ride on my shoulder
+if you're tired.
+
+1149 6404130 2468
+Hmm?
+
+1150 6406666 2901
+
+1151 6474367 1934
+[Zaneba]
+Come in.
+
+1152 6480740 2025
+Hello?
+
+1153 6485111 2594
+Hurry up. I don't have all day.
+
+1154 6487780 1900
+Come on.
+
+1155 6492618 2798
+- So, you all made it.
+- Hmm?
+
+1156 6495488 3401
+Sit down. I'll make some tea.
+
+1157 6505398 3731
+Excuse me, ma'am. Haku stole this
+from you. I came to give it back.
+
+1158 6509201 2662
+I see.
+
+1159 6511937 2935
+Do you have any idea what this is?
+
+1160 6514940 3231
+Yes. It's the golden seal
+you were looking for.
+
+1161 6518244 3959
+I'm here to apologize for Haku.
+I'm very sorry.
+
+1162 6522281 3868
+He sliced me in two, you know,
+and I'm still angry.
+
+1163 6526218 3527
+- What?
+- What? The protective spell is gone.
+
+1164 6529822 4164
+I'm sorry. You mean that black slug
+that was on your seal?
+
+1165 6534060 1934
+I think I squashed it with my foot.
+
+1166 6536062 2230
+Squashed it?
+
+1167 6538364 2264
+
+1168 6540700 2093
+That wasn't my slug.
+
+1169 6542868 4198
+My sister put that slug into Haku
+so she could control him.
+
+1170 6547139 2833
+You squashed it.
+
+1171 6552044 2298
+What happened to my spell?
+
+1172 6554413 2730
+Only love can break it.
+Come, now.
+
+1173 6557216 4733
+Can you please turn these two
+back into their normal forms?
+
+1174 6562021 3094
+The spell on those two
+wore off long ago.
+
+1175 6565191 2935
+Change back if you want.
+
+1176 6570196 1934
+
+1177 6574200 2491
+I don't get along with my sister.
+
+1178 6576769 2161
+She's so obnoxious.
+
+1179 6579004 2332
+You saw how tacky her home is.
+
+1180 6581407 3060
+- We're identical twins,
+yet exact opposites.
+
+1181 6588481 3094
+I'm sorry she turned
+your parents into pigs.
+
+1182 6591650 3367
+But there's nothing I can do.
+It's just the way things are.
+
+1183 6595087 3060
+You'll have to help your parents
+and Haku on your own.
+
+1184 6598224 1991
+Use what you remember
+about them.
+
+1185 6600292 2969
+What? Can't you please
+give me more of a hint than that?
+
+1186 6603329 3936
+It seems like I met Haku before,
+but it was a long time ago.
+
+1187 6607333 1934
+That's a good start.
+
+1188 6609335 3868
+Once you've met someone,
+you never really forget them.
+
+1189 6613272 3595
+It just takes a while
+for your memories to return.
+
+1190 6616942 4027
+While you're thinking, the boys
+and I are going to make you something.
+
+1191 6621046 3197
+And I want you
+to call me Granny from now on.
+
+1192 6624316 3367
+
+1193 6627753 2093
+- Ah, come on. Keep at it.
+
+1194 6632792 4937
+No-Face, where did you
+learn to spin thread?
+You're really good at this.
+
+1195 6637797 3697
+Now let's weave
+the threads together.
+
+1196 6642835 2730
+Knit one, pearl two.
+Knit one, pearl two.
+
+1197 6645638 1934
+Knit one... That's right.
+
+1198 6647640 3128
+Granny, I can't remember
+anything at all.
+
+1199 6650843 3959
+Haku could be dead already,
+and I'm just sitting around here.
+
+1200 6654880 3936
+My mom and dad could've
+been eaten for dinner.
+
+1201 6660286 2434
+Wait just a little bit longer.
+
+1202 6662788 1900
+Ahh. There we go.
+
+1203 6664757 2833
+Use it to tie back your hair.
+
+1204 6671730 1934
+It's beautiful.
+
+1205 6673732 2127
+It'll protect you.
+
+1206 6675935 2833
+It's made from the threads
+your friends wove together.
+
+1207 6678838 1934
+Thank you.
+
+1208 6687646 1934
+
+1209 6689648 3128
+What good timing.
+We've got another guest.
+
+1210 6692852 3060
+- Will you let him in?
+- Sure.
+
+1211 6701994 1695
+
+1212 6707633 4528
+Haku! Haku.
+
+1213 6712238 2298
+Thank goodness.
+
+1214 6714607 3595
+You're alive! I can't believe it.
+How did it happen?
+
+1215 6718277 1934
+Ahh.
+
+1216 6720279 2434
+That's love for you.
+
+1217 6722781 3299
+Look, Granny. Haku's alive.
+
+1218 6726151 3959
+- Haku, I will forgive you
+for stealing my precious seal.
+
+1219 6730189 3436
+But in return,
+you must take care of this girl.
+
+1220 6733692 3561
+Okay, you two,
+it's time to go home.
+
+1221 6737329 2332
+Come back soon.
+
+1222 6739732 2798
+No-Face,
+why don't you stay with me?
+
+1223 6742601 3026
+- I could use a good helper.
+
+1224 6745704 1934
+Granny!
+
+1225 6747706 2730
+Thank you so much. I'll miss you.
+
+1226 6750509 3367
+Don't worry. You'll be all right, Sen.
+
+1227 6753946 3333
+I want you to know my real name.
+It's Chihiro.
+
+1228 6757349 2491
+Chihiro. What a pretty name.
+
+1229 6759919 2764
+- You take good care of it.
+- I will.
+
+1230 6762755 2901
+- Off you go.
+- Okay. Bye.
+
+1231 6765724 4460
+Granny, take care!
+Thanks for everything!
+
+1232 6817710 2025
+Haku, listen.
+
+1233 6819812 3834
+I just remembered something
+from a long time ago.
+I think it may help you.
+
+1234 6823716 3936
+Once, when I was little,
+I dropped my shoe into a river.
+
+1235 6827720 3492
+And when I tried
+to get it back, I fell in.
+
+1236 6831290 3595
+I thought I'd drown, but the water
+carried me to shore.
+
+1237 6834960 2594
+It finally came back to me.
+
+1238 6837629 3094
+The river's name was
+the Kalaku River.
+
+1239 6840799 3834
+I think that was you,
+and your real name is Kalaku River!
+
+1240 6846672 1991
+
+1241 6865758 2560
+You did it, Chihiro! I remember.
+
+1242 6868394 2298
+I was the spirit of the Kalaku River.
+
+1243 6870763 3629
+- A river spirit?
+- My name is the Kalaku River.
+
+1244 6874466 2696
+They filled in that river.
+It's all apartments now.
+
+1245 6877236 2798
+That must be why I can't
+find my way home, Chihiro.
+
+1246 6880105 3629
+I remember you falling into my river,
+and I remember your little pink shoe.
+
+1247 6883809 3163
+So you're the one who carried me back
+into shallow water.
+
+1248 6887046 3333
+You saved me.
+I knew you were good.
+
+1249 6923215 2400
+- Hey, there they are!
+
+1250 6937396 3561
+I see you failed
+to bring my baby back.
+
+1251 6941033 2298
+
+1252 6943402 2400
+- Mama!
+- My baby!
+
+1253 6945871 4130
+Are you traumatized?
+Did they do terrible things to you?
+
+1254 6950075 3197
+You're standing all by yourself.
+When did that happen?
+
+1255 6953345 2434
+Don't forget your promise.
+
+1256 6955848 3197
+You must return Chihiro
+and her parents to the human world.
+
+1257 6959118 3299
+Hmph! Not so fast, Haku.
+
+1258 6962488 2161
+I get to give Sen one final test.
+
+1259 6964723 2400
+- Shut up!
+
+1260 6967192 2298
+Stop it, Mama. Leave her alone.
+
+1261 6969561 3595
+- Sen and I had a really good time.
+
+1262 6973232 2901
+But a deal is a deal, sweetie.
+
+1263 6976201 2195
+I have to give Sen one final test.
+
+1264 6978470 3333
+If you make Sen cry,
+I won't like you anymore.
+
+1265 6981874 4403
+- But... Granny?
+- [Chihiro] Hey, Granny!
+
+1266 6986345 2400
+You're right. A deal's a deal.
+
+1267 7000125 2230
+Okay, I'm ready. I'll take your test.
+
+1268 7002427 1934
+Hmm. You've got guts.
+
+1269 7004429 3401
+I've got your contract right here.
+Come this way.
+
+1270 7007900 2935
+This'll only take a minute.
+
+1271 7010903 2491
+Don't worry.
+
+1272 7013472 3128
+
+1273 7016675 3834
+See if you can tell which of these pigs
+is your mother and father.
+
+1274 7023182 1934
+
+1275 7029755 1934
+You get one try.
+
+1276 7031757 2400
+If you get it right,
+you can all go home.
+
+1277 7037229 1900
+
+1278 7044736 2764
+Huh? There must be a mistake.
+
+1279 7047573 2093
+None of these pigs
+are my mom or dad.
+
+1280 7049741 3663
+None of them?
+Is that really your answer?
+
+1281 7054980 2594
+- Mm-hmm.
+
+1282 7058984 3128
+[All]
+Oh, you got it!
+
+1283 7062187 2491
+
+1284 7067926 2161
+Thank you, everyone.
+
+1285 7070162 3436
+All right, you win.
+Get out of my sight.
+
+1286 7073665 3993
+Thanks for everything, Granny. Good-bye!
+
+1287 7077736 2935
+- [All] Good-bye!
+- Thank you!
+
+1288 7080739 1991
+- Haku!
+- Let's go!
+
+1289 7082808 3197
+- Where are my mom and dad?
+- When you passed the test...
+
+1290 7086078 2025
+they woke up
+on the human side of the river.
+
+1291 7088180 2434
+They're there now,
+and they're looking for you.
+
+1292 7090682 2628
+There's no water here.
+
+1293 7093385 3231
+- I can walk across now.
+- But I can't go any farther.
+
+1294 7096688 2366
+Just go back the way you came.
+You'll be fine.
+
+1295 7099124 3458
+But you have to promise not to
+look back, not until you've
+passed through the tunnel.
+
+1296 7102661 2161
+What about you? What'll you do?
+
+1297 7104896 3299
+Don't worry. I'll go back
+and have a talk with Yubaba.
+
+1298 7108267 2491
+I'll tell her I'm going
+to quit being her apprentice.
+
+1299 7110836 2400
+I'm fine. I got my name back.
+
+1300 7113305 2491
+- Will we meet again sometime?
+- Sure we will.
+
+1301 7115874 1934
+- Promise?
+- Promise.
+
+1302 7117876 1900
+Now go, and don't look back.
+
+1303 7142267 1934
+- [Mother] Chihiro!
+
+1304 7144269 2935
+Where have you been?
+Hurry up!
+
+1305 7150342 2230
+Mom, Dad!
+
+1306 7152644 3697
+- You shouldn't run off like that, honey.
+- You could get in big trouble.
+
+1307 7156415 2366
+Are you guys sure you're all right?
+
+1308 7158850 2935
+[Mother] Let's go.
+I don't wanna miss the movers.
+
+1309 7171863 2161
+Chihiro, hurry up.
+
+1310 7182841 2696
+Everybody, watch your step.
+
+1311 7185610 2764
+Chihiro, don't cling like that.
+You'll make me trip.
+
+1312 7198457 2264
+
+1313 7200792 2594
+We made it.
+Hey, what happened?
+
+1314 7203462 1934
+What is it?
+
+1315 7205464 1934
+Look at that.
+
+1316 7209334 3936
+- It's all dusty inside too.
+- Is this someone's idea of a joke?
+
+1317 7213338 2798
+- Looks like it.
+- I told you we shouldn't have stopped.
+
+1318 7216208 2025
+
+1319 7218310 1991
+
+1320 7222080 3663
+[Mother] Come on, Chihiro.
+Let's get to our new home.
+
+1321 7225817 1991
+[Father]
+You're not scared, are you?
+
+1322 7227886 2764
+Don't be afraid, honey.
+Everything's gonna be okay.
+
+1323 7232791 1934
+
+1324 7244069 3902
+[Father] A new home and a new school?
+It is a bit scary.
+
+1325 7248039 2230
+[Chihiro]
+I think I can handle it.
+

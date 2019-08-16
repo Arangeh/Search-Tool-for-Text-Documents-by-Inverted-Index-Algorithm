@@ -1,0 +1,4125 @@
+1 53720 1604
+[PHONE KEYPAD BEEPING]
+
+2 55480 2002
+[LINE RINGING]
+
+3 57680 2002
+[♪♪♪]
+
+4 68320 1604
+OPERATOR 1:
+911, where is your emergency?
+
+5 70120 3163
+MAN 1: I need a police officer, 119
+East Central Street, 3rd floor.
+
+6 73480 2571
+I got a woman here,
+she's stabbing herself and a child!
+
+7 76240 2241
+OPERATOR 2: Operator 602,
+state your emergency, please.
+
+8 78720 2924
+WOMAN 1: Hi, there's an
+accident on Highway 28,
+
+9 81800 2446
+and I... I...
+Like, I think somebody's dead.
+
+10 84480 1490
+OPERATOR 3:
+911, what's your emergency?
+
+11 86160 2731
+MAN 2: I'm at the Beverly Resort.
+My girlfriend, she's...
+
+12 89080 1081
+OPERATOR 3:
+What's going on there?
+
+13 90400 1809
+MAN 2: She jumped from
+the 12th ﬂoor balcony.
+
+14 92440 1684
+OPERATOR 3: She jumped off
+the 12th floor balcony?
+
+15 94360 1968
+OPERATOR 4:
+911, what is your emergency?
+
+16 96480 1684
+WOMAN 2:
+Oh, God, I hit someone with my car.
+
+17 98360 2446
+I hit him! I think I've killed him!
+
+18 101000 2731
+OPERATOR 5: All right, listen carefully.
+Pump the chest hard 30 times.
+
+19 103920 3288
+And count out loud with him
+so he does it right.
+
+20 107400 1889
+You need to count out loud,
+go ahead.
+
+21 109480 1809
+OPERATOR 6:
+911, what's your emergency?
+
+22 111440 3004
+[OPERATORS & CALLERS
+CHATTERING]
+
+23 118560 1365
+911, where is your emergency?
+
+24 120120 1764
+MAN 1:
+Please, I need assistance right away.
+
+25 122080 1365
+911, where's your emergency?
+
+26 123680 3925
+There's a lot of blood, I know, but you
+need to keep pressure on the wound.
+
+27 127800 1047
+MAN 2:
+I shot my wife.
+
+28 129040 2401
+You shot your wife?
+MAN 2: Yup. She's lying on the floor.
+
+29 131640 1729
+911, where's your emergency?
+OPERATOR 1: Okay.
+
+30 133560 3447
+MAN 3: My wife is dying, and the nurses
+here, they don't wanna help her out.
+
+31 137240 1240
+BROOKE: Where's Mommy?
+GIRL: Downstairs.
+
+32 138640 1729
+Your daddy's on the floor?
+GIRL: Yeah.
+
+33 140520 2162
+How old are you?
+Okay, okay, calm down, honey.
+
+34 142880 1081
+What's your name?
+
+35 144200 2082
+OFFICER: Officer down. Corner
+of Mayfield and Lawrence.
+
+36 146480 2207
+I got an officer that's been shot.
+
+37 148880 3129
+911, what is your emergency?
+MAN 3: I think I'm having an overdose
+
+38 152200 2367
+and so is my wife. I don't know if it...
+
+39 154800 1047
+OPERATOR 2:
+Just try to relax.
+
+40 156000 1490
+OPERATOR 3:
+911, where's your emergency?
+
+41 157680 1570
+[CALLER SPEAKING IN SPANISH]
+
+42 159400 1809
+Is the baby breathing?
+MAN 3: He's breathing.
+
+43 161360 1365
+Okay, good, I want you to...
+
+44 162920 2480
+If I'm gonna help,
+you gotta work with me. Slow down.
+
+45 165640 2651
+Stay on the line,
+I'm gonna send police, the paramedics.
+
+46 168520 2924
+8-Adam-12, got a shooting
+at Florence and Normandie.
+
+47 171640 2526
+Witness says that victim
+has been shot in arm and face.
+
+48 174400 2480
+That's a code three. Code three.
+
+49 177960 3083
+OPERATOR 3:
+911, where's your emergency?
+
+50 181280 1490
+911, where's your emergency?
+
+51 182960 2367
+MAN 4: I got burglars breaking
+into a house next to mine.
+
+52 185520 1047
+18 Baxter.
+
+53 186760 2082
+Okay, 18 Baxter,
+is that your place or theirs?
+
+54 189040 1240
+That's theirs.
+Okay.
+
+55 190440 2810
+Is that between Gary and Hemlock?
+Yep.
+
+56 193440 2207
+What color's the house?
+It's a pale blue.
+
+57 195880 1923
+I got a shotgun,
+you want me to stop them?
+
+58 198000 1286
+Nope, don't do that.
+
+59 199480 1047
+You sure?
+I'm sure.
+
+60 200760 1684
+I'm sending officers right now, sir.
+
+61 202680 1081
+WOMAN:
+My mom's been stabbed.
+
+62 203960 2287
+Okay, do you know who stabbed her?
+My uncle.
+
+63 206440 2162
+Okay. And where?
+In the leg.
+
+64 208800 1684
+Is your uncle still there?
+Uh-huh.
+
+65 210640 2401
+I'm sending the police
+and the paramedics right away.
+
+66 213240 2651
+Okay?
+Okay. She's pretty pissed off.
+
+67 216080 1490
+Yeah, well, I'm sure she is.
+
+68 217760 3641
+Do you understand what I'm telling you?
+CHRIS: I don't wanna go to prison.
+
+69 221600 2890
+Chris, put the gun down.
+Do you understand what I'm saying?
+
+70 224680 1047
+I didn't mean to do it.
+
+71 225880 1490
+It's not worth it.
+COP: Drop your weapon!
+
+72 227560 3891
+Put the gun dow... Chris! Chris!
+Chris, I need you to...
+
+73 231640 2048
+[COMPUTER BEEPING]
+
+74 236360 1161
+[SIGHS]
+
+75 237680 2844
+OPERATOR 3:
+911, where's your emergency?
+
+76 241600 1240
+[EXHALES]
+
+77 246880 1331
+[COMPUTER BEEPS]
+
+78 249440 2606
+911, where's your emergency?
+MAN 5: Goddamn it!
+
+79 252240 2685
+Why am I in here?
+
+80 255120 4085
+Hi, Terrance. How you doing?
+Not good, sugar.
+
+81 259440 1490
+I'm in jail.
+
+82 261120 2367
+And nobody tell me shit,
+why I'm here.
+
+83 263680 4005
+You been drinking again?
+Yeah, I suppose.
+
+84 267880 1570
+Then you know what you gotta do.
+
+85 269640 3322
+You gotta ask your D.O.
+for another call, okay?
+
+86 273160 2048
+You know this line
+is for emergencies only.
+
+87 275840 3209
+TERRANCE: All right. Thanks, sugar.
+Okay.
+
+88 279240 2082
+Try to stay out of trouble.
+Okay, darling?
+
+89 281520 2651
+Okay.
+All right, sugar.
+
+90 285720 2890
+Still calling us "sugar," huh?
+You know it.
+
+91 288800 1843
+Cara lose that little tooth yet?
+Nope.
+
+92 290840 1968
+Lou wants to pull it
+but I won't let him.
+
+93 293000 2844
+Ooh. Why men gotta be
+so brutal? Heh, heh.
+
+94 296040 2048
+FLORA: Here comes a couple.
+Why don't you ask them?
+
+95 298280 1445
+Somebody call for strippers?
+
+96 299920 1047
+[FLORA & JORDAN LAUGH]
+
+97 301120 2606
+Hey, sexy.
+My boss. She's right there.
+
+98 303920 1490
+PHILLIPS:
+What? The queen bee?
+
+99 305600 2002
+FLORA: I understand you
+delivered a baby yesterday.
+
+100 307760 2480
+You know, 7-pound, 3-ounce
+little princess.
+
+101 310440 2162
+No big deal.
+Look at him, trying to be humble.
+
+102 312800 1650
+He saved the mother's life.
+
+103 314640 1490
+Oh.
+PHILLIPS: That's all he did.
+
+104 316280 1923
+JORDAN: Impressive.
+So tell your friend.
+
+105 318360 1809
+Mm-mm. She don't like cops.
+
+106 320360 1809
+What kind of person
+doesn't date a cop?
+
+107 322360 4244
+We're brave, honest, I got a great body.
+Oh, God.
+
+108 326800 3402
+Well, I like cops. I'll date you.
+She knows what I'm talking about.
+
+109 330400 2890
+Okay, while y'all talk about that,
+I'm gonna take a break.
+
+110 333720 2446
+PHILLIPS: Break time.
+JORDAN: Yes.
+
+111 336320 1889
+One of these times
+I'm gonna get it.
+
+112 338440 1570
+PHILLIPS:
+You live 10 minutes away?
+
+113 340160 1047
+[JORDAN CHUCKLES]
+
+114 341400 2480
+Ten minutes away?
+We can make it there in five.
+
+115 344040 5803
+Ha-ha-ha. You are a
+bad, bad, bad cop.
+
+116 350000 2401
+Yeah, you bring
+the worst out in me.
+
+117 352600 2731
+What time does your shift
+start tomorrow?
+
+118 356840 1809
+Six a.m. Why?
+
+119 361000 2321
+You wanna ride in together?
+
+120 365560 1684
+Is that an invitation?
+
+121 367440 2082
+[BOTH CHUCKLE]
+
+122 369720 4324
+I accept the invitation
+only if I get to make the coffee this time.
+
+123 374240 2810
+Okay. But I don't like
+my coffee too strong.
+
+124 377240 1968
+I don't like mine see-through,
+so...
+
+125 379960 1365
+So do we got a problem?
+
+126 381520 1525
+[BOTH LAUGHING]
+
+127 383240 3322
+PHILLIPS:
+Call 911, we got a problem.
+
+128 388560 2526
+Then I want you to take the child
+in your arms
+
+129 391320 1923
+and exit the building quickly.
+
+130 393440 2367
+Hey, hey, hey, when this thing
+with Phillips start?
+
+131 396040 2731
+I'm devastated.
+You missed your chance, Marco.
+
+132 399000 2241
+Oh, wait. I had a chance? Wait.
+
+133 401440 2651
+Hey, Jordan, what's the code
+for a multiple stabbing?
+
+134 404240 4847
+Uh... Two forty-five.
+FLORA: Hey, lovebird?
+
+135 409640 2765
+Focus, my sweet, focus.
+[WHISPERS] I am.
+
+136 412560 1604
+[LAUGHING]
+
+137 414840 1525
+[COMPUTER BEEPS]
+
+138 417520 1286
+911, where's your emergency?
+
+139 418960 3482
+YOUNG WOMAN: A man is trying to
+break into my house. I'm all alone.
+
+140 422600 2480
+Okay, sweetheart, calm down.
+My parents are out.
+
+141 425320 1809
+They're at a movie.
+I can't reach them.
+
+142 427320 2924
+I understand that, sweetheart.
+Can you get out of the house?
+
+143 430440 3800
+No, he... He's out there.
+It's okay, I've got your information.
+
+144 434440 1968
+Just hold on, sweetheart.
+
+145 436600 3209
+Any units clear to handle hot prowl
+in progress? 23 Kinnard Street.
+
+146 440040 1445
+P. R. is alone and hiding.
+
+147 441680 3083
+7-Adam-13.
+Show us handling code three
+
+148 445000 1684
+at Washington and Bank.
+
+149 447320 2002
+Officers are on their way,
+sweetheart, okay?
+
+150 449520 3049
+What's your name?
+Leah. Leah Templeton.
+
+151 452800 3891
+How old are you, Leah?
+Oh, God.
+
+152 456880 1923
+He broke the window.
+He's coming in the back.
+
+153 459000 3209
+Leah, listen to me. Find a room
+and lock yourself in it right now.
+
+154 462440 1286
+[♪♪♪]
+
+155 471840 2606
+Leah. Stay on the line with me,
+sweetheart.
+
+156 474640 2844
+Do not disconnect, okay? Leah?
+
+157 478520 1889
+Leah?
+I'm upstairs in my room.
+
+158 480600 4483
+But the door, it won't look.
+He's in the house.
+
+159 486680 1923
+7-Adam-13, what's your ETA?
+
+160 488840 2321
+OFFICER:
+Eight to 10.
+
+161 492480 2241
+LEAH: I don't know where to hide.
+Okay, Leah.
+
+162 494920 1889
+He's gonna find me.
+JORDAN: Here's what I need.
+
+163 497000 1729
+Is there a window in the room?
+Yes.
+
+164 498920 1047
+Okay.
+
+165 534600 2401
+[DOOR CREAKING]
+
+166 550760 2002
+[DOG BARKING IN DISTANCE]
+
+167 561000 1365
+[♪♪♪]
+
+168 569200 1331
+[DOOR CLOSES]
+
+169 570760 2606
+[PANTING SOFTLY]
+
+170 574440 4210
+Leah. Don't speak. Stay quiet, okay?
+Officers are gonna be there any second.
+
+171 579320 2162
+[WHISPERING]
+I'm okay.
+
+172 581720 3607
+I think it worked. He left.
+
+173 587360 1684
+I think he's going back downstairs.
+
+174 589200 2002
+[PHONE BEEPS
+THEN COMPUTER BEEPS]
+
+175 591400 1764
+Leah?
+
+176 593400 1001
+Leah.
+
+177 596480 2048
+[PHONE RINGING]
+
+178 599280 2446
+Leah. You okay?
+It's okay. I'm fine.
+
+179 604120 2241
+He's gone.
+Okay, good.
+
+180 606560 1684
+[♪♪♪]
+
+181 608480 2606
+I think he's going back outside.
+
+182 611280 2207
+[FOOTSTEPS APPROACHING]
+
+183 613640 3402
+Oh, God. I think he's coming back.
+
+184 618120 2810
+I think he heard the phone ring.
+
+185 621120 2002
+[LEAH SOBBING OVER PHONE]
+
+186 629560 1684
+[DOOR OPENS]
+
+187 632200 1604
+[DOOR CLOSES]
+
+188 643840 2002
+[SCREAMING]
+
+189 646760 3322
+[MAN GRUNTING]
+[LEAH SCREAMING]
+
+190 650480 2287
+Shut it.
+Please don't hurt me.
+
+191 653000 1923
+Please don't hurt me.
+
+192 658360 1445
+[BREATHING HEAVILY]
+
+193 661360 2002
+[MAN PANTING OVER PHONE]
+
+194 666600 4050
+Okay, listen, whoever this is, the police
+are on their way right this second.
+
+195 670840 2207
+I suggest you leave that house
+
+196 674520 3322
+before you do anything
+you're gonna regret.
+
+197 678600 1650
+[CRYING]
+
+198 683880 1684
+MAN:
+it's already done.
+
+199 685720 2162
+[LEAH SCREAMING]
+[MAN YELLING]
+
+200 690840 1240
+[LINE DISCONNECTS]
+
+201 692240 1490
+Oh, God.
+
+202 693960 2207
+[JORDAN PANTING
+AND COMPUTER BEEPING]
+
+203 705920 1570
+Oh, God.
+
+204 708760 1650
+Excuse me.
+
+205 711120 1764
+Oh, God.
+
+206 714280 2128
+Oh, God.
+
+207 718200 2480
+What happened back there?
+
+208 722800 2162
+The ring gave her away.
+
+209 725200 3049
+Just help me, and tell me
+what you were thinking.
+
+210 729920 2321
+I wasn't. I...
+
+211 732440 3322
+I don't know, I just...
+I wasn't focused or what...
+
+212 736000 1684
+Okay.
+I normally am,
+
+213 737880 3447
+and I don't know, I just wasn't.
+
+214 741520 2844
+I just wasn't. I wasn't.
+
+215 750600 1570
+[♪♪♪]
+
+216 752320 2002
+[LEAH CRYING AND PANTING]
+
+217 761800 2002
+[KNOCKING ON DOOR]
+
+218 767120 2241
+[KNOCKING CONTINUES]
+
+219 769520 2002
+PHILLIPS:
+Jor.
+
+220 774000 2287
+Just came by
+to check on you.
+
+221 780280 1604
+Jordan.
+
+222 784320 1843
+Come on, Jordan,
+I know you're in there.
+
+223 786320 1411
+[♪♪♪]
+
+224 787880 2890
+Just came by to see what's up,
+see if you're good.
+
+225 792280 2048
+MAN [OVER RADIO]:
+L.A. county police continue
+
+226 794520 2241
+their search for missing teen
+Leah Templeton,
+
+227 796960 4085
+who was allegedly abducted from
+her home in Hancock Park last night.
+
+228 801240 2048
+L.A.P.D. sources
+say the lack of witnesses
+
+229 803480 2731
+and evidence in the case
+are frustrating the effort.
+
+230 806400 2651
+Templeton's family issued
+a statement late last night...
+
+231 811280 2082
+OPERATOR 1:
+911, where's your emergency?
+
+232 813560 2765
+OPERATOR 2:
+911, where's your emergency?
+
+233 817960 2082
+BROOKE: How old are you?
+OPERATOR 3: Okay.
+
+234 820200 2685
+Calm down, ma'am.
+What's your name?
+
+235 828000 1764
+[OPERATORS CHATTERING]
+
+236 835280 3561
+Hey, hon.
+You gonna be okay?
+
+237 846680 2571
+911, what is your
+emergency? Yes, sir.
+
+238 849440 2241
+Sir, please calm down.
+
+239 851880 2082
+Yes, I understand.
+
+240 854560 3209
+Yes, the corner of Santa Monica...
+
+241 858320 1161
+[COMPUTER BEEPS]
+
+242 869480 2048
+911, where's your emergency?
+
+243 871760 1240
+[WOMAN SCREAMING
+OVER PHONE]
+
+244 873160 2480
+WOMAN:
+Send someone! There's a bat!
+
+245 875840 3209
+Yeah, a bat flying around
+my daughter's bedroom! Aah!
+
+246 879200 1445
+Oh, my God, there it is again!
+
+247 880840 4289
+Hello? Are you there?
+Yeah. Yeah.
+
+248 885360 2241
+Please send somebody!
+Yeah, I'm here. Uh...
+
+249 887800 2128
+Anyone, please.
+Okay.
+
+250 890120 2526
+I am gonna have Animal Control
+there right away.
+
+251 892800 2890
+Okay. Thank you.
+Okay.
+
+252 897000 4927
+No problem. No problem.
+
+253 903640 1081
+[COMPUTER BEEPS]
+
+254 907400 2731
+911, what's your emergency?
+TERRANCE: Goddamn it!
+
+255 910320 2606
+What did I do wrong, sugar, huh?
+Huh?
+
+256 913080 2321
+Hey, Terrance.
+It ain't my fault. Ain't my fault.
+
+257 915640 1161
+How you doing?
+
+258 917000 2844
+And he spilled my beer.
+So I pushed him back.
+
+259 922080 2002
+[♪♪♪]
+
+260 945680 2367
+Everybody's looking for you
+down there.
+
+261 951920 2924
+You know they can't run
+that place without you.
+
+262 956000 1809
+You Okay?
+
+263 962440 2685
+Jor, now, why you
+beating yourself up over this?
+
+264 965360 2606
+You've had bad calls before, Jor.
+
+265 968480 4085
+My daddy told me the hardest
+part about being a cop
+
+266 972760 3561
+was knowing you might be
+the difference
+
+267 976520 4483
+between somebody living
+and somebody dying.
+
+268 982280 2651
+And when you couldn't
+shoulder that,
+
+269 985520 2571
+then it's time for you to get out.
+
+270 989840 1525
+So that's what you're gonna do?
+
+271 1003000 1889
+I'll be here when you need me.
+
+272 1006080 1081
+You know that, right?
+
+273 1022040 1525
+OPERATOR 1:
+911, where's your emergency?
+
+274 1023760 1809
+OPERATOR 2:
+911, what's your emergency?
+
+275 1025720 1729
+WOMAN:
+Daddy, stop them all!
+
+276 1027600 2002
+[VOICES SHOUTING
+INDISTINCTLY]
+
+277 1049240 1331
+[CHILDREN LAUGHING]
+
+278 1052760 1764
+GIRL 1: All right, bye.
+GIRL 2: What was that about?
+
+279 1054720 2810
+She's just...
+"Casey can do a great grown-up voice."
+
+280 1057680 1604
+And you're like, "She's awesome."
+
+281 1059480 2048
+She, like, can't lie to her mom. Yeah.
+
+282 1061720 3402
+No, that's... That's...
+That's stupid. Bye.
+
+283 1066520 2241
+Ugh. Let's eat.
+I'm starving like a motherfucker.
+
+284 1068960 1968
+Oh, my God, you are so foul,
+Autumn.
+
+285 1071120 1764
+Hey, call me a bitch.
+What?
+
+286 1073040 1490
+I wanna hear you say it.
+No.
+
+287 1074760 2480
+Just say... Just say "bitch."
+I wanna hear you say it.
+
+288 1077440 1331
+No.
+You can't do it.
+
+289 1078920 1047
+[CELL PHONE RINGING]
+
+290 1080120 2571
+No, I can, it's just you're not.
+You're a jerk.
+
+291 1082920 1206
+[CHUCKLES]
+
+292 1084280 1650
+Oh, are you kidding me?
+
+293 1086120 2321
+Raul thought that we
+should have one just for us.
+
+294 1088640 2162
+He bought that to keep tabs on you.
+He didn't.
+
+295 1090960 4324
+My parents keep checking their bill.
+TracFones are prepaid. Under the radar.
+
+296 1095920 3686
+Ugh. He's so high-maintenance.
+Hey, lover.
+
+297 1100040 4767
+No, we're shopping. What do you think?
+I was gonna call you in two minutes.
+
+298 1105680 3721
+You wanna do what to me?
+Oh, you're disgusting.
+
+299 1109600 1411
+Is that even legal?
+
+300 1142040 2128
+JORDAN:
+So first you're gonna notice patterns.
+
+301 1144320 3083
+Behavioral changes
+in very predictable ways.
+
+302 1147600 4403
+Rising temperatures means rising
+tempers, so we get the violent calls.
+
+303 1152200 3925
+Rainy days and Christmas, it's gloomy
+outside, sometimes people are alone,
+
+304 1156320 1968
+that's when we get the suicides.
+
+305 1158480 1365
+[♪♪♪]
+
+306 1160000 3288
+Now, Saturday mornings are generally
+very slow and calm times,
+
+307 1163480 2367
+and I think that's because
+people are at home
+
+308 1166040 3607
+probably recovering from Friday night.
+Why? What happens Friday night?
+
+309 1171600 2765
+All hell breaks loose.
+
+310 1175280 2082
+Half your calls are gonna be
+non-emergencies.
+
+311 1177560 4050
+Half of those, that's gonna be someone
+asking for directions to Starbucks
+
+312 1181760 1240
+or how to baste a turkey.
+
+313 1183200 1411
+[TRAINEES LAUGH]
+
+314 1184760 3641
+Go ahead, laugh at that, that's good.
+That's gonna prepare you for real stuff.
+
+315 1188560 3527
+The jumpers, the home invasions,
+the triple homicides, the gang-banging...
+
+316 1192280 1240
+You've seen the quiet room.
+
+317 1193680 2446
+That's where we go
+to decompress after a bad call.
+
+318 1196320 2731
+But if you need anything more than
+a nap and some Muzak,
+
+319 1199240 1684
+then you have to call our BSS.
+
+320 1201120 1843
+That's behavioral science specialist.
+
+321 1203160 2571
+His name is Dr. Keating,
+he's on call two-four-seven
+
+322 1205920 3083
+any time any of you need to talk.
+Talk about what?
+
+323 1209920 1843
+What's your name again?
+Josh.
+
+324 1211960 1570
+Okay, listen, Josh.
+
+325 1213720 2844
+The most important thing to
+remember about this job is this:
+
+326 1216760 2321
+Stay emotionally detached.
+
+327 1219320 2128
+Don't get too involved
+in your P.R.'s crisis.
+
+328 1221640 1490
+What's P.R.?
+Person reporting.
+
+329 1223360 5325
+Right. And never ever make promises
+because you can't keep them.
+
+330 1228840 2970
+Okay? Now follow me to the call floor.
+
+331 1232840 4608
+If you're wondering why security's so
+tight, we're the ears and eyes of the city.
+
+332 1237600 3402
+We're the link between every
+human crisis and every first responder.
+
+333 1241200 1809
+That's the Fire and Police Department.
+
+334 1243200 3766
+If the Hive goes down,
+this whole city goes dark.
+
+335 1247160 4244
+Question here.
+Why do they call it the Hive?
+
+336 1251640 3721
+Listen. Hear all those
+little worker bees?
+
+337 1255560 2606
+[OPERATORS CHATTERING]
+
+338 1259120 2731
+Hey, what about Max?
+You know he wants to bone you, right?
+
+339 1262040 2207
+Oh, my God, Autumn.
+Stop it, that's disgusting.
+
+340 1264440 1923
+No, he doesn't.
+Oh, he does.
+
+341 1266560 2162
+No, he smokes
+too much dope.
+
+342 1268920 1047
+Dope?
+Yeah.
+
+343 1270200 3368
+Oh, my God, you're so cute. I'm not
+telling you to make him your trainer.
+
+344 1273720 4244
+Just come out with us Saturday night.
+No. I don't like it when you set me up.
+
+345 1278160 3641
+All right. Just trying to help you
+since you never seem to help yourself.
+
+346 1282000 4050
+I can help myself. You're not, like, my matchmaker.
+I don't need you to be my mom here.
+
+347 1286200 1240
+[CELL PHONE CHIMES]
+
+348 1288680 3402
+Oh, shit. I was supposed to pick
+my brother up like 20 minutes ago.
+
+349 1292280 2970
+What? No, you can't, you can't
+leave now. I'm not even done yet.
+
+350 1295480 3049
+Sorry.
+Come on, you suck.
+
+351 1300280 3402
+That was really good.
+Call me later, okay?
+
+352 1306280 2321
+Hey, I'm leaving the mall right now.
+
+353 1330360 1126
+Idiot.
+
+354 1337960 2924
+[CELL PHONE RINGING]
+
+355 1341880 2651
+Why can't you just text me
+like every other mom?
+
+356 1344720 3800
+Yes, I know, I'm sorry, Mom,
+but really, come on.
+
+357 1348720 3561
+Yeah, I'm on my way home now.
+I'll be home soon.
+
+358 1352480 2651
+Okay. Love you too. Bye.
+
+359 1358000 1001
+Whoa!
+
+360 1359160 2002
+Oh, my God.
+
+361 1361800 1365
+Jeez, I'm sorry.
+Dude.
+
+362 1363360 2651
+You didn't look before you backed up?
+I didn't see you.
+
+363 1366160 1081
+All right, whatever.
+
+364 1368400 2731
+Oh, awesome, it's broken.
+Perfect. Oh!
+
+365 1371280 1365
+[♪♪♪]
+
+366 1372800 2401
+[MUFFLED SCREAMING
+AND GRUNTING]
+
+367 1385880 2480
+JORDAN: This here is Brooke.
+She's a probie.
+
+368 1388560 2765
+She was exactly where
+you guys are six months ago.
+
+369 1391520 1490
+How you liking the job,
+Brooke?
+
+370 1393240 2606
+It's definitely the hardest job
+I've ever had.
+
+371 1396080 3322
+What's the hardest part?
+BROOKE: I guess the not knowing.
+
+372 1400040 3004
+A lot of times
+you don't know how it ends.
+
+373 1403240 4562
+When units get to a scene, you sign off.
+And they take over but you don't know.
+
+374 1408000 3083
+I mean, did they make an arrest?
+Shoot the bad guy?
+
+375 1411280 3447
+Did the P.R. live? Did she die?
+You'll get used to it.
+
+376 1416320 1206
+[COMPUTER BEEPS]
+
+377 1417720 2207
+911, where's your emergency?
+
+378 1420320 2401
+Right here's where the P.R.'s
+phone number comes up.
+
+379 1422920 2002
+And the cell's GPS chip allows us
+
+380 1425120 2890
+to get an exact lat-long coordinate
+right here on this map.
+
+381 1428200 3846
+Then over here, she can dispatch
+the police to the scene at any time.
+
+382 1432280 3288
+Okay? Any questions?
+JOSH: Yeah.
+
+383 1435760 1331
+What about you, Ms. Turner?
+
+384 1438320 1047
+What about me?
+
+385 1439560 2128
+How come you're not out here
+on the floor?
+
+386 1443720 2048
+Because I'm the teacher.
+
+387 1446000 2082
+Now, why don't you guys
+follow me this way?
+
+388 1448280 1843
+I'm gonna get you set up
+for some calls.
+
+389 1459800 3004
+[TACO'S "PUTTIN' ON THE RITZ"
+PLAYING OVER STEREO]
+
+390 1477760 2401
+♪ If you're blue and you don't know
+Where to go to ♪
+
+391 1480320 3243
+♪ Why don't you go
+Where fashion sits? ♪
+
+392 1483720 2731
+♪ Puttin' on the ritz ♪
+
+393 1486600 1161
+Oh, my God.
+
+394 1488200 1047
+No.
+
+395 1489440 1081
+No, no.
+
+396 1492440 2970
+No, no. No!
+
+397 1495560 2844
+[GRUNTING]
+
+398 1498640 2128
+No! No! No!
+
+399 1501280 3482
+♪ Tryin' hard to look
+Like Gary Cooper ♪
+
+400 1504920 3129
+♪ Super duper ♪
+♪ Come, let's mix where Rockefellers ♪♪
+
+401 1508200 1411
+[GRUNTING]
+
+402 1509760 1445
+No, no.
+
+403 1511400 1968
+[CELL PHONE RINGING]
+
+404 1527080 1047
+[LINE RINGING]
+
+405 1528280 1490
+No.
+
+406 1532280 3209
+So I think you guys had a good first day.
+Things are gonna get a little bit harder.
+
+407 1535640 1161
+[COMPUTER BEEPS]
+
+408 1536960 2731
+911, where is your emergency?
+
+409 1540920 3243
+Whoa, whoa, whoa.
+Okay, okay, slow down, slow down.
+
+410 1544320 1889
+Where are you?
+
+411 1547800 3368
+Okay, where...?
+I can't understand you.
+
+412 1551400 3243
+What...? What mall?
+What mall...? What mall are you at?
+
+413 1554840 1650
+[♪♪♪]
+
+414 1556640 2207
+Okay, w...
+No, where did he hit you?
+
+415 1559040 3049
+CASEY: He didn't hit me. He
+almost hit me and then I...
+
+416 1562240 3402
+Okay, where... Where is the vehicle?
+I don't know where the vehicle is!
+
+417 1565840 2606
+I'm in the trunk.
+I'm, like, in the trunk!
+
+418 1568640 2844
+Jordan. There's no location.
+
+419 1571680 1923
+It's a disposable. No chip.
+Ask her name.
+
+420 1573840 1684
+What is your name?
+What is your name?
+
+421 1575680 1331
+Casey. Casey.
+
+422 1577200 4801
+Casey. Okay, Casey, calm down, okay?
+I'm in the trunk on my friend's phone.
+
+423 1582200 2480
+Why can't you just trace it?
+BROOKE: We're gonna try.
+
+424 1584880 3402
+You're on a disposable phone,
+so it might take us a little while.
+
+425 1588520 2651
+What? You can't find me?
+
+426 1591360 2082
+BROOKE: I just need you...
+You can't find me?
+
+427 1593640 2844
+No, no, you have to find me!
+No. We will.
+
+428 1596640 4289
+You have to find me, please!
+Please! Please, I don't...
+
+429 1601160 2002
+I don't wanna die.
+
+430 1603360 4130
+Jordan. I don't know what to do.
+She's freaking out.
+
+431 1607680 2321
+What do I say?
+Please, you have to find me.
+
+432 1610200 2685
+I don't wanna die.
+I don't know. What do I do?
+
+433 1613080 4210
+Please, you have to help me.
+You have to help me, this is like...
+
+434 1617480 3083
+He's driving. Nobody's ever
+come out of anything like this.
+
+435 1620800 3971
+Hi. Casey. My name is Jordan.
+Okay?
+
+436 1624960 2970
+I'm here to help you, okay?
+I was talking to another girl.
+
+437 1628080 1809
+Can you put me on with her?
+I'm here.
+
+438 1630080 2446
+I'm gonna help you, okay?
+Please, help me.
+
+439 1632720 3163
+Casey, listen to me, sweetheart.
+Okay, we are gonna...
+
+440 1636080 1650
+Please, I don't wanna die.
+
+441 1637920 1604
+Casey, you're not gonna die.
+
+442 1639720 2082
+[♪♪♪]
+
+443 1650040 2606
+Breathe.
+
+444 1653640 4324
+You've got it.
+Okay.
+
+445 1658880 1650
+Okay.
+I don't wanna die.
+
+446 1660760 1764
+Casey?
+What?
+
+447 1662760 1843
+We are gonna find you,
+okay, honey?
+
+448 1664800 4847
+You promise?
+Do you promise you're gonna find me?
+
+449 1672360 2651
+I can promise you this,
+sweetheart, okay?
+
+450 1675200 4130
+You've got the best team of people
+in this whole city working to find you.
+
+451 1679520 4688
+But in order for us to help you,
+I need you to help me.
+
+452 1684800 2128
+Now, can you do that, sweetheart?
+
+453 1687160 4608
+Can you do that?
+Okay. Okay.
+
+454 1692000 2207
+Okay. Good girl, good girl.
+
+455 1694400 3243
+Now, Casey, first thing I need you to do
+is look inside that trunk
+
+456 1697880 2162
+and see if you
+can find a release lever.
+
+457 1700240 3846
+Call the carrier, have them fax us
+the E.C. forms so we can start the trace.
+
+458 1704240 1490
+Get rid of these kids.
+JORDAN: Okay.
+
+459 1705920 2810
+Usually it glows in the dark.
+Do you see that?
+
+460 1708920 2446
+No, no, it doesn't even have
+one of those.
+
+461 1711600 2526
+Okay. Okay, it's okay, sweetheart.
+
+462 1714320 2446
+What mall were you at
+when you were abducted?
+
+463 1716920 2128
+Fashion Plaza.
+Fashion Plaza.
+
+464 1719240 2651
+Okay. Oh, I know that one,
+that's downtown, right?
+
+465 1722080 1331
+[SOBBING]
+
+466 1723560 1365
+It's okay, sweetheart.
+Calm down.
+
+467 1725160 1729
+What's your last name?
+Welson.
+
+468 1727120 1968
+Welson, okay.
+
+469 1729280 2128
+Oh, my God.
+Okay, I see that.
+
+470 1731600 2446
+I got all your information
+right here in front of me.
+
+471 1734200 4562
+My mom's gonna be freaking out.
+Oh, look, you're a Capricorn. Me too.
+
+472 1739000 1923
+You know what that means, honey?
+What?
+
+473 1741120 2970
+We're fighters.
+That means we were born to fight.
+
+474 1744240 1604
+So you know what I want you to do?
+
+475 1746040 2446
+I want you to fight. Okay?
+
+476 1748720 2321
+Can you fight for me, Casey?
+Yeah.
+
+477 1751240 1490
+Okay. Good girl.
+
+478 1752920 1923
+Can you describe
+the man who grabbed you?
+
+479 1755000 2162
+Was he black, white, Asian, Hispanic?
+White.
+
+480 1757320 1047
+White, okay.
+
+481 1758520 2367
+I think. Dressed normal.
+What does normal mean?
+
+482 1761040 2731
+Did he have on a hat? Jeans?
+I don't... Sunglasses.
+
+483 1763960 2367
+He was wearing sunglasses.
+Sunglasses, okay.
+
+484 1766520 2606
+Can you guess his age?
+Twenties, 30s, 40s?
+
+485 1769320 2970
+Thirties, I think. Like mid-30s.
+
+486 1772480 1923
+Thirties, okay, good girl. Okay, great.
+
+487 1774600 4164
+Honey, what color is the car?
+I think it was like red or maroon.
+
+488 1778960 2082
+Okay, did it have two doors or four?
+
+489 1781200 1923
+I think it had four. Four.
+Four, okay.
+
+490 1783320 1650
+Hang in there. You're doing great.
+
+491 1785160 1968
+JORDAN:
+Any available units. Kidnap in progress.
+
+492 1787280 1923
+Female abducted
+at Fashion Plaza Mall.
+
+493 1789360 2241
+450 Holloway,
+approximately 15 minutes ago.
+
+494 1791800 2844
+White male, 30s, in a four-door maroon,
+unknown make, model.
+
+495 1794840 2207
+P. R.'s in the trunk
+on a disposable phone.
+
+496 1797240 1650
+Is that Jordan?
+
+497 1799040 2367
+...But not enough to triangulate.
+P.C.C.'s pinging.
+
+498 1801600 3482
+Any available unit, code three.
+8-Adam-16 en route, code three.
+
+499 1806440 2287
+It's good to hear
+your voice again, Jordan.
+
+500 1810760 2844
+Okay, Casey, can you tell if you're on
+a freeway or if you're on surface streets?
+
+501 1813760 1001
+[CELL PHONE BEEPING]
+
+502 1814920 2082
+Oh, no.
+JORDAN: What?
+
+503 1817200 1604
+Somebody's calling.
+He's gonna hear.
+
+504 1819040 3129
+No, don't answer it.
+God, no, it's Raul.
+
+505 1822360 1650
+Do not break Contact with me.
+
+506 1824200 1650
+Casey, stay on the line.
+
+507 1826040 2844
+I can't lose you. Stay on the line.
+This can't be happening.
+
+508 1829040 2685
+Can you tell me if those wheels
+are going fast or slow?
+
+509 1831920 1411
+It's like... It's like even.
+
+510 1833480 2480
+Does it sound like a freeway
+or surface streets?
+
+511 1836160 3163
+We might be on a freeway.
+Okay, good girl, good girl.
+
+512 1839560 4130
+All available units, P.R. believes vehicle
+is on the freeway, direction unknown.
+
+513 1843840 1729
+[♪♪♪]
+
+514 1859840 4449
+Casey, sweetheart, does the trunk smell
+like it's a new trunk or an old one?
+
+515 1864480 2731
+It kind of smells like old.
+Okay, good.
+
+516 1867400 2924
+Yeah, there's, like, work stuff.
+Okay, honey.
+
+517 1870520 2571
+Can you see the tail lights?
+What?
+
+518 1873280 2287
+In older cars there may be
+access to tail lights.
+
+519 1875760 1365
+Look for the red glow, okay?
+
+520 1877320 1684
+Yeah, yeah, I see it.
+Great.
+
+521 1879200 1047
+I found it. Yeah, yeah.
+
+522 1880480 2970
+Is there any way you can kick that light?
+Can you do that?
+
+523 1883640 1525
+No, no, he's gonna hear, Jordan.
+
+524 1885400 3243
+No, honey, we gotta try, honey.
+We gotta try to get you out of there.
+
+525 1888840 1923
+I'll try.
+Come on, you can do it.
+
+526 1890960 3243
+The carrier got our request.
+I'm just waiting for them to call back.
+
+527 1894400 1047
+We can't wait, Maddy.
+
+528 1895640 1570
+You know how those prepaids work.
+
+529 1897360 2526
+The call could be within
+a five-mile radius.
+
+530 1900120 2082
+You just keep doing what you're doing.
+Okay.
+
+531 1902360 2367
+Casey. How you doing, sweetheart?
+Not coming out.
+
+532 1904960 1684
+Casey, try the other light.
+
+533 1906880 2128
+Okay.
+You can do it. Fast as you can, honey.
+
+534 1909200 3004
+[♪♪♪]
+
+535 1913360 1729
+ANNOUNCER [OVER RADIO]:
+New music alternative.
+
+536 1916160 3846
+[OVER RADIO]
+♪ It's like the sound of winter ♪
+
+537 1920160 4085
+♪ The bleeding love
+The silent escape ♪
+
+538 1924440 3846
+♪ You've got to hang on to yourself ♪
+
+539 1928440 4801
+♪ It's like the sound of winter ♪
+
+540 1936360 1490
+[GRUNTS]
+
+541 1945880 2401
+♪ Hang on to yourself ♪
+
+542 1948880 3049
+I did it. Jordan, I did it. I got it out.
+You did it. Good work.
+
+543 1952080 1161
+Good work, Casey.
+
+544 1953440 2571
+Now look out the hole
+and tell me what you see.
+
+545 1956200 1331
+It's a freeway.
+
+546 1957760 2526
+Okay. Okay, honey,
+here's what I need you to do, okay?
+
+547 1960520 3607
+I need you to stick your arm out
+and wave it, wave it, wave it.
+
+548 1964320 3368
+Okay, here is the plan. I wanna see
+if any other car's gonna notice.
+
+549 1967880 2321
+Okay.
+Let me know when you've done it, okay?
+
+550 1974920 2321
+I'm waving.
+Good girl, good girl.
+
+551 1977440 2367
+I got a P.R. waving her arm
+out of a trunk of a car!
+
+552 1980040 1286
+Let's see if we get a call.
+
+553 1991840 1047
+[COMPUTER BEEPS]
+
+554 1993520 1365
+911, where's your emergency?
+
+555 1995080 3288
+Hi. Someone's stuck in the
+trunk of the car in front of me.
+
+556 1998600 1570
+A red Camry. It may be a child.
+
+557 2000600 3163
+Yo, I got her!
+Okay, ma'am, what road are you on?
+
+558 2003960 1650
+The 170, heading north.
+
+559 2005800 2162
+Can you tell me
+the license number on that car?
+
+560 2008160 3891
+Can you do that?
+It's 7CFI06X.
+
+561 2015280 1923
+Casey, we're real close, honey.
+
+562 2020200 1525
+Is it a stolen vehicle?
+No, no.
+
+563 2021920 3482
+Registration's for this white Ford
+Explorer, so he switched plates.
+
+564 2025600 2241
+Switched plates.
+MOM: Hold on. I'm coming up to him.
+
+565 2028080 1968
+I'll get a description.
+No, no, no. Wait.
+
+566 2030240 4005
+Ma 'am, do not approach the vehicle.
+This driver is suspected in a kidnapping.
+
+567 2034400 4005
+Okay? Do not approach the vehicle.
+He's getting off.
+
+568 2039520 1923
+MARCO: What exit?
+MOM: Fernando Boulevard.
+
+569 2041680 4130
+All units, Camry spotted exiting the
+170 northbound on Fernando Boulevard.
+
+570 2046000 2606
+Northbound. Shit.
+About face. Hold on.
+
+571 2048800 2128
+MARCO:
+Be advised he's using stolen plates.
+
+572 2051120 3686
+Number seven, Charlie,
+India, zero, six, X-ray.
+
+573 2055000 2241
+Look out of that hole
+and tell me what you see.
+
+574 2057440 2526
+Do you see any landmarks?
+Street names, anything?
+
+575 2061160 1843
+CASEY:
+No, it all looks exactly the same.
+
+576 2063200 3243
+Okay, it all looks the same.
+Okay. Okay.
+
+577 2066640 2526
+Okay, sweetheart, sweetheart.
+CASEY: What's happening?
+
+578 2069320 2924
+Casey, you told me
+there was stuff in the trunk, right?
+
+579 2072440 3004
+Describe what you see, Casey.
+Gotta be something that can help.
+
+580 2075640 1684
+Okay, look around.
+Okay.
+
+581 2078280 2162
+What do you see?
+A bottle of bleach.
+
+582 2080640 2651
+Some paint and a screwdriver.
+A screwdriver, okay.
+
+583 2083480 2048
+A paintbrush, a...
+
+584 2085720 2002
+What else?
+And a hoe.
+
+585 2087920 2048
+Okay. What else?
+
+586 2091040 2207
+Oh, my God, no.
+
+587 2094320 1047
+No.
+What is it?
+
+588 2095520 1968
+My God. Oh, my God.
+
+589 2098440 2002
+He's gonna bury me.
+
+590 2101000 2401
+Casey, what is it, honey?
+What is it?
+
+591 2103600 2241
+There's a shovel,
+he's gonna bury me.
+
+592 2106080 2480
+He's gonna kill me
+and then he's gonna bury me.
+
+593 2108760 1081
+No, honey. Casey.
+
+594 2110080 3641
+Casey, I need you to focus. Come on,
+sweetie, pull it together. Come on.
+
+595 2113960 3561
+No, I know he's gonna do this.
+Get me out of here now.
+
+596 2117760 3607
+What's your favorite movie?
+Casey, what's your favorite movie?
+
+597 2121520 1286
+What's your favorite movie?
+
+598 2124600 2128
+What?
+What's your favorite movie?
+
+599 2126920 2606
+Just tell me, what...?
+Tell me, what is it?
+
+600 2133480 1206
+Bridesmaids.
+
+601 2134880 1968
+Are you kidding me?
+I love that movie.
+
+602 2137040 1923
+I think I saw it
+about a hundred times.
+
+603 2139160 2480
+Okay, so you know what?
+Let's make a deal, okay?
+
+604 2141840 4403
+You and me, we'll go to the movies and
+I'm gonna buy you anything you want.
+
+605 2146600 2571
+Okay? You and me.
+
+606 2150640 2685
+Okay.
+Yeah, okay.
+
+607 2153520 3561
+Now, what I need you to do
+is to take one of those paint cans,
+
+608 2157280 2685
+and I need you to open it. Okay?
+
+609 2160160 2002
+[♪♪♪]
+
+610 2170160 1161
+[GRUNTS]
+
+611 2171520 3368
+Okay. Okay, okay, I got it.
+Okay, you got it open. Good girl.
+
+612 2175080 1729
+So pour that paint out of that hole.
+
+613 2189320 2162
+JORDAN: Any available
+units, kidnap in progress.
+
+614 2191640 3607
+Suspect is white male, 30s, in a
+four-door maroon, unknown make, model.
+
+615 2195440 2401
+P.R. is in the trunk.
+P. R. is leaving a trail
+
+616 2198000 1968
+of white paint coming from the trunk.
+
+617 2200160 3527
+I repeat, look for white paint along
+northbound Fernando Boulevard.
+
+618 2205640 1286
+The paint's almost gone.
+
+619 2207120 1843
+JORDAN:
+Open another can of paint, okay?
+
+620 2209120 1570
+Okay, please stay on the line.
+
+621 2210840 2048
+Yeah, I'm right here, honey,
+I'm right here.
+
+622 2224200 4449
+[OVER RADIO] ♪ Hey there, angel
+face Don't you look divine ♪
+
+623 2228880 4005
+Hey. Hey.
+
+624 2233080 1490
+[HONKS HORN]
+
+625 2241360 1081
+Hey, how you doing?
+
+626 2242640 2287
+Man, you got paint
+coming out of your trunk.
+
+627 2247240 1889
+Yeah. There.
+
+628 2249320 2002
+[♪♪♪]
+
+629 2252160 2082
+Ah. Yeah, thanks.
+
+630 2254800 1445
+All right.
+
+631 2288240 1889
+[TIRES SQUEALING]
+
+632 2290280 1161
+[GASPS]
+
+633 2291640 1923
+[HORNS HONKING]
+
+634 2293760 2207
+Oh, no, Jordan! Jordan...
+
+635 2296120 3447
+Casey?
+No, no, no.
+
+636 2299760 3766
+Casey?
+Jordan.
+
+637 2305440 3322
+Jordan! Jordan, can you hear me?
+Casey, what's happening, honey?
+
+638 2308960 1809
+[TIRES SCREECH]
+
+639 2313520 1604
+Casey?
+
+640 2324880 1764
+Casey, I need you to say something.
+
+641 2327360 1081
+[CHUCKLES]
+
+642 2328600 2685
+Casey, I need you
+to talk to me, sweetheart.
+
+643 2333920 1650
+Casey.
+
+644 2335720 1570
+I need you to say something to me.
+
+645 2337760 1843
+Casey.
+No, no, no! Please!
+
+646 2339800 1809
+Please. Don't do any...
+MICHAEL: No.
+
+647 2341800 1604
+No, no, no!
+Shut up!
+
+648 2344040 1968
+CASEY: Aah! Aah!
+MICHAEL: Shut up!
+
+649 2346160 2765
+I said shut up
+or I'm gonna kill you right here.
+
+650 2349120 1331
+[WHIMPERING]
+
+651 2355080 2651
+Look at what you did.
+
+652 2367520 1331
+Adam-16, what you got?
+
+653 2369040 4847
+Air 18, this is 14267.
+We aren't locating any paint trails. Over.
+
+654 2376320 1729
+No, no, no. No, please, don't.
+
+655 2378240 1240
+[CRYING]
+
+656 2379680 2970
+Don't you cry.
+No, no. Please don't...
+
+657 2382840 2162
+Hey, you okay there, buddy?
+
+658 2387640 3129
+MICHAEL:
+Yeah. Some, uh...
+
+659 2391600 2810
+Some paint cans spilled is all.
+
+660 2394600 3322
+Yeah, because I saw the broken light
+and the paint, and I don't know,
+
+661 2398160 2241
+I just thought it looked weird.
+You know?
+
+662 2400600 3049
+Uh-huh. Yeah.
+Real mess back here.
+
+663 2403880 1047
+I bet.
+
+664 2405600 1411
+Real mess back here.
+
+665 2408160 1604
+Yeah.
+
+666 2410880 2480
+Yeah, well, thanks for alerting me.
+
+667 2413840 2651
+Yeah, yeah, sure, no worries, man.
+
+668 2419400 1411
+[WHIMPERING]
+
+669 2422040 1206
+All right, man.
+
+670 2423960 1525
+Take care.
+
+671 2428200 1650
+[CASEY WHIMPERING SOFTLY]
+
+672 2454840 1843
+[LINE RINGING]
+
+673 2457920 1047
+OPERATOR:
+911...
+
+674 2473600 1923
+[BOTH GRUNTING]
+
+675 2484960 1604
+Fuck!
+
+676 2488760 2048
+[GROANING]
+
+677 2495800 1684
+[YELLS]
+
+678 2504320 2002
+[♪♪♪]
+
+679 2516600 2207
+Look what you made me do!
+
+680 2519000 3925
+He's dead because of you!
+
+681 2527160 1081
+[PANTING]
+
+682 2541720 1843
+Oh, my God. No, no, no!
+
+683 2544560 2287
+MICHAEL: Shut up.
+Maddy, trace. We need the trace.
+
+684 2547000 2082
+I got a ping on a tower
+on Fernando Boulevard.
+
+685 2549280 1809
+We know that already.
+MICHAEL: Shut up.
+
+686 2551240 3322
+CASEY:
+Please, don't do this, please.
+
+687 2556240 1365
+Please.
+
+688 2557800 1684
+[CASEY SCREAMING]
+
+689 2562840 3004
+OFFICER: This is Air 18, responding
+to that assault off the 170.
+
+690 2566080 2480
+Looks like we've got that red Camry
+in a Metrolink lot.
+
+691 2568720 2526
+Repeat, we're code six on the Camry.
+
+692 2571440 2002
+[SIRENS WAILING]
+
+693 2591120 2082
+Shit.
+Get an SID unit here now.
+
+694 2593920 4005
+JORDAN: 8-Adam-16, what you got?
+They're GOA.
+
+695 2598520 2162
+There's a lot of broken glass.
+
+696 2605080 1684
+And there's a lot of blood.
+
+697 2607000 1968
+[SCREAMING]
+
+698 2609120 1047
+[GRUNTING]
+
+699 2618600 2002
+[PANTING]
+
+700 2625640 2128
+[CLASSICAL MUSIC
+PLAYING OVER RADIO]
+
+701 2633240 2002
+[MUSIC CONTINUES PLAYING]
+
+702 2636320 2002
+[WHIMPERING]
+
+703 2646640 1968
+Jordan?
+Casey.
+
+704 2648800 3049
+Casey, I'm right here, baby.
+What happened, honey? Are you hurt?
+
+705 2652400 2367
+No, we switched cars.
+He switched what?
+
+706 2655000 2241
+We switched cars.
+He switched cars.
+
+707 2657440 3288
+This guy tried to help
+and then he got hit over the head,
+
+708 2660920 2287
+and then he threw him
+in the back of the trunk.
+
+709 2663400 2287
+There's a guy in the car?
+In the trunk with me.
+
+710 2665840 3129
+He threw the shovel in here
+and said he was gonna bury me.
+
+711 2669160 2446
+Casey, how hurt is he?
+
+712 2671800 3368
+How hurt is the man?
+He's dead.
+
+713 2675400 1490
+He's gonna bury me, Jordan.
+
+714 2677080 2082
+Okay, Casey.
+There's a shovel with me.
+
+715 2679400 3129
+I need you to describe
+that car you're in, okay?
+
+716 2683080 1365
+It's black. Um...
+
+717 2684640 1047
+Okay.
+Black.
+
+718 2685880 3049
+What about the tail lights in this car?
+Can you kick them out?
+
+719 2689120 3243
+No, there's, like,
+this metal frame over the...
+
+720 2692560 1968
+[GASPING]
+
+721 2694760 1684
+[BANGING ON CAR]
+
+722 2696640 1889
+Shh! No! Shh!
+Aah! Aah!
+
+723 2698680 1365
+Casey, what's happening?
+
+724 2700240 2241
+Shut up, please. No, please.
+
+725 2702720 2048
+[MUFFLED SCREAMING]
+
+726 2709040 2731
+You have to be quiet, please. Stop.
+Help!
+
+727 2711960 2241
+Let me out of here!
+Please stop. Please!
+
+728 2714360 4403
+Let me out of here!
+You just have to shut up!
+
+729 2721400 2321
+Shh!
+Hello! Aah!
+
+730 2726800 1729
+Please stop. Shut up, shut up.
+
+731 2728720 2367
+Shut up. He can hear you,
+he can hear you.
+
+732 2731280 1411
+Stop, he's gonna kill you.
+
+733 2733880 1365
+[GASPING]
+[SCREAMS]
+
+734 2736480 1650
+[GRUNTING]
+
+735 2754320 1206
+[WHIMPERING]
+
+736 2759280 2606
+Oh, no, no, no.
+
+737 2762600 2241
+[WHIMPERING]
+
+738 2765040 1650
+Please, no!
+
+739 2767800 1604
+Last warning.
+
+740 2769600 1490
+No, please.
+
+741 2772000 2002
+MICHAEL:
+Last warning.
+
+742 2775840 1525
+[♪♪♪]
+
+743 2780720 1206
+CASEY:
+No.
+
+744 2782120 2128
+PHILLIPS:
+I want this whole place covered.
+
+745 2785040 2651
+So how we looking? Anything?
+Partials.
+
+746 2787880 2924
+Partials. You're telling me
+you can't find one solid print?
+
+747 2791000 2731
+Well, I don't know what to say.
+He's smart. He wiped it.
+
+748 2807400 2128
+He wasn't that smart.
+
+749 2809720 2048
+Agent, I want this glass printed.
+
+750 2811960 2002
+[♪♪♪]
+
+751 2827280 2571
+They issued an AMBER Alert.
+We need the trace.
+
+752 2830040 2082
+Just keep her on the line.
+CASEY: Jordan.
+
+753 2832320 3243
+Casey. Casey, what's happening,
+honey? What's happening?
+
+754 2835760 1650
+He killed him.
+
+755 2838360 3846
+He started screaming and
+I tried to stop him, but he wouldn't,
+
+756 2842440 3402
+and then he just...
+He just killed him. It's all my fault.
+
+757 2846040 3846
+JORDAN: There's a lot of people here counting on you.
+Help us figure this out.
+
+758 2850080 1240
+CASEY:
+It's all my fault.
+
+759 2851520 3641
+No, it's not your fault.
+It's not your fault, okay, sweetheart?
+
+760 2855640 2606
+Don't blame yourself.
+Listen to me.
+
+761 2858440 2162
+Sometimes,
+
+762 2860800 4050
+we all get ourselves in situations
+that sometimes get out of our control.
+
+763 2865040 5131
+And bad things can happen, but it doesn't
+mean that that's your fault, okay?
+
+764 2871080 2685
+Jordan?
+I'm here, I'm here.
+
+765 2874360 2321
+Do you record these calls?
+
+766 2877760 1490
+Yes, we do, why?
+
+767 2879480 5689
+Well, because I just wanna leave my
+family a message real quick. If I could.
+
+768 2885400 2890
+No, no, you don't have to do that,
+baby, we're gonna find you.
+
+769 2888480 3163
+It'll just take a second. Just please.
+
+770 2893600 1684
+Mom.
+
+771 2896360 3561
+Mom, you were always
+the perfect mother.
+
+772 2900160 3482
+You gave me everything
+that I ever wanted.
+
+773 2905480 2480
+And I love you.
+
+774 2909240 2162
+I love you so much.
+
+775 2911600 5006
+Casey, I promise you
+you're gonna see your mother again.
+
+776 2916800 2401
+And I'm really sorry.
+
+777 2921400 2844
+Please don't ever forget me.
+
+778 2924920 1889
+[CASEY CRYING]
+
+779 2928600 1286
+That's all.
+
+780 2930080 2480
+That's all I wanted to say.
+
+781 2933440 1331
+Okay.
+
+782 2934960 3163
+Okay, okay. Okay, sweetheart.
+
+783 2939920 1809
+Casey.
+
+784 2942840 3049
+You remember you told me
+you were a fighter?
+
+785 2946600 4608
+Yes, we're fighters. We're Capricorns
+and we're fighters, remember?
+
+786 2951800 3721
+Okay, so you know what we're gonna do
+right now? We're gonna fight.
+
+787 2955760 2401
+You and me, we're gonna fight, okay?
+
+788 2958680 1968
+We're gonna fight.
+
+789 2960840 1843
+Okay.
+Okay, good girl.
+
+790 2963520 4608
+Now, what I need you to do is go in
+that man's pockets and get his wallet.
+
+791 2968600 1286
+No. No.
+
+792 2970080 3243
+I need you to get his wallet
+and tell me what his name is, Casey.
+
+793 2973520 1445
+I need to know who that man is.
+
+794 2975120 3368
+In order for me to find you,
+I have to know who this man is.
+
+795 2978920 3243
+I need to know his name
+as fast as you can, sweetheart.
+
+796 2982360 2970
+Come on, honey, do it. You can do it.
+
+797 2989880 1968
+His name is Alan Denado.
+
+798 2993240 3243
+Good girl. You are a rock star, Casey.
+
+799 2996720 1081
+Good girl.
+
+800 2998520 3322
+All units, kidnap in progress,
+female abducted at Fashion Plaza Mall.
+
+801 3002040 4324
+P.R. is still online but in a different trunk.
+Black Lincoln Town Car, owner-operated.
+
+802 3006560 4562
+License 6-Queen-Young-Union-0-1-7.
+
+803 3014040 1490
+[BEEPING]
+
+804 3015720 2765
+P. R. is on a disposable phone.
+BCC is pinging the phone
+
+805 3018680 2321
+but just getting single hits
+off cell towers.
+
+806 3021240 3288
+Last ping was off the tower of
+San Fernando Valley and Sunland.
+
+807 3024720 2480
+Five-mile radius,
+unknown direction of travel.
+
+808 3027400 3607
+Check to see if he has OnStar.
+Just did. He doesn't.
+
+809 3043400 1047
+[CAR DOOR CLOSES]
+
+810 3044680 2924
+[CUMBIA MUSIC
+PLAYING OVER SPEAKERS]
+
+811 3047800 3209
+Thirty unleaded. I'll pump it myself.
+Sure.
+
+812 3057520 1650
+[WHISPERING]
+We're at a gas station.
+
+813 3059320 2002
+JORDAN:
+Can you hear anybody, Casey?
+
+814 3061520 3163
+No, no, there's just music.
+
+815 3065120 1047
+Okay.
+
+816 3067440 2526
+Go ahead, you're good.
+Check your fluids?
+
+817 3070120 1161
+MICHAEL:
+That's all right.
+
+818 3071440 2082
+It won't take long.
+I'm sure.
+
+819 3073720 1240
+[CELL PHONE BEEPS]
+
+820 3076920 1286
+Casey?
+
+821 3079480 1570
+Casey?
+
+822 3082960 2651
+Casey, what's happening,
+sweetheart?
+
+823 3087920 1729
+I think I have an idea.
+
+824 3093360 2446
+You don't have to do that.
+No problem for me.
+
+825 3096000 1331
+Don't need it.
+
+826 3098040 1490
+Sure.
+
+827 3110920 1889
+Come on, come on, come on.
+
+828 3113040 2002
+[♪♪♪]
+
+829 3161920 2970
+CASEY:
+Help! Help, please! Please!
+
+830 3165480 2480
+Please, I've been kidnapped!
+Please help me!
+
+831 3168160 2731
+Shit.
+Please help me! Please!
+
+832 3171080 1445
+Please help! Please!
+
+833 3172720 2321
+Please help me! Please, please!
+
+834 3175240 1047
+[DOOR LOCK BEEPS]
+
+835 3176480 1764
+CASEY: Please! Please!
+Open the door now!
+
+836 3178440 2810
+CASEY:
+Please! Please help! Please! Please!
+
+837 3184600 1161
+Stay back.
+
+838 3190520 1650
+Back!
+
+839 3197520 1764
+CASEY: Please!
+Stay back!
+
+840 3216600 2287
+No! No! Aah!
+
+841 3230280 1843
+No!
+
+842 3232320 2082
+Oh, my... No, no, no!
+
+843 3237560 2082
+No!
+You stupid...
+
+844 3239840 1445
+Come here.
+No. No.
+
+845 3241480 3049
+Get off me! No, you...
+You just keep killing people.
+
+846 3244760 2731
+Aah! YOU motherfucker!
+
+847 3256040 1047
+[COMPUTER BEEPS]
+
+848 3259680 1445
+That's him.
+
+849 3262560 4449
+That is him.
+Adam-16, we got a hit on that print.
+
+850 3267240 2367
+Suspect is a Michael Lewis Foster.
+
+851 3269760 3083
+Record's clean on this guy,
+no convictions except for...
+
+852 3273080 4369
+He was booked for arson back in '95
+but he was cleared. That's our guy.
+
+853 3284080 3846
+Got him. He's 36, 6'1", 182 pounds.
+
+854 3288120 2685
+Current address,
+451 Shannon Court.
+
+855 3291000 2002
+[♪♪♪]
+
+856 3308280 1411
+Police. Don't move.
+Oh! Oh!
+
+857 3309880 2241
+Is Michael Foster in this house?
+
+858 3312320 2810
+DEVANS: Ma'am, are you his wife?
+OFFICER: Upstairs is clear.
+
+859 3315320 1570
+Talk to me!
+Yes, I am his wife.
+
+860 3317080 1684
+Where is your husband?
+What is this?
+
+861 3319000 2446
+What the hell is...?
+Tell me where he is.
+
+862 3321640 2367
+Listen to me.
+We need your help and it's urgent.
+
+863 3324160 1490
+Where is your husband?
+Working.
+
+864 3325880 3049
+Where? Where does he work?
+Downtown. Brent Vista Medical Center.
+
+865 3329080 2401
+He's a med tech.
+What time did he leave?
+
+866 3331680 4324
+Phillips. Phillips.
+What the hell is this about?
+
+867 3338600 3447
+Ma'am, you're not gonna wanna
+hear this in front of your kids.
+
+868 3342440 2082
+Flora just got an assault.
+Burn victim.
+
+869 3344720 2446
+Guy doused an attendant
+at a gas station. Lit him up.
+
+870 3347400 2651
+Witnesses say the guy drove off
+in a car. Guess what make.
+
+871 3350280 3482
+Black Lincoln. Get the gas station
+address and go tell Jordan.
+
+872 3354400 2765
+[INDISTINCT CHATTER
+OVER POLICE RADIO]
+
+873 3357320 3846
+This is Foster's office. Check it out.
+
+874 3362720 3163
+I thought that girl
+kind of looked like our P.R.
+
+875 3376280 2844
+JORDAN: 8-Adam-16, we got a witness
+puts suspect heading north
+
+876 3379280 2844
+on Sierra.
+That's eight miles north of you.
+
+877 3382320 2321
+Yeah, roger, he's not here.
+
+878 3384840 2128
+Adam-8-16, go to tac 43 please.
+
+879 3388440 1570
+Rog, tac 43.
+
+880 3390240 3129
+I still have the P. R. on the line
+but she's not responding.
+
+881 3393560 2446
+You got anything for me, Paul?
+
+882 3396240 1331
+I don't know yet.
+
+883 3397760 2890
+[MUSIC BOX PLAYING]
+
+884 3425800 2731
+Please. Please. Please.
+
+885 3428960 1525
+[MICHAEL GRUNTS]
+
+886 3435600 2606
+Jordan. Jordan. Jordan!
+Shit.
+
+887 3438840 1525
+I'm here, Jordan.
+Casey.
+
+888 3440560 1684
+MICHAEL:
+Shut up!
+
+889 3442440 3561
+Shit. Shh. Shh. Shh.
+Please let me go.
+
+890 3446200 1968
+Shut up.
+
+891 3448360 2002
+[MICHAEL PANTING OVER PHONE]
+
+892 3451120 2002
+[♪♪♪]
+
+893 3462000 1081
+CASEY:
+No.
+
+894 3463280 1968
+Michael.
+
+895 3468240 2321
+The police know who you are,
+Michael Foster.
+
+896 3471880 2765
+And they're at your house right now
+with your family.
+
+897 3477280 1923
+Who is this?
+
+898 3483160 2651
+This is 911 emergency services.
+
+899 3486040 2731
+And we've got your prints
+at the scene of a murder.
+
+900 3490520 4369
+The only choice you have now
+is to turn yourself in.
+
+901 3496840 2207
+CASEY:
+No, please.
+
+902 3499240 3004
+Michael, listen to me.
+
+903 3504800 2321
+Do not hurt that little girl.
+
+904 3507280 1764
+[CASEY SOBBING]
+
+905 3509840 3004
+Do not hurt that little girl.
+Let her go.
+
+906 3514400 1650
+You don't have to do this.
+
+907 3516240 2002
+[MICHAEL PANTING]
+
+908 3520400 1525
+MICHAEL:
+It's already done.
+
+909 3522160 2287
+LEAH:
+No. No. No! No!
+
+910 3524640 1411
+It's already done.
+
+911 3526240 1490
+[LEAH SCREAMING]
+[MICHAEL YELLS]
+
+912 3527920 1286
+[COMPUTER BEEPING]
+
+913 3529360 2002
+[♪♪♪]
+
+914 3545360 1604
+MADDY:
+The signal died. We just lost him.
+
+915 3548360 4483
+Michael Foster is the same man
+that killed Leah Templeton.
+
+916 3553040 1365
+Jordan.
+It's the same man.
+
+917 3554840 2241
+Jordan.
+It's the same man.
+
+918 3562240 3004
+[DEVANS & RACHEL
+SPEAKING INDISTINCTLY NEARBY]
+
+919 3566240 2002
+JORDAN:
+Adam-16, we lost the trace.
+
+920 3568440 3322
+But the last ping was off the tower
+in Santa Clarita Hills.
+
+921 3576840 1650
+Tell me where
+he may have taken her.
+
+922 3578720 3721
+There is no place because Michael
+wouldn't do something like that.
+
+923 3582640 1843
+Where's this house?
+You have no right.
+
+924 3584720 2367
+I have a right to arrest
+you for obstruction.
+
+925 3587280 2082
+Where is the house?
+
+926 3589960 2526
+That's where Michael grew up.
+DEVANS: But where is it?
+
+927 3592640 3083
+It's gone. It's gone.
+It burned down years ago.
+
+928 3597000 3686
+Burned down?
+Okay, what about this cottage?
+
+929 3600880 2970
+The red one behind the house.
+It's ours.
+
+930 3604040 2810
+PHILLIPS: What do you mean, it's yours?
+You still own it?
+
+931 3607080 3288
+Yes, we own it.
+Michael's been renovating it.
+
+932 3610520 1650
+[♪♪♪]
+
+933 3615280 2401
+DEVANS:
+Ma'am, a girl may die if you don't help.
+
+934 3617880 2287
+You understand?
+You don't want that.
+
+935 3621160 3527
+Tell us where it is.
+Just tell us where it is.
+
+936 3624840 2048
+[SOBBING]
+
+937 3629080 4562
+8-Adam-16, I need to run a plate.
+1-Mary-2-5-8-Lincoln-9.
+
+938 3634960 2685
+JORDAN: We got an old
+registration for Melinda Foster.
+
+939 3637840 1650
+Old registration. Deceased.
+
+940 3639680 5211
+Address, 1765 Oakcreek Lane.
+In the Santa Clarita Hills.
+
+941 3647800 3129
+Supervisor at Brent Vista
+says he left before noon.
+
+942 3651160 2128
+8-Adam-16,
+contact the watch commander.
+
+943 3653440 2367
+We're gonna need backup units
+and an airship.
+
+944 3656040 3129
+Roger on that. It's on the way.
+Go to tac 41, please.
+
+945 3659360 1604
+Yeah, roger, tac 41.
+
+946 3661160 1161
+Paul?
+Yeah?
+
+947 3662520 3800
+Foster, that's the same guy
+that killed Leah Templeton.
+
+948 3667000 3447
+Are you sure?
+Yes, I'm absolutely sure.
+
+949 3671240 1047
+Be careful.
+
+950 3676000 2002
+[♪♪♪]
+
+951 3694560 2002
+[♪♪♪]
+
+952 3703400 1240
+[GUN COCKS]
+
+953 3704840 1570
+L.A.P.D. We're coming in!
+
+954 3707520 1809
+OFFICER 1: Spread out.
+OFFICER 2: Room clear.
+
+955 3709520 2571
+[OFFICERS SHOUTING
+INDISTINCTLY]
+
+956 3712280 1206
+OFFICER 3:
+Go, go, go.
+
+957 3713680 1411
+OFFICER 4:
+Clear here.
+
+958 3716200 2321
+OFFICER 5: Nothing.
+OFFICER 6: Outside, west wall,
+
+959 3718680 2401
+covered. Back here.
+
+960 3721320 3243
+8-Adam-16, it's empty.
+
+961 3724760 2048
+No sign of Foster
+or the girl or the Lincoln.
+
+962 3726960 1843
+This place is a dead end.
+
+963 3729000 2685
+Either he figured we were onto him
+and he never showed,
+
+964 3731840 1570
+or he's taken her somewhere.
+
+965 3733600 1729
+Let's clear out of here.
+
+966 3735520 4130
+I want barricades on all incoming roads
+within five miles of the cell tower.
+
+967 3748240 3925
+I know. I said his name, scared him off.
+No, that's not true.
+
+968 3752360 2287
+He found the cell
+and he would have disconnected.
+
+969 3754840 2685
+He was on his way there, Maddy.
+The trace confirmed it.
+
+970 3757720 1684
+That's not what happened.
+Yeah.
+
+971 3759600 2128
+No, it isn't. We had a trace going,
+
+972 3761920 5484
+and you did every single thing exactly
+the way you were supposed to do it.
+
+973 3767600 2287
+I want you to go home.
+Oh, I'm not going home.
+
+974 3770120 1570
+This isn't a request.
+
+975 3772280 2287
+You want closure.
+You're not gonna get it.
+
+976 3774760 2606
+You did your part,
+now you let them do their part.
+
+977 3777560 2970
+She's no longer your responsibility.
+So I want you to go home,
+
+978 3780680 2526
+and I want you
+to take care of yourself.
+
+979 3789160 2128
+[DOOR OPENS]
+
+980 3791520 2401
+[DOOR CREAKS THEN SLAMS]
+
+981 3806800 1445
+[GASPING]
+
+982 3816760 2207
+[AIR HISSING]
+
+983 3822680 1923
+[MUFFLED GRUNTING]
+
+984 3840920 2002
+[WHIMPERING]
+
+985 3844040 4562
+[HUMMING]
+
+986 3849400 1809
+[MUFFLED YELLING]
+
+987 3859760 1843
+[TAPE WHIRRING]
+
+988 3863880 2606
+[CULTURE CLUB'S
+"KARMA CHAMELEON" PLAYING]
+
+989 3876200 5484
+♪ Desert loving in your eyes
+All the way ♪
+
+990 3881840 4608
+♪ If I listen to your lies
+Would you say ♪
+
+991 3886600 4927
+♪ I'm a man
+Without conviction ♪
+
+992 3891680 5166
+♪ I'm a man
+Who doesn't know ♪
+
+993 3897000 2606
+♪ How to sell a contradiction? ♪
+
+994 3899800 2810
+Please. Please.
+
+995 3902800 5086
+♪ You come and go
+You come and go ♪
+
+996 3908040 3243
+♪ Karma, karma, karma, karma, karma
+Chameleon ♪
+
+997 3911440 2048
+[HAIR DRYER WHIRRING]
+
+998 3913680 2401
+♪ You come and go
+You come and go ♪♪
+
+999 3916240 1445
+[MICHAEL SCREAMS]
+
+1000 3918240 1809
+[♪♪♪]
+
+1001 3924600 2241
+[GRUNTING]
+
+1002 3931840 2082
+[PANTING]
+
+1003 3948480 2446
+Oh, you're not gonna wanna see that.
+
+1004 3951120 2002
+[GASPING]
+
+1005 3955520 2401
+No. No.
+
+1006 3958120 1604
+[MUFFLED SCREAMING]
+
+1007 3959880 2924
+I told you
+you didn't wanna see it.
+
+1008 3972160 2526
+CASEY [ON RECORDING]:
+You promise you're gonna find me?
+
+1009 3974840 1729
+JORDAN: I can promise you
+this, sweetheart, okay-
+
+1010 3976720 1047
+[RECORDING
+FAST-FORWARDING]
+
+1011 3977920 1889
+...Age, Casey. Twenties, 30s, 40s?
+
+1012 3980000 3129
+CASEY:
+Thirties, I think. Like mid-30s.
+
+1013 3983840 2207
+CASEY: Bridesmaids.
+JORDAN: Are you kidding me?
+
+1014 3986240 2810
+I love that movie.
+I think I saw it about-
+
+1015 3989240 1729
+You told me that.
+
+1016 3991160 2207
+Okay, so you know
+what we're gonna do right now?
+
+1017 3993520 1490
+We're gonna fight.
+
+1018 3995200 2321
+You and me, we're gonna fight.
+
+1019 3998760 1764
+Michael, listen to me.
+
+1020 4000720 1331
+[MICHAEL PANTING
+ON RECORDING]
+
+1021 4002200 3004
+JORDAN:
+Do not hurt that little girl.
+
+1022 4007200 1968
+Do not hurt that little girl. Let her go.
+
+1023 4009320 2321
+[CLANKING ON RECORDING]
+
+1024 4011800 2287
+You don't have to do this.
+
+1025 4017600 2002
+MICHAEL:
+It's already done.
+
+1026 4019800 1365
+[RECORDING REWINDS]
+
+1027 4021720 1684
+[CLANKING ON RECORDING]
+
+1028 4023560 2082
+JORDAN:
+You don't have to do this.
+
+1029 4029560 1206
+MICHAEL:
+It's al...
+
+1030 4036560 2401
+JORDAN [AT LOW VOLUME]:
+You don't have to do this.
+
+1031 4039160 3163
+[CLANKING ON RECORDING]
+
+1032 4042480 2128
+MICHAEL:
+It's already done.
+
+1033 4045080 2162
+It's already done.
+
+1034 4047640 2002
+[CLANKING ON RECORDING]
+
+1035 4052560 2082
+It's already done.
+
+1036 4054840 1604
+CASEY:
+No, no. No!
+
+1037 4060160 2446
+PHILLIPS: Check each and
+every car twice. Twice.
+
+1038 4062800 3447
+Double check, triple check.
+He's not getting through this point.
+
+1039 4066400 1490
+He is not getting through here.
+Help them look.
+
+1040 4068080 1047
+[CELL PHONE RINGING]
+
+1041 4069280 3163
+Phillips.
+Hey. You got anything?
+
+1042 4073640 2606
+No, not yet. Where are you?
+
+1043 4078200 1286
+Where else?
+
+1044 4079720 1570
+You're still at the Hive.
+
+1045 4081480 2002
+Jordan. Listen to me, okay?
+
+1046 4083720 2844
+We will find her, all right?
+And we'll find her alive.
+
+1047 4086760 2571
+All right, now you go home
+and get you some rest.
+
+1048 4090760 3322
+And, hey, you were an all-star tonight.
+
+1049 4094280 1525
+You really were, okay?
+
+1050 4096800 1047
+Paul.
+
+1051 4098040 2606
+Listen, I'll call you
+as soon as we get a lead.
+
+1052 4100840 1047
+Thank you.
+
+1053 4102760 1843
+Call you later.
+
+1054 4106480 2048
+Move it up! Move it up! Move it up!
+
+1055 4109840 1331
+[KEYPAD BEEPS]
+
+1056 4138400 2401
+[♪♪♪]
+
+1057 4143360 2082
+[SIRENS WAILING]
+
+1058 4163080 2162
+GPS:
+You have arrived at your destination.
+
+1059 4165440 3561
+Your route guidance is now finished.
+
+1060 4209440 2002
+[♪♪♪]
+
+1061 4321120 2002
+[CLANKING NEARBY]
+
+1062 4331280 2002
+[CLANKING CONTINUES]
+
+1063 4335800 2082
+[♪♪♪]
+
+1064 4350840 2002
+[CLANKING CONTINUES]
+
+1065 4377840 1365
+[GLASS CRACKS]
+
+1066 4435880 1365
+[GASPS]
+
+1067 4477080 2048
+[CASEY SOBBING AND WHIMPERING
+IN DISTANCE]
+
+1068 4550560 1809
+[MICHAEL COUGHING]
+
+1069 4570680 1411
+[COUGHS]
+
+1070 4609280 1809
+[MUTTERING]
+
+1071 4681600 2128
+MICHAEL:
+Hi.
+
+1072 4713760 2002
+[SNIFFS]
+
+1073 4728480 1525
+No.
+
+1074 4732800 1570
+No.
+
+1075 4734560 1604
+No. No.
+
+1076 4736360 2162
+No! No!
+
+1077 4738720 2606
+No! No!
+
+1078 4771600 2128
+[SNIFFS]
+
+1079 4779680 1843
+[SNIFFING]
+
+1080 4795760 2002
+[GASPING]
+
+1081 4798080 1240
+[LIGHT SWITCH CLICKS]
+
+1082 4799640 1331
+[DOOR CLOSES]
+
+1083 4807360 1365
+Hey, Jordan.
+
+1084 4808920 2401
+Hey, we found the Lincoln.
+
+1085 4811520 2287
+He ditched it in the woods.
+
+1086 4814360 2526
+Denado's body was inside,
+but there was, uh...
+
+1087 4817120 1923
+There was no sign of the girl.
+
+1088 4819240 2241
+Call me when you get this.
+
+1089 4825880 2002
+[CASEY BREATHING DEEPLY]
+
+1090 4836800 1968
+[♪♪♪]
+
+1091 4838920 1570
+[CASEY WHIMPERING]
+
+1092 4870800 1968
+Please, just kill me.
+
+1093 4872960 2002
+Kill me, please.
+
+1094 4876160 3766
+Please, just kill me. Just kill me.
+
+1095 4881360 3129
+Why won't you just kill me?
+
+1096 4891560 2287
+Hair needs a healthy blood flow.
+
+1097 4896200 1365
+If you're dead...
+
+1098 4900560 2128
+No, please stop, please.
+
+1099 4902880 1365
+Then it dies too.
+
+1100 4904440 2287
+CASEY:
+Stop, please.
+
+1101 4907480 1525
+I'm sorry, but I can't.
+
+1102 4911000 1161
+I can't.
+
+1103 4914080 1923
+I can't stop.
+
+1104 4916920 1331
+[JORDAN SCREAMS]
+
+1105 4930200 1445
+Oh... Oh, God.
+
+1106 4936040 3971
+Oh... Okay, it's okay, sweetheart.
+It's okay.
+
+1107 4940640 1650
+Don't worry, okay?
+
+1108 4949160 1729
+Who are you?
+
+1109 4951080 3083
+It's okay, sweetheart. It's okay.
+
+1110 4954360 1923
+Jordan?
+Yeah.
+
+1111 4957840 1445
+Yeah.
+
+1112 4959480 2685
+It's Jordan.
+I'm gonna get you out of here. Okay?
+
+1113 4962480 1081
+[GASPS]
+
+1114 4964760 1445
+[SCREAMING]
+
+1115 4966360 1889
+[♪♪♪]
+
+1116 4970720 1365
+Trash!
+
+1117 5004240 2082
+[CASEY SCREAMS]
+[MICHAEL GRUNTS]
+
+1118 5007600 1161
+[SCREAMING]
+
+1119 5014640 1240
+MICHAEL:
+Aah! Shit!
+
+1120 5026080 1411
+GO! Go!
+
+1121 5033240 1684
+Trash!
+
+1122 5035360 1764
+JORDAN:
+Go, go!
+
+1123 5040400 3129
+Go, go. Go! Go, go.
+
+1124 5047200 1365
+[SCREAMING]
+
+1125 5051800 1126
+[GRUNTING]
+
+1126 5068840 1650
+[FLESH TEARS]
+[GRUNTS]
+
+1127 5082520 1490
+[CASEY WHIMPERS]
+
+1128 5103560 1047
+[YELLS]
+
+1129 5114760 1570
+[PANTING]
+
+1130 5116480 1843
+[♪♪♪]
+
+1131 5122080 2048
+CASEY:
+Oh, my God.
+
+1132 5140760 1604
+CASEY:
+Wait.
+
+1133 5163720 1490
+[GROANS]
+
+1134 5179400 1286
+[GRUNTING]
+
+1135 5188840 2924
+JORDAN: You should have
+listened to me, Michael Foster.
+
+1136 5196040 3368
+You could have turned yourself in
+when you had the chance.
+
+1137 5203000 1490
+Oh.
+
+1138 5206360 1206
+You're the operator.
+
+1139 5210840 2048
+[LAUGHS]I
+
+1140 5217800 1206
+Thought you'd be taller.
+
+1141 5219160 2924
+[LAUGHS THEN COUGHS]
+
+1142 5222920 2162
+So when do the police get here?
+
+1143 5225800 2082
+The police?
+
+1144 5229280 1843
+MICHAEL:
+Yeah.
+
+1145 5232120 1923
+I escaped.
+
+1146 5235240 1968
+Jordan found me in the woods.
+
+1147 5237720 1764
+And you...
+
+1148 5242360 1445
+disappeared.
+
+1149 5246000 1411
+What?
+
+1150 5248120 3083
+Where do you think you're going, huh?
+Where you going? Hey!
+
+1151 5251400 2844
+Hey! Unh! Wait!
+
+1152 5254400 2401
+Hey, where you think
+you're going, you bitch?
+
+1153 5257600 2844
+You're just an operator.
+You can't do this.
+
+1154 5261080 2241
+You can't.
+
+1155 5264000 3766
+It's already done.
+No. Wait!
+
+1156 5267960 1843
+[LOCK CLICKS]
+
+1157 5271800 2002
+[LINE RINGING]
+
+1158 5273960 2002
+[♪♪♪]
+
+1159 5281160 2731
+OPERATOR:
+911, where's your emergency?
+
+1160 5467760 2002
+[♪♪♪]
+

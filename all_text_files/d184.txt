@@ -1,0 +1,2411 @@
+1 69869 2068
+Which one are you going for, bud?
+
+2 73206 2768
+The white one? With goggles?
+
+3 81114 3469
+Okay, I'm gonna show you
+how to get there. Okay?
+
+4 88388 2734
+Okay, you're gonna follow...
+
+5 92358 2868
+this line till it gets to...
+
+6 96129 2970
+Till it gets to this circle, okay?
+
+7 99100 2634
+When it hits that circle,
+you press the button.
+
+8 101735 5004
+Then you're gonna follow this bottom
+line until it gets to this circle.
+
+9 106740 2535
+Then you press the
+button, okay? Got it?
+
+10 109276 2502
+Okay, you got any money?
+
+11 111779 2500
+Okay, well, here's $1.
+
+12 115748 2001
+Good luck.
+
+13 322322 1966
+Hey.
+
+14 326993 4069
+Nomad's back. He's
+messing with us again.
+
+15 339872 1701
+What did he say?
+
+16 342842 5170
+"Your hack into MIT
+servers was legit."
+
+17 350684 1499
+That was fast.
+
+18 352618 3003
+"Ta, ta, ta." What is that?
+
+19 356622 4105
+"They put that shit on us.
+"We almost got expelled."
+
+20 369869 2067
+"Vibes."
+
+21 372705 3371
+Who's this Vibes? Okay, guy.
+
+22 376577 2468
+"We're going to expose
+you at DEF CON,
+
+23 379046 2667
+"so you better watch your back."
+
+24 386318 2201
+Dude, what is that?
+
+25 392692 2034
+What the...
+
+26 407940 2535
+Go into the building.
+
+27 415581 1969
+Get the Pwnie.
+
+28 417551 2034
+All right, let's do this.
+
+29 419586 2168
+Open up a Linux terminal
+and start an Nmap, dude.
+
+30 421755 1834
+Haley's gonna have
+to drive tomorrow.
+
+31 423590 1334
+Hey, focus.
+
+32 424925 1868
+That's what I'm saying,
+I won't be able to.
+
+33 426794 3736
+Technically she's the one moving, so
+technically she should be driving.
+
+34 430531 3134
+- Is it open yet?
+- In a sec.
+
+35 434066 1734
+- Okay, I'm good.
+- Okay.
+
+36 442809 1301
+Okay, type something.
+
+37 444111 2534
+I'm trying to think
+of something funny.
+
+38 446646 1468
+Damn.
+
+39 448115 4235
+"Do androids take
+an electric sheet?"
+
+40 453352 2067
+You're stupid.
+
+41 456322 2903
+Okay, read me out the
+IPs on the C&C servers.
+
+42 459226 5438
+"192. 236. 19. 147."
+
+43 464665 2001
+147. Start sniffing connections.
+
+44 466667 3167
+Copy that. Firing up the listeners.
+
+45 470269 2067
+All right, this guy's toast.
+
+46 476676 1902
+Nevada.
+
+47 478579 2799
+Dude, we're going
+right through Nevada.
+
+48 482114 2535
+- We got him.
+- We got him!
+
+49 490857 2467
+Are you guys being
+serious right now?
+
+50 496195 3135
+Well, you're driving
+in the morning, so...
+
+51 499432 1767
+good night.
+
+52 503135 4937
+I'd like to see you make
+me, you Caltech turncoat.
+
+53 526225 2102
+Haley, this fish tank's
+leaking something.
+
+54 528328 1534
+It's water, Jonah.
+
+55 529863 2300
+- It's gross.
+- Shut up.
+
+56 532498 4303
+- You Caltech turncoats.
+- Dude, can you stop saying that?
+
+57 540773 3237
+- Signal sucks out here.
+- You're right, it does suck.
+
+58 544111 2240
+- Hey, you want one of these?
+- No, I'm good, thanks.
+
+59 546352 1767
+You want?
+
+60 555588 1833
+Dude.
+
+61 559425 3001
+- What?
+- Check this out.
+
+62 563396 3268
+What the hell?
+Why isn't that working?
+
+63 568100 1101
+Is that my car?
+
+64 569202 3503
+- Yeah. It's a traffic camera.
+- This guy is so gnarly.
+
+65 572706 2702
+- How does he have a picture of my car?
+- Hold on a sec.
+
+66 575409 3169
+Why would this guy go to all
+the trouble to hack into MIT,
+
+67 578579 2334
+and then, you know,
+just taunt us like this?
+
+68 580914 2669
+The same reason anyone does
+anything. Acknowledgment.
+
+69 583584 1767
+"I'm better than you, you're
+better than me," whatever.
+
+70 585352 2734
+Here, dude, I can't
+unlock it. You try.
+
+71 592058 3368
+You guys should just
+stop provoking him.
+
+72 596462 4035
+He's probably just some little kid.
+
+73 601100 4538
+- Nic, are we doing this or not?
+- I can't, dude.
+
+74 605639 1966
+What do you mean, you can't?
+
+75 610476 2769
+I just can't right now.
+
+76 613246 3567
+Look, I get we have to
+take Haley to California.
+
+77 617283 3203
+But there's no reason we
+shouldn't do this, too.
+
+78 620487 4270
+Nomad hacking into MIT is one
+thing, but Haley's computer?
+
+79 624758 2835
+No, but it's crazy not
+to go after this guy.
+
+80 627594 1501
+- Jonah, what's the sales tax?
+- We're so close.
+
+81 629096 4169
+6.3. It's on the way.
+
+82 633266 3201
+$14.74. You can keep the change.
+
+83 674306 2702
+- You guys want something?
+- Yeah.
+
+84 678377 2503
+- Coffee?
+- Yeah, I'd love a coffee.
+
+85 680881 3701
+- Black?
+- There you go. Yeah, please.
+
+86 698631 1433
+What?
+
+87 702134 3535
+Has Nic said anything
+to you about me moving?
+
+88 705971 2001
+No.
+
+89 709075 1901
+Nothing?
+
+90 710977 4169
+No, obviously he's bummed you're
+gonna be gone for a year.
+
+91 721053 3637
+It just seems like he's trying to
+distance himself from me, you know?
+
+92 724691 3301
+Look, you guys are my best friends,
+
+93 728928 2235
+and I'm just...
+
+94 731164 2133
+I'm the wrongest guy to ask.
+
+95 737002 1667
+Yeah.
+
+96 740740 2000
+Oh, crap.
+
+97 744777 1667
+Hey.
+
+98 747613 2234
+You all right, bud?
+
+99 750116 1401
+- I'm fine.
+- Yeah?
+
+100 751518 2233
+I'm fine, I'm fine.
+
+101 754086 2067
+I'm gonna get more coffees.
+
+102 762595 2834
+I'm gonna... move the car.
+
+103 782047 2268
+Best friends!
+
+104 787486 1803
+Is this one mine?
+
+105 789315 3500
+Yeah. I already put two in.
+
+106 793960 2667
+- Here you go.
+- I got it.
+
+107 800399 2770
+Nic, I offer to help not
+because I think you need it,
+
+108 803170 2267
+but because I know you don't.
+
+109 805438 4102
+Yeah, well, you won't have to
+worry about that soon, will you?
+
+110 812111 1800
+Okay.
+
+111 823189 2233
+Thanks, bud.
+
+112 826859 3303
+We're not really that far
+from this guy, are we?
+
+113 830163 3167
+180 miles, give or take.
+
+114 835601 2333
+All right, dude, let's do it.
+
+115 838137 2169
+Let's go.
+
+116 840307 2868
+Now, see, this is the
+Nicholas Eastman I love.
+
+117 843176 4001
+You know, just determined,
+ruthless, competitive.
+
+118 847213 2633
+Oh, and favors caffeine.
+
+119 852952 2133
+Where's Haley?
+
+120 855955 2967
+I don't know. I think
+she walked, uh...
+
+121 860559 1834
+That way.
+
+122 883382 4038
+Haley, look, I'm sorry. It's
+just, I've been distracted.
+
+123 887421 2067
+I think you're getting ready
+to make a big speech.
+
+124 889489 3403
+I think this whole trip is about
+you getting ready to make it.
+
+125 892893 3667
+What are you talking about?
+I'm not gonna make a speech.
+
+126 896562 2100
+Stop.
+
+127 915381 4404
+Haley, you know how many times
+I've played this out in my head?
+
+128 919786 2835
+Twice-a-week doctor's appointments.
+
+129 922622 5938
+Who knows how many MRis and
+tests. Eventually a wheelchair.
+
+130 928561 1868
+All the time wondering if
+you're gonna break up with me.
+
+131 930430 1767
+- Stop.
+- When you're gonna get tired of this...
+
+132 932198 1146
+It's not fair to
+make me the bad guy
+
+133 933346 2088
+- without my input.
+- Haley, that's not what I'm saying.
+
+134 935435 3535
+I'm just saying I'm not gonna
+be the guy who holds you back.
+
+135 943375 2802
+Cool. So, uh...
+
+136 946879 3067
+I move away for one year and...
+
+137 950149 3303
+because you're scared
+of what's gonna happen,
+
+138 953453 3267
+you immediately resort
+to breaking up?
+
+139 956789 2811
+I'm just saying...
+I'm just saying...
+
+140 959602 2992
+- I need to protect myself.
+- From what?
+
+141 963929 3602
+- Is it your heart talking or your head?
+- It's me talking.
+
+142 968300 4138
+But you're the one that always told me to
+run toward something and not away from it.
+
+143 972439 3100
+Yeah, well, that was
+before all this shit.
+
+144 989621 2101
+What are you doing?
+
+145 996996 3335
+You can keep your promises.
+I don't want them.
+
+146 1010709 1934
+Haley.
+
+147 1016648 4603
+You just take a left up here.
+It's about 20 miles or so.
+
+148 1021620 2436
+Maybe we should drop
+Haley off first.
+
+149 1024057 3034
+Can you not talk about
+me like I'm not in the car?
+
+150 1030562 2534
+Haley, you don't
+have to come along.
+
+151 1033165 2601
+No, I wanna meet this asshole.
+
+152 1036135 1900
+Me, too.
+
+153 1049715 3635
+Just keep going. We still
+got, like, a quarter mile.
+
+154 1073906 2769
+- Stop, stop, we passed it.
+- What?
+
+155 1076676 1599
+Yeah, back up.
+
+156 1088820 2534
+Say, 20 or 30 feet.
+
+157 1091723 2201
+Stop, stop.
+
+158 1096296 2900
+- I think it's right here.
+- You serious?
+
+159 1099631 2403
+It's right here. It's right here.
+
+160 1104604 3801
+- Don't get us stuck. Please, Nic.
+- We're fine.
+
+161 1108574 2034
+It's over here.
+
+162 1115714 2080
+You should kill the headlights.
+
+163 1119718 1368
+Are you sure you want to do this?
+
+164 1121087 4302
+I'm not gonna lie.
+This doesn't look right.
+
+165 1125591 2334
+What do you think?
+
+166 1130395 3404
+We're not gonna know
+by sitting in the car.
+
+167 1133800 3134
+Come on, let's go. Get your camera.
+
+168 1137936 2968
+Haley, stay in and
+lock the doors, okay?
+
+169 1142007 1700
+Nic.
+
+170 1144143 2701
+You know all this is stupid, right?
+
+171 1154953 2970
+- Where do you think we went wrong?
+- What are you talking about?
+
+172 1157924 3102
+You know, it must have been,
+like, a random IP allocation.
+
+173 1161027 2435
+Like, they could be in
+Georgia for all we know.
+
+174 1163463 3734
+- Like, Europe Georgia.
+- Shut up.
+
+175 1171336 3336
+Or they could be using
+this as a relay point.
+
+176 1176942 2868
+A big mama sat in that chair.
+
+177 1186185 3168
+I'm gonna have to say
+there's nobody here, Nic.
+
+178 1198697 1201
+Dude, Nomad is not here.
+
+179 1199899 2068
+- Let's take a look.
+- He's not here.
+
+180 1201968 2702
+We'll take a look
+and then we'll go.
+
+181 1204671 2301
+Let's go find him.
+
+182 1206973 2433
+A hillbilly lives here.
+
+183 1211009 2902
+- This guy has a baby?
+- Shh!
+
+184 1218817 1433
+Shh!
+
+185 1248347 1767
+Jonah?
+
+186 1253185 1700
+Jonah?
+
+187 1264229 1767
+Jonah?
+
+188 1266965 2469
+Dude, I can see you.
+What are you doing?
+
+189 1269435 1666
+Hey!
+
+190 1277477 2566
+Dude, you're such an asshole!
+
+191 1281713 2570
+How funny is this little chair?
+
+192 1284284 2534
+It was really facing
+the corner like this.
+
+193 1286819 2500
+Come on. There's a basement.
+
+194 1290823 2633
+You're such a kike.
+
+195 1296461 4203
+- Go down.
+- Screw that, you go down.
+
+196 1302668 1766
+Be careful.
+
+197 1317082 2234
+What is this place?
+
+198 1322087 2134
+Check it out, man.
+
+199 1327359 2000
+What are those?
+
+200 1329461 3602
+- Server racks.
+- That's weird.
+
+201 1340138 2034
+Oh, wait. Haley!
+
+202 1343475 3102
+Haley! Haley! Haley!
+
+203 1348713 1967
+Haley!
+
+204 1356021 1535
+What the hell?
+
+205 1358891 1601
+- What was that sound?
+- I don't know.
+
+206 1360493 3369
+- Why are the car doors open like that?
+- I don't know!
+
+207 1363863 1766
+Haley!
+
+208 1373472 2100
+- Haley!
+- Shh!
+
+209 1375774 2033
+Listen.
+
+210 1386351 1301
+Oh, my God.
+
+211 1388888 2233
+- Haley!
+- Haley!
+
+212 1391490 1966
+Haley!
+
+213 1495427 3334
+Can you... speak?
+
+214 1500031 2335
+Where am I?
+
+215 1503635 2134
+I can't move.
+
+216 1507305 2100
+Can you tell me your name?
+
+217 1510775 2336
+Nicholas Eastman.
+
+218 1513112 2368
+I'm Damon. Dr. Wallace Damon.
+
+219 1515481 4470
+I'm heading up the transition
+team that's going to help you,
+
+220 1519952 5937
+help all of us understand exactly
+what you've been through.
+
+221 1526358 2734
+What are you talking about?
+
+222 1530295 4403
+Can you recall for me the first
+time you encountered the signal?
+
+223 1534966 1901
+The what?
+
+224 1539237 2301
+Why can't I move?
+
+225 1542674 1568
+What happened to us?
+
+226 1544243 3236
+Due to the circumstances
+surrounding your condition,
+
+227 1547480 5536
+I'm afraid that our information
+is... extremely limited.
+
+228 1553084 2603
+Wait, what's my condition?
+
+229 1555688 4401
+What I'm about to tell you, Nic,
+you may find a bit disturbing.
+
+230 1560759 3902
+You have made contact
+with an E.B.E.
+
+231 1565263 1902
+E.B.E.?
+
+232 1567166 4936
+Extraterrestrial Biological
+Entity. E.B.E.
+
+233 1574773 2601
+I want to talk to my parents.
+
+234 1579911 3937
+- I'm sorry, that's just not possible.
+- What are you talking about?
+
+235 1583849 4970
+Where's Haley and Jonah?
+What happened to us?
+
+236 1589888 3435
+Why am I... in a wheelchair?
+
+237 1598029 2202
+Why...
+
+238 1600232 2300
+Why are you wearing that suit?
+
+239 1604269 4538
+We're not 100% certain about
+what we're dealing with here.
+
+240 1608808 4570
+The possibility for alien
+contamination is... very real.
+
+241 1613379 2633
+When you say "alien
+contamination," do you mean...
+
+242 1616014 3927
+microbiological
+contamination, as in foreign?
+
+243 1620118 1867
+Hold still.
+
+244 1639638 1500
+Oh.
+
+245 1644743 2067
+It's just blood.
+
+246 1648780 2233
+It's just blood.
+
+247 1653318 3001
+I think we'll stop here for today.
+
+248 1727992 3692
+Contact values at 9, 8,
+
+249 1731685 4247
+47, 91, 72.
+
+250 1741439 3168
+Level 12. Do we know current value?
+
+251 1778977 4014
+Stop! Will you stop? Stop!
+
+252 1782992 3557
+Go back! Can you go back?
+
+253 1796261 2267
+What's wrong with Haley?
+
+254 1801065 3204
+As advanced as we are,
+
+255 1804270 6603
+it's amazing that a tool as crude
+as a pen still has its place.
+
+256 1813011 2200
+There we go.
+
+257 1816347 4203
+I want to talk to Haley. Please.
+
+258 1821419 2601
+I'm afraid that's not
+possible right now.
+
+259 1824022 1568
+Why?
+
+260 1825591 2302
+She's in good hands,
+Nic, I promise you.
+
+261 1827894 2968
+The best thing you can do for
+her right now is to help us.
+
+262 1830863 3734
+Now, will you please try
+to cooperate with me?
+
+263 1838436 2334
+- Okay.
+- Good.
+
+264 1842707 4236
+First I'm going to ask you
+some simple control questions.
+
+265 1847445 3468
+Do you have 10 toes?
+
+266 1855854 1900
+Yes.
+
+267 1860892 2701
+Are you from Earth?
+
+268 1868333 4269
+- Yes, I am from Earth.
+- Good, thank you.
+
+269 1873805 2602
+Now, this signal that you and
+your friends were pursuing,
+
+270 1876408 1601
+when did you first encounter it?
+
+271 1878010 2634
+- You mean Nomad.
+- Yes.
+
+272 1880645 3035
+MIT. He got into our
+school's security network
+
+273 1883686 4097
+and ruined some major servers,
+including our personal ones.
+
+274 1893091 3001
+Nic, I want you to watch something.
+
+275 1907773 2667
+A big mama sat in that chair.
+
+276 1938436 3168
+You definitely weren't
+pursuing a hacker.
+
+277 1964128 1834
+Hey.
+
+278 1970935 1867
+Hey.
+
+279 1974272 3501
+- Jonah?
+- Nic.
+
+280 1977809 3267
+- Jonah!
+- Nic!
+
+281 1981512 1669
+Oh, my God! Jonah, where are you?
+
+282 1983182 3235
+I don't know. I'm locked
+up, I'm in a room.
+
+283 1986418 3736
+Me, too. I'm in a locked room,
+dude. Where are we?
+
+284 1990155 4137
+I heard them say we're not allowed above
+ground because we were contaminated.
+
+285 1994293 2935
+What the hell was Nomad?
+What have they told you?
+
+286 1997229 1901
+Not much.
+
+287 1999131 4070
+I saw Haley. She's in
+a coma or something.
+
+288 2003202 4201
+Nic, they're doing some
+weird shit here, man.
+
+289 2007438 2735
+My body doesn't feel right.
+
+290 2010842 3170
+- Nic, I gotta go.
+- What? Where?
+
+291 2014013 4436
+This place is run like a clock.
+I can't believe you're in the vent!
+
+292 2018450 2168
+What? Dude, I'm not in the vent.
+
+293 2020619 4069
+I'm not in the vent! Jonah! Jonah!
+
+294 2028693 3970
+- Why don't you have any clocks that work?
+- Clocks that work?
+
+295 2032664 1835
+Yeah. The one in the
+hallway is stuck at 12:30.
+
+296 2034500 2835
+- Which hallway?
+- Seven windows back. Left turn.
+
+297 2037336 1767
+Four windows. Right turn.
+Two windows on the right.
+
+298 2039104 4098
+Next to the bathroom with its sign
+upside down. It's stuck at 12:30.
+
+299 2043205 5942
+Nic, it's a broken clock. Thank you
+for bringing it to my attention.
+
+300 2049148 4334
+Can we please proceed with
+the shapes and colors?
+
+301 2053518 3441
+- Screw this. This is stupid.
+- What's the matter, Nic?
+
+302 2056960 2363
+- Can't you do it?
+- No, I choose not to do it.
+
+303 2059324 5038
+Choose? You choose not to do it?
+That sounds like pride talking.
+
+304 2064363 3100
+False and foolish pride. That's all.
+
+305 2074539 2235
+Pyramid, yellow.
+
+306 2076775 3102
+- And the...
+- Cube, blue. Sphere, green.
+
+307 2079878 2703
+The blue tile here that says "Zero"
+corresponds with the green cube.
+
+308 2082582 2100
+The yellow tile here that says
+"Six" goes with the cube.
+
+309 2084683 2535
+The green tile here that says "Five"
+goes with the yellow pyramid.
+
+310 2087219 2101
+The green cube goes with
+the blue shaped cube.
+
+311 2089321 1834
+The yellow written sphere goes
+with the green-shaped sphere.
+
+312 2091156 2135
+The blue written pyramid goes
+with the yellow-shaped pyramid.
+
+313 2093292 1634
+"Blue," written in yellow,
+"yellow," in green,
+
+314 2094927 2068
+correspond the visible colors and
+shapes rather than the written words
+
+315 2096996 2868
+because the spectral quality of light
+is more objective, so to speak,
+
+316 2099865 3067
+than the written English
+words of those colors.
+
+317 2104569 3236
+- I see.
+- You see? What do you mean, you see?
+
+318 2107806 2335
+You, Nic.
+
+319 2110142 3769
+I see you and I think I'm beginning to
+understand something more about you.
+
+320 2113912 2067
+Understand what?
+
+321 2116948 2703
+The colors, the shapes,
+they have an effect on you.
+
+322 2119652 2267
+I'd say it was an emotional
+effect, wouldn't you?
+
+323 2121920 2625
+I don't care about the shapes and
+colors, they don't mean anything to me.
+
+324 2124546 3945
+They don't mean shit to me! You're the
+one that's infuriating me, you quack!
+
+325 2129594 1867
+"Quack."
+
+326 2131996 1634
+"Quack."
+
+327 2134165 3037
+I wanna see Haley
+
+328 2137403 3601
+and I'm not gonna say another
+word until you let me see her.
+
+329 2143274 2267
+Okay, Nic.
+
+330 2154152 1634
+There's nothing on here.
+
+331 2155787 3534
+She's in a coma, Nic.
+
+332 2159423 3636
+There's nothing that can
+be done for her right now.
+
+333 2163828 4104
+I promise, as soon as she wakes up,
+you'll be the first one to see her.
+
+334 2167933 3568
+Right now we're doing
+everything humanly possible.
+
+335 2210308 2402
+Nic, this place is insane.
+
+336 2212711 2435
+Yeah, I know. Listen.
+You were right.
+
+337 2215147 3836
+This place is run like a clock.
+Listen, I need your help.
+
+338 2218984 1834
+I've been keeping some
+event sequences...
+
+339 2220819 3102
+Nic, it was hard to put
+all this together,
+
+340 2223922 3236
+but, you know, I think
+we're sick, or infected.
+
+341 2227159 2935
+Hey, Jonah, stop thinking
+like that, man. Seriously.
+
+342 2230095 3069
+No, they're trying to keep whatever's
+inside us from metastasizing.
+
+343 2233165 3502
+Jonah, stop. Nothing's
+metastasizing, okay?
+
+344 2236668 1868
+- We're fine. We're gonna be fine.
+- No, I'm not.
+
+345 2238537 2867
+- Just trust me on this.
+- No, my body is not.
+
+346 2242506 2334
+We gotta get out of here.
+
+347 2245509 2570
+Yeah, I know. We will.
+
+348 2248080 2301
+Okay, I've got the
+variables on my keypad.
+
+349 2250382 2668
+Now I need you to take back
+half the sequences, okay?
+
+350 2253051 2468
+- Yeah. I'll help.
+- Okay.
+
+351 2255520 4371
+- But my glasses are messed up, though.
+- Hey, it's gonna be fine.
+
+352 2259892 3635
+It's gonna be fine. Don't
+worry about your glasses.
+
+353 2263528 1434
+Okay, I'm gonna give
+it to you spatially.
+
+354 2264963 2734
+Three v three phone style.
+Okay, you ready?
+
+355 2267698 2436
+- Yeah.
+- Okay.
+
+356 2270135 5770
+Top-middle, middle-middle,
+top-left, bottom-left.
+
+357 2275906 2970
+- 2-5-1-7.
+- You got it?
+
+358 2278877 1868
+Bottom-left first.
+
+359 2280746 4735
+Middle-middle second.
+Top-middle third.
+
+360 2285950 2400
+Top-left last.
+
+361 2291489 3003
+Nic, I'm having a hard
+time handling this.
+
+362 2294493 3135
+They made me drink some
+weird stuff the other day
+
+363 2297629 3367
+and I haven't really been
+able to feel my arms.
+
+364 2302266 4169
+Your arms? What? What do you mean?
+
+365 2306437 1969
+Oh, God!
+
+366 2311242 2836
+- Dude, who is it?
+- I gotta go.
+
+367 2314079 2500
+Jonah, hold on a second.
+
+368 2317615 3301
+Jonah! Jonah!
+
+369 2321419 1833
+Jonah!
+
+370 2353384 2167
+Agitate.
+
+371 2386351 1966
+Everybody outside.
+
+372 2389086 4338
+Recovery team to level 14.
+Subject has breached.
+
+373 2393425 2300
+Subject has escaped.
+
+374 2409006 3537
+Oh, sorry, I was just looking
+for the water fountain.
+
+375 2425423 2667
+Recovery team to level 14.
+
+376 2429260 3068
+Subject has breached. Escaped.
+
+377 2452883 2470
+Can you raise your arm?
+
+378 2455354 2465
+What happened in the hallway?
+
+379 2463761 1900
+Good.
+
+380 2465896 2269
+Still no feeling in your legs?
+
+381 2468166 2836
+What happened to Jonah?
+
+382 2471503 3069
+Look, I know you guys know I
+can talk to him through the vent.
+
+383 2474573 1667
+What the hell did you
+guys do with him?
+
+384 2476241 2501
+Yes, Nic, we have been
+listening to you,
+
+385 2478743 2628
+- but the truth of the matter...
+- The truth of the matter is,
+
+386 2481372 1775
+total Mickey Mouse operation here.
+
+387 2483148 3736
+Antiquated methodologies,
+dinosaurs with government grants.
+
+388 2486885 2635
+A whole facility built during
+the first wave of Big Science
+
+389 2489521 3736
+outdated but allowed to continue
+pretending that you're important.
+
+390 2493258 2168
+- I feel sorry for you. It's pathetic.
+- Nic.
+
+391 2495427 2633
+"The truth of the matter."
+
+392 2498429 2102
+What is the truth
+of the matter here?
+
+393 2500532 3402
+The only thing I know for certain is that
+you don't know what you're dealing with.
+
+394 2503935 3570
+You will be pulled from this shitty little
+shack you call a research facility so fast
+
+395 2507506 2167
+that the only thing relevant
+to be shown for any of this
+
+396 2509674 2068
+is the way it's all exposed,
+wrecked, and forgotten.
+
+397 2511743 3002
+You have no idea!
+You have no clue! Do you?
+
+398 2514746 2594
+Have any clue how fast dumb,
+lost little kids like me,
+
+399 2517342 2084
+Jonah or Nomad could
+ruin a place like this?
+
+400 2519451 2668
+Have it come to a grinding halt
+like the stone wheel it is?
+
+401 2522120 1968
+You're clueless law in
+the Wild West, Damon.
+
+402 2524089 4069
+You're a relic protecting
+ruins. You're pathetic.
+
+403 2528159 4003
+The truth of the matter is, I'm the
+only one with any sense around here.
+
+404 2536700 2568
+Your friend Jonah...
+
+405 2540538 1334
+was never here, Nic.
+
+406 2541873 3801
+- We never recovered him.
+- Bullshit!
+
+407 2545976 2770
+I've been talking to him through
+the vent this whole time.
+
+408 2548747 2165
+Have you really?
+
+409 2552483 2734
+Through your vent, Nic?
+
+410 2630427 4537
+Three, four, five, six, seven...
+
+411 2647745 2233
+Shit.
+
+412 2698562 2134
+Shit!
+
+413 2715179 1733
+God damn it!
+
+414 2816346 2301
+Nic.
+
+415 2826790 2101
+Hey.
+
+416 2830861 2333
+How are you feeling?
+
+417 2833864 2367
+Better.
+
+418 2860858 2934
+I had a wonderful dream.
+
+419 2864127 2501
+Oh, yeah?
+
+420 2867130 2401
+You, um...
+
+421 2870734 2200
+You...
+
+422 2874671 3235
+You won your regionals.
+
+423 2883347 3969
+Hay, wake up. Wake up.
+
+424 2887317 2167
+Haley.
+
+425 2892322 2369
+Stop it, get off of me!
+Get off of me!
+
+426 2894692 4104
+What the hell are you doing? Let go
+of me! Haley! Haley, wake up!
+
+427 2898797 2568
+Hey, let go of me! Stop it! What
+the hell do you think you're doing?
+
+428 2901366 3367
+Haley, wake up! Haley! Wake up!
+
+429 2924254 2501
+Holy... Holy...
+
+430 2940203 3102
+No! What the hell?
+
+431 2945175 1935
+Damon!
+
+432 2947111 2435
+What did they do to my legs?
+
+433 2993190 5537
+Nic, we are going to
+need you to calm down.
+
+434 3000297 5005
+Now you understand why we've
+been so interested in you.
+
+435 3005303 4302
+As you can see, your
+circumstances are very peculiar.
+
+436 3012876 3635
+And believe me, we didn't
+want to shock you with this.
+
+437 3073070 5372
+I'm sure by now you can appreciate
+where we're coming from.
+
+438 3078443 4169
+Now, for your safety and ours,
+
+439 3082613 5738
+I'm going to need you to
+hook yourself up to that IV.
+
+440 3088352 2066
+Right over there.
+
+441 3124588 2035
+Nic.
+
+442 3126624 2633
+I need you...
+
+443 3129793 2501
+to calm down.
+
+444 3144240 1900
+Nic.
+
+445 3218715 1667
+Nic.
+
+446 3225355 2167
+Don't do this.
+
+447 3228892 1835
+Why...
+
+448 3230728 1968
+Why didn't you tell me
+what happened to my legs?
+
+449 3232697 3802
+How could we? We had
+just recovered you.
+
+450 3236500 2369
+Now listen to me.
+
+451 3238870 5369
+It is extremely dangerous
+for you up there.
+
+452 3244774 4738
+I can only safeguard you
+from them down here.
+
+453 3249513 2266
+Safeguard me from who?
+
+454 3342805 3903
+You okay? Can you feel your legs?
+
+455 3347610 2068
+Come on, we gotta move.
+
+456 3349713 1833
+We gotta move.
+
+457 3352882 2303
+You okay?
+
+458 3355186 2466
+- What's happening?
+- Come on, let's go.
+
+459 3398294 3437
+I'm sorry to interrupt, but do you know
+how long it is until the gas station?
+
+460 3401732 3670
+Hmm? Oh, it's just up a ways.
+
+461 3405403 4670
+Okay. Thank you. And
+where are we exactly?
+
+462 3410074 2335
+When our car broke down,
+we kind of got lost.
+
+463 3412410 4937
+That's okay. That happens to a
+lot of people out in these parts.
+
+464 3417348 1367
+Right.
+
+465 3418716 3969
+I always tell people they should
+take comfort in the thought
+
+466 3422686 3501
+that they are always
+watching over us.
+
+467 3427457 1933
+Hmm.
+
+468 3433964 3501
+- Did you hear that?
+- Hear what?
+
+469 3438101 4703
+Listen, with your
+mouth open, like this.
+
+470 3444968 1605
+Excuse me?
+
+471 3452482 3502
+Their horns are watching over us.
+
+472 3460790 3936
+- I'm sorry. Who's watching us?
+- God's little angels.
+
+473 3467397 2000
+Who else?
+
+474 3499128 1869
+Thanks again for the ride.
+
+475 3500998 3135
+You have the rest
+of the day nicely.
+
+476 3504134 3101
+Just push from the inside out.
+
+477 3510306 1567
+Bye.
+
+478 3516312 2434
+- Bye.
+- Bye.
+
+479 3520350 2402
+- Inside out, don't forget.
+- Okay, thanks.
+
+480 3527824 3845
+I'm gonna go use the phone,
+okay? I'm gonna get us help.
+
+481 3531670 3076
+Stay here. Don't move.
+
+482 3536399 4271
+Haley! Haley, sit down. Sit down.
+
+483 3540671 4203
+I'm serious, okay?
+I'm serious. Don't move.
+
+484 3544875 3835
+- I'm gonna get us out of here, okay?
+- Yeah, okay.
+
+485 3582946 3537
+The network is
+currently unavailable.
+
+486 3586484 2333
+Please try again later.
+
+487 3589352 2836
+The network is
+currently unavailable.
+
+488 3592189 3069
+Please try again later.
+
+489 3595259 2468
+The two subjects, considered
+possibly contagious,
+
+490 3597728 2702
+have escaped from a
+medical research facility.
+
+491 3600431 2601
+Nicholas Eastman and Haley Peterson
+
+492 3603033 2936
+are believed to be traveling on
+foot and should not be approached.
+
+493 3605970 3235
+Please alert your local
+authorities. Thank you.
+
+494 3609206 3167
+Now we'll return to your
+regularly scheduled programming.
+
+495 3617379 1834
+Haley!
+
+496 3625421 1567
+Hey!
+
+497 3628558 1667
+Hey!
+
+498 3630226 1800
+Hey!
+
+499 3633195 1869
+Haley!
+
+500 3635065 4168
+- Stop the truck!
+- Christ. What the hell are you doing?
+
+501 3640103 2767
+Get back! You get back now!
+
+502 3644073 2436
+Stop the truck! Stop it!
+
+503 3646510 2333
+- Get off my truck!
+- Haley! Stop the truck!
+
+504 3649178 3836
+- Haley!
+- Get off the goddamn truck!
+
+505 3689719 2102
+- Get away!
+- Haley!
+
+506 3691822 2100
+- Stop!
+- What is wrong with you?
+
+507 3711641 2335
+Boy, what's going on with your leg?
+
+508 3713977 1967
+Come on.
+
+509 3716979 2069
+You won't get far.
+
+510 3759655 1735
+Nic.
+
+511 3761391 3002
+Nic, what happened to your legs?
+
+512 3764394 3635
+Haley, I already explained to you.
+
+513 3768831 2468
+Are you feeling okay?
+
+514 3772134 1867
+Yeah.
+
+515 3774137 2335
+Yeah, I'm okay.
+
+516 3777173 2568
+We're gonna be fine. Just...
+
+517 3780442 2337
+Just try to relax.
+
+518 3789786 1933
+Oh, shit.
+
+519 3811640 3836
+Is something wrong, Officer?
+Is there some kind of trouble?
+
+520 3815478 4336
+No trouble at all, ma'am.
+No trouble at all.
+
+521 3820516 1834
+Please.
+
+522 3824821 2434
+Will you accompany me?
+
+523 3827623 1734
+Certainly.
+
+524 3849345 2334
+It doesn't make any sense.
+
+525 3854183 2868
+Where's the rest of the road?
+
+526 3859488 5571
+Mirabelle, have you had contact
+with any strangers lately?
+
+527 3868831 3068
+Oh, yes.
+
+528 3872468 3570
+We talked about... so
+many wonderful things.
+
+529 3876039 3036
+But where did you
+take them, Mirabelle?
+
+530 3879076 2201
+What was your proximity to them?
+
+531 3882646 2935
+It is so easy to find.
+
+532 3885582 4904
+Always such a nice bit of color
+against the dark nights.
+
+533 3890487 1834
+Dark nights, dark nights.
+
+534 3892322 2902
+Dark nights, dark nights.
+
+535 3895225 3568
+Dark nights, nights...
+
+536 3902097 2735
+We could have a picnic.
+
+537 3904867 2067
+A picnic.
+
+538 3907036 3070
+A picnic. Have a picnic.
+
+539 3911041 1334
+In a...
+
+540 3912376 1567
+In a...
+
+541 3913944 1334
+In a...
+
+542 3915279 1266
+On a...
+
+543 3916546 1266
+On a...
+
+544 3922151 2935
+We're coming to get you.
+
+545 3950212 2436
+Is that the same canyon?
+
+546 3952649 3334
+I don't know. I thought we
+already passed it. Before.
+
+547 3956218 2501
+Maybe we circled back?
+
+548 3960956 2501
+Yeah, maybe. I don't know.
+
+549 3963726 2467
+It looks abandoned.
+
+550 3972501 2169
+What are you looking for?
+
+551 3974671 5236
+A gun, like, a cell phone or
+a map or something in here.
+
+552 3983579 2467
+Do you wanna wear that?
+
+553 4001597 2134
+Come on, let's check it out.
+
+554 4013109 3401
+The network is
+currently unavailable.
+
+555 4027123 2634
+Haley, did you find anything?
+
+556 4031360 2134
+Haley?
+
+557 4034062 1467
+Hey.
+
+558 4036132 5370
+Yeah, I found a map, but there's
+not much information on it.
+
+559 4041537 2301
+"You are here."
+
+560 4045441 4304
+But we can't be. We
+drove down, right?
+
+561 4049746 2635
+Isn't that the same gorge
+we just came from?
+
+562 4052382 3035
+Then that town, Good Springs,
+should be down here, right?
+
+563 4055418 1900
+I guess.
+
+564 4058757 2056
+I don't get it.
+
+565 4099795 2668
+What do you think that sound is?
+
+566 4106235 2634
+I don't hear anything, Hay.
+
+567 4109038 2167
+What sound?
+
+568 4113142 1767
+There.
+
+569 4119782 3602
+I think we should
+stay here tonight.
+
+570 4126588 2134
+Is this my fault?
+
+571 4129058 2534
+What? No.
+
+572 4131927 2403
+If anything, it's my fault.
+
+573 4134331 2835
+I was the one who
+wanted to follow Nomad.
+
+574 4137167 2467
+I don't remember.
+
+575 4150245 2168
+Do they hurt?
+
+576 4154450 1934
+It's okay.
+
+577 4160856 2367
+So wide.
+
+578 4163492 2768
+I hope we can get across it.
+
+579 4182444 2269
+Haley. Hey, hey.
+
+580 4186015 2267
+We should go inside.
+
+581 4239669 1668
+Jonah!
+
+582 4241338 3369
+Jonah! Jonah!
+No, Jonah! Jonah! It's me!
+
+583 4244708 4336
+Jonah, Jonah, Jonah!
+Hey, it's Nic! Hey! It's Nic!
+
+584 4249045 3835
+Jonah, hey. Hey,
+buddy, it's me. It's me.
+
+585 4253082 1433
+Shit.
+
+586 4255584 3203
+Hello, James. Long time no see.
+
+587 4258788 1701
+"Hello, James."
+
+588 4262025 4737
+I'm trying to locate three individuals.
+Two males, one female.
+
+589 4266763 2602
+All extremely contagious.
+
+590 4269366 2933
+Have you had any contact
+with them, James?
+
+591 4276171 2336
+What are you doing in my house?
+
+592 4278508 5336
+I'm glad to see you're comfortable
+here, but is this your house?
+
+593 4283879 2668
+Belongs to my mommy.
+
+594 4287883 2703
+- My brother sleeps right there.
+- Yes?
+
+595 4290587 3135
+And I sleep right there,
+and I have a little kitty.
+
+596 4293723 1734
+Your brother, your
+mother and your kitty.
+
+597 4295458 2001
+Yeah.
+
+598 4297460 2234
+Can you remember
+their names, James?
+
+599 4304566 3971
+Extraordinary, your will to survive
+
+600 4308538 4535
+fueled by your anger, your
+fear, loneliness, frustration.
+
+601 4317246 3402
+- I admire you.
+- I don't understand.
+
+602 4322918 2234
+It's all right, James.
+
+603 4390385 2635
+I'm sorry I left you guys there.
+
+604 4393422 3437
+You know, I swear someone was helping me,
+though I just can't bring it together.
+
+605 4396860 2129
+- Jonah, that place was...
+- That place!
+
+606 4398990 3096
+This place! It's all the same, Nic.
+
+607 4402698 1668
+It's all the same.
+
+608 4404367 4735
+- What are you talking about?
+- Look at your legs, man.
+
+609 4409538 2703
+Look at your legs. Look at us.
+
+610 4412242 2166
+Look for the numbers.
+
+611 4414676 3335
+For... the tattoo.
+
+612 4418280 2334
+Do you have a tattoo?
+
+613 4426588 2401
+This isn't an ID number?
+
+614 4429391 2568
+It is an ID number,
+
+615 4432961 2668
+but it's just not for you.
+
+616 4436298 3335
+It's an ID for this
+whole area, Nic.
+
+617 4440703 4869
+Two, plus three,
+plus five, plus 41.
+
+618 4447008 1834
+51.
+
+619 4448944 2369
+Area 51, Nic. We're in Area 51.
+
+620 4451314 1934
+- Jonah, I'm not sure...
+- No, look at your legs!
+
+621 4453249 2333
+I'm looking at my legs!
+
+622 4455751 4202
+Watch. Empty.
+
+623 4461957 4502
+Everything is empty.
+They're testing us, Nic.
+
+624 4466462 2400
+We're like little rats.
+
+625 4469665 2903
+Now, did you see the maps?
+
+626 4472569 1867
+What are you talking
+about, the maps?
+
+627 4474437 3770
+What are you telling me, it's
+not real? Of course it's real.
+
+628 4478208 3934
+There's roads, highways,
+cities on these maps.
+
+629 4482744 2501
+They don't exist.
+
+630 4485948 3370
+We're trapped in a
+huge government annex.
+
+631 4489319 2612
+Did you meet any of
+the charming locals?
+
+632 4491932 4091
+Jonah. Jonah, listen to me.
+
+633 4501129 4138
+Listen to me. Haley is
+really, really sick.
+
+634 4505568 3303
+Okay, we have to tell someone.
+We have to tell someone.
+
+635 4508872 3968
+- We have to expose this.
+- I'm sick, too.
+
+636 4514943 3535
+It's hard to explain, but
+there's something in me.
+
+637 4519948 4736
+There's something that is... It's like
+they took something from me, Nic.
+
+638 4525487 2034
+Took what?
+
+639 4528857 2167
+I feel like I'm...
+
+640 4531727 2800
+I feel like I'm full of...
+
+641 4538634 2500
+- Gaps?
+- Yes.
+
+642 4541803 2069
+That's exactly what it is.
+
+643 4543873 3136
+I mean, not exactly, but,
+you know, it's really close.
+
+644 4547010 4568
+- So you know what I mean?
+- Jonah, whose blood is that?
+
+645 4552381 2233
+Is that yours?
+
+646 4561056 2835
+I was trying to get them off.
+
+647 4566061 2868
+I was trying to get them off.
+
+648 4574269 1902
+Hey, buddy.
+
+649 4576172 3903
+We're gonna get somewhere where we can be
+seen by as many people as possible, okay?
+
+650 4580076 4035
+- It's the only way to be safe.
+- They won't come off.
+
+651 4585948 3034
+But how would we do that?
+
+652 4589785 3835
+From what I've seen, there's
+only one road in here.
+
+653 4595023 2835
+Well, that's the one we take.
+
+654 4637299 2601
+Okay, we're good. We're good.
+
+655 4660455 2501
+Stop right there. Hold up.
+
+656 4666995 3535
+Hey, boss. We have
+full clearance to pass.
+
+657 4672834 1900
+Check it out. Let's go.
+
+658 4693522 4803
+- Step out of your vehicle, sir.
+- No. That's okay.
+
+659 4698527 2734
+- It's time to go!
+- Block him down. Block him down.
+
+660 4703533 2099
+Shit! Come on!
+
+661 4708503 1767
+Shit!
+
+662 4713508 4006
+For God's sake, Nic! Stay
+in the truck! Run, Nic!
+
+663 4719515 2167
+Jonah, what are you doing?
+
+664 4765594 2534
+It doesn't fucking type!
+
+665 4836531 3302
+Jonah!
+
+666 4841469 2134
+Jonah!
+
+667 4849212 2666
+Jonah, come on,
+let's go! Get in the truck!
+
+668 4851880 1902
+Come on! Get back in!
+
+669 4853783 3801
+- Jonah, get in the truck!
+- I'm done. I'm done.
+
+670 4861223 1735
+Just get in the truck.
+
+671 4862959 4468
+Nic, keep up.
+
+672 4869464 2467
+Get in the truck.
+
+673 4873068 4736
+You put this shit on the
+accelerator, go when I yell, "Go."
+
+674 4878273 2067
+You go, Nic.
+
+675 4881243 2633
+Okay, Nic?
+
+676 4886848 2534
+I need you to go.
+
+677 4890652 3601
+I need you to go. Please.
+
+678 5074002 2301
+Put your seatbelt on.
+
+679 5084045 2701
+- Nic, I think we should just...
+- Hold on.
+
+680 5100796 2300
+Nic, stop!
+
+681 5130959 2233
+I'm sorry.
+
+682 5147609 2367
+I love you.
+
+683 5190485 2767
+Haley!
+
+684 5260521 2535
+Don't even think about it, Nic.
+
+685 5263591 2201
+You can't reach her.
+
+686 5273868 2067
+On my side.
+
+687 5279407 2868
+Take a look at yourself, Nic.
+
+688 5283244 4968
+The perfect integration
+of human will and...
+
+689 5289150 2568
+alien technology.
+
+690 5293288 2600
+Our finest achievement.
+
+691 5301829 2001
+Nomad?
+
+692 5306334 1735
+Nomad!
+
+693 5308070 4504
+Nomad, yes. I brought you here.
+
+694 5312575 4570
+But remember, Nic, you were the
+one who came looking for me.
+
+695 5317146 2768
+So you might want to ask yourself,
+
+696 5319915 4802
+"Did I find what
+I was looking for?"
+

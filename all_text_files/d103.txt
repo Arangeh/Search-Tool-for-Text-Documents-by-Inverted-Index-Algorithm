@@ -1,0 +1,2851 @@
+1 95208 3789
+Welcome...
+You are now inside of the painting.
+
+2 99125 1957
+It may look like time has stopped,
+
+3 101208 1206
+but that's not true.
+
+4 102958 1911
+Everyone's just holding their
+breath in anticipation!
+
+5 107417 2492
+Do you see that castle over there,
+through the branches?
+
+6 110083 1616
+That's where you'll find the Alldunns.
+
+7 112125 2116
+They think they live in Paradise.
+
+8 117458 3664
+And below them, in the shadows,
+down by the foot of the blue tree...
+
+9 121250 1456
+are Ramo and Claire.
+
+10 123167 2162
+Can you see them?
+They're in love.
+
+11 125958 1582
+But they have to meet in secret,
+
+12 127667 1456
+because Ramo is an Alldunn,
+
+13 129333 1911
+and my friend Claire is a "Halfie."
+
+14 131333 1240
+Like me!
+
+15 133125 1286
+Claire asked me to wait for her,
+
+16 134583 1115
+and that was an hour ago.
+
+17 135833 1081
+Now my foot's asleep!
+
+18 138333 2162
+I almost forgot.
+There's also the "Sketchies."
+
+19 141000 1035
+Poor things.
+
+20 142792 2162
+I imagine their lives must be difficult.
+
+21 145458 3072
+So, in the end they all
+look out for themselves.
+
+22 149167 1490
+Sorry, gotta go!
+
+23 150750 1957
+I also have a part to play in this story...
+
+24 161417 1616
+Can you see it?
+- This way!
+
+25 164458 1286
+Hurry, it's getting away!
+
+26 177375 2492
+Over there! It's headed
+toward the lake!
+
+27 180750 1081
+There he is!
+
+28 185917 1911
+Little sneak! Got away!
+
+29 188333 1911
+We're never gonna find it in the forest!
+
+30 190417 1991
+Leave it. Who cares about a Sketchie?
+
+31 220792 1115
+Did they catch it?
+
+32 222042 2662
+No! Look, they've come
+back empty-handed!
+
+33 225250 1490
+They are hard to see, after all.
+
+34 227167 2788
+Sketchies!
+They're nothing but failed scratches!
+
+35 230292 1832
+Mistakes, really.
+- They should be tossed in the trash.
+
+36 233000 740
+Indeed.
+
+37 233833 3538
+How the Painter left such disgusting
+things around is beyond me.
+
+38 238750 2662
+They were his first drawings.
+Research, if you will...
+
+39 241625 1911
+They're repugnant.
+He should have erased them!
+
+40 244042 1707
+I just don't want them
+near the castle.
+
+41 246250 2207
+Yes, but our youngsters need
+something to chase!
+
+42 249292 1866
+Quill, will you look at that!
+
+43 252083 2583
+I've never seen anything so beautiful!
+
+44 254833 990
+Lower your voice!
+
+45 256208 990
+Do you want to get caught?
+
+46 258125 1240
+We shouldn't be here.
+
+47 259625 2367
+Look, the stairs!
+They're way over there!
+
+48 276667 2367
+That color suits you beautifully, my dear.
+
+49 279333 1707
+You're rather fetching, yourself.
+
+50 283792 1536
+Look, over there!
+
+51 286750 1115
+It's a Halfie!
+
+52 290167 1957
+Has she no self-respect?
+
+53 292125 2207
+I highly doubt she'll
+be allowed up here!
+
+54 294708 660
+Please...
+
+55 295875 990
+I'm not so different.
+
+56 297208 956
+I'm practically done!
+
+57 299083 1957
+Give it a rest! Get out of here!
+
+58 301500 2458
+You must completely painted
+in order to be an Alldunn!
+
+59 304083 1331
+I know, but...
+- Now begone!
+
+60 309792 3994
+Really. How long will it take them to learn
+that they are not allowed in the castle?
+
+61 314250 1866
+And the garden is quite large, is it not?
+
+62 316500 1411
+They have all the space they need.
+
+63 318292 1911
+There's only one way 
+to make them understand.
+
+64 320542 1536
+And I hope it happens tonight.
+
+65 364292 1331
+Do you hear them?
+
+66 366292 1536
+They're so hateful.
+
+67 368542 1456
+How far will they go?
+
+68 370958 910
+I'm scared.
+
+69 371958 1331
+I won't let them hurt you.
+
+70 373375 1331
+I'm not scared for me.
+
+71 374708 1536
+I'm scared for us.
+
+72 376875 1707
+All day I wait for night,
+
+73 379000 1866
+but at night we have to
+hide in the shadows!
+
+74 382042 2913
+I can hardly see your face.
+- I can see yours, Claire.
+
+75 385500 1286
+What does it look like?
+
+76 387167 740
+Tell me.
+
+77 388000 2037
+It's beautiful, yet simple.
+
+78 391125 3538
+Your eyes are perfect blue ovals,
+like pools of water.
+
+79 395583 1661
+Your cheeks are golden, like the sun,
+
+80 397917 614
+and your lips...
+
+81 399417 1035
+are the color of that flower -
+
+82 401333 1161
+pink, with a touch of crimson.
+
+83 403917 1707
+They have color?
+- Of course!
+
+84 406292 1957
+Oh, Ramo, hold me tight!
+
+85 409042 1411
+Now tell me more lies.
+
+86 411208 1786
+Tell me that one day
+we can be together.
+
+87 413250 1161
+But they're not lies, Claire.
+
+88 415000 1536
+The Painter is going to come back.
+
+89 417250 740
+And if he doesn't,
+
+90 418542 2367
+I'll go the ends of the Earth
+to find him.
+
+91 421375 1365
+He'll finish the painting.
+
+92 423500 3664
+Claire, we have to go!
+- Lola's right, you can't stay.
+
+93 427625 1741
+I'll meet you by the lake, later tonight.
+
+94 429625 956
+Please come with us!
+
+95 431042 2162
+I can't. I have to get back for the speech.
+
+96 433625 1456
+Besides, the Halfies don't like me.
+
+97 435458 1866
+Claire!
+- Go with Lola.
+
+98 439250 1331
+I love you.
+
+99 473583 2207
+There he is!
+- He's about to speak!
+
+100 477167 3072
+My dear friends, my brothers and sisters!
+
+101 480458 3038
+You have chosen me to represent
+and protect your interests.
+
+102 483833 3118
+And so it falls on me,
+to say the difficult truths...
+
+103 487083 1616
+though it's what everyone's been thinking!
+
+104 489375 2287
+The Painter is not going to come back!
+
+105 491833 2708
+At last, someone with the courage 
+to speak the truth.
+
+106 494667 1786
+We must come to terms with this.
+
+107 496667 1411
+This is his decision!
+
+108 498458 2867
+Which means that we are 
+his chosen creations.
+
+109 501583 3664
+You see, we are his only complete
+and perfect works of art...
+
+110 505417 1911
+the culmination of his vision!
+
+111 510375 4619
+Which means that he has chosen us to
+rule over and bring order to his kingdom!
+
+112 515083 580
+He's right!
+
+113 515833 1331
+We must rule over the Halfies!
+
+114 517250 1456
+I'm so glad to hear it.
+
+115 518917 1536
+We shouldn't even have
+to look at them!
+
+116 520583 1786
+Finally, some honesty
+around here...
+
+117 522542 1331
+I completely agree...
+
+118 524083 2617
+After all, there's only so
+much room in our castle.
+
+119 526833 2788
+There's no way we can be expected to
+share it with those who are inferior.
+
+120 529792 1866
+Let them live out there in the gardens...
+- Or the forest.
+
+121 532250 1331
+In the forest?
+- Why not?
+
+122 533708 2992
+It's a logical decision!
+Who could fault us for doing it?
+
+123 537500 740
+Me!
+
+124 538917 831
+Who is that?
+
+125 540208 1240
+That's Ramo.
+
+126 541833 1957
+You know, the one who's
+with that Halfie girl...
+
+127 544917 2082
+What makes you think the
+Alldunns are actually superior?
+
+128 547208 3914
+I think it's fairly obvious, don't you?
+The Painter chose to complete us.
+
+129 551875 1411
+And how would you know what he thinks?
+
+130 553708 1161
+Are you speaking to him?
+
+131 555917 3368
+Listen to me! We have no idea
+why the Painter disappeared.
+
+132 559542 1035
+No one here does!
+
+133 560792 1536
+There's still a chance
+that he'll come back,
+
+134 562458 2037
+and when he does, he'll
+finish the Painting!
+
+135 564792 990
+He's not coming back!
+
+136 565875 1456
+He's just a child! What does he know?
+
+137 567958 2332
+You're proud of your appearances,
+I understand that,
+
+138 570417 2207
+but your words are fueled
+by shame, and hate!
+
+139 573500 1866
+We should blot out from
+our minds our differences,
+
+140 575500 1456
+and focus on how we
+are the same!
+
+141 577083 2037
+Don't paint us in such a bad light.
+- Very shady!
+
+142 579250 2913
+What's good about a Sketchie?
+- I'm drawing a blank!
+
+143 582792 1991
+Alright! Enough, my friends!
+
+144 584958 3038
+Our Ramo is just trying to
+justify his love affair.
+
+145 588250 1536
+An affair with a Halfie!
+
+146 589917 2617
+It's understandable,
+since you're so young.
+
+147 592833 2913
+But just because we understand it,
+doesn't mean we accept it!
+
+148 595958 2617
+The days of blissful idealism are over,
+young man!
+
+149 598917 3243
+Equality and liberty,
+sharing the castle with all!
+
+150 602333 2708
+If we let in Halfies, why not
+Sketchies and animals?
+
+151 605208 865
+Where does it end?
+
+152 606667 1957
+Let go of me! Don't listen to him!
+
+153 608875 1331
+All he's interested in is power!
+
+154 610333 1536
+The Painter will be back!
+
+155 612083 1331
+Oh yes, he'll be back.
+
+156 613542 1957
+Why should we think otherwise?
+
+157 616167 1832
+Believe me when I tell you this,
+
+158 618000 2788
+there is no shame in
+being superior, my friends.
+
+159 621125 2207
+Are we not the most beautiful?
+
+160 624250 2207
+Yes, my pretty little things,
+
+161 627000 3618
+for you are the light that
+illuminates this castle!
+
+162 631125 1991
+Long live the Great Chandelier!
+- Well said!
+
+163 637625 865
+A Sketchie!
+- Get it!
+
+164 638875 535
+Get it!
+
+165 652417 2412
+Stop it! What is wrong with you?
+
+166 655125 3038
+That boy may prove to be dangerous,
+Mr. Graymorgan.
+
+167 658542 2207
+He can be taken care of,
+Great Chandelier.
+
+168 697500 1490
+Can you hear that?
+
+169 700958 1490
+Sounds like trouble.
+
+170 704292 2162
+They're getting each other
+more and more worked up.
+
+171 706542 865
+The savages...
+
+172 707417 1161
+Who do they think they are?
+
+173 709208 1240
+You should have seen the way 
+they treated me!
+
+174 710583 1365
+Why do you try to be like them?
+
+175 712375 2913
+Because it isn't fair.
+I want to dance, too!
+
+176 716833 1616
+From the way that it sounds,
+
+177 718750 2412
+there isn't going to be anymore 
+dancing tonight.
+
+178 723625 1616
+Do you know what he said to me tonight?
+
+179 725750 1741
+That my mouth was pink and rosy!
+
+180 728167 2492
+It was so sweet!
+I almost believed him.
+
+181 732083 2207
+You're lucky. He loves you...
+
+182 734500 1536
+Why bother making up stories'?
+
+183 736500 1957
+Because stories are beautiful!
+
+184 739042 1456
+Life is so dreary here.
+
+185 740917 1582
+We just have to keep quiet,
+like they want.
+
+186 743167 1286
+It's the Sketchies they're after.
+
+187 744958 1115
+Those things are everywhere.
+
+188 746417 2742
+You can hardly see them.
+That's how they get away with it!
+
+189 749583 1081
+Listen to them...
+
+190 751042 1707
+They just wish that they were Alldunns!
+
+191 753208 956
+To be honest, so do I...
+
+192 754417 1536
+I'm pretty happy with the way I am.
+
+193 756292 1661
+You only say that because
+you're not in love.
+
+194 758708 1866
+When you love someone,
+you're not alone.
+
+195 761083 1707
+There is you, and there is him,
+
+196 763250 3163
+and you want to be together,
+to be free, out in the open,
+
+197 766500 1490
+accepted by everyone!
+
+198 768542 1991
+I can't say I really understand.
+
+199 772208 2412
+All I know is, my destiny
+lies somewhere else.
+
+200 775167 2742
+Don't be silly, Lola.
+Where could you possibly go?
+
+201 778625 990
+There isn't anywhere else.
+
+202 780083 2241
+I mean, there's the castle, and the garden,
+
+203 782542 785
+and that's it!
+
+204 784042 1582
+Other than the forest.
+
+205 785833 865
+The forest!
+
+206 787250 1741
+We don't really know
+anything about it.
+
+207 789333 1707
+Who knows what's there?
+
+208 791208 1161
+Where are you going?
+
+209 792750 2367
+To meet Ramo.
+He's waiting for me.
+
+210 796292 1081
+Where are you off to?
+
+211 797583 910
+None of your business.
+
+212 799000 1206
+She's meeting her boyfriend!
+
+213 800208 705
+What's it to you'?
+
+214 801167 1490
+You of all people should understand!
+
+215 802792 1741
+Lola's right. This isn't the castle.
+
+216 804833 910
+We should let her go.
+
+217 805958 1035
+He'll expose us.
+
+218 807125 1582
+He's an Alldunn, like the others.
+
+219 809083 1616
+No, he's not like them!
+
+220 811500 1331
+He'll worry if I don't show.
+
+221 813125 1707
+Don't worry. Stay calm.
+
+222 815333 2367
+We'll wait.
+You can sneak out later.
+
+223 828125 1286
+Gum!
+
+224 832667 865
+Gum!
+
+225 852667 990
+Oh, no!
+
+226 856250 1536
+What have they done to you?
+
+227 858750 990
+Monsters!
+
+228 861250 1866
+What... Look at you...
+
+229 865125 2332
+You poor, poor idiot!
+
+230 868833 865
+No...
+
+231 871167 865
+No!
+
+232 901625 1616
+Ramo? Is that you?
+
+233 904417 1331
+You scared me half to death!
+
+234 906250 2162
+I'm sorry, I can't help you.
+- I don't need your help!
+
+235 916250 831
+Where's Claire?
+
+236 917333 831
+She couldn't come.
+
+237 918542 1832
+The other Halfies refused to let her leave.
+
+238 920542 1240
+They're against us, too?
+
+239 922083 660
+We have to get her.
+
+240 924042 1616
+Wait... Is that a Sketchie?
+
+241 926083 1115
+They're after him, too.
+
+242 928042 2082
+There they are!
+I see them! I see them!
+
+243 939917 1582
+Where are you going?
+- I don't know.
+
+244 941792 910
+This is the wrong way!
+
+245 942708 865
+It's not me!
+
+246 943875 1115
+The current's too strong!
+
+247 945125 1832
+Current? The lake doesn't have a current!
+
+248 948292 1957
+Well, whatever it is, 
+it's pulling the boat!
+
+249 953667 3163
+Hey! What are you doing?
+We're heading towards the...
+
+250 957125 1286
+The forbidden forest!
+
+251 963125 1206
+The Death Flowers!
+
+252 965250 1161
+What a horrible fate!
+
+253 966542 1206
+They're as good as dead.
+
+254 968750 2162
+I almost feel sorry for them! Almost.
+
+255 1062083 990
+We made it!
+
+256 1068000 1957
+There you are. What did you find out?
+
+257 1070042 1911
+I followed them as far as the forest.
+
+258 1071958 705
+Then what?
+
+259 1073167 1616
+Uh...
+- Did they manage to escape?
+
+260 1075292 1161
+No, I don't think so...
+
+261 1076917 1286
+The flowers swallowed them up.
+
+262 1078500 3072
+There were three of them:
+Lola, a Sketchie, and...
+
+263 1083917 1661
+that young Alldun.
+
+264 1085667 1582
+No! It's not true!
+
+265 1087542 1411
+Why would you say that?
+
+266 1106583 831
+We got through!
+
+267 1107917 1365
+I didn't think we'd make it!
+
+268 1110708 2708
+The flowers didn't eat us.
+That was a lie!
+
+269 1114000 1786
+People make up such stupid stories.
+
+270 1115958 1866
+That's no more stupid
+than getting into your boat!
+
+271 1118583 1240
+How will I find Claire now?
+
+272 1120417 2617
+Hey, it's not my fault.
+I was trying to help you!
+
+273 1123917 1786
+You okay?
+Are you hurt?
+
+274 1127000 956
+Leave me alone!
+
+275 1128792 956
+And him too!
+
+276 1130000 1206
+Tell him not to come near me!
+
+277 1131292 740
+He won't hurt you!
+
+278 1134292 2116
+Don't touch my stuff!
+- Okay, I'm sorry!
+
+279 1139042 1707
+We'll never get anywhere like this.
+
+280 1140875 1661
+Claire's back there with those lunatics,
+
+281 1142708 1741
+and we're stuck in the
+middle of nowhere!
+
+282 1144625 1582
+If the Painter could see us now...
+
+283 1146500 1365
+Well, let's go find him!
+
+284 1149708 3743
+And let's say we do. What makes you
+think he gives a damn about us?
+
+285 1154792 3118
+I say we go for it. It's something
+I've been wanting to do.
+
+286 1158208 1582
+We can tell him what's happening!
+
+287 1159917 1786
+Then he can finally finish painting 
+the Halfies!
+
+288 1161833 1286
+And don't forget about the Sketchies!
+
+289 1163583 1957
+Yeah, them too.
+- Thanks for remembering!
+
+290 1165625 2037
+I'm sure he's just been
+really busy, you know...
+
+291 1168833 910
+Alright, then...
+
+292 1170125 1206
+Where should we start looking?
+
+293 1173208 3072
+Well, no one's ever searched in
+the forbidden forest before.
+
+294 1176458 831
+Why don't we look here?
+
+295 1177375 2082
+But which direction? It all seems the same.
+
+296 1180833 1035
+I vote this way!
+
+297 1183875 3038
+I don't know. This way seems better.
+- It's probably a dead-end...
+
+298 1187083 990
+OK, listen, you two!
+
+299 1188208 1365
+It doesn't matter which way we go,
+
+300 1189708 1411
+as long as it's away from the castle.
+
+301 1232917 1911
+Hey... Help! Can't you wait?
+
+302 1236542 1582
+He's stuck in the creepers again.
+
+303 1238458 1490
+Why does he have
+so much trouble?
+
+304 1240167 705
+I don't know.
+
+305 1241042 1456
+Maybe because he's a Sketchie?
+
+306 1242667 2537
+Don't you find it annoying?
+- Imagine how he feels.
+
+307 1245917 1456
+Come on. Let me get you out of there.
+
+308 1247458 2492
+I know, I know! I hold you back.
+
+309 1250583 3288
+I'm always getting caught
+in these damn vines!
+
+310 1256458 1707
+Careful! You're hurting me!
+
+311 1258500 1411
+Go. Leave.
+
+312 1260208 1456
+Hey, watch it!
+
+313 1261750 865
+Have it your way.
+
+314 1262708 1161
+You can stay right there.
+
+315 1264208 2537
+Wait! If you do happen to find him,
+
+316 1266875 3243
+can you please tell him
+that I have a favor to ask?
+
+317 1381292 2708
+Hey! I think we've been here before...
+
+318 1384500 3573
+He's right. I think we're
+just going around in circles.
+
+319 1388583 910
+That can't be right.
+
+320 1389667 1286
+I think we are!
+
+321 1429000 1411
+We have to try to stay together.
+
+322 1431167 2116
+I'm light, light as a feather!
+
+323 1433875 1661
+Look, watch this!
+
+324 1438875 580
+Lola!
+
+325 1440375 2583
+You're going too far!
+We can't see you anymore!
+
+326 1443583 785
+Lola!
+
+327 1470167 1411
+Lola! Where are you?
+
+328 1472125 705
+Oh, no.
+
+329 1473542 2162
+I'm down here, hanging on something.
+
+330 1476167 831
+Can you see her?
+
+331 1477417 1991
+Yes, at the bottom! She's...
+
+332 1479833 2207
+Ramo!
+- I see you.
+
+333 1484958 1661
+Are you okay?
+- I'm fine!
+
+334 1487000 1661
+Don't move! Stay where you are.
+
+335 1489000 910
+We're coming down.
+
+336 1554625 2162
+What do you think you're doing?
+Return to your posts!
+
+337 1557417 1957
+What is this? Back in line!
+
+338 1568667 785
+Who is that?
+
+339 1570083 2241
+Bring me that girl!
+- What girl?
+
+340 1573292 1035
+There she is!
+
+341 1589375 2833
+Quill! I'm going to need some more rope!
+
+342 1592708 1115
+You were supposed to stay up there!
+
+343 1594000 2412
+Too scary! I was afraid to be alone...
+
+344 1596792 1286
+So I came down.
+
+345 1598417 1286
+Well, hang on then.
+
+346 1613333 1616
+We've got a little spy!
+
+347 1615167 1206
+Did the Greens send you?
+
+348 1616583 2287
+No! I'm actually from another painting.
+
+349 1619500 1411
+It's hanging right above yours.
+
+350 1621250 1456
+The string broke and I wound up here.
+
+351 1623167 1832
+A painting? That's ridiculous!
+
+352 1625833 2162
+Look. I didn't mean to disturb you.
+
+353 1628208 1240
+I'm sorry if I caused you trouble.
+
+354 1629625 1286
+Is this your idea of a joke?
+
+355 1631333 1411
+But I'm telling you the truth.
+
+356 1633125 2458
+You're in a painting.
+A painting about war!
+
+357 1637750 1832
+War is nothing to joke about!
+
+358 1639917 1832
+You may think that you're in a painting...
+
+359 1642167 3493
+but when you're in front of the firing squad,
+it won't be a pretty picture.
+
+360 1645833 1411
+You're even worse than the Alldunns!
+
+361 1647458 1957
+Captain, the Greens are in 
+battle formation.
+
+362 1649500 1707
+They don't waste any time, do they?
+
+363 1651583 1206
+Magenta, Ruby!
+
+364 1652958 1365
+Keep an eye on this spy.
+
+365 1663917 1661
+How come we've never seen you around here?
+
+366 1665750 2207
+It's useless explaining.
+You won't believe me!
+
+367 1668375 831
+How do you know?
+
+368 1669458 1286
+Don't listen to her, she's a liar.
+
+369 1671375 1832
+We're all in a painting of a battle,
+
+370 1673625 1411
+and I don't intend to stick around.
+
+371 1675708 455
+Magenta!
+
+372 1676625 1331
+You'll be drumming during the charge.
+
+373 1680500 990
+The charge...
+
+374 1682042 1582
+I'm so sick of this war.
+
+375 1685042 1661
+I don't even know what we're fighting for.
+
+376 1688333 1582
+Are you sure that
+there's a way out of here?
+
+377 1690167 1115
+Yes, I'm positive.
+
+378 1691667 1115
+Untie me. You'll see.
+
+379 1693417 2992
+I think she may be telling the truth.
+- You heard the Captain!
+
+380 1698375 990
+What do you think you're doing?
+
+381 1699792 705
+Stay where you are!
+
+382 1743625 1365
+Where have you been?
+
+383 1745625 1832
+And where did he come from?
+
+384 1747917 990
+His name is Magenta.
+
+385 1749417 2287
+He helped me escape.
+He's coming with us now.
+
+386 1753458 1582
+Oh, sorry, I didn't see you there!
+
+387 1755500 1081
+Go ahead! Sure!
+
+388 1756792 1331
+Be my guest. I'm used to it.
+
+389 1758875 1991
+Quill is fragile, 
+so you have to be careful.
+
+390 1761042 865
+I'm sorry, Quill.
+
+391 1762625 1991
+Wow, your nose really is fragile!
+
+392 1810542 1081
+What is this place?
+
+393 1812625 1081
+What are we doing here?
+
+394 1816000 1365
+It looks completely deserted.
+
+395 1818917 1240
+He could be away...
+
+396 1820250 1206
+on a long trip.
+
+397 1821958 1035
+Maybe he's nearby.
+
+398 1823292 2037
+You know, listening to us.
+
+399 1826292 2162
+Sure, that sounds likely!
+
+400 1829208 2287
+I can't believe we came all this way 
+for nothing!
+
+401 1831750 1832
+Wow. Your friend sure is grumpy.
+
+402 1833708 2332
+No, no, life's good!
+Trust me.
+
+403 1836500 1866
+I escape those homicidal maniacs,
+
+404 1838500 1616
+only to end up in this wasteland!
+
+405 1841083 2708
+What a dump. No wonder it's abandoned!
+
+406 1859917 1832
+Lola?
+- Yeah?
+
+407 1861917 740
+If we find him...
+
+408 1863958 1741
+What do you think we
+should say to him?
+
+409 1865917 2037
+Ramo thinks he hasn't finished
+painting us yet.
+
+410 1873667 2207
+I would ask him
+why he painted a battle.
+
+411 1876250 1456
+I would have painted the sea!
+
+412 1877958 2162
+I have always wanted
+to visit the sea.
+
+413 1881583 580
+And you?
+
+414 1882333 1490
+What would you ask him?
+
+415 1884292 2241
+Me? I don't know.
+
+416 1887292 2332
+There are so many things
+I've yet to understand!
+
+417 1890208 2958
+Like, what makes us happy sometimes
+and what makes us sad...
+
+418 1899667 1286
+Claire.
+
+419 1901458 2913
+What's wrong with him?
+- He's in love.
+
+420 1904708 2458
+Will the Painter help him
+with that, too?
+
+421 1964500 910
+She's alive!
+
+422 1969042 2162
+Great Chandelier, Sir,
+I had her followed.
+
+423 1971542 1786
+She always comes out of the forest smiling.
+
+424 1974417 2492
+I think Ramo must still be alive.
+
+425 1977042 3163
+I guess the Death Flowers didn't
+like the taste of the boy.
+
+426 1981000 1331
+That's odd...
+
+427 1983250 1161
+I wonder...
+
+428 1984792 2662
+Do you think something
+is protecting them?
+
+429 1988500 1957
+Why, love is their protection.
+
+430 1990750 580
+Love?
+
+431 1991833 1707
+Indeed, it's love!
+
+432 1994333 2537
+Now then, I think we have a cure 
+for that...
+
+433 1997125 3493
+Whatever you desire shall be done,
+Great Chandelier.
+
+434 2006042 1991
+Look how tiny they are!
+
+435 2008625 3197
+Who's there?
+Did you hear that?
+
+436 2012333 1741
+No...
+- I heard something.
+
+437 2014792 1661
+It came from there, behind the sheet.
+
+438 2063917 1115
+Hello!
+
+439 2065333 1582
+Hello, Madam!
+
+440 2067583 3038
+Madam! Please, call me Florence.
+
+441 2071417 1365
+And who are you?
+
+442 2074292 1490
+You tell her, Lola.
+
+443 2075917 3368
+Okay. Well, um, we came here
+to look for the Painter!
+
+444 2079583 3447
+We want to know if he's ever going
+to come back and finish our painting.
+
+445 2083625 1707
+It's strange that he left you!
+
+446 2085500 2958
+I thought he always finished his work,
+down to the very last detail.
+
+447 2089458 1456
+Take my dress, for example.
+
+448 2091917 1866
+But... you're completely nude.
+
+449 2094250 2367
+Oh, of course.
+What was I thinking?
+
+450 2098875 1115
+Who's there?
+
+451 2100167 2037
+Looks like we've woken up Harlequin!
+
+452 2106833 580
+Hi there!
+
+453 2107583 1240
+Did you come to play with me?
+
+454 2109083 2082
+Actually, we're looking for the Painter.
+
+455 2111833 2708
+And you know not where he is,
+nor where he isn't.
+
+456 2114667 1866
+If he's small, or if he's tall.
+
+457 2116750 1741
+And if you meet him, would you greet him?
+
+458 2118750 1957
+For how would you know
+if it was him at all?
+
+459 2122375 1411
+And how about you, young man?
+
+460 2123875 614
+Would you know?
+
+461 2124583 2412
+I'm no young man.
+Call me Harlequin, you can.
+
+462 2127417 2162
+And where the Painter be,
+you shall see!
+
+463 2131208 956
+He's on the easel.
+
+464 2132875 910
+He's right here.
+
+465 2136792 2492
+Is that him?
+- The Painter!
+
+466 2140458 1490
+Him? The Painter?
+
+467 2142292 1115
+Unfortunately, no.
+
+468 2144542 831
+Just a self-portrait.
+
+469 2146583 2367
+Well done!
+Now everyone's awake.
+
+470 2149083 2082
+I was quite enjoying my solitude.
+
+471 2151250 1991
+My friends and I are just
+looking for the Painter.
+
+472 2153625 1365
+Sorry if we disturbed you.
+
+473 2155167 1832
+What did he do, abandon you?
+
+474 2157083 990
+I'm not surprised.
+
+475 2158500 1991
+He always leaves
+behind his creations!
+
+476 2160708 2162
+Even those he claims to love the most.
+
+477 2163167 1911
+What makes you think the Painter 
+wants to see you?
+
+478 2165500 2458
+Why would you say that?
+- We didn't mean to make you angry.
+
+479 2168500 1741
+I'm always angry! I cannot act
+any other way.
+
+480 2170750 1582
+I cannot act any other way.
+
+481 2172583 1911
+So don't expect me to
+be nice to you.
+
+482 2175000 1035
+Because it's impossible!
+
+483 2176292 1240
+True, true, always blue!
+
+484 2177625 2162
+No. When he drew me,
+he was in a good mood.
+
+485 2180458 2367
+I remember it well.
+Those were better times.
+
+486 2183583 1957
+And then suddenly things changed...
+
+487 2185958 1832
+He became bitter and sullen.
+
+488 2188000 1536
+You can thank our friend here for that!
+
+489 2190792 3118
+Look at her! 
+The Madam is still quite smitten.
+
+490 2194958 2458
+It's true. You should hear her
+go on and on about him!
+
+491 2197542 3413
+Oh, come now. You're just jealous!
+- There they go, filled with woe.
+
+492 2201292 2742
+Always arguing, don't you know?
+- Waiting in vain for his return!
+
+493 2204167 2116
+Just you wait. Bitter old man!
+
+494 2206583 2492
+But where is he?
+Where can we find him?
+
+495 2209458 1081
+I hate him!
+
+496 2211625 2958
+Which means that I must
+also hate myself.
+
+497 2214958 4039
+Do you have any idea how difficult it is
+to have feelings that are not your own?
+
+498 2220083 1866
+I'd just like to be myself, for once.
+
+499 2222625 1957
+Is that too much to ask?
+
+500 2227292 2412
+Lola, you're rather attractive yourself!
+
+501 2229875 1582
+He must have liked you.
+
+502 2231917 1331
+Uh... I don't...
+
+503 2233417 2617
+Oh, don't be shy.
+Here. Come closer.
+
+504 2236833 3072
+I want to tell you a story.
+
+505 2241917 2458
+Once upon a time, he liked me, too.
+
+506 2244708 910
+Even loved me.
+
+507 2246042 2332
+Oh, he never said it
+but I knew.
+
+508 2249167 2583
+Once, he even dipped his
+brush in his coffee
+
+509 2252417 1957
+and drank from his turpentine.
+
+510 2257000 2332
+He was so distracted!
+
+511 2260542 1866
+His brush was so soft.
+
+512 2262917 1456
+His eyes were so gentle!
+
+513 2265125 2116
+First, he'd outline my shape,
+
+514 2268000 2412
+then he'd choose the color
+of my eyes,
+
+515 2270583 2116
+and my skin, my hair,
+
+516 2272875 3197
+paying attention to every detail
+of my body.
+
+517 2276208 2332
+He gave me lacy underwear,
+
+518 2279792 3072
+and, finally, a beautiful dress.
+
+519 2283208 2207
+The Painter had style, that's for sure!
+
+520 2285667 2082
+So then what happened to your dress?
+
+521 2288042 3038
+I thought I was done, that
+his work was complete,
+
+522 2291583 2492
+but one day, he picked up
+his brushes again
+
+523 2295042 4244
+he came to me and removed all
+my clothes, one piece at a time!
+
+524 2299500 2207
+Oh my goodness!
+Did you say anything?
+
+525 2302125 2287
+Actually, I found it quite enjoyable.
+
+526 2304958 1786
+Well I think you look beautiful like this!
+
+527 2307625 1240
+And he did as well!
+
+528 2309125 4039
+So what happened to him?
+Do you have any idea where he could be?
+
+529 2313750 1911
+He might have gone back to Venice.
+
+530 2316792 1786
+He always loved Venice.
+
+531 2319167 3493
+Uh... is Venice another woman?
+- No. Venice is a city.
+
+532 2323083 1616
+It's a dream-like place.
+
+533 2324792 1616
+Men may love their women,
+
+534 2326625 1911
+but they love their dreams even more.
+
+535 2328792 3573
+And so do you know how to get there?
+- It's closer than you think.
+
+536 2345917 1582
+Oh no! Lola!
+
+537 2348833 1161
+Where are you going?
+
+538 2374250 1536
+Wait for us!
+
+539 2455542 2708
+Quill? Are you there?
+- Yeah. Can't you see me?
+
+540 2458750 1832
+No. I can't see a thing!
+
+541 2480792 831
+Look!
+
+542 2482292 990
+Oh, no!
+
+543 2488833 1115
+Who did this?
+
+544 2491208 910
+It's obvious...
+
+545 2492958 1456
+The Painter, of course!
+
+546 2497167 1786
+Do you think he'd destroy us, too?
+
+547 2507417 1035
+I don't know.
+
+548 2509167 2082
+But at least we know
+he really exists!
+
+549 2511333 1616
+And Lola went to search for him!
+
+550 2513375 1161
+We have to warn her!
+
+551 2560833 1206
+That's enough for me!
+
+552 2562208 2082
+Will they keep dancing
+like this all day long?
+
+553 2565292 1991
+Yes! And again tomorrow...
+
+554 2567667 1206
+day after that, too!
+
+555 2569333 2583
+It's always a never-ending
+Carnival around here.
+
+556 2572333 1456
+But you're not from here, are you?
+
+557 2590333 1536
+Hey! What'd you think you're doing?
+
+558 2592583 1206
+You're not the Painter!
+
+559 2593958 2332
+What'd you mean I'm not the painter?
+What'd you think that is?
+
+560 2596792 2867
+A forgery!
+- A forgery!
+
+561 2599917 1661
+I'll teach you a lesson, little girl!
+
+562 2605083 2458
+You can't be the Painter.
+You don't even look like him!
+
+563 2608000 2833
+Ignorant little girl! You don't even
+know what I look like.
+
+564 2611750 3118
+Everyone here has to wear a mask.
+Those are the rules!
+
+565 2615292 1616
+They do? I didn't know that.
+
+566 2617458 2458
+You don't know much, do you?
+- Then take off your mask!
+
+567 2626083 3038
+Hey! Wait! Where are you
+going? Don't leave!
+
+568 2636417 1536
+Look at all these people!
+
+569 2639375 1490
+We're never going to find them!
+
+570 2641167 2332
+We have to!
+They have to know the truth.
+
+571 2643667 2412
+What if he's already erased them?
+
+572 2713333 705
+Watch it!
+
+573 2714458 2537
+Why is everyone so interested
+in that painting?
+
+574 2717292 2833
+Are you the one who painted this?
+- I would've finished it too,
+
+575 2720583 1115
+except she ran away!
+
+576 2722167 2867
+Pretty looking girl, but she
+just wouldn't stand still!
+
+577 2725542 2037
+Could it be that you're interested
+in the painting, Monsieur?
+
+578 2728125 2367
+L's only half done.
+- Oh, I can fix that.
+
+579 2731292 4198
+And I'll give you a good price for it, too.
+I usually refuse to work from memory,
+
+580 2735667 2287
+but we'll just fill in a few strokes...
+
+581 2739250 535
+It won't take long.
+
+582 2740417 1331
+I'm pretty good with colors,
+
+583 2741833 1161
+if I do say so myself,
+
+584 2743375 2037
+But it's capturing the movement
+that's the hardest part!
+
+585 2745833 3413
+Do you have any idea where she went?
+- Not a clue! it's like she vanished.
+
+586 2750125 1456
+So, do you still want it'?
+
+587 2756375 1240
+Oh, suit yourself!
+
+588 2757958 1616
+Don't know why I bother.
+
+589 2784708 1240
+Help!
+
+590 2792167 3789
+Tell me, Mr. Graymorgan,
+how is our honored guest faring?
+
+591 2796500 2207
+She screams and she yells.
+
+592 2799250 2162
+It is not a pleasant sound.
+
+593 2803042 3243
+Wonderful news, indeed.
+I'm glad to hear it!
+
+594 2807083 2833
+Love may be blind,
+but it does have ears...
+
+595 2811792 2241
+Ramo should be showing his face soon.
+
+596 2814375 2332
+Begin the preparations for the ceremony.
+
+597 2870958 1616
+Lola!
+
+598 2872833 3118
+Where have you been?
+The Painter, he's this way!
+
+599 2876583 1911
+Wait, don't go! It's dangerous!
+
+600 2879708 2617
+What? I can't hear you!
+
+601 2889250 1286
+Follow it, the gondola!
+
+602 2913417 1866
+Hey! Where are you going?
+
+603 2977958 1707
+Here we are, young lady.
+
+604 2979750 1832
+This is where
+you'll find your painter!
+
+605 2982333 956
+Oh no!
+
+606 2984250 1161
+Look at that!
+
+607 2986125 1661
+There are so many of them.
+
+608 2988000 4494
+Why, of course! They come here
+every evening to paint the sunset.
+
+609 2995583 2788
+No. I don't believe it!
+
+610 2999250 1081
+He would never do that!
+
+611 3000667 3493
+But it's true. They were everywhere,
+torn, ripped and burned!
+
+612 3004292 1536
+And shredded with knives!
+
+613 3006167 1490
+He couldn't have.
+
+614 3008792 3288
+Look at that sunset.
+See how beautiful it is?
+
+615 3012375 2287
+The colors, melting into the water...
+
+616 3014875 1536
+Sentimental and contrived!
+
+617 3017750 1741
+He should stop painting this rubbish.
+
+618 3019667 2492
+It's not rubbish!
+He's expressing his feelings.
+
+619 3022542 2037
+When he's sad, he paints sad,
+
+620 3025292 2492
+and when he's in love,
+he paints Florence.
+
+621 3028292 2833
+He can't find her in the real world,
+so he paints her.
+
+622 3031750 1991
+Yeah. And then he chops her to pieces.
+
+623 3033750 1786
+I'm not sure I want to meet him anymore!
+
+624 3035917 1707
+Well, you don't have to worry about that.
+
+625 3038333 831
+Why not?
+
+626 3039375 1206
+Because he isn't here.
+
+627 3041125 785
+We're inside his painting,
+
+628 3042833 3163
+and he can't very well be inside
+his own painting, now, can he?
+
+629 3046583 1035
+What about them?
+
+630 3047958 2037
+They're only painting
+what he's already painted.
+
+631 3050875 1206
+This is confusing.
+
+632 3052500 1035
+Here's a thought.
+
+633 3054292 1240
+What if we don't need him?
+
+634 3057750 1661
+Now, where did I put that thing?
+
+635 3061208 1866
+Oh! My dress!
+- Nicely done.
+
+636 3063625 1035
+That's just what I was looking for.
+
+637 3067625 2287
+So? it's a tube of paint.
+
+638 3070542 2537
+Of course! And with that we can...
+
+639 3073542 3163
+We'll need to find a lot more of it.
+And we'll also need to practice.
+
+640 3077917 4324
+Hey, would you two mind filling us
+in on what you're talking about?
+
+641 3295458 2037
+Well, look who's returned!
+
+642 3299708 1616
+Did you have a good time?
+
+643 3301458 2788
+You can't just climb around
+wherever you want! Shoo!
+
+644 3305917 1536
+What is that?
+
+645 3307750 831
+It's yellow.
+
+646 3309292 2913
+It's all over my dress.
+Can you fix it?
+
+647 3313458 1365
+Let me try something...
+
+648 3316583 1741
+It worked!
+- Beautiful!
+
+649 3318625 3288
+Really? You think?
+- You actually know how to paint!
+
+650 3322000 2537
+Hmph. Funny, I've never
+attempted it!
+
+651 3325125 1286
+Hey, that's not too bad.
+
+652 3327000 956
+Could you teach us?
+
+653 3328042 2583
+That is a dangerous
+request you're making...
+
+654 3330875 1081
+Though I would like to help you.
+
+655 3332542 1331
+Just show us how you do it!
+
+656 3333958 3038
+Yeah! If you have his grumpiness,
+you must have his talent!
+
+657 3338125 3573
+You mean finish his work?
+That sounds appealing...
+
+658 3342417 1582
+I would need several other colors,
+
+659 3344375 1411
+like oranges and earth tones...
+
+660 3345958 2412
+They should be on the table!
+- ...aquamarine, indigo...
+
+661 3348625 1081
+On top of the piano!
+
+662 3349792 1411
+Burnt orange... forest green...
+
+663 3351917 865
+There's more in the drawer!
+
+664 3370083 1582
+Wait! You first, Quill!
+
+665 3372042 2788
+What? No, I can wait.
+
+666 3375333 1616
+First, could you...
+
+667 3378708 1115
+paint him?
+
+668 3383958 3288
+How do you expect me to make
+anything out of that mangled, twisted mess?
+
+669 3388042 2082
+He's not a mess!
+He's my friend!
+
+670 3390875 1616
+What was your friend like?
+
+671 3392917 3197
+He was... very kind!
+
+672 3397083 1832
+How can he paint kindness?
+
+673 3400083 1490
+Tell him what he looks like.
+
+674 3409625 2833
+He should be short and kind of scrawny,
+
+675 3413875 1707
+and he had a bit of a belly.
+
+676 3417542 1536
+No, no, not that flabby.
+
+677 3419958 2116
+Ah, yes, that's much better!
+
+678 3425917 2583
+He was sensitive and thoughtful.
+
+679 3428833 865
+A great guy!
+
+680 3432000 1707
+What am I doing here?
+
+681 3436250 1707
+Quill!
+- You're back, Gum!
+
+682 3439083 1161
+I've missed you!
+
+683 3502125 1911
+You're finally back.
+Do you have any news?
+
+684 3504125 956
+Are these rumors true'?
+
+685 3505667 2162
+The Alldunns are definitely 
+up to something!
+
+686 3508125 3538
+They've rounded up all the Sketchies,
+and put them to work building a big platform.
+
+687 3528625 1661
+How can the Sketchies be so useless?
+
+688 3531417 1536
+They must be doing it on purpose!
+
+689 3554625 1490
+I see you in there. No use hiding!
+
+690 3557417 1081
+We're putting you to work!
+
+691 3558625 1911
+Halfies, Sketchies, what's the difference?
+
+692 3560792 614
+Move it!
+
+693 3561958 1536
+You too!
+- I don't care, move it!
+
+694 3563708 1616
+Quit dawdling!
+We don't have all night!
+
+695 3591500 2708
+We'll head to the south of the camp,
+just under those trees.
+
+696 3634917 1331
+Are you coming with us, Magenta?
+
+697 3637250 2037
+Give me a minute! I have an idea!
+
+698 3639625 1365
+Come on, hurry up!
+
+699 3643500 1866
+You go ahead. We'll catch
+up with you later!
+
+700 3646292 1331
+What is that girl up to now?
+
+701 3728833 2082
+I'm going ahead
+to check things out.
+
+702 3731583 2458
+You wait here. And don't do
+anything until I get back!
+
+703 3734458 580
+Okay?
+
+704 3798500 1161
+Hey! Ramo!
+
+705 3800000 1331
+Looking for Claire?
+
+706 3801833 990
+What happened here?
+
+707 3803333 1161
+Where is everybody?
+
+708 3804917 660
+Is she okay?
+
+709 3805833 1456
+Come. I'll show you.
+
+710 3811250 580
+Understood.
+
+711 3812542 580
+You can trust me.
+
+712 3813500 1456
+And don't leave anyone behind!
+
+713 3818167 1536
+Ramo? Is that you?
+
+714 3822000 2287
+Darling!
+- Where were you?
+
+715 3824417 2082
+Far away!
+But I'm back now.
+
+716 3827208 1331
+Everything will be okay!
+
+717 3830333 2241
+No! Ramo! Stop that!
+
+718 3833125 2082
+You're hurting him!
+
+719 3836125 2492
+Leave him alone! Why are you doing this?
+
+720 3869875 1115
+How much further?
+
+721 3871292 2332
+We're almost there! This way.
+
+722 3874833 1240
+He)' everyone!
+
+723 3876333 1616
+Is that... Quill and Gum?
+
+724 3878250 910
+I don't believe it!
+
+725 3880083 660
+It sure is!
+
+726 3880958 1490
+Look!
+- It's incredible!
+
+727 3883542 2662
+Are you sure that's them?
+- How did they do that'?
+
+728 3886917 1490
+Step right UP!
+
+729 3890000 2708
+We have everything you could
+possibly need!
+
+730 3892917 1832
+We have colors, we have brushes.
+
+731 3894875 2788
+You can paint yourself in
+any way you like!
+
+732 3898333 1911
+Now you can be pastel if you want.
+
+733 3900542 2162
+Or maybe more vivid.
+Or maybe both!
+
+734 3902917 1161
+Why, look at me!
+
+735 3904500 2162
+I bet you can't even recognize me!
+
+736 3906958 1331
+He really has changed.
+
+737 3908417 2241
+Yes, he has so much more confidence now!
+- Have no fear!
+
+738 3911042 3948
+Allow me to demonstrate.
+You, sir, let me show you how it is done!
+
+739 3917583 3664
+A touch of paint...
+you fill in the lines like so.
+
+740 3921750 1456
+There. You see?
+It isn't hard.
+
+741 3923792 1832
+Yeah, okay, but I didn't want that color!
+
+742 3926000 2287
+I think it's nice. Now, who's next'?
+
+743 3928583 2537
+I'll take that!
+- Suit yourself, I just wanted to...
+
+744 3931417 2662
+You said we could paint ourselves!
+- Yeah, so go ahead!
+
+745 3945042 455
+Quill!
+
+746 3945625 2207
+Oh, dear! Wait... Everyone calm down!
+
+747 3949750 3322
+I love it!
+- But Mom, I want to be blue!
+
+748 3953375 1786
+Why isn't there any mauve?
+
+749 3962292 1115
+Let go of me!
+
+750 3971542 1240
+Why won't you listen?
+
+751 3974083 1331
+Ah, there you two are, just in time!
+
+752 3976708 2833
+Go see for yourselves! They've gone crazy.
+- What do we do?
+
+753 3980083 2367
+We did our best. 
+They're just out of control.
+
+754 3990542 1331
+What's all the fuss about?
+
+755 3992167 865
+I haven't a clue!
+
+756 3993292 1456
+I can't wait for it to start!
+
+757 3994917 1616
+This is rather exciting!
+
+758 3996958 1582
+What could the Great Chandelier 
+have in store?
+
+759 3998625 1331
+He has another surprise?
+
+760 4000125 1411
+I just love surprises!
+
+761 4002292 1286
+There you are!
+
+762 4009333 2458
+You look stunning.
+- How mysterious!
+
+763 4012042 1661
+Truly.
+- Thank you!
+
+764 4014167 1832
+I hope this is fun!
+- I'm over here!
+
+765 4109708 1081
+They're so young!
+
+766 4120250 3618
+As you can see, we have reunited
+the two lovebirds!
+
+767 4124208 2082
+Don't they make a sweet couple?
+
+768 4128500 2492
+That's odd! They don't look happy!
+
+769 4132500 1536
+Why 80 pale?
+
+770 4134500 1786
+We stunned them into silence.
+
+771 4136917 2458
+Where are your witty comebacks
+now, young man?
+
+772 4140042 1707
+Has the Painter returned?
+
+773 4142167 1365
+If so, where is he?
+
+774 4143833 2412
+And did you manage to speak with him, then?
+
+775 4147875 2082
+You were hoping to do
+what now, again...?
+
+776 4150125 705
+Oh yes...
+
+777 4151417 2332
+Blot out the differences.
+
+778 4155833 2116
+Well, why don't we start
+with the two of you?
+
+779 4158583 2162
+Your wish is about to be granted.
+
+780 4161417 1991
+What better way to unite you two,
+
+781 4163500 1365
+than to blend you...
+
+782 4165500 740
+black?
+
+783 4166708 1707
+Executioner black!
+
+784 4193250 1707
+Look at all those colors!
+
+785 4195958 956
+Are they Alldunns?
+
+786 4197083 1616
+Absolutely splendid!
+
+787 4199542 1206
+I want a closer look!
+
+788 4202042 2287
+They're like us, but even more colorful!
+
+789 4205333 1035
+Where have they come from?
+
+790 4214083 2207
+You are forbidden to talk to them!
+
+791 4216458 1616
+Hey! Do you hear me'?
+
+792 4218542 1161
+I forbid you!
+
+793 4220167 2412
+Absolutely magnificent!
+- How ever did you do it?
+
+794 4222667 3197
+You can simply change yourself if you like!
+- Your colors sparkle!
+
+795 4226000 2788
+We have everything you need:
+hundreds of colors and brushes...
+
+796 4228875 2162
+I know! Let's give Chandelier a makeover!
+
+797 4232542 2833
+A wonderful idea!
+- Someone get me a paintbrush!
+
+798 4258625 1582
+Yes, yes, it's true...
+
+799 4260667 1286
+There are paintings other than this one!
+
+800 4262125 3664
+And not only that. You can jump,
+from canvas to canvas with relative ease...
+
+801 4267333 785
+To an extent!
+
+802 4268583 1582
+Anyway, there are different shades, too...
+
+803 4270458 2332
+Some are more green,
+others, more red...
+
+804 4273333 1365
+Nothing to get too worked up about.
+
+805 4277833 2537
+Well, Lola, what'd you think?
+
+806 4282000 740
+Your dress!
+
+807 4283375 1582
+You're not going
+to stay like that!
+
+808 4286167 2867
+There's one painting where
+they dance all day long.
+
+809 4289250 1206
+It's unbelievable!
+
+810 4290667 956
+It's the truth.
+
+811 4291875 1286
+I saw it with my own eyes.
+
+812 4293500 865
+Ask Lola!
+
+813 4319542 831
+No.
+
+814 4322625 865
+You.
+
+815 4506458 1616
+Okay boy, settle down.
+
+816 4508250 1331
+Don't worry, he won't hurt you.
+
+817 4510250 1707
+He's quite blind, you know.
+
+818 4513542 1707
+But don't I know you from somewhere?
+
+819 4516625 1490
+You've left your picture!
+
+820 4518625 2162
+Yes. Are you mad at me?
+
+821 4532125 1786
+There are others, just like me!
+
+822 4534375 1957
+Oh, but don't worry,
+they won't bother you.
+
+823 4537000 2332
+The Halfies and the Sketchies are pretty
+preoccupied.
+
+824 4539667 1411
+They found paint, so...
+
+825 4541667 1411
+They're painting themselves?
+
+826 4543250 2162
+But what do you know about painting?
+
+827 4545750 1490
+Your self-portrait taught us.
+
+828 4547375 2583
+Oh, no. Seriously?
+Is he still causing trouble?
+
+829 4550625 2617
+Oh no, I think he went back to sleep.
+
+830 4555083 4415
+You know, there are some people who really 
+believe that you've abandoned them.
+
+831 4560542 1161
+Are you sure?
+
+832 4562958 1456
+Why would think think something like that?
+
+833 4565875 1456
+I haven't abandoned anyone!
+
+834 4568792 1832
+I gave them all the basics for living.
+
+835 4571417 2367
+A simple design
+is often more beautiful
+
+836 4573875 1331
+than a fully-polished painting!
+
+837 4578167 2492
+So, if they decide 
+to complete themselves...
+
+838 4581333 1536
+Well then, that's just fine!
+
+839 4584458 1411
+I think it's good!
+
+840 4587208 1035
+But you...
+
+841 4588375 1866
+You seem to be different from the others.
+
+842 4591458 2458
+Tell me... what are you looking for?
+
+843 4594458 1035
+So you still paint?
+
+844 4596042 1957
+Yes, but only landscapes now.
+
+845 4598542 1616
+It's less stressful.
+
+846 4601458 1661
+Now what do you think of this one?
+
+847 4603875 1081
+I like it.
+
+848 4605250 2412
+The clouds, they look like
+they're dancing!
+
+849 4612917 1957
+Would you mind if I took a walk around?
+
+850 4615333 1411
+Go wherever you'd like.
+
+851 4617250 1616
+There are no fences here.
+
+852 4620542 2037
+You can even walk down to the sea.
+
+853 4622958 2913
+It's over there, just beyond the dunes...
+
+854 4632583 1456
+You never answered me!
+
+855 4635125 1456
+What did you come here for?
+
+856 4636583 3072
+Oh, nothing. I just wanted
+to meet you!
+
+857 4640250 1286
+And now...
+
+858 4642208 1741
+And now, what?
+
+859 4645167 2583
+Now I'd like to know who painted you!
+

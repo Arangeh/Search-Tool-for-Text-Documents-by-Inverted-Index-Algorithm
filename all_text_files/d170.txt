@@ -1,0 +1,3941 @@
+1 38020 1460
+TEMPORARY DETENTION CENTER
+MINISTRY FOR STATE SECURITY
+
+2 39560 1790
+Stand still. Eyes to the floor.
+
+3 46560 920
+Walk on.
+
+4 47690 4660
+TEMPORARY DETENTION CENTER
+MINISTRY FOR STATE SECURITY
+
+5 52520 1880
+Address him as 'Captain!'
+
+6 56810 1540
+Enter.
+
+7 60350 1460
+Sit down.
+
+8 64940 2750
+Hands under your thighs, palms down.
+
+9 73810 1880
+What do you have to tell us?
+
+10 76520 1960
+I've done nothing.
+
+11 80190 1040
+I know nothing.
+
+12 81770 2500
+You've done nothing, know nothing...
+
+13 85440 4040
+You think we imprison people on a whim?
+
+14 89600 1840
+No...
+
+15 91690 2330
+If you think our humanistic system
+capable of such a thing,
+
+16 94150 3160
+that alone would justify your arrest.
+
+17 99690 4040
+We'd like to jog your memory, prisoner no. 227.
+
+18 104520 1880
+On September 28th, Dieter Pirmasens,
+
+19 106400 3700
+your friend and neighbor, fled to the West.
+
+20 110440 2580
+We believe that he had help.
+
+21 113190 1410
+I know nothing.
+
+22 115310 2420
+He didn't even tell me he wanted to leave.
+
+23 117850 1920
+I first heard about it at work.
+
+24 120310 4170
+Please recount what you did on September 28th.
+
+25 125020 3750
+- It's in my statement.
+- Tell me again.
+
+26 129850 3420
+I was at Treptow Park memorial with my children.
+
+27 133400 2870
+Where I met my old friend Max Kirchner.
+
+28 136440 3870
+We went to his place
+and listened to music until late.
+
+29 141060 3210
+He has a telephone,
+you can call him to confirm this.
+
+30 144690 2000
+I can give you the number.
+
+31 148230 2370
+The enemies of our state are arrogant.
+
+32 150850 1750
+Remember that.
+
+33 152690 3710
+It takes patience. About 40 hours worth.
+(STASI COLLEGE, POTSDAM-EICHE)
+
+34 156940 2040
+Fast forward...
+
+35 160730 1750
+I want to sleep.
+
+36 164400 2540
+Please, let me sleep!
+
+37 167730 1790
+Hands under your thighs.
+
+38 171400 3370
+Tell me again
+what you did on September 28th.
+
+39 177520 5540
+Please, just one hour,
+just a little... a little sleep.
+
+40 183150 3160
+Tell me again what you did on that day.
+
+41 192270 2250
+Why keep him awake for so long?
+
+42 194600 2920
+It's... inhuman.
+
+43 203480 4210
+An innocent prisoner
+will become more angry by the hour,
+
+44 207940 1870
+due to the injustice suffered.
+
+45 210020 2540
+He will shout and rage.
+
+46 213150 4200
+A guilty prisoner
+becomes more calm and quiet...
+
+47 217480 1750
+Or he cries.
+
+48 219400 2370
+He knows he's there for a reason.
+
+49 221900 3250
+The best way to establish guilt or innocence
+
+50 225230 2790
+is non-stop interrogation.
+
+51 228150 2450
+...school friend Max Kirchner.
+
+52 231730 2290
+We went to his place...
+
+53 235730 3620
+and listened to music until late.
+
+54 241270 5080
+He has a telephone,
+you can call him to confirm this.
+
+55 248650 2750
+Do you notice anything about his statement?
+
+56 252400 2080
+It's the same as at the beginning.
+
+57 254980 3580
+Exactly the same. Word for word.
+
+58 258940 3000
+People who tell the truth
+can re-formulate things,
+
+59 262060 1040
+and they do.
+
+60 264060 3090
+A liar has prepared sentences,
+which he falls back on
+
+61 267150 2540
+when under pressure.
+
+62 270520 2540
+227 is lying.
+
+63 273190 5040
+We have two important indicators,
+and can increase the intensity.
+
+64 278850 2750
+If you don't give names,
+
+65 281650 2200
+We'll have to arrest your wife.
+
+66 285770 3040
+Jan and Nadja
+will be put into state care.
+
+67 289060 1540
+Is that what you want?
+
+68 296480 2420
+Who was the person who helped him flee?
+
+69 300560 2170
+- Glaske...
+- Again! Speak clearly!
+
+70 304850 3170
+Glaske... Werner Glaske.
+
+71 308850 2340
+Werner... Glaske.
+
+72 314310 2040
+Quiet!
+
+73 317690 1290
+Quiet!
+
+74 319400 1370
+Listen!
+
+75 325940 1710
+Does anyone know what that is?
+
+76 334310 2920
+It's the odor sample for the dogs.
+
+77 337350 4840
+It must be collected at every
+interrogation. Never forget it!
+
+78 347230 3750
+Your subjects are enemies of Socialism.
+
+79 351520 3330
+Never forget that! Goodbye.
+
+80 359770 1960
+That was good, really good.
+
+81 365310 1080
+You remember
+
+82 366690 4160
+how we sat there 20 years ago?
+
+83 373390 2500
+They've offered me a professorship.
+
+84 378190 4830
+Life's not about good grades, though
+mine weren't that bad, thanks to you.
+
+85 383640 1340
+So what's up?
+
+86 385350 2750
+Why do you always think I'm scheming?
+
+87 388440 3040
+- I wanted to invite you to the theater.
+- The theater?
+
+88 392270 2960
+I heard that Minister Hempf is going.
+
+89 395850 3420
+As head of the Culture Department,
+I should show my face.
+
+90 399890 3340
+It starts at 7 p.m. We should get going.
+
+91 403640 5630
+THE LIVES OF OTHERS
+
+92 416480 3120
+Minister Hempf at one o'clock.
+
+93 420440 4120
+He used to be in State Security, you know.
+
+94 424940 2790
+He really cleaned up the theater scene.
+
+95 435310 2750
+Georg Dreyman, the writer.
+
+96 438600 4380
+An arrogant type, the kind I warn my students about.
+
+97 443100 1540
+But he's loyal.
+
+98 445480 2660
+If they were all like him, I'd be out of a job.
+
+99 448230 4080
+He's our only non-subversive writer
+who is also read in the West.
+
+100 453520 2790
+He thinks the GDR is the greatest country on earth.
+
+101 459730 1620
+It starts.
+
+102 474640 3130
+What's wrong, my child? A new vision?
+
+103 477810 1750
+Speak, Marta! Speak!
+
+104 479850 1040
+Your Arthur...
+
+105 483140 1210
+is dead.
+
+106 484850 3960
+Arthur? Can't you be wrong, just this once?
+
+107 488980 1910
+No, sister. Believe me.
+
+108 493060 2540
+He fell to his death.
+
+109 498480 3250
+Crushed by the mighty wheel.
+
+110 502730 2120
+I see it,
+
+111 506560 2000
+though I'd rather see any other horror.
+
+112 512060 2830
+Why am I not spared these visions?
+
+113 518190 3290
+Elena! Go home... and mourn.
+I'll finish your shift.
+
+114 563390 4090
+Did you like it? Dreyman's good, eh?
+
+115 567640 1800
+I'd have him monitored.
+
+116 569560 4170
+Monitored? All that teaching
+is ruining your instincts.
+
+117 573810 2210
+I could oversee it myself.
+
+118 576060 2960
+He's clean, I tell you. Even Hempf likes him.
+
+119 579140 2590
+We'd be shooting ourselves in the foot.
+
+120 582390 1670
+I'm going down.
+
+121 587890 1670
+"Faces of Love"
+
+122 614480 2120
+I hear a lot about your work.
+
+123 616690 2120
+They say culture's in good hands.
+
+124 619850 1840
+Your name is mentioned in Party circles.
+
+125 621770 2460
+We're the Party's 'shield and sword'.
+
+126 624350 2040
+I'm aware of that at all times.
+
+127 631560 1670
+What do you make of him?
+
+128 636270 1370
+Of Georg Dreyman?
+
+129 642140 1800
+Maybe...
+
+130 644810 1580
+Maybe what?
+
+131 649440 4120
+Maybe he's not as clean as he seems.
+
+132 655270 4120
+Grubitz! That's why you and I are on top.
+
+133 660310 2000
+Your average Stasi chump would have said,
+
+134 662390 3130
+"One of our best! So loyal!" etc.
+
+135 665640 2000
+But we can see more.
+
+136 668480 2040
+You're heading to the very top, Grubitz.
+
+137 673520 1620
+There's something fishy about him.
+
+138 675310 3170
+I can feel it in my gut.
+
+139 682730 2370
+Dreyman's having a party next week.
+
+140 685140 3210
+Some dubious types are going, Hauser and that rabble.
+
+141 688440 1950
+Try to wire the place discreetly by then.
+
+142 690520 3250
+Measures A and B.
+
+143 694140 2000
+Only in his rooms. Nothing conspicuous.
+
+144 696230 2460
+He has powerful friends.
+
+145 698810 1710
+No one is to know about this
+
+146 700600 3210
+until we've found something.
+
+147 707310 2460
+But if you get something on him,
+
+148 709850 2880
+you'll have a good friend in the Central Committee.
+
+149 712850 1880
+You understand what I'm saying?
+
+150 717730 2750
+Have a nice evening, Comrade Minister.
+
+151 741730 2120
+Why is he staring at us?
+
+152 747890 2170
+What's he doing here, anyway?
+
+153 750600 2590
+I think he's got a crush on you.
+
+154 768440 5870
+I can't let the evening pass
+without raising a toast to our artists.
+
+155 774940 3580
+A great Socialist,
+I can't recall who it was, once said:
+
+156 778600 3840
+Writers are engineers of the soul.
+
+157 782560 1380
+So Georg Dreyman is
+
+158 783980 2540
+one of our country's greatest engineers.
+
+159 790060 3710
+- What charming bed-fellows you have.
+- Paul!
+
+160 795560 2040
+And to Christa-Maria Sieland,
+
+161 797600 2880
+the loveliest pearl of the GDR.
+
+162 800560 2250
+I believe that
+nobody contradict my opinion.
+
+163 802980 2540
+Let's raise our glasses
+
+164 805560 4130
+to Christa-Maria Sieland:
+Three cheers to her.
+
+165 814060 2290
+Someone like him doesn't even deserve
+to address you.
+
+166 816480 2500
+Stay with me!
+
+167 821100 1840
+And now something for the soul...
+
+168 824640 1800
+May I?
+
+169 831690 3660
+- How did you like my speech?
+- Many thanks.
+
+170 835850 2040
+I liked your play too.
+
+171 838480 1080
+Really, it was good.
+
+172 839940 3620
+"Engineers of the soul."
+That was a Stalin quote.
+
+173 843640 1210
+Really?
+
+174 846140 3170
+I, too, like to provoke, Mr. Hauser.
+
+175 849890 3170
+But unlike you, I know how far I can go.
+
+176 854190 2870
+I'm more like our dear Dreyman.
+
+177 857140 2250
+He knows that the Party needs artists,
+
+178 859520 1920
+but that artists need the Party even more.
+
+179 862020 2920
+If you're going to talk politics,
+I'll find another dance partner.
+
+180 865020 2830
+- I'm willing.
+- Too late!
+
+181 872640 3340
+I follow our theater with interest.
+
+182 876020 2040
+It used to be theater people...
+
+183 878140 1960
+- Paul!
+- It's okay,
+
+184 880140 1920
+I've known Mr. Hauser for years.
+
+185 882190 1120
+Comrade Schwalber!
+
+186 883940 2500
+You did a good job tonight too.
+
+187 886850 2710
+Dreyman, I'm glad you're working
+with such directors.
+
+188 890600 1880
+It wasn't always so.
+
+189 894270 1750
+You're referring to Jerska?
+
+190 898390 2920
+I think you judged him too harshly.
+
+191 902440 3750
+Sure, he went too far in what he said.
+Without a doubt.
+
+192 907270 870
+But
+
+193 908810 4500
+put yourself in his shoes for a moment.
+You, as a man of honor.
+
+194 914190 3080
+He can't remove his name
+from that statement.
+
+195 919770 4000
+He could work for any theater in the West.
+
+196 923850 1750
+But he wants to stay here.
+
+197 925690 4250
+Because he believes in Socialism
+and in this country.
+
+198 930230 3500
+- His black-listing is...
+- Black-listing?
+
+199 934270 5670
+We don't do that here!
+You should choose your words more carefully.
+
+200 945270 2710
+Comrade Hempf, just between us:
+
+201 949440 1950
+My plays are not strong enough
+
+202 951480 1540
+to survive Schwalber's direction.
+
+203 953100 1750
+I need Jerska,
+
+204 955810 2080
+and I think you judged him too harshly.
+
+205 957940 1750
+Well, I don't.
+
+206 959770 2420
+But that's what we all love about your plays.
+
+207 962270 2170
+Your love for mankind...
+
+208 964560 1790
+your belief that people can change.
+
+209 967440 870
+Dreyman,
+
+210 969690 2790
+no matter how often you say it in your plays,
+
+211 973390 1960
+people do not change!
+
+212 978890 1710
+How is he, by the way?
+
+213 981810 2250
+He hopes that his black- ...
+
+214 984940 2000
+that he can work again soon.
+
+215 993560 1710
+Is he right in hoping?
+
+216 995310 4210
+Of course he is.
+As long as he lives, and even longer.
+
+217 999640 3750
+Because as you know, Dreyman,
+hope always dies last.
+
+218 1018560 3000
+The team will be ready
+to wire the place as of tomorrow.
+
+219 1022690 2410
+It needs to be finished by Thursday.
+
+220 1025230 1330
+You should plan everything carefully.
+
+221 1026690 1120
+Think you can do it?
+
+222 1031810 1000
+Good night.
+
+223 1126980 1580
+I'll get in trouble if I don't go.
+
+224 1128600 1540
+- With who?
+- My girlfriend.
+
+225 1248350 1540
+Twenty minutes.
+
+226 1367350 630
+Yes?
+
+227 1368100 3130
+Frau Meineke... One word of this to anyone,
+
+228 1371350 3000
+and Masha loses her spot at the university.
+
+229 1377850 1920
+Is that understood?
+
+230 1380680 1090
+Yes.
+
+231 1384770 3870
+Send Mrs. Meineke a gift for her cooperation.
+
+232 1400810 2000
+It must be Thursday again.
+
+233 1403730 3950
+Time passes so quickly...
+Perhaps that's a good thing.
+
+234 1425890 2630
+- How are you?
+- Not bad.
+
+235 1430060 2120
+It's not always this noisy.
+
+236 1432850 1710
+Only on Thursdays, I know.
+
+237 1435810 1370
+Yes.
+
+238 1441230 1620
+We missed you at the premiere.
+
+239 1443640 1960
+Did Schwalber do a good job?
+
+240 1448270 2120
+His good bits were stolen from you.
+
+241 1450890 2000
+That keeps my ideas alive.
+
+242 1461390 1210
+Don't bear it.
+
+243 1462730 2370
+I can't bear those fat, dressed-up people
+
+244 1465180 1960
+at premieres anymore.
+
+245 1469980 3290
+Doesn't sound like me, does it?
+
+246 1473850 2830
+But maybe this is the real me,
+
+247 1476730 2120
+not the old Jerska.
+
+248 1479060 3830
+He was friendly and caring, nourished by success...
+
+249 1484850 3290
+all thanks to the grace of the bigwigs.
+
+250 1492480 2000
+But I won't complain much longer.
+
+251 1495310 3710
+In my next life, I'll simply be an author.
+
+252 1499060 3920
+A happy author
+who can write whenever he wants.
+
+253 1504270 1290
+Like you.
+
+254 1507180 3090
+What is a director if he can't direct?
+
+255 1511100 3380
+He's a projectionist without a film,
+
+256 1514560 1830
+a miller without corn. He is nothing.
+
+257 1521730 2000
+Nothing at all.
+
+258 1527100 5210
+Albert, the Minister was at the premiere.
+Minister Hempf.
+
+259 1533810 2960
+I spoke to him about your blacklisting.
+
+260 1541230 1830
+It looks promising.
+
+261 1543480 5290
+He gave me hope, concrete hope. Literally.
+
+262 1550850 880
+Really?
+
+263 1556180 1500
+That's great.
+
+264 1600890 3040
+Cheap Georgian wine. Chateau Jerska.
+
+265 1604020 2870
+So is our holy drinker coming?
+
+266 1610060 2250
+I forgot to ask him.
+
+267 1618480 3500
+You're strong and forceful.
+That's how I need you.
+
+268 1622480 2330
+Don't let this blackness into your life.
+
+269 1624890 3170
+- Albert is my friend.
+- And you're my boyfriend.
+
+270 1628230 2120
+Looks like a 50th.
+
+271 1630930 2250
+But I'm going to be 40, right?
+
+272 1633310 4460
+Don't forget, you promised
+to wear a tie for your birthday.
+
+273 1638270 2160
+I would, but I don't have one.
+
+274 1644770 1540
+Bon anniversaire!
+
+275 1649810 1540
+Atie?
+
+276 1651480 1700
+You said you didn't want any books.
+
+277 1655930 2050
+Or can't you tie a tie,
+
+278 1658020 1210
+you old working-class poet?
+
+279 1659640 1090
+What?
+
+280 1662230 1870
+I was born wearing a tie!
+
+281 1664930 1550
+I had to "fight my way out
+
+282 1666560 2670
+of my middle-class fetters".
+
+283 1669600 3710
+Then put those fetters on again, just for me.
+
+284 1681600 2670
+Alright... It's no
+
+285 1685310 2040
+big deal to tie a tie.
+
+286 1702600 4130
+Frau Meineke, would you come in for a moment!
+
+287 1714060 3040
+Can you tie a tie?
+
+288 1721850 2330
+You've no idea how thankful I am.
+
+289 1729730 5040
+- Are you feeling unwell?
+- No... I'm feeling fine.
+
+290 1735350 1210
+Finished?
+
+291 1741060 4040
+Wonderful. It's perfect.
+It couldn't be better.
+
+292 1746350 3790
+It'll be our secret.
+You can keep a secret, right?
+
+293 1750680 1380
+Of course.
+
+294 1762560 3830
+I'll be damned! And I thought you couldn't do it.
+
+295 1766770 2620
+You don't normally hide your talents.
+
+296 1769600 2670
+You've no idea of the things I can do!
+
+297 1777140 1540
+The first guest.
+
+298 1784350 2880
+Our dear neighbors locked the main door again.
+
+299 1787310 1960
+- Can you go?
+- Yes, I'm going.
+
+300 1816140 2710
+Maestro! Our humble offerings.
+
+301 1818980 3790
+- I expressly said no books!
+- But thanks.
+
+302 1825480 1120
+Would you like a drink?
+
+303 1826680 2000
+- A soda.
+- Vodka for me.
+
+304 1828770 830
+I'll get it.
+
+305 1840730 2750
+Why the hell's Albert sitting all alone?
+
+306 1843680 3130
+He won't talk to us.
+He sent us all away.
+
+307 1861180 1710
+I brought you something too.
+
+308 1866980 4910
+- Did you really come here to read?
+- It is Brecht!
+
+309 1880560 3080
+I feel like a fraud among these people.
+
+310 1884100 1540
+A fraud?
+
+311 1885930 3880
+Come off it, Albert!
+You're losing your grip on reality.
+
+312 1891270 2290
+You know how we admire you,
+
+313 1893640 1790
+how everybody admires you.
+
+314 1895560 3000
+For something I did 10 years ago...
+
+315 1900930 3000
+and could probably never do again.
+
+316 1907850 2710
+My favorite director! Wait!
+
+317 1910600 1540
+I need to talk to you a moment.
+
+318 1912310 1960
+Tell me again how you got into this position.
+
+319 1914310 2580
+Pure talent.
+
+320 1917730 3040
+Of course!
+
+321 1921310 2580
+But what else did you have to do?
+
+322 1924730 2540
+Everyone knows you're with the Stasi!
+
+323 1927350 2460
+- What an outrageous insinuation!
+- Don't forget it!
+
+324 1929810 1830
+- Paul!
+- What?
+
+325 1932270 2960
+Excuse my friend, he's had too much to drink.
+
+326 1938230 3080
+But you know he's with the Stasi!
+
+327 1941350 2670
+No, Paul. I don't know that.
+
+328 1963350 3420
+You're such an idealist
+that you're almost a bigwig.
+
+329 1966930 3050
+It was informers and conformists
+like that who ruined Albert.
+
+330 1970060 2080
+Spy, betrayer!
+
+331 1972430 3460
+If you don't take a stand, you're not human!
+
+332 1976060 3170
+If you ever want to take action, call.
+
+333 1979390 2750
+If not, we don't have to meet again.
+
+334 2011270 2620
+Your friends don't have much taste.
+
+335 2014430 1590
+That's really unfair.
+
+336 2016270 3960
+Here! Look at this beautiful backscratcher.
+
+337 2020560 2370
+That's a salad fork!
+
+338 2023730 2700
+Still, it's beautiful... And look at this.
+
+339 2028020 3790
+I'll write my new play with this.
+
+340 2032930 2050
+You have no taste either!
+
+341 2036270 2040
+I do in some things.
+
+342 2053480 4830
+- It's from Jerska.
+- So he did give you a book!
+
+343 2061980 3330
+"Sonata for a Good Man"
+
+344 2089060 4170
+"'Lazlo' and CMS unwrap presents,
+
+345 2093350 3790
+then presumably have intercourse."
+
+346 2100430 1880
+You're late.
+
+347 2102810 1790
+Sorry, Captain.
+
+348 2104680 3050
+Those red lights made me
+lose all of four minutes.
+
+349 2108230 1700
+You know how it is.
+
+350 2118640 6500
+They're already at it! Unbelievable! These artists!
+
+351 2125640 1590
+They're always at it!
+
+352 2127310 3210
+That's why I prefer monitoring artists
+to priests or peace activists.
+
+353 2133810 2000
+See you tomorrow at 11 a.m.
+
+354 2143520 4120
+Albert Jerska, operation 'Engerling'.
+Systematic as usual, Wiesler.
+
+355 2147730 2870
+The files will be sent. Let's have lunch.
+
+356 2161640 4340
+The BSG Volleyball team will meet at 7 p.m.
+
+357 2167140 2210
+Did you forget? Bosses sit over there.
+
+358 2170060 3040
+Socialism must start somewhere.
+
+359 2178850 1880
+About the license plate of the car
+
+360 2180810 3750
+that brought Ms. Sieland home...
+
+361 2186350 2920
+It's Minister Hempf's car.
+
+362 2192270 1040
+Wiesler,
+
+363 2194100 4420
+we can't monitor top officials.
+I removed the entry in your report.
+
+364 2198680 2960
+Nothing written from now on,
+
+365 2201680 2210
+just oral!
+
+366 2205850 4540
+So we're helping a Committee member
+get a rival out of the way.
+
+367 2212350 2040
+You know what this could mean
+
+368 2214480 3620
+for my career. And for yours.
+
+369 2219180 2590
+If we find something...
+
+370 2226770 1790
+Is that why we joined?
+
+371 2229890 1920
+You remember the oath we took?
+
+372 2231930 2460
+"We are the Party's shield and sword."
+
+373 2234480 2450
+What is the Party, if not its members?
+
+374 2237430 3050
+And if those members
+are highly influential, all the better!
+
+375 2241480 1580
+I've got a new one.
+
+376 2243770 3500
+Honecker comes into his office,
+
+377 2247520 2870
+opens the window, sees the sun, and says...
+
+378 2251770 1790
+What's wrong?
+
+379 2257600 3290
+Oh, excuse me... I just...
+
+380 2260980 2120
+No, carry on, colleague!
+
+381 2263520 4210
+No harm in laughing about
+the Party Chairman, is there.
+
+382 2268520 1710
+I probably know the joke anyway.
+
+383 2273520 1410
+Come on, tell us!
+
+384 2277730 4120
+Well... Honecker...
+
+385 2282730 1950
+I mean, the Comrade General Secretary
+sees the sun and says,
+
+386 2284770 3000
+- "Good morning, dear sun!"
+- More like, "Good morning, dear sun!"
+
+387 2292430 4090
+The sun replies, "Good morning, dear Erich!"
+
+388 2296600 3460
+And at noon, Erich goes to the window and says,
+
+389 2300140 1540
+"Good day, dear sun!"
+
+390 2301730 2370
+The sun replies, "Good day, dear Erich!"
+
+391 2304140 3420
+In the evening, Erich says again,
+
+392 2307600 1290
+"Good evening, dear sun!"
+
+393 2308980 1660
+and the sun doesn't reply.
+
+394 2311270 910
+"Good evening, dear sun..."
+
+395 2312270 2910
+"What's wrong?" he asks.
+
+396 2315310 1170
+And the sun replies,
+
+397 2316560 2210
+"Screw you, I'm in the West now!"
+
+398 2325390 1250
+Name?
+
+399 2327390 1630
+Rank? Department?
+
+400 2330730 1410
+Me?
+
+401 2334350 1500
+Stigler.
+
+402 2336390 3130
+2nd Lieutenant Axel Stigler. Dept. M.
+
+403 2339980 2250
+I don't have to tell you
+
+404 2342310 2250
+what this means for your career.
+
+405 2346890 4590
+Please, Comrade Lieutenant Colonel,
+I was just...
+
+406 2351600 4080
+You were just deriding the Party!
+That's incitement,
+
+407 2356100 2080
+and likely just the tip of the iceberg!
+
+408 2358930 2750
+I will report this to the Minister's office.
+
+409 2373560 3120
+Just kidding! Good one, huh?
+
+410 2376980 3500
+But yours was good too.
+I know a better one though.
+
+411 2380930 3300
+What's the difference between Honecker and a phone?
+
+412 2385180 1170
+None at all.
+
+413 2386520 2330
+Hang up, try again!
+
+414 2431720 3090
+- No, I have to get home.
+- Bye.
+
+415 2443140 830
+Cold?
+
+416 2447180 3590
+Christa, you forgot our meeting on Thursday.
+
+417 2451930 3000
+Or did your poet have two birthdays in a row?
+
+418 2457720 1000
+Come on, get in.
+
+419 2459970 840
+Get in!
+
+420 2473600 2290
+You don't know what's good for you.
+
+421 2490890 1420
+Don't worry.
+
+422 2494020 2080
+I'm looking after you.
+
+423 2510970 2420
+Tell me you don't need it too.
+
+424 2514470 2050
+Just say so, and I'll let you go.
+
+425 2527640 1630
+I'm meeting someone.
+
+426 2532140 1750
+Where do you think we're going?
+
+427 2535850 4920
+I'm taking you to him!
+You'll be there even quicker.
+
+428 2596140 2000
+Time for some bitter truths.
+
+429 2615180 840
+Yes?
+
+430 2625890 1460
+Those idiots!
+
+431 2650060 2660
+Next Thursday at the Metropol.
+
+432 2654390 1130
+Drive!
+
+433 2795560 1250
+Christa?
+
+434 2798930 1880
+Just hold me.
+
+435 2831810 1710
+Good evening, comrade!
+
+436 2835390 2710
+You're 5 minutes late again.
+
+437 2881640 3040
+Evening. 11th floor, right corridor.
+
+438 2884890 2130
+I'm already up here.
+
+439 2891640 2500
+How did you get into the building?
+
+440 2894560 2330
+A bunch of you guys live here.
+
+441 2898930 2210
+I don't think I've been here before.
+
+442 2901680 1590
+No, I don't think you have.
+
+443 2916640 2920
+Well? Was that nice?
+
+444 2928060 3290
+- Stay awhile.
+- I can't,
+
+445 2931850 2040
+my next customer is at half-past.
+
+446 2935850 1870
+I work on a schedule.
+
+447 2944020 3620
+At one-thirty?
+You won't make it.
+
+448 2947930 3380
+Sure I will. Don't you worry.
+
+449 2953100 2330
+Book me for longer next time.
+
+450 2956520 620
+Bye.
+
+451 3023560 3910
+Georg? Did you hear about Hauser?
+
+452 3028390 1130
+No, what happened?
+
+453 3029810 2000
+He can't get a travel permit
+
+454 3031850 1540
+for his lectures in the West.
+
+455 3035890 1460
+Are you surprised?
+
+456 3038020 2870
+If he acts so arrogantly,
+he should expect it.
+
+457 3042520 2910
+Would you let him go,
+if you were in their position?
+
+458 3050020 10250
+"CMS comes home. 'Lazlo' approves of
+Hauser's foreign travel ban."
+
+459 3067310 2370
+Have you seen my Brecht book?
+
+460 3069770 1660
+- What?
+- My Brecht book.
+
+461 3073140 1170
+I don't know where it is.
+
+462 3076310 2540
+Strange. I could've sworn...
+
+463 3079930 5340
+One day in blue-moon September,
+silent under a plum tree,
+
+464 3085680 3340
+I held her, my silent pale love,
+in my arms like a fair
+
+465 3089100 2460
+and lovely dream.
+
+466 3092390 2380
+Above us in the summer skies
+
+467 3094890 2540
+was a cloud that caught my eye.
+
+468 3097770 3750
+It was white and so high up.
+
+469 3101640 3540
+And when I looked up,
+it was no longer there.
+
+470 3125850 2540
+- Yes?
+- Georg? Wallner here.
+
+471 3128810 870
+What's up?
+
+472 3131470 1750
+Georg, it's about Jerska.
+
+473 3134020 2790
+He hanged himself last night.
+
+474 3144600 1460
+Georg?
+
+475 3148390 1880
+I'm going to hang up, okay?
+
+476 3181470 2840
+"Sonata for a Good Man"
+
+477 3258520 4080
+You know what Lenin said
+about Beethoven's 'Appassionata'.
+
+478 3265180 1340
+"If I keep listening to it,
+
+479 3266560 2500
+I won't finish the revolution."
+
+480 3273600 2790
+Can anyone who has heard this music,
+
+481 3277310 1500
+I mean truly heard it,
+
+482 3279970 2630
+really be a bad person?
+
+483 3316220 2050
+Are you really with the Stasi?
+
+484 3323930 3040
+Do you even know what the Stasi is?
+
+485 3327060 5540
+Yes. They're bad men
+who put people in prison, says my dad.
+
+486 3333720 1000
+I see.
+
+487 3335390 1960
+What's the name of your...
+
+488 3341060 1370
+My what?
+
+489 3344310 2290
+Ball! What's the name of your ball?
+
+490 3346850 3420
+You're funny! Balls don't have names.
+
+491 3356890 2000
+It's all in place, Minister.
+
+492 3359220 1840
+The latest technology.
+
+493 3361890 2460
+Behind every light switch, even in the toilet.
+
+494 3364470 3300
+- Measure C in the hall...
+- You said you'd find something!
+
+495 3367930 1000
+Find something!
+
+496 3370520 3160
+I'd advise even my worst enemy
+not to disappoint me.
+
+497 3377470 1340
+Now get out of here!
+
+498 3387930 1920
+Nowack, you're to watch Christa-Maria.
+
+499 3390020 3580
+You'll report on every minute
+that she's not with me.
+
+500 3395680 3920
+We revoked Hauser's travel permit
+for the culture conference.
+
+501 3399680 4290
+Maybe that'll lead to something.
+The two of them are very close.
+
+502 3405600 2830
+How's it going between CMS and the Minister?
+
+503 3408600 3420
+They're meeting tomorrow night, I think.
+
+504 3412220 4050
+That's good! Very good!
+We have a lot to gain from this love story.
+
+505 3417680 1630
+Or a lot to lose.
+
+506 3420140 1000
+Don't forget that.
+
+507 3434140 2670
+I used to be afraid of just two things:
+
+508 3437810 2620
+Being alone, and not being able to write.
+
+509 3442640 2080
+Since Albert's death,
+I don't care about writing
+
+510 3445520 1500
+or about other people.
+
+511 3448930 2340
+All I'm afraid of now is losing you.
+
+512 3452930 2460
+You needn't be afraid tonight.
+
+513 3457220 1960
+I'm just going out for a few hours.
+
+514 3459350 1420
+Where to?
+
+515 3461470 2800
+An old classmate's in town.
+
+516 3465180 1250
+Really, Christa?
+
+517 3469100 3540
+- Really?
+- How dare you!
+
+518 3475970 1460
+I know.
+
+519 3479720 2000
+I know where you're going.
+
+520 3484720 1920
+And I'm asking you not to go.
+
+521 3488140 1830
+You don't need him.
+
+522 3490930 1130
+You don't need him.
+
+523 3501560 1620
+I know about your medication too.
+
+524 3505640 2750
+And how little faith you have in your talent.
+
+525 3509850 1660
+Have faith in me, at least.
+
+526 3514220 1670
+Christa-Maria.
+
+527 3516970 2040
+You are a great artist.
+
+528 3521470 3920
+I know that.
+And your audience knows it too.
+
+529 3526970 1670
+You don't need him.
+
+530 3531010 1590
+You don't need him.
+
+531 3533350 1330
+Stay here.
+
+532 3536100 1460
+Don't go to him.
+
+533 3541350 7250
+No? Don't I need him?
+Don't I need this whole system?
+
+534 3552350 1580
+What about you?
+
+535 3555180 3040
+Then you don't need it either.
+Or need it even less.
+
+536 3559760 2340
+But you get in bed with them too.
+
+537 3562180 1880
+Why do you do it?
+
+538 3564390 2120
+Because they can destroy you too,
+
+539 3566640 3000
+despite your talent and your faith.
+
+540 3572390 3870
+Because they decide what we play,
+who is to act,
+
+541 3576310 2250
+and who can direct.
+
+542 3581930 2250
+You don't want to end up like Jerska.
+
+543 3584970 1750
+And neither do I.
+
+544 3587720 2040
+That's why I'm going now.
+
+545 3590930 5380
+You're right about so many things,
+and I want to change so much.
+
+546 3599260 1090
+But I ask you,
+
+547 3601350 2580
+I implore you: Don't go!
+
+548 3604890 2040
+Well, boss, am I on time?
+
+549 3607930 2540
+Let me guess what those two are doing...
+
+550 3613350 1540
+Come on, I'll take over.
+
+551 3614930 2960
+I don't want you
+to do overtime because of me.
+
+552 3627970 2040
+"Don't go through that door."
+
+553 3630100 2000
+Where's she going?
+
+554 3633140 2920
+To meet an old classmate.
+
+555 3642140 2080
+You'll have my detailed report tomorrow.
+
+556 3644470 1460
+I can manage.
+
+557 3649810 1700
+Good night.
+
+558 3704600 1830
+What are you staring at?
+
+559 3716510 1210
+Soda water.
+
+560 3720600 2790
+No, uh... Vodka.
+
+561 3724390 1250
+Double.
+
+562 3732560 1700
+Another one.
+
+563 3749350 2160
+Can I have a cognac, please?
+
+564 3803970 1170
+Madam?
+
+565 3805930 2580
+Go away, I want to be alone.
+
+566 3809220 1500
+Ms. Sieland.
+
+567 3813390 1370
+Do we know each other?
+
+568 3815140 1790
+You don't know me, but I know you.
+
+569 3820010 1710
+Many people love you
+
+570 3821760 2300
+for who you are.
+
+571 3828640 3580
+- Actors are never 'who they are.'
+- You are.
+
+572 3839140 2080
+I've seen you on stage.
+
+573 3842260 5000
+You were more who you are...
+
+574 3850430 1830
+than you are now.
+
+575 3856140 1710
+So you know what I'm like.
+
+576 3858220 1840
+I'm your audience.
+
+577 3867350 2540
+- I have to go.
+- Where to?
+
+578 3871510 3210
+I'm meeting an old classmate. I...
+
+579 3874850 3830
+You see?
+Just now you weren't being yourself.
+
+580 3880890 1000
+No?
+
+581 3882350 960
+No.
+
+582 3896100 4210
+So you know her well,
+this Christa-Maria Sieland.
+
+583 3902890 1710
+What do you think...
+
+584 3905310 3660
+Would she hurt someone
+who loves her above all else?
+
+585 3913140 2870
+Would she sell herself for art?
+
+586 3916310 1830
+For art?
+
+587 3918260 3800
+You already have art.
+That'd be a bad deal.
+
+588 3923140 2210
+You are a great artist.
+
+589 3927010 1170
+Don't you know that?
+
+590 3933890 1540
+And you are a good man.
+
+591 3971560 3080
+"When I begin my shift, 'Lazlo' and CMS
+
+592 3974760 4960
+are arguing about whether CMS
+should meet her classmate.
+
+593 3980010 3880
+Eventually, she leaves.
+'Lazlo' seems unhappy about this.
+
+594 3986100 4000
+But after about 20 minutes, CMS returns,
+
+595 3990180 2290
+to 'Lazlo's' surprise, and mine.
+
+596 3992680 5460
+He seems very happy about this.
+Vigorous acts of intimacy follow.
+
+597 4001680 2830
+She says she'll never leave again.
+
+598 4004720 5340
+He says repeatedly: 'Now I'll have the strength,
+now I'll do something.'
+
+599 4010310 4200
+This likely refers to writing a new stage play.
+
+600 4014810 5120
+In recent weeks, 'Lazlo's' playwriting
+had been plagued by difficulties.
+
+601 4020220 2630
+What she means by her statement is unclear.
+
+602 4022930 4460
+Perhaps she intends to
+take better care of his household.
+
+603 4028010 2300
+The rest of the night was peaceful."
+
+604 4031180 6830
+Oh, comrade... uh... It's just because...
+He's sleeping too...
+
+605 4038810 1290
+Good report.
+
+606 4043310 1580
+Really?
+
+607 4063010 2420
+I didn't know he was in such a bad way.
+
+608 4069310 1540
+Neither did I.
+
+609 4077720 1790
+"On One Who Made it to the Other Side:
+
+610 4080720 3000
+The statistics office on Hans Beimler Street
+
+611 4083850 2580
+counts everything, knows everything.
+
+612 4086680 3290
+How many shoes I buy a year: 2.3.
+
+613 4090060 2500
+How many books I read a year: 3.2.
+
+614 4092600 6710
+And how many pupils graduate
+with straight A's every year: 6347.
+
+615 4099470 3090
+But there is one thing they don't count,
+
+616 4102810 3620
+maybe because even bureaucrats find it painful,
+
+617 4106680 1630
+and that's suicides.
+
+618 4108810 2870
+If you call Beimler Street to ask
+
+619 4111720 2790
+how many people between the Elbe and the Oder,
+
+620 4114810 2790
+between the Baltic Sea and the Ore
+Mountains despair drove to their death,
+
+621 4118100 1870
+our numbers oracle is silent.
+
+622 4120060 2410
+But it may just note your name
+for State Security...
+
+623 4122680 1880
+Those grey men
+
+624 4124850 5580
+who ensure safety in our land... and happiness.
+
+625 4130850 4210
+In 1977, our country
+stopped counting suicides.
+
+626 4135810 3330
+They called them 'self-murderers'.
+
+627 4139930 3080
+But it has nothing to do with murder.
+
+628 4143430 4670
+It knows no bloodlust,\no heated passion,
+
+629 4148510 4800
+it knows only death, the death of all hope.
+
+630 4153390 2750
+When we stopped counting,
+
+631 4156390 3290
+only one country in Europe
+drove more people to their death:
+
+632 4160140 1080
+Hungary.
+
+633 4161430 4670
+We came next, the land of
+'Real Existing Socialism'.
+
+634 4166180 3080
+One of the uncounted
+is Albert Jerska,
+
+635 4169470 1630
+the great director.
+
+636 4171470 1880
+It's him I want to talk about today..."
+
+637 4178560 2250
+I tried to get statistics that show...
+
+638 4180850 2460
+...that State Security operates more
+effectively than we think!
+
+639 4183390 1370
+I foolishly rehearsed
+
+640 4193350 3290
+my speech for the West in here.
+
+641 4199220 2920
+Since then, I've become very musical.
+
+642 4204430 1580
+We can meet at my place.
+
+643 4213680 2880
+"3 p.m., Pankow Memorial"
+
+644 4222470 1880
+Well? Is this safe enough?
+
+645 4229510 1750
+My own 'bodyguard'.
+
+646 4231390 2710
+I call him Rolf.
+That's probably his name, too.
+
+647 4236970 1250
+Fire away.
+
+648 4239220 1090
+Here.
+
+649 4251390 1250
+You want to publish this?
+
+650 4253680 2790
+In the West, with your help.
+
+651 4262350 2410
+Will you help? Have you told Christa?
+
+652 4264930 1130
+No.
+
+653 4267470 1040
+I'll help you,
+
+654 4268560 3620
+as long as you don't tell her anything.
+
+655 4272310 1080
+What?
+
+656 4273510 2170
+Georg, it's for her own protection.
+
+657 4277430 1420
+This could be right for the 'Spiegel'.
+
+658 4279010 1880
+I'm friends with an editor there.
+
+659 4281010 1800
+Gregor Hessenstein. Know him?
+
+660 4282930 1040
+Not personally.
+
+661 4284010 1590
+You have to meet him.
+
+662 4287060 2660
+But you can't publish using your real name.
+
+663 4290810 4120
+Unless your idea of fun
+is a 48-hour interrogation.
+
+664 4296260 1800
+I'm cold!
+
+665 4299180 1420
+We could go to my place?
+
+666 4302310 2160
+There's no State Security at my place!
+
+667 4304640 2500
+A friend of Margot Honecker,
+
+668 4307180 1580
+winner of the National Award...
+
+669 4308850 1660
+Second class!
+
+670 4311060 1580
+My apartment is clean, I tell you!
+
+671 4313720 3040
+If only we could be sure...
+
+672 4319600 2830
+I have an idea
+how we can check your apartment.
+
+673 4323060 2040
+You know my uncle Frank,
+
+674 4325220 2630
+who visits from West Berlin every Saturday,
+
+675 4327930 2460
+with his big gold Mercedes.
+
+676 4331220 2710
+It seems a bit risky to me, Mr. Hauser.
+
+677 4334640 2670
+Yes, I agree with Georg.
+
+678 4337470 2790
+Hiding your nephew under the back seat?
+
+679 4340430 1880
+I'm really not sure.
+
+680 4342930 2830
+Come on, they won't search under the seats.
+
+681 4345820 2790
+They'll look under the axles, tap the exhaust,
+
+682 4348740 2660
+then I'll be across. Paul too.
+
+683 4352360 4460
+The border guards aren't very bright.
+You've got the wrong idea there.
+
+684 4359820 3130
+- Which border will you cross?
+- Heinrich-Heine Street.
+
+685 4363030 1710
+Good old Henrich Heine.
+
+686 4364780 3330
+They know me and my gold Mercedes.
+
+687 4368200 2950
+I'm friends with the guards.
+
+688 4371700 3120
+Trust me, I'll call you in 2 hours,
+
+689 4374900 1090
+a Schultheiss beer in my hand,
+
+690 4376070 2830
+and report the news:
+
+691 4378990 1660
+Paul's across.
+
+692 4382400 1920
+No! What about Paul's Stasi man?
+
+693 4384450 5160
+Rolf! Rolfy, Rolfy...
+He'll think that Paul's at home.
+
+694 4391400 1880
+Okay, I have to go.
+
+695 4393490 4120
+We wouldn't want him to suffocate, would we?
+
+696 4414240 1290
+Another beer?
+
+697 4420900 2090
+Border control, Heinrich-Heine Street.
+
+698 4424950 1200
+Who is this?
+
+699 4427200 1250
+Who is this?
+
+700 4430030 1250
+No reply.
+
+701 4436570 1750
+Just this once, my friend.
+
+702 4462490 1660
+- Dreyman.
+- Okay,
+
+703 4464240 2290
+Paul's plan worked!
+
+704 4466860 1880
+No border control at all?
+
+705 4468780 3040
+No, no special checks.
+
+706 4471900 1880
+Those boys aren't so bad.
+
+707 4473990 1870
+It worked as planned.
+
+708 4475860 2670
+Thanks for doing this, Mr. Hauser.
+
+709 4478570 4790
+Forget it, it wasn't all that dangerous.
+
+710 4483450 2000
+- Yeah, true.
+- Yeah.
+
+711 4485530 2500
+See you soon, and thanks a lot.
+
+712 4488070 1000
+Bye.
+
+713 4498740 3290
+What do we do if they ask
+what we're doing together?
+
+714 4508150 1710
+Then... we'll say
+
+715 4511780 4000
+We'll say we're writing a stage play together.
+
+716 4516950 2450
+For the GDR's 40th anniversary.
+
+717 4520110 1340
+Yes!
+
+718 4521780 1670
+And it's kind of true.
+
+719 4527150 1880
+Who'd have thought our State Security
+
+720 4529110 3040
+was so incompetent?
+
+721 4535570 4130
+Who'd have thought they were such idiots?
+
+722 4543570 1750
+Just you wait...
+
+723 4555070 13710
+"7.32 p.m. No further noteworthy incidents."
+
+724 4580070 3170
+Hello, comrade. Listen to this here!
+
+725 4586700 3450
+Sure, in 1967 there were many suicides.
+
+726 4590320 2380
+But why in 1977? You must explain.
+
+727 4592780 2750
+You must describe
+the social conditions more clearly.
+
+728 4597030 1960
+It should remain literature,
+
+729 4599030 1710
+not political agitation.
+
+730 4600990 1500
+The text is great.
+
+731 4602700 3410
+I just want to be sure people
+understand it in the West.
+
+732 4606200 2120
+It'll cause a sensation either way.
+
+733 4609360 3590
+- That's Hauser!
+- Of course it's Hauser.
+
+734 4613360 2250
+He's not in the West!
+
+735 4621820 2170
+They're writing a play together.
+
+736 4625950 2250
+For the 40th anniversary.
+
+737 4628950 2870
+It doesn't sound like a play to me.
+
+738 4634570 1710
+No? Then what?
+
+739 4637320 2750
+I don't know... but not a play.
+
+740 4641490 2750
+You think a lot, Sergeant Leye.
+
+741 4644610 2090
+You're not an intellectual, are you?
+
+742 4647030 2580
+Me? No... I'm not one of those.
+
+743 4649700 2410
+Then don't behave like one.
+
+744 4653200 2750
+I chose you because you know
+the equipment
+
+745 4656030 2620
+and don't ask questions.
+
+746 4659650 1960
+Leave the thinking to your superiors.
+
+747 4661900 3170
+Yes, Captain. I'll be off, then.
+
+748 4665610 2880
+Have a nice day...
+
+749 4668610 3250
+of work... I mean, I hope you enjoy your work.
+
+750 4676860 1630
+Maybe I can re-write this part.
+
+751 4680240 1200
+I'll send you
+
+752 4681530 1710
+all the material we have.
+
+753 4683360 2210
+Can you do it in two weeks?
+
+754 4686650 2210
+Then I could run it as a cover story
+
+755 4689440 1710
+for the first week in March.
+
+756 4693690 1130
+It's Christa.
+
+757 4696610 1040
+Georg?
+
+758 4699690 3090
+Christa, this is Gregor Hessenstein.
+
+759 4704070 2750
+- Christa Sieland.
+- Of course, I know that!
+
+760 4707440 1840
+So, what conspiracy are you cooking up?
+
+761 4710240 4450
+Hauser and I are writing a play
+for the GDR's 40th anniversary.
+
+762 4714780 1040
+Together?
+
+763 4715900 3340
+The 'Spiegel' may do an article on it.
+
+764 4719360 2920
+- And who'll play the lead role?
+- We planned to ask you.
+
+765 4722360 2040
+Christa, who would you rather play:
+
+766 4724440 2090
+Lenin or his dear old mother?
+
+767 4726690 1710
+You can choose.
+
+768 4729240 2120
+I see I'm not welcome here.
+
+769 4731400 1920
+I'll go for a nap.
+
+770 4741190 2170
+Your caution is praiseworthy.
+
+771 4744320 2460
+The fewer people know, the better.
+
+772 4746820 1670
+The Stasi is not to be toyed with.
+
+773 4754360 3790
+On that note, I brought something for you.
+
+774 4762320 3620
+I'd have preferred the whole pie.
+I already have a typewriter.
+
+775 4766030 3040
+The Stasi can identify its typeface.
+
+776 4769280 1620
+If they intercepted the text at the border,
+
+777 4770990 1700
+for your typewriter using,
+
+778 4772740 1870
+you'd end up in Hohenschonhausen.
+
+779 4774740 2250
+And that's no fun,
+
+780 4777070 1790
+as Paul can confirm, right?
+
+781 4780570 2870
+I'm afraid I could only get
+a red ink ribbon for this model.
+
+782 4783530 4290
+Do you mind writing it in red?
+
+783 4788150 1460
+That won't be a problem.
+
+784 4790690 2880
+Is there somewhere you can hide it?
+
+785 4794570 3330
+- Yes, I'll find a place.
+- Don't take it lightly.
+
+786 4798610 2000
+I don't want my next article to be about
+
+787 4800650 2420
+your disappearance!
+
+788 4803150 2960
+Nobody may know that this typewriter exists!
+
+789 4808440 2210
+Is this apartment really safe?
+
+790 4810780 1410
+Yes.
+
+791 4813860 2000
+It's the only place left in the GDR
+
+792 4815900 2040
+where I can say what I want.
+
+793 4818820 2370
+Fine, then let's drink to that!
+
+794 4824110 2500
+This is the real stuff.
+
+795 4828030 4910
+To you! To letting all of Germany
+see the true face of the GDR!
+
+796 4840320 3210
+Cheers. It's better than the Russian stuff!
+
+797 4844110 1710
+To your success!
+
+798 4862900 2380
+I must see Comrade Grubitz.
+
+799 4867860 4420
+Tomorrow at 2.30 p.m...
+
+800 4873190 5170
+Tell him that if he blows the cover,
+we'll shut down the entire parish!
+
+801 4878400 1340
+It's easy!
+
+802 4880610 2250
+He can call the Pope and complain!
+
+803 4883070 2870
+Okay, I've spent enough time on this nonsense.
+
+804 4887280 1660
+Wiesler, I'm glad you're here.
+
+805 4889820 1580
+I have to show you something.
+
+806 4893070 5620
+"Prison Conditions for Subversive Artists
+Based on Character Profile."
+
+807 4898900 1130
+Pretty scientific, eh?
+
+808 4901530 1620
+And look at this:
+
+809 4904820 5040
+"Dissertation supervisor: A. Grubitz."
+That's great, isn't it?
+
+810 4912530 1750
+I only gave him a B...
+
+811 4914900 3420
+They shouldn't think
+getting a doctorate with me is easy.
+
+812 4918440 2000
+But this is first-class.
+
+813 4920570 4420
+Did you know that there are just 5 types of artists?
+
+814 4925900 1670
+Your guy, Dreyman,
+
+815 4927690 3630
+is a type 4. A "hysterical anthropocentrist."
+
+816 4931900 1420
+Can't bear being alone,
+
+817 4933400 1840
+always talking, needing friends.
+
+818 4935280 2410
+That type should never be brought to trial.
+
+819 4937780 1660
+They thrive on that.
+
+820 4940280 2660
+Temporary detention is the best way
+
+821 4943030 1750
+to deal with them.
+
+822 4944820 2830
+Complete isolation and no set release date.
+
+823 4947650 1960
+No human contact the whole time,
+
+824 4949690 1630
+not even with the guards.
+
+825 4951690 1840
+Good treatment,
+
+826 4953610 2500
+no harassment, no abuse, no scandals...
+
+827 4956190 2380
+nothing they could write about later.
+
+828 4959740 2950
+After 10 months, we release.
+
+829 4963440 1210
+Suddenly.
+
+830 4965320 1710
+That guy won't cause us any more trouble.
+
+831 4967150 1540
+Know what the best part is?
+
+832 4968820 3540
+Most type 4s we've processed in this way
+
+833 4973190 2920
+never write anything again! Or paint anything,
+
+834 4976150 2630
+or whatever artists do...
+
+835 4979320 3290
+And that without any use of force...
+
+836 4983190 1420
+Just like that! Kind of...
+
+837 4985400 1340
+like a present.
+
+838 4988360 3080
+What brings you here?
+Developments with Dreyman?
+
+839 4991990 2750
+That's why I'm here.
+
+840 4995650 2290
+I think the time has come...
+
+841 4998820 1000
+For what?
+
+842 5000690 3170
+For us to slim down the operation.
+
+843 5005070 1960
+I don't want to run day and night shifts
+
+844 5007110 3080
+for such an uncertain case.
+
+845 5010240 1500
+Uncertain, eh?
+
+846 5012820 2580
+You don't think we'll find anything
+
+847 5015490 1120
+for the Minister?
+
+848 5016690 2710
+Maybe if we're more flexible...
+
+849 5019990 3500
+If we watch 'Lazlo' outside his own four walls.
+
+850 5027150 2090
+Shall I give the case to Udo?
+
+851 5029530 2710
+I'd like to continue it myself.
+
+852 5033530 1040
+Why?
+
+853 5035400 1920
+It could produce results.
+
+854 5038610 2500
+I just need to plan more flexibly,
+
+855 5042110 4290
+when I come and go, days and nights...
+
+856 5047070 2330
+Maybe he's up to something outside.
+
+857 5053990 2370
+Something doesn't feel right here.
+
+858 5059780 1790
+There's something you're hiding.
+
+859 5070110 2500
+Alright, I'll take Udo off the case.
+
+860 5073610 2710
+I can use him for this church case.
+
+861 5077030 1960
+Give me a request in writing.
+
+862 5079280 2500
+Write as a reason:"Lack of suspicious acts."
+
+863 5087030 1870
+And, Wiesler!
+
+864 5091780 960
+A piece of advice for you:
+
+865 5093820 1370
+We're not at school anymore.
+
+866 5095690 1840
+Projects aren't about grades,
+
+867 5097530 2160
+but success.
+
+868 5115990 2870
+"The state statistics office
+
+869 5118900 2250
+counts everything, knows everything.
+
+870 5121650 2540
+How many shoes I buy a year: 2.3.
+
+871 5124690 2210
+How many books I read a year: 3.2.
+
+872 5127360 7710
+And how many pupils graduate
+with straight A's every year: 6347."
+
+873 5143900 17250
+"5 p.m. Lazlo reads the first act of
+his anniversary play to Hauser and Wallner."
+
+874 5195150 5670
+DENTAL PRACTICE
+
+875 5265820 2120
+We're not writing a play, Christa.
+
+876 5268030 1290
+You don't have to tell me.
+
+877 5270110 2580
+But I want to. It's a text...
+
+878 5272780 1910
+Don't tell me.
+
+879 5275820 3040
+Maybe I am as unreliable as your friends say.
+
+880 5281280 1790
+But I... I'm with you now...
+
+881 5284280 1830
+No matter what.
+
+882 5321490 3750
+Minister Riesenhuber, author of the report,
+
+883 5325280 4500
+said there is no quick fix
+for saving damaged forests.
+
+884 5330440 2250
+East-West German relations under strain.
+
+885 5333280 2910
+'Spiegel' magazine today published
+
+886 5336240 2500
+a text by an unnamed East German author
+
+887 5338780 4370
+about suicide in the German Democratic Republic.
+
+888 5343990 3580
+This follows a series of suicides by prominent
+
+889 5347690 2920
+East-Berlin artists, the latest being Albert Jerska.
+
+890 5351150 3130
+After being blacklisted for 7 years,
+
+891 5354360 2920
+Jerska committed suicide on January 5th.
+
+892 5357400 4920
+In 1977, the GDR ceased publishing
+any data relating to suicides.
+
+893 5362530 3790
+That year, Hungary was the only country
+in Europe with a higher suicide rate.
+
+894 5367650 1630
+Yes, Sir...
+
+895 5371240 1250
+But we...
+
+896 5373820 2580
+General, our man at the 'Spiegel'
+
+897 5376490 2500
+got us a photostat of the original.
+
+898 5379280 2660
+Congratulations! So who wrote it?
+
+899 5382030 3000
+He doesn't know, but using the typeface, we'll...
+
+900 5385150 2420
+You're hopeless! Get me names!
+
+901 5387900 2630
+I will, as soon as we get the results.
+
+902 5390530 2290
+If not, you'll be put against the wall.
+
+903 5400280 2040
+Andrea, where's the graphologist?
+
+904 5402860 3920
+Thus I conclude that it is a domestic
+typewriter produced for export,
+
+905 5406820 2670
+most likely a 'Kolibri' travel model,
+
+906 5409610 4170
+made by the VEB Groma.
+
+907 5413780 2660
+If the ink were black, I could be more precise.
+
+908 5418570 1210
+Who owns such a typewriter?
+
+909 5420110 2210
+There are none registered in the GDR.
+
+910 5422780 2540
+What does that mean?
+What does Hauser use?
+
+911 5425400 4290
+Paul Hauser uses a 'Valentino' typewriter,
+made by Olivetti.
+
+912 5429940 4340
+- That model has a more horizontal...
+- Yes, yes! And Wallner?
+
+913 5436320 2420
+He writes on an Optima 'Elite'.
+
+914 5440740 1330
+Georg Dreyman?
+
+915 5442110 2630
+He writes his first drafts by hand,
+
+916 5444820 3000
+then types them up
+on a Wanderer 'Torpedo'.
+
+917 5447860 1670
+He's never used anything else.
+
+918 5452820 3250
+How big is this 'Kolibri' typewriter?
+
+919 5456110 3130
+It's one of the smallest available:
+
+920 5459360 3960
+19.5cm x 99cm x 19.55cm.
+
+921 5464780 2080
+So it's as easy to smuggle as a book.
+
+922 5470150 1790
+Thank you. You may go.
+
+923 5476280 1160
+Goodbye, comrade.
+
+924 5483360 3830
+"The Secret Suicide Statistics"
+
+925 5489900 2500
+Andrea, put me through to Wiesler.
+
+926 5493070 11250
+"4 p.m. The group is exhausted
+from so much writing."
+
+927 5516070 2870
+- Yes?
+- Have you heard about this article?
+
+928 5519570 2870
+- In the 'Spiegel'? Yes.
+- How so?
+
+929 5523990 2950
+Hauser called Dreyman
+and told him about it.
+
+930 5528070 4250
+Wiesler, this is very important.
+Both for my career and for yours.
+
+931 5533360 4500
+Did he mention who may be behind it?
+Or do you have any ideas?
+
+932 5538860 4000
+I don't think he mentioned anything.
+No... nothing at all.
+
+933 5545570 5790
+A 'Spiegel' editor crossed the border
+using a false name on the 27th,
+
+934 5551530 2910
+and spent four hours here.
+
+935 5554530 3660
+Dept. VI followed him to Prenzlauer Berg,
+then lost his trail.
+
+936 5559030 2290
+Did he have contact with Dreyman?
+
+937 5562360 3380
+- Wouldn't I have noted it in the report?
+- Yes, of course.
+
+938 5567110 2210
+But I smell a writer behind this text.
+
+939 5569400 2090
+I'd be astonished if I'm wrong.
+
+940 5572190 1920
+So keep your ears open!
+
+941 5581190 1300
+Shit!
+
+942 5598990 1450
+Get in.
+
+943 5614690 4420
+If one of your staff deceives you,
+you punish him, right?
+
+944 5619190 1710
+Sure, sure!
+
+945 5621280 3370
+Even a woman? Right?
+
+946 5624860 1170
+But of course!
+
+947 5627780 4580
+Isn't everyone who serves a great man
+part of his staff?
+
+948 5633070 1170
+You could see it like that...
+
+949 5635780 1790
+Indeed, you'd have to see it like that.
+
+950 5639990 5120
+This is where she gets her illegal medication.
+Christa-Maria Sieland.
+
+951 5646610 2960
+You should know this, it's your department.
+
+952 5651240 3040
+It's up to you whether you ruin her or not,
+
+953 5655690 3460
+but I never want to see her
+on a German stage again.
+
+954 5662990 1750
+Now get out.
+
+955 5671440 1250
+Shut the door!
+
+956 5674440 3710
+Ms. Sieland? Please follow us.
+We have some questions.
+
+957 5681440 1300
+Come along.
+
+958 5702530 830
+So...
+
+959 5705400 3080
+Comrade Sieland, a beautiful career you had, hm?
+
+960 5710780 1870
+A pity really. You were good.
+
+961 5713570 1370
+You were very good indeed.
+
+962 5716610 2040
+Just too short-lived.
+
+963 5719570 1540
+Do have a seat.
+
+964 5728820 3790
+What do actors do when they can't act anymore?
+
+965 5736730 2340
+Please...
+
+966 5740400 3460
+Isn't there anything I can do for you?
+
+967 5745320 5580
+- For... State Security?
+- It's a little late for that.
+
+968 5752530 2200
+I know nearly all our artists.
+
+969 5754780 1830
+I could find out a lot.
+
+970 5756690 3420
+I believe you.
+But it won't help you now.
+
+971 5770900 2880
+Maybe there's something else I could do?
+
+972 5776320 2660
+Something we might both find agreeable.
+
+973 5781570 4120
+Unfortunately,
+
+974 5786400 2670
+you've made an enemy
+of a very powerful man.
+
+975 5789940 2670
+Therefore, I have less freedom
+than would normally be the case.
+
+976 5795940 2170
+Is there no way I can save myself?
+
+977 5800030 2370
+I'm sorry, madam.
+
+978 5813440 1500
+There is one possibility.
+
+979 5815690 5090
+Since you spend so much time
+with writers and artists...
+
+980 5822400 4080
+You don't know anything about an article
+from this week's 'Spiegel', do you?
+
+981 5827530 1830
+An article about suicide.
+
+982 5883230 1630
+State Security! Open the door!
+
+983 5893110 1000
+Open up!
+
+984 5899860 2040
+He's turned on the light in his study.
+
+985 5902400 2210
+Go in before he destroys any evidence.
+
+986 5905480 1880
+Crowbar!
+
+987 5910360 2170
+I don't think that'll be necessary.
+
+988 5913690 2630
+- What's the matter, comrades?
+- We have a warrant to search the premises.
+
+989 5916610 1170
+Warrant is here.
+
+990 5919150 2040
+- What are you looking for?
+- It's confidential.
+
+991 5922860 1790
+Boysen, Muller: bedroom.
+
+992 5924730 1880
+Greska: kitchen, bathroom, hall.
+
+993 5926690 3090
+Heise and Thomas: living room, study.
+
+994 5929820 870
+Go!
+
+995 5981150 1670
+What do you burn in here?
+
+996 5984440 1040
+Substandard texts.
+
+997 5991730 2460
+A lot of Western literature, eh?
+
+998 5995820 2210
+That book was a gift from Margot Honecker.
+
+999 6001480 2750
+- Status?
+- All according to plan.
+
+1000 6008730 4590
+We found nothing,
+except Western books and newspapers.
+
+1001 6015780 2660
+- No trace to be found!
+- Did you search thoroughly?
+
+1002 6019900 2420
+Yes, Comrade! What's our next move?
+
+1003 6029110 2170
+- Comrade?
+- Pull out your men!
+
+1004 6033730 5000
+In the unlikely event that damage has
+occurred, you may claim compensation.
+
+1005 6039900 2170
+I'm sure everything's in perfect order.
+
+1006 6065400 920
+Yes?
+
+1007 6066440 3290
+Wiesler, I'll be expecting you
+in Hohenschonhausen at 9 a.m. tomorrow.
+
+1008 6074610 1960
+Okay, I'll say what we're all thinking:
+
+1009 6076650 1790
+It was Christa-Maria.
+
+1010 6078610 2250
+The Stasi got her, and she ratted on you.
+
+1011 6083900 920
+It wasn't her.
+
+1012 6085780 1040
+How can you be so sure?
+
+1013 6087820 2790
+You yourself said she wasn't home last night.
+
+1014 6094610 2120
+She knows the hiding place.
+
+1015 6098150 1130
+Yes, she knows.
+
+1016 6105900 1380
+So if you're right,
+
+1017 6107320 2370
+and the search was due to her,
+
+1018 6109900 2040
+then she's our guardian angel.
+
+1019 6117980 1710
+I'm here to see Lt. Col. Grubitz.
+
+1020 6121110 1370
+Captain Wiesler.
+
+1021 6123570 1540
+Interrogation room 76.
+
+1022 6142230 1880
+Yes! Come in.
+
+1023 6148900 830
+Sit down.
+
+1024 6157280 1000
+So?
+
+1025 6161610 1040
+What was that about?
+
+1026 6163610 1960
+You're asking me what that was about?
+
+1027 6168230 1960
+What do you suspect Dreyman of?
+
+1028 6172480 1500
+He wrote the 'Spiegel' article.
+
+1029 6178980 1300
+Who alleges that?
+
+1030 6184320 1580
+Come with me!
+
+1031 6196320 1460
+Here.
+
+1032 6199860 3000
+I don't know how you could be
+so sloppy as to miss all of this!
+
+1033 6204690 2670
+But I know you differently,
+especially as an interrogator.
+
+1034 6208480 1880
+So I'm giving you one last chance.
+
+1035 6211650 2210
+Bring in prisoner 662, now!
+
+1036 6218820 1620
+Are you still on the right side?
+
+1037 6224480 1380
+Yes.
+
+1038 6225980 1750
+Then don't screw it up again.
+
+1039 6252530 1700
+Shall I restrain the prisoner?
+
+1040 6255150 3330
+No, she's an informant now. You may go.
+
+1041 6264820 1790
+So you're my commanding officer?
+
+1042 6267440 1340
+Write.
+
+1043 6269650 1080
+Then command me.
+
+1044 6286730 2170
+In another 10 hours...
+
+1045 6290610 2170
+No, in 9 and a half,
+
+1046 6293570 1750
+Mr. Roessing will tell the audience that
+
+1047 6295400 3580
+you, for health reasons, cannot appear.
+
+1048 6300610 3580
+And that will be your last mention
+in the acting world.
+
+1049 6306030 1000
+Is that what you want?
+
+1050 6310280 2790
+Tell us where the evidence is hidden.
+
+1051 6314820 1250
+There is no evidence,
+
+1052 6317030 2950
+and no typewriter. I made it all up.
+
+1053 6321530 1040
+I hope not.
+
+1054 6324190 2250
+If so, we'll have to keep you here.
+
+1055 6327530 4160
+A false statement is perjury,
+which carries around 2 years in prison.
+
+1056 6334730 2050
+Dreyman will go to prison anyway,
+
+1057 6337440 1670
+on account of your statement...
+
+1058 6341570 3580
+and the material
+we've already found in the apartment.
+
+1059 6348730 2460
+Save yourself, at least.
+
+1060 6352980 2090
+You have no idea how many people
+
+1061 6355110 2420
+are in jail here for senseless heroics.
+
+1062 6360980 1840
+Don't forget your audience.
+
+1063 6363440 4130
+"Don't forget your audience!"
+He has some funny ideas!
+
+1064 6372110 2580
+Don't forget what the state has done for you...
+
+1065 6377030 2080
+Your whole life long.
+
+1066 6379360 2420
+Now you can do something for the state.
+
+1067 6381860 1920
+And it will thank you.
+
+1068 6386440 2170
+Tell me where the typewriter's hidden.
+
+1069 6391320 2080
+Dreyman will never find out.
+
+1070 6393980 1880
+I'll let you go immediately,
+
+1071 6396650 2170
+and we'll strike only after you're back with him.
+
+1072 6400570 3000
+You'll manage to feign surprise, I'm sure.
+
+1073 6405400 2540
+And tonight you'll be back on stage.
+
+1074 6410440 1540
+In your element.
+
+1075 6414320 1410
+In front of your audience.
+
+1076 6425860 2000
+Tell me where the documents are.
+
+1077 6438480 1210
+Where are they?
+
+1078 6444110 2370
+They're in the apartment...
+
+1079 6449610 2250
+Under the doorsill,
+
+1080 6452230 5090
+between the living room and the hallway.
+
+1081 6460610 2540
+You can remove it.
+
+1082 6477150 3460
+Is this where you mean?
+Mark the exact place with a cross.
+
+1083 6511070 3830
+You look worn out.
+Remember, you're an informant now.
+
+1084 6515030 3080
+That means responsibilities,
+like conspiracy and confidentiality,
+
+1085 6518320 4620
+but also privileges...
+
+1086 6545690 1380
+Guard!
+
+1087 6547980 1130
+Call Wiesler for me!
+
+1088 6549280 2830
+Col. Wiesler has left the premises, comrade.
+
+1089 6552400 1580
+I see!
+
+1090 6556030 1500
+Alright. Stand down.
+
+1091 6574070 2250
+What does a rider do when he's thrown?
+
+1092 6576440 1540
+He gets back on again.
+
+1093 6578320 1960
+Go inside. Sleep it off.
+
+1094 6580860 2750
+What happened has nothing to do with the house.
+
+1095 6584360 1620
+No, but with the whole country.
+
+1096 6651980 840
+Christa!
+
+1097 6652900 4750
+Stop, I was at Kerschner's and they had no water.
+I need a shower.
+
+1098 6675570 2580
+You were in a hurry to get here!
+
+1099 6678280 2200
+- Operation 'Lazlo' is still in progress!
+- Are they both inside?
+
+1100 6680570 1160
+Yes.
+
+1101 6683190 1460
+Here's today's report.
+
+1102 6685690 3460
+The last report for Operation 'Lazlo'.
+
+1103 6710820 1330
+Why didn't you call me?
+
+1104 6713150 1080
+What?
+
+1105 6715280 1750
+Why didn't you call me?
+
+1106 6718230 1250
+I was out in the country.
+
+1107 6721980 2050
+Can you hand me the nail brush?
+
+1108 6729230 2750
+The Stasi was here.
+They searched the apartment.
+
+1109 6733320 1000
+Who was here?
+
+1110 6736530 2160
+State Security! Open up!
+
+1111 6739610 1040
+Stay here.
+
+1112 6749440 3380
+Hello, Comrade Dreyman.
+I'm Lt. Col. Grubitz from State Security.
+
+1113 6753190 3790
+I just wanted to make sure
+they did a thorough job last night.
+
+1114 6757360 2460
+Your study? We'll start there.
+
+1115 6768900 2000
+Men, search carefully
+for notes hidden in the books.
+
+1116 6791110 2040
+Oh, what do we have here?
+
+1117 6796150 2120
+This doorsill doesn't look kosher to me.
+
+1118 6804020 3420
+Could it be... a secret compartment?
+
+1119 6821440 2040
+Let her go. She's not a suspect.
+
+1120 6839650 1620
+The actress...
+
+1121 6872860 2410
+I was too weak.
+
+1122 6875320 2660
+I can never put right what I've done wrong.
+
+1123 6878110 2410
+There's nothing to put right!
+You understand? Nothing.
+
+1124 6880610 2410
+I moved the ty...
+
+1125 6893520 8340
+Forgive me, forgive me... Forgive me, forgive me...
+
+1126 6929320 3250
+Take your men back to headquarters.
+This mission is over.
+
+1127 6948020 4550
+I've concluded the mission, Comrade Dreyman.
+We must have received an erroneous tip-off.
+
+1128 6954070 1000
+Sorry.
+
+1129 6957610 1500
+Come on.
+
+1130 7018360 2790
+There's one thing you should understand, Wiesler.
+
+1131 7022480 1340
+Your career is over.
+
+1132 7025190 2920
+Even if you were too smart to leave any traces.
+
+1133 7029610 4290
+You'll end up in some cellar,
+steam-opening letters until you retire.
+
+1134 7034900 1870
+That means the next 20 years.
+
+1135 7037570 1540
+20 years!
+
+1136 7040820 1080
+That's a long time.
+
+1137 7052110 3410
+"Mikhail Gorbachev elected as leader
+of the Soviet Union's Communist Party."
+
+1138 7058940 2750
+4 YEARS AND 7 MONTHS LATER
+
+1139 7080150 1290
+The Wall has come down!
+
+1140 7086570 1250
+Yes, the Wall has come down!
+
+1141 7093730 4540
+The border guards have opened the gates.
+The excitement is enormous!
+
+1142 7098270 3380
+People are streaming out in thousands!
+It's unbelievable!
+
+1143 7101860 3660
+Dear listeners, November 9th, 1989,
+
+1144 7105650 4210
+will go down in history!
+
+1145 7132150 4790
+TWO YEARS LATER
+
+1146 7139110 2660
+What's wrong, my child?
+
+1147 7142270 2000
+Your Arthur is dead.
+
+1148 7147480 4040
+Arthur... Can't you be wrong, just this once?
+
+1149 7151610 2410
+I saw him this morning!
+
+1150 7154150 3170
+No, sister. Believe me.
+He fell to his death.
+
+1151 7158820 2950
+The loyal men surround him, as you do me,
+
+1152 7162360 1750
+and despite the high sun, cast
+
+1153 7164230 4250
+seven shadows on his noble dead body.
+
+1154 7169520 4000
+Crushed by the mighty wheel. I see it,
+
+1155 7174190 2420
+though I'd rather see any other horror.
+
+1156 7179440 2670
+Why am I not spared these visions?
+
+1157 7183650 4250
+Elena! Go home and mourn.
+
+1158 7188650 2330
+I will finish your shift.
+
+1159 7199980 2590
+Too many memories, eh?
+
+1160 7207020 2670
+I couldn't stay in there either.
+
+1161 7212480 1710
+But what's this I hear?
+
+1162 7214940 2960
+You've not written since the Wall fell?
+
+1163 7218520 1550
+That's not good.
+
+1164 7221520 2670
+After all our country invested in you.
+
+1165 7225360 2960
+Although I understand you, Dreyman.
+
+1166 7228400 2210
+What is there to write about in this new Germany?
+
+1167 7231570 3700
+Nothing to believe in, nothing to rebel against...
+
+1168 7239230 2540
+Life was good in our little Republic.
+
+1169 7241980 2960
+Many people only realize that now.
+
+1170 7245230 4460
+- There is one thing I do need to ask you.
+- Whatever you want.
+
+1171 7250070 1580
+Why was I never under surveillance?
+
+1172 7253480 2710
+Everyone else was. Why not me?
+
+1173 7262520 1750
+You were under full surveillance!
+
+1174 7265650 1710
+We knew everything about you.
+
+1175 7268730 1380
+Full surveillance?
+
+1176 7271520 3420
+Every inch was bugged. The full program.
+
+1177 7276190 1000
+Impossible!
+
+1178 7280070 2580
+Take a look behind your light switches.
+
+1179 7283320 1410
+We knew everything.
+
+1180 7286820 5500
+We knew that you couldn't give
+our little Christa what she needed.
+
+1181 7298480 2790
+To think that people like you
+once ruled a country...
+
+1182 7386230 2920
+RESEARCH SITE AND MEMORIAL
+
+1183 7398820 4250
+It'll be a moment, there should be
+more than one file in your case.
+
+1184 7447570 2370
+I ordered them chronologically.
+
+1185 7449980 3000
+Old ones at the top,
+and the newer ones underneath.
+
+1186 7454860 1410
+My respects!
+
+1187 7478400 5370
+Operation 'Lazlo'. Operation 'Lazlo', subject:
+Georg Dreyman, code-name 'Lazlo', is launched.
+
+1188 7484110 3540
+The lead came from Minister Bruno Hempf.
+
+1189 7490360 6250
+'Lazlo' takes delivery of a daily Western newspaper
+without official permission.
+
+1190 7496860 3040
+I suggest not taking any action
+
+1191 7499980 3090
+so as not to arouse suspicion of surveillance.
+
+1192 7504860 2660
+'Lazlo' and CMS unwrap presents,
+
+1193 7507610 2790
+then presumably have intercourse.
+
+1194 7519770 3920
+The visitor was Paul Hauser's uncle from West Berlin.
+
+1195 7523980 3880
+They tell him about a play
+that Hauser
+
+1196 7527900 3250
+and 'Lazlo' will write
+for the GDR's 40th anniversary.
+
+1197 7534520 3420
+We expect further information on the play,
+
+1198 7537980 2250
+a plot summary etc.
+
+1199 7541860 2040
+Contents of act 1:
+
+1200 7544900 1920
+Lenin is in constant danger.
+
+1201 7547610 4370
+Despite increasing external pressure,
+he sticks to his revolutionary plans.
+
+1202 7554440 1710
+Lenin is exhausted.
+
+1203 7562900 830
+HGW...
+
+1204 7566400 2500
+HGW XX-7...
+
+1205 7582070 2290
+I, Christa-Maria Sieland,
+
+1206 7584690 4880
+freely commit myself to work unofficially
+for State Security.
+
+1207 7590650 4420
+This decision is the result of my conviction that...
+
+1208 7599900 1290
+Georg Dreyman
+
+1209 7601270 3250
+wrote the 'Spiegel' article
+"One Who Made it to the Other Side."
+
+1210 7605110 3250
+His accomplices were the journalist Paul Hauser...
+
+1211 7617190 3670
+Christa Sieland was arrested on March 10th
+
+1212 7620980 3250
+for drug abuse, on Minister Hempf's indication.
+
+1213 7624440 3420
+She was released at 1.50 p.m. on March 11th,
+
+1214 7628020 3170
+having revealed 'Lazlo's hiding place
+
+1215 7631320 3870
+and signing up as informant 'Marta'.
+
+1216 7640520 1800
+1.50 p.m...
+
+1217 7644070 1410
+So when did she...
+
+1218 7646070 2540
+After the unsuccessful house
+search of March 11, 1985,
+
+1219 7648690 4420
+and 'Marta's' fatal accident,
+
+1220 7653270 2090
+Operation 'Lazlo' was terminated.
+
+1221 7659650 4170
+Note: HGW's promotion ban
+takes effect immediately.
+
+1222 7664360 2120
+Transfer to Dept. M,
+
+1223 7666610 4160
+with the recommendation not to entrust him
+with missions under his sole responsibility.
+
+1224 7673150 4960
+10:50 a.m.: Resume surveillance
+outside 'Lazlo's' house.
+
+1225 7680650 4170
+At 3.10 p.m., 'Marta' comes directly from
+Hohenschonhausen to his apartment.
+
+1226 7686150 2750
+House search and report to follow.
+
+1227 7689940 4420
+End of Operation 'Lazlo'. HGW, 3.15 p.m.
+
+1228 7712730 1840
+Who is HGW XX-7?
+
+1229 7759690 1500
+Stop.
+
+1230 7811900 2330
+Back to Hufeland Street.
+
+1231 7839230 2790
+TWO YEARS LATER
+
+1232 7880440 3580
+"Georg Dreyman"
+"Sonata for a Good Man"
+
+1233 7895270 4540
+"A Novel" "Dedicated to HGW XX-7, in gratitude."
+
+1234 7918860 1370
+29,80.
+
+1235 7921150 870
+Shall I gift-wrap it?
+
+1236 7923860 2620
+No, it's for me.
+

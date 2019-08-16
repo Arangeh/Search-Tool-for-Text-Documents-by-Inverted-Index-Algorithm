@@ -1,0 +1,3362 @@
+1 111625 1787
+Don't tell me how well you fight
+
+2 113958 1411
+or how great your teacher is
+
+3 116000 1832
+or brag about your style
+
+4 118667 1241
+Kungfu 
+
+5 120458 1161
+two words
+
+6 122875 1241
+Horizontal. Vertical
+
+7 124750 2333
+Make a mistake - horizontal
+
+8 128000 1866
+Stay standing and you win
+
+9 131667 1286
+Isn't that right
+
+10 335000 4665
+<THE GRANDMASTER
+
+11 350208 1787
+We're from Foshan
+
+12 352125 1286
+My father ran the family business
+
+13 353500 2743
+He exported goods to Hong Kong
+
+14 357167 2162
+The Ips have a long history in Foshan
+
+15 359458 1536
+They named a street after us
+
+16 361083 1707
+That's how wealthy we were
+
+17 365333 2333
+Before I turned 40, life was easy
+
+18 368000 1832
+I lived off my family money
+
+19 370917 1332
+I had only one passion
+
+20 375458 1207
+At seven, I started learning kungfu
+
+21 376792 1366
+My master was Chan Wah-shun
+
+22 378333 2663
+Foshan's Wing Chun began with Leung Jan
+
+23 381333 1491
+I'm the third generation
+
+24 384333 2083
+When I started, my master was seventy
+
+25 387042 1116
+The day I became a disciple
+
+26 388167 1332
+he tied the sash himself
+
+27 390833 3164
+This sash stands for school and teacher
+
+28 394583 1866
+It stands for honor
+
+29 396667 3118
+You are now a martial artist
+
+30 399917 2617
+You must live your life with honor
+
+31 403625 1741
+One sash, an unbroken tradition
+
+32 405500 1787
+I lived through dynastic times
+
+33 407458 2708
+the early republic, warlords
+
+34 410250 1662
+Japanese invasion and civil war
+
+35 412000 1866
+Finally, I came to Hong Kong
+
+36 414083 1491
+What kept me goin
+
+37 415708 2743
+was the martial arts code of honor
+
+38 422833 1457
+My wife, Zhang Yongcheng
+
+39 424875 2413
+was the descendant of an Imperial Minister
+
+40 428375 1161
+She was a woman of few word
+
+41 429750 1832
+because she knew their power
+
+42 432333 2617
+We understood each other well
+
+43 465083 1286
+She loved music
+
+44 466708 2333
+I'd take her to hear opera
+
+45 469917 1662
+People were so conservative back then
+
+46 472000 2834
+Nice women didn't visit places like this
+
+47 475542 1411
+But gossip didn't bother her
+
+48 514167 2492
+When I went out, she lit a lam
+
+49 517292 2868
+and left it lit till I came home
+
+50 622250 1912
+If life has seasons
+
+51 624792 2663
+my first forty years were spring
+
+52 630833 4040
+(1936. Foshan, Guangdong Province.
+
+53 636000 1582
+In 1936, Fosha
+
+54 637583 1491
+was a prosperous city
+
+55 639250 1366
+Life was peaceful and good
+
+56 641167 2913
+Back then, men socialised in brothels
+
+57 644458 2617
+Such places were popular in the South
+
+58 647667 3198
+Foshan's finest was Republic House
+
+59 651250 1787
+Its walls were covered in gold
+
+60 653250 1457
+so we called it the Gold Pavilion
+
+61 655458 2492
+It was the first to have an elevator
+
+62 658625 1707
+Enter a prince, exit a pauper
+
+63 660917 1457
+You'd spend money like water
+
+64 663417 2333
+It was like a social club for martial artists
+
+65 666125 2788
+Good men can be found among rogues
+
+66 671875 3368
+And hidden masters too
+
+67 677958 1741
+People saw it as a pleasure palace
+
+68 680375 1332
+But to us
+
+69 682667 1491
+it was a battleground
+
+70 725792 3698
+I claim three accomplishments in life
+
+71 729833 2993
+First, I united Xingyi and Bagua styles
+
+72 734000 1912
+Second, I became the directo
+
+73 736000 2458
+of the Northern Martial Arts Union
+
+74 739167 4165
+bringing together Tongbei, Cannon Fist
+
+75 743417 2333
+Tai Chi, Yan Qing and other schools
+
+76 746833 5246
+Third, I took the northern masters south
+
+77 752458 1457
+In 1929
+
+78 754208 2492
+the First Southern Martial Arts Academ
+
+79 757208 1616
+was founded under my supervisio
+
+80 759000 4791
+after talks here in the Gold Pavilion
+
+81 764375 1286
+I'm getting old
+
+82 766000 2037
+It's time for new blood
+
+83 768333 4119
+I held a retirement ceremony up North
+
+84 772542 5496
+You invited me to hold a second one here
+
+85 779917 6156
+It's my farewell to my southern comrades
+
+86 787000 2037
+Up North, the one who took par
+
+87 790375 2458
+was my top disciple, Ma San
+
+88 794208 1866
+He'll be my successor
+
+89 799000 1992
+Please give him your support
+
+90 802833 3914
+I'd always wante
+
+91 807250 2834
+to take the southern styles north
+
+92 811708 1866
+Sadly, my time's up
+
+93 814417 4825
+I want to hold a demonstration matc
+
+94 820667 2868
+with a southern martial artist
+
+95 826167 1992
+Someone you all support
+
+96 832000 1332
+Pick one
+
+97 846750 2333
+Think you're good enoug
+
+98 850042 1957
+to challenge the Old Master
+
+99 856500 1616
+Let's keep it simple
+
+100 859167 1207
+I'll take you all on
+
+101 860375 1582
+Get him
+
+102 889667 2413
+that at the ceremony up North
+
+103 892250 1241
+I had the honor
+
+104 894250 2868
+To worship at the feet of the Buddh
+
+105 898750 1582
+first pass the Guardian of the Gate
+
+106 902000 1741
+That's me
+
+107 909792 2162
+How can I represent the South
+
+108 912250 1411
+The southern school
+
+109 914208 1787
+are Hung, Lau, Choy, Lee, and Mok
+
+110 916583 1081
+In rank
+
+111 918375 1741
+you are all my seniors
+
+112 920417 1536
+You're the leaders and masters
+
+113 922458 1366
+I have no standing
+
+114 923833 3573
+The reputation of the South is at stake
+
+115 928208 1662
+We Southerner
+
+116 929875 1787
+may be petty
+
+117 931833 2583
+but we don't run away from a fight
+
+118 934417 1616
+We're not afraid of these Northerners
+
+119 936042 1582
+This is a challenge
+
+120 937875 1207
+We will rise to it
+
+121 939458 865
+Isn't that right
+
+122 940333 1536
+Absolutely
+
+123 941875 1036
+It must be you
+
+124 977750 1832
+I'll take the kids to my mother's
+
+125 979750 1582
+Less for you to worry about
+
+126 982833 1582
+When a man reaches forty
+
+127 984667 1992
+he needs to be sure of things
+
+128 987833 1536
+When it's all over
+
+129 990167 1457
+come pick us up
+
+130 1005500 1241
+Do you kno
+
+131 1008500 1832
+why a knife must have a sheath
+
+132 1011250 3243
+Its power lies not in sharpness
+
+133 1015417 1332
+but in concealment
+
+134 1016750 1912
+You're too sharp a blade
+
+135 1018667 2367
+You have to stay put
+
+136 1021042 1457
+My sheat
+
+137 1023708 1411
+is you, Master
+
+138 1025125 1536
+With you around
+
+139 1026667 1616
+I'm under control
+
+140 1028292 1491
+I can no longer control you
+
+141 1030875 1957
+You're too anxious to make your mark
+
+142 1033750 2083
+For now, leave Foshan
+
+143 1035833 1366
+Miss that train
+
+144 1037875 1457
+and I'll break your legs
+
+145 1046042 1366
+Central News
+
+146 1047500 1832
+Southern armie
+
+147 1049333 2037
+marched nort
+
+148 1051500 3573
+claiming for autonomy
+
+149 1055250 1992
+The Central Army blocked their advance
+
+150 1058000 1741
+The situation is explosive
+
+151 1074167 956
+Halt
+
+152 1076750 1491
+Let us pass
+
+153 1078333 2617
+Sorry. This street is closed off
+
+154 1081333 2663
+No one bearing arms can enter
+
+155 1084708 1832
+Do you know who's in that rickshaw
+
+156 1086833 3072
+Call out the Gong Family disciples
+
+157 1093792 1616
+Miss Gong, it's good you're here
+
+158 1095542 3198
+He must call this off
+Win or lose, it's a disgrace
+
+159 1098750 1616
+My father has never lost
+
+160 1101125 1241
+There's no question of losing
+
+161 1102583 3118
+And so what if he wins
+
+162 1106042 1787
+They'll say he beat a nobody
+
+163 1107833 1161
+Ip Man's not at his level
+
+164 1109000 1491
+Where's my father
+
+165 1114500 1036
+Brother
+
+166 1120167 2162
+It's me, Baosen
+
+167 1123083 3414
+Isn't the Northeast big enough for you
+
+168 1127042 2458
+You had to come to Foshan? Get up
+
+169 1132333 2663
+I'm taking you home
+
+170 1135000 1366
+Home
+
+171 1137042 1241
+How's that possible
+
+172 1139167 3493
+The Japanese control the Northeast
+
+173 1144125 1787
+The Japanese fla
+
+174 1147500 1616
+won't wave over me
+
+175 1157833 1161
+The time's not ripe
+
+176 1159208 1457
+Making soup like thi
+
+177 1161167 1662
+is a lot of work
+
+178 1163875 1286
+It's not soup
+
+179 1166250 990
+It's snake stew
+
+180 1168250 1832
+Isn't that a winter dish
+
+181 1170083 2413
+It's a dish from a long time ago
+
+182 1176625 1411
+Yes, decades
+
+183 1179917 2242
+
+184 1182792 1536
+was a Snake Year
+
+185 1186667 3664
+You left the Northeast that year
+
+186 1192833 3914
+The fire has to be right for stew
+
+187 1198167 1457
+Too low 
+
+188 1200458 1616
+it'll lack taste
+
+189 1202833 1241
+Too high 
+
+190 1205042 1832
+it'll scald
+
+191 1207833 1491
+There's a lesson in that
+
+192 1210417 1207
+Go
+
+193 1218833 4916
+Wait till the fire can take this wood
+
+194 1226167 1207
+I'll go then
+
+195 1228083 1536
+The South may secede
+
+196 1230292 1411
+It's no time for diplomacy
+
+197 1233875 1411
+We're getting old
+
+198 1235958 2333
+Don't risk your reputation
+
+199 1240542 3698
+Ip is more than he appears to be
+
+200 1244875 1411
+Force it
+
+201 1247917 1866
+things could go wrong
+
+202 1252000 2162
+I know what I'm doing
+
+203 1255833 1616
+I'm creating opportunity
+
+204 1260208 1787
+This fire toda
+
+205 1264750 1582
+needs new wood
+
+206 1270792 1912
+Your northern colleague
+
+207 1273208 1536
+disapprove of this match
+
+208 1276250 1957
+It's a huge honor
+
+209 1279000 1866
+This Ip doesn't deserve it
+
+210 1280875 1332
+It's not how things are done
+
+211 1282208 1832
+Don't follow the herd
+
+212 1285500 1832
+If the old never let g
+
+213 1288292 2413
+when will the young get their chance
+
+214 1292583 1662
+Ip Man has talent
+
+215 1295167 2242
+Let's see if he can prove himself
+
+216 1298375 1866
+The Gong Family has never lost before
+
+217 1300708 1536
+With you here
+
+218 1303375 1366
+what right does he have
+
+219 1309292 3914
+I once had a temper like yours
+
+220 1313750 2242
+winning was everything
+
+221 1316708 1957
+But life's bigger than that
+
+222 1319333 1707
+Take a longer view
+
+223 1322708 1241
+Past the mountain
+
+224 1325000 2162
+the world opens up
+
+225 1328833 3664
+Not to see the good in others
+
+226 1332833 1582
+not to admit their talent
+
+227 1335292 1912
+is to lack generosity
+
+228 1338583 2208
+Our high standards in martial art
+
+229 1341125 2037
+apply to character as well
+
+230 1380667 1036
+Father
+
+231 1384042 4370
+why did you bring me to a brothel
+
+232 1388708 1957
+If you don't see something
+
+233 1393042 1787
+does it not exist
+
+234 1396208 1662
+No harm in seeing
+
+235 1399333 1832
+The first time I came her
+
+236 1402792 1866
+was before you were born
+
+237 1407250 2993
+Twenty years have passed in a flash
+
+238 1410500 1536
+In life
+
+239 1412042 1832
+ability isn't everything
+
+240 1415458 1866
+Some thrive in light
+
+241 1417833 1662
+others in shadow
+
+242 1421167 2287
+The times make us what we are
+
+243 1424417 1707
+I asked you to come Sout
+
+244 1426458 1787
+to bring things full circl
+
+245 1429333 1912
+and to let you se
+
+246 1431250 2708
+how I step down
+
+247 1434625 1366
+Since you were little
+
+248 1436625 2538
+you've watched me fight
+
+249 1440250 1912
+This is the last time
+
+250 1443708 2242
+You're engaged to be married
+
+251 1445958 1707
+The Martial Worl
+
+252 1448500 1707
+is no longer your world
+
+253 1450750 1536
+Be a good doctor
+
+254 1452292 1866
+Live a peaceful life
+
+255 1454167 2492
+This is my greatest wish
+
+256 1468750 1241
+Master Ip
+
+257 1470125 3198
+We're here to celebrate
+
+258 1473333 2117
+Your big day is coming up
+
+259 1476167 4165
+We'd like to show you our support
+
+260 1480333 1616
+I'm humbled, Uncle Deng
+
+261 1482500 1491
+It's nothing at all
+
+262 1484000 1832
+Don't mention it
+
+263 1486208 1241
+Please
+
+264 1497708 2492
+On behalf of the ladie
+
+265 1500208 2708
+and staff, congratulations
+
+266 1502917 1707
+That's quite a battle formation
+
+267 1515750 2743
+Sister San heads our Peking Opera troupe
+
+268 1518667 1536
+She dabbles in Bagua
+
+269 1520208 2788
+She'd like to offer a few pointers
+
+270 1526042 1207
+Please
+
+271 1528833 865
+After you
+
+272 1529708 1957
+Bagua is based on swordplay
+
+273 1531792 1662
+Single reverse palm is a single blade
+
+274 1534375 1662
+Double reverse palm is a double blade
+
+275 1536917 1992
+The feet arc out and in
+
+276 1541667 1662
+There are 64 transformations
+
+277 1543792 2333
+Attack comes out of nowhere
+
+278 1571250 2413
+Sister San, it's just practice
+
+279 1574125 1582
+No need to smash the ancestral tablets
+
+280 1578250 1582
+I've done that many times before
+
+281 1579833 1411
+No big deal
+
+282 1581333 2834
+Mr Ip, Bagua is underhanded
+
+283 1584708 1207
+Beware
+
+284 1588792 1036
+Thank you
+
+285 1598542 3243
+Ah, Mr Ip
+
+286 1601792 1616
+Today is a happy day
+
+287 1603417 4119
+We in Accounts wish you well
+
+288 1613333 3448
+Xingyi began with General Yue Fei
+
+289 1619333 2708
+It uses the fist as a spear
+
+290 1622042 1241
+Dril
+
+291 1623292 1536
+Cho
+
+292 1624833 1241
+Cros
+
+293 1627208 1081
+Blas
+
+294 1629833 1241
+Crus
+
+295 1669000 3323
+Such sensitivity - impressive
+
+296 1672417 2743
+That Crushing Fist is quite something
+
+297 1678208 1161
+Mr Ip
+
+298 1680000 3869
+each challenge leads to a higher peak
+
+299 1683875 1957
+Xingyi is brutal
+
+300 1686792 1832
+Don't underestimate it
+
+301 1688625 1366
+Let's see how high the peaks get
+
+302 1690000 2993
+Hmm. This will be fun
+
+303 1702625 3493
+My turn now, Master Ip
+
+304 1706833 2913
+And what have you got for me, Yong
+
+305 1710542 1832
+A string of firecrackers
+
+306 1737208 3198
+That move, isn't that Hung Gar
+
+307 1741542 1241
+I'm a jack of all trades
+
+308 1754167 1332
+You do mix it up
+
+309 1755500 1207
+What's wrong with that
+
+310 1756875 1616
+So long as it works
+
+311 1759458 3869
+The 64 Hands have endless combinations
+
+312 1763333 2663
+Your Wing Chun is a three-trick pony
+
+313 1766000 1957
+Spade, Pin, Sheath
+
+314 1768500 1366
+How can it compete
+
+315 1769875 1866
+Three's enough to take care of you
+
+316 1819083 3619
+Yong, your fireworks have fizzled
+
+317 1824750 2367
+What of it? I'm an old man
+
+318 1828625 1241
+Youth trumps skill
+
+319 1830667 1616
+He might be a grandmaster
+
+320 1832500 1662
+but don't hold back
+
+321 1834750 1491
+You'd better win
+
+322 1837542 1366
+This has been a real privilege
+
+323 1839250 1662
+To victory
+
+324 1840917 1081
+Good luck
+
+325 1873583 2287
+Every generation produces new talent
+
+326 1876583 3289
+Mr Ip, we were fated to meet
+
+327 1880667 2162
+For my final contes
+
+328 1883208 2413
+I suggest we match wits
+
+329 1885625 1457
+not skill
+
+330 1887333 990
+Do you accept
+
+331 1889917 1787
+As our guest
+
+332 1891708 1286
+it's up to you
+
+333 1901417 5246
+When our Union was founded 25 years ago
+
+334 1909333 1992
+a man came from the South
+
+335 1912000 1286
+He offered a challenge
+
+336 1914333 1992
+He held out a flat cak
+
+337 1916333 2788
+and asked our Master to break
+
+338 1922250 2242
+Our Master wasn't offended
+
+339 1926833 3323
+He even named the man our first chairman
+
+340 1930708 1992
+It wasn't because of his kungf
+
+341 1933000 1411
+but what he said 
+
+342 1935958 1832
+Kungfu divides into North and South
+
+343 1938500 1741
+Must the country divide as well
+
+344 1942833 3164
+That man was also from Foshan 
+
+345 1946000 1662
+Ip Yun-biu
+
+346 1947792 1616
+He was a great man
+
+347 1950708 1832
+Today
+
+348 1952542 2868
+meeting another Mr Ip
+
+349 1956625 3243
+I will ask that same question
+
+350 1960792 1036
+Mr Ip
+
+351 1963333 4870
+can you break this cake in my hand
+
+352 2016583 3539
+A Tai Chi master kept a bird from flyin
+
+353 2020542 2458
+by giving it no perc
+
+354 2023000 1707
+from which to fly
+
+355 2026250 1912
+The Old Master's skill is too great
+
+356 2028833 2663
+Mr Ip is a sparrow in his palm
+
+357 2031500 4495
+I don't think he can do it
+
+358 2088667 1662
+The world is a big place
+
+359 2090833 1161
+Why limit it to North and South
+
+360 2093333 2208
+It holds you back
+
+361 2096500 1662
+To you
+
+362 2098583 1787
+this cake is the country
+
+363 2101333 1741
+To me it's much more
+
+364 2104208 1707
+Break from what you kno
+
+365 2106333 1741
+and you will know more
+
+366 2109125 1286
+If the Southern arts go far
+
+367 2110875 2868
+what boundary is the North
+
+368 2114833 1366
+Would you agree
+
+369 2116208 1457
+Well said
+
+370 2119000 1957
+All my life, I've been the victor
+
+371 2122000 1741
+My technique has never failed me
+
+372 2125000 1912
+I never thought I'd se
+
+373 2127333 2458
+the limits of my own vision
+
+374 2138958 1411
+Mr Ip
+
+375 2141458 2617
+today I've made you famous
+
+376 2145500 1491
+In future
+
+377 2147625 2333
+you'll face challenges at every step
+
+378 2151125 1616
+I hope you'll be like me
+
+379 2153583 2413
+Pass on the torch
+
+380 2157167 3368
+Never give up the faith
+
+381 2161125 3368
+Keep the light burning
+
+382 2218042 1832
+Miss Gong, you mustn't do this
+
+383 2219875 1957
+The Gongs have never been defeated
+
+384 2221833 3619
+I will redeem our honor
+
+385 2227333 2708
+Give this to Ip. He'll understand
+
+386 2232333 2037
+I have no chanc
+
+387 2234375 2413
+to be as great as Father
+
+388 2237500 1457
+It wasn't my choice
+
+389 2240000 1616
+But I'll make my mark
+
+390 2242958 1241
+Go
+
+391 2250958 2708
+Tonight, following Northern custom
+
+392 2254292 1707
+the winner will host a banquet
+
+393 2256000 3164
+Neither Ip Man nor I will attend
+
+394 2259375 1616
+You'll represent me
+
+395 2261000 1161
+Don't worry
+
+396 2262667 2913
+I'll do the right thing
+
+397 2266583 1241
+Let's go
+
+398 2287625 2708
+Of Master Gong's martial arts
+
+399 2290333 2538
+Ma San inherited the stee
+
+400 2292875 3448
+and his daughter the silk
+
+401 2296417 2868
+She is the sole heir to the 64 Hands
+
+402 2299417 4074
+Her moves are deadly
+
+403 2303792 4199
+In booking the whole place first
+
+404 2308208 2743
+she forces your hand
+
+405 2312000 1582
+Don't underrate Gong Er
+
+406 2314458 1957
+The Martial World has four taboos
+
+407 2317125 2413
+monks, Taoist priests, women and children
+
+408 2320333 1491
+Grappling with them is a bad idea
+
+409 2322250 3994
+She's gone to so much trouble 
+
+410 2326250 1491
+how could I not accept
+
+411 2426875 1616
+Three days ago
+
+412 2428833 1912
+my father sat here
+
+413 2432375 1286
+Tonight
+
+414 2434625 1912
+it's between us
+
+415 2438708 706
+Please
+
+416 2439917 2583
+Pity about the lovely decor
+
+417 2443583 1491
+Kungfu is about precision
+
+418 2446000 1491
+If anything gets broken
+
+419 2447833 1081
+you win
+
+420 2647000 1161
+Mr Ip
+
+421 2648958 1787
+I showed you the 64 Hand
+
+422 2651333 1491
+so that you'd kno
+
+423 2652833 3038
+the world is a big place
+
+424 2656167 1992
+Kungfu isn't just charging forward
+
+425 2658167 1411
+Look behind you as well
+
+426 2659917 2083
+I hope that's enough of a clue
+
+427 2662333 1457
+It went your way this time
+
+428 2664000 1707
+Who knows wha
+
+429 2665833 1457
+next time will bring
+
+430 2668083 1081
+Come
+
+431 2670000 1207
+I'll be waiting
+
+432 2672792 1286
+Take care
+
+433 2741333 4324
+(I dream of seeing the 64 Hands
+(again in the snow.
+
+434 2788750 3994
+(I'm waiting. What's keeping you?
+
+435 2820375 1332
+Does it fit
+
+436 2823083 1616
+Does Foshan get this cold
+
+437 2830833 1457
+You look lovely
+
+438 2832292 2083
+Let's take a family photo
+
+439 2909333 5826
+(October 1938. Foshan fell to the Japanese.
+
+440 2921125 1536
+In October 1938
+
+441 2922833 1161
+the Japanese invaded Foshan
+
+442 2924333 2788
+Their army took over our home
+
+443 2927833 2037
+If life has four seasons
+
+444 2929875 3789
+we went from spring straight to winter
+
+445 2974083 2788
+I'll be back with dinner
+
+446 2990500 1457
+Help me prosper
+
+447 2992958 1707
+Rescue me from poverty
+
+448 2996875 1787
+I've never been poor in my life
+
+449 2999542 1366
+The country's in crisi
+
+450 3001667 1081
+and everyone is suffering
+
+451 3004000 1582
+To be poor is no big deal
+
+452 3007708 1616
+I'd rather starv
+
+453 3010333 1366
+than eat Japanese rice
+
+454 3012792 1457
+I won't collaborate
+
+455 3015500 2743
+I have plenty of friends
+
+456 3018708 3289
+They'll help me through
+
+457 3022417 1411
+Enjoy your dinner
+
+458 3030542 2117
+You won't find those friends here
+
+459 3033250 1491
+only collaborators
+
+460 3034750 1662
+We had a dinner just now
+
+461 3036417 1491
+These are the leftovers
+
+462 3037917 1286
+If it's not beneath you
+
+463 3039208 1912
+take them back to your family
+
+464 3044833 1286
+How can I accept
+
+465 3046708 1616
+Dirty money paid for it
+
+466 3048333 2708
+No point in waste. We're old friends
+
+467 3051167 1536
+You're most welcome
+
+468 3108208 1491
+They're brand new
+
+469 3110000 1707
+I was going to the Northeast
+
+470 3112125 1366
+But that's impossible now
+
+471 3115000 2834
+Sell them and I can feed my family
+
+472 3118833 1411
+Why is there a button missing
+
+473 3123000 1457
+Is there
+
+474 3125375 1286
+Must've dropped off
+
+475 3133208 1616
+I began studying kungfu at seven
+
+476 3134833 1332
+Before I turned forty
+
+477 3136167 1411
+I was never beaten
+
+478 3137875 1286
+When that happened
+
+479 3139833 2367
+It was life that dealt the blows
+
+480 3142833 1616
+In eight years of wa
+
+481 3144458 1286
+I lost everything
+
+482 3146167 1161
+Money
+
+483 3147333 1332
+friends..
+
+484 3149042 3072
+China will never die
+
+485 3156875 1866
+Girls obey their Madam
+
+486 3159542 1707
+Gangsters obey their boss
+
+487 3161958 1866
+Our boss was Sun Yat-se
+
+488 3163833 1616
+We followed his orders
+
+489 3167708 2492
+We Southerners have fire in our bellie
+
+490 3170583 1116
+and a sense of honour
+
+491 3173333 3493
+Only cowards fear the Japs
+
+492 3177167 1411
+I'll kill any I see
+
+493 3178875 3744
+(1938. Uncle Deng died
+(in a Japanese bombardment.
+
+494 3182625 3072
+(Collaborators took over the Gold Pavilion.
+
+495 3186333 1491
+Finally, I lost my family
+
+496 3221833 7783
+(Ip Man lost two daughters in the war.
+
+497 3263625 2708
+No one move
+
+498 3267375 1912
+Where are you going? Show your IDs
+
+499 3270000 1207
+Hurry
+
+500 3271833 1161
+IDs
+
+501 3275375 2708
+Where are you going? IDs
+
+502 3279333 3414
+Halt
+
+503 3349833 4665
+(1939. Traveling to Northwest University
+(to practice medicine,
+
+504 3354500 2333
+(Gong Er meets The Razor, a Nationalist agent.
+
+505 3384167 2492
+(1940. Ma San collaborates with the Japanese,
+
+506 3386667 2333
+(taking an official post in the puppet government.
+
+507 3418750 2583
+Do you remember what I taught you
+
+508 3421333 1036
+Yes
+
+509 3423042 2913
+Never put yourself first
+
+510 3426167 1832
+show respect
+
+511 3429750 3072
+There's always someone better
+
+512 3432833 1866
+To yield is not to lose
+
+513 3435333 2788
+Master, you have taught m
+
+514 3438667 3414
+to be modes
+
+515 3442083 1491
+and know my place
+
+516 3443583 1912
+I took you in as an orphan
+
+517 3447333 2242
+You brough
+
+518 3449583 2743
+credit to our school
+
+519 3453000 1912
+Let's go ove
+
+520 3455625 2037
+my supreme move
+
+521 3460958 1536
+The Old Monkey Hangs up his Badge
+
+522 3465375 1207
+Have you practiced it
+
+523 3467500 1332
+Yes
+
+524 3468833 3289
+You know the key to it
+
+525 3472125 2538
+I was never told
+
+526 3474667 1832
+It's looking back in reflection
+
+527 3477167 1491
+It's not the upward move
+
+528 3479625 1116
+but the turning back
+
+529 3485542 1992
+Understand what I'm saying
+
+530 3488875 2708
+A warrior molds himself to the times
+
+531 3494417 1411
+What i
+
+532 3496500 1662
+I can't turn back
+
+533 3502000 2162
+Then the Gong Family legac
+
+534 3504708 2538
+cannot live on in you
+
+535 3525500 1116
+Stay back
+
+536 3529333 1366
+Let him go
+
+537 3532167 2492
+Never darken my door again
+
+538 3540917 1332
+Get lost
+
+539 3549333 1741
+Master
+
+540 3621667 1081
+The whole cla
+
+541 3622875 1741
+heard you were comin
+
+542 3624708 1616
+and raced in from all over
+
+543 3626333 956
+And Jiang
+
+544 3627292 1741
+He's keeping them company
+
+545 3637375 990
+Miss Gong
+
+546 3638833 2492
+they're awaiting your decision
+
+547 3641667 1662
+They didn't come all this wa
+
+548 3644083 1707
+to hear my decision
+
+549 3649875 1116
+Did Father have any last words
+
+550 3651000 1411
+Don't seek vengeance
+
+551 3656917 1116
+Miss
+
+552 3658500 1832
+your father forbade revenge
+
+553 3694667 1912
+I agree Ma San deserves to die
+
+554 3698917 2037
+It's a massive crim
+
+555 3702500 1161
+to betray one's teacher
+
+556 3705208 2287
+Nothing is worse
+
+557 3708958 1207
+On the other hand
+
+558 3711167 1616
+it was your fathe
+
+559 3713667 2583
+who united Xingyi and Bagua
+
+560 3717500 3323
+Ma San worked hard at Xingyi
+
+561 3721125 1366
+And your father taught yo
+
+562 3723000 2663
+the 64 Hands himself
+
+563 3726458 2868
+The two of you are his legacy
+
+564 3730375 1161
+If you stand together
+
+565 3732458 2868
+the legacy remains whole
+
+566 3736917 1161
+Besides
+
+567 3738083 2913
+if you take action
+
+568 3741417 2788
+whatever the outcome
+
+569 3745333 1992
+people will laugh
+
+570 3748000 2538
+They'll say what's this Gong schoo
+
+571 3750875 1457
+where the disciple kills the master
+
+572 3753167 2367
+and the daughter kills her brother-in-arms
+
+573 3756250 4074
+A pack of wild animals
+
+574 3761208 2117
+Besides, as for Ma San
+
+575 3763667 3038
+even your father couldn't finish him off
+
+576 3766875 1491
+You think you can
+
+577 3769667 1366
+Miss Gong
+
+578 3772000 2413
+we're old men
+
+579 3775500 3914
+We made the long trip her
+
+580 3780250 3744
+with your best interests in mind
+
+581 3784333 2492
+Take our advice
+
+582 3787208 2458
+Just get married
+
+583 3790500 2162
+Your father's last word
+
+584 3793917 2583
+were Don't seek vengeance
+
+585 3797333 2333
+If you kill Ma Sa
+
+586 3799833 2538
+won't that go against his wishes
+
+587 3805167 1457
+My father said tha
+
+588 3807500 1161
+out of love for me
+
+589 3810667 1787
+He wants me to have a peaceful life
+
+590 3814167 1832
+But if I don't avenge his death
+
+591 3816833 1536
+I'll never be at peace
+
+592 3824500 2162
+I understand what you're saying
+
+593 3829333 1332
+With respect
+
+594 3831792 3289
+he treated yo
+
+595 3835375 1741
+all like brothers
+
+596 3838167 1161
+After he died
+
+597 3840542 2617
+you should've dealt with Ma San
+
+598 3843417 1536
+Instead you come her
+
+599 3844958 2242
+as his messenger
+
+600 3849917 2242
+After all my father did for you
+
+601 3854167 1411
+I kno
+
+602 3856833 1616
+Ma San works for the Japanese
+
+603 3859417 1116
+He's got power
+
+604 3862083 1741
+But I'll stand up for my family
+
+605 3865167 1662
+Is he coming, or not
+
+606 3872292 2117
+What does it matter
+
+607 3875500 2743
+He comes, you go
+
+608 3878583 2287
+and that's the end of it, right
+
+609 3882958 4495
+It's better to let it go, Miss Gong
+
+610 3887833 2538
+Some things are out of our hands
+
+611 3891167 2162
+It's the Will of Heaven
+
+612 3895958 2083
+Maybe I am the Will of Heaven
+
+613 3922708 3573
+Oh ye gods and spirit
+
+614 3927833 3664
+guide this soul to Paradise
+
+615 3997500 1366
+Halt
+
+616 4000333 1832
+We mustn't stop
+
+617 4002917 2117
+Don't block the road
+
+618 4005833 1662
+Keep to the side
+
+619 4007500 865
+Move
+
+620 4009000 1912
+Ma San ordered u
+
+621 4010917 1491
+to escort the body
+
+622 4014708 1536
+Miss Gong
+
+623 4016250 1081
+Ma San's me
+
+624 4017333 1491
+are blocking the road
+
+625 4018833 1491
+The have banners of mourning
+
+626 4020333 1832
+Troublemakers
+
+627 4022167 956
+Miss Gong
+
+628 4023125 2959
+time is of the essence
+
+629 4028750 1332
+Jiang
+
+630 4049958 3368
+Tell Ma San he's a dead man
+
+631 4054958 2413
+Let's go
+
+632 4059833 3664
+Oh ye gods and spirit
+
+633 4063833 3914
+...guide this soul to Paradise
+
+634 4077208 1366
+They're here
+
+635 4078583 1241
+Stop her
+
+636 4080667 740
+Keep her back
+
+637 4081417 1036
+Let me at her
+
+638 4082792 1161
+Stop her
+
+639 4085833 2788
+Stay back. We're here for Ma San
+
+640 4096833 1912
+Since you're my senior
+
+641 4099167 1411
+I won't force my way in
+
+642 4101125 1582
+But know this
+
+643 4103000 2333
+You can't hide from me forever
+
+644 4106333 2287
+I will take back my family's legacy
+
+645 4109000 990
+Come out
+
+646 4112917 4040
+Better to advance than to stop
+
+647 4117375 2913
+The Old Master taught me this
+
+648 4120292 2367
+It became my philosophy of life
+
+649 4122667 1241
+It's a sham
+
+650 4123917 1787
+he couldn't follow his own advice
+
+651 4126583 3118
+His precious teachings are mine now
+
+652 4130750 1286
+You want them 
+
+653 4132333 2208
+send a member of the family
+
+654 4135833 2287
+You'll be marrying out
+
+655 4141542 1207
+You don't count
+
+656 4165750 1662
+Don't ask after me
+
+657 4168917 1912
+No news means I'm gone
+
+658 4177667 1582
+Find someone else
+
+659 4186125 1081
+Miss
+
+660 4187833 2538
+to give up such an ideal marriage 
+
+661 4190917 1241
+is it really worth it
+
+662 4195292 1582
+Think it over
+
+663 4197500 1161
+If you take those vows
+
+664 4199208 2287
+you'll never be able to marry
+
+665 4202792 2959
+teach, or have children
+
+666 4206833 2367
+There's no turning back
+
+667 4216958 1241
+Father
+
+668 4219917 2162
+can you read what's in my heart
+
+669 4224250 1741
+If you agree with me
+
+670 4228167 2287
+show me a flame before Buddha
+
+671 4269583 3243
+Better to advance than to stop
+
+672 4274625 1707
+He mocks us for having no successor
+
+673 4291167 1491
+I can only advance
+
+674 4294042 1286
+I can't stop
+
+675 4345042 4540
+(1950. Hong Kong. Tai Nan Street
+
+676 4354667 1411
+Ever taught before, Master Ip
+
+677 4356583 1241
+To teach for a livin
+
+678 4357833 1116
+is a new experience
+
+679 4359333 1457
+So why now
+
+680 4361417 1081
+I'm starting a new life
+
+681 4362500 1707
+You've got your things
+
+682 4364208 1411
+You're confident
+
+683 4366083 1081
+Saves running back and forth
+
+684 4367417 1741
+In Hong Kong no one knows Wing Chun
+
+685 4369583 1411
+Any special moves
+
+686 4371375 956
+Not really
+
+687 4372833 2663
+Three basic hands - Spade, Pin, Sheath
+
+688 4376542 1161
+How many forms
+
+689 4379000 1036
+The Concept
+
+690 4380500 831
+The Bridge
+
+691 4381583 990
+and Darting Fingers
+
+692 4383500 1116
+Weapons
+
+693 4385333 1161
+Double Knive
+
+694 4386500 1332
+and the Six-and-a-half Point Pole
+
+695 4388417 1332
+Anything else
+
+696 4390250 1241
+That's it
+
+697 4392792 1241
+Bone-setting
+
+698 4394042 1081
+internal energy 
+
+699 4395125 1207
+I don't do any of that
+
+700 4397292 1207
+Drifters
+
+701 4398500 1036
+lion dancers 
+
+702 4400125 1457
+I don't teach those types
+
+703 4402125 1207
+Why not
+
+704 4405542 1662
+Kungfu isn't a sideshow
+
+705 4407875 1332
+So I won't teach drifters
+
+706 4410167 1411
+Lion dancers jump at firecrackers
+
+707 4411958 1866
+They're always brawlin
+
+708 4414500 1491
+and showing off
+
+709 4416167 1582
+all for a bit of cash
+
+710 4418917 1241
+It's crude
+
+711 4420292 1707
+I'll ask you straight 
+
+712 4422583 1286
+ever been in a real fight
+
+713 4425625 2162
+It's wall-to-wall kungfu schools here
+
+714 4427792 1491
+They start fights over nothing
+
+715 4429458 1207
+Master Ip
+
+716 4431875 1286
+have you got what it takes
+
+717 4433167 2993
+Try me and find out
+
+718 4437458 1116
+Fight! Fight
+
+719 4440250 1582
+I've had a few years of training
+
+720 4443708 1707
+Show me your stuff, Master Ip
+
+721 4445417 1286
+Have you had lunch
+
+722 4446708 1616
+Barbecued pork and rice
+
+723 4448333 1161
+I suggest you wait a bit
+
+724 4449500 1036
+It'd be a shame to waste it
+
+725 4450542 1081
+Waste it
+
+726 4465667 990
+Brother Hung
+
+727 4466833 1457
+are you okay
+
+728 4470625 1207
+Where's the tea
+
+729 4471833 1241
+Tea
+
+730 4473333 990
+To give to your new master
+
+731 4474792 2117
+We've put a bed here for you
+
+732 4478583 1616
+I hope it'll do for now
+
+733 4480667 1161
+Sorry it's a bit shabby
+
+734 4497333 1161
+Is there a hammer
+
+735 4516000 1161
+Master Ip
+
+736 4517458 3493
+The boys and I want some lessons
+
+737 4520958 911
+Eighty cents a head
+
+738 4521875 1286
+Cheap enough
+
+739 4523167 1241
+But call yourself a master
+
+740 4524417 1081
+you'd better deliver the goods
+
+741 4525500 1707
+No snake oil
+
+742 4527208 1957
+How good's your kungfu, anyway
+
+743 4544792 956
+Lock the gate
+
+744 4548792 615
+Hey
+
+745 4549417 1081
+Little fucker
+
+746 4550500 1787
+Shut the door and it's on for real
+
+747 4552375 1582
+You've got two hands and two feet
+
+748 4553958 1286
+How you gonna beat us all
+
+749 4555250 1582
+You're mistaken
+
+750 4557833 1116
+I have two hands bu
+
+751 4559875 1207
+Wing Chun has eight kicks
+
+752 4561667 1332
+Never mind your boys
+
+753 4563667 2583
+There's more than enough for you
+
+754 4566250 1457
+More than enough for me
+
+755 4582000 1332
+That one's free
+
+756 4597750 1081
+First kick
+
+757 4619417 1161
+Fourth kick
+
+758 4633708 1241
+One more left
+
+759 4655333 2663
+Do you remember our oath
+
+760 4659667 1241
+What oath
+
+761 4662000 1491
+I vow with all my hear
+
+762 4663500 1332
+to be loya
+
+763 4664833 1411
+and obedien
+
+764 4666250 1491
+to the Party
+
+765 4667750 1411
+I fear neither hardshi
+
+766 4669167 1286
+nor sacrifice
+
+767 4670833 1957
+Should I forsake these vows
+
+768 4673167 5325
+I accept the harshest punishment
+
+769 4678500 1286
+Fuck
+
+770 4680375 2162
+The war is over
+
+771 4683542 1536
+This is Hong Kong
+
+772 4685083 2834
+But we stand by our code 
+
+773 4688625 1332
+Join us alive
+
+774 4690083 1616
+Leave us dead
+
+775 4692250 1457
+I'm leaving now
+
+776 4694542 1161
+Can you stop me
+
+777 4696667 1457
+Try us and see
+
+778 4800667 3789
+(In exile in Hong Kong, The Razor
+
+779 4804458 4700
+(ran the White Rose Barber Shop.
+
+780 4831000 3994
+(1950. Chinese New Year's Eve. Hong Kong
+
+781 4871417 2663
+You don't look like you need a doctor
+
+782 4874417 3573
+I'd like to see the 64 Hands again
+
+783 4878333 1707
+If you don't mind me saying 
+
+784 4880167 1582
+You lost. I won
+
+785 4883750 1241
+Have a seat
+
+786 4891875 1992
+If you'd said that at the door
+
+787 4894500 3823
+I wouldn't have made it so eas
+
+788 4898833 2287
+for you to get your dumplings
+
+789 4903667 1081
+Thank you
+
+790 4912917 1241
+You know
+
+791 4915167 3448
+I'd hoped to visit the Northeast in 1937
+
+792 4920625 1491
+There was a challenge waiting for me
+
+793 4924792 1207
+I had a warm coat made
+
+794 4926917 3198
+But the war stopped me from going
+
+795 4931958 1411
+I didn't keep the coat
+
+796 4935083 1457
+but I still have one of its buttons
+
+797 4938750 1081
+Call it a memento
+
+798 4943750 2083
+The 64 Hands is too important a legacy
+
+799 4948667 1787
+Why let it disappear
+
+800 4953917 1286
+In centuries of martial arts history
+
+801 4955750 1616
+so many thing
+
+802 4958000 1332
+have vanished
+
+803 4960542 1787
+Why should the Gong Family arts survive
+
+804 4966583 1832
+Mr Ip
+
+805 4968833 2037
+no art is higher than Heave
+
+806 4971125 1536
+no gift more solid than Earth
+
+807 4974208 3448
+Nothing lasts forever and that's fine
+
+808 4978792 1707
+Keep this button
+
+809 4981458 3072
+As for what may and may not be seen
+
+810 4986250 1411
+let's not talk about it now
+
+811 4991917 3994
+Mr Ip, ten years ago on New Year's ev
+
+812 4995917 1286
+do you know where I was
+
+813 5002083 1286
+Mr Ip
+
+814 5004500 1491
+may I have a word
+
+815 5008333 3869
+The Gong arts belong to the Gong family
+
+816 5013083 2743
+The 64 Hands aren't there just for show
+
+817 5017500 1332
+The Gong Family lives
+
+818 5019250 1707
+I know how much talent is there
+
+819 5021625 1662
+I'm keen to learn
+
+820 5023542 1411
+I'll be waiting
+
+821 5046375 5621
+People - they change with the times
+
+822 5053000 2333
+Wear shoes that suit the crossing
+
+823 5055333 2743
+and underpants that fit your ass
+
+824 5059250 1707
+In Hong Kong
+
+825 5061083 2162
+I can only afford these cigarettes
+
+826 5064833 1491
+Back home
+
+827 5066542 2208
+I smoked real Manchurian tobacco
+
+828 5069333 1332
+Now that was smoking
+
+829 5073583 3072
+Be mild, good, respectful, thrifty, deferential
+
+830 5076833 1741
+Deferential is the key
+
+831 5080500 1832
+Let's say I'm smoking
+
+832 5083250 2083
+A stranger sits down
+
+833 5085667 2538
+I defer to him: Have a smoke
+
+834 5088583 3744
+Even if he doesn't smoke, he must accep
+
+835 5092333 2162
+or he'll make me lose face
+
+836 5095500 1366
+Mr Ip
+
+837 5099333 1787
+have a smoke
+
+838 5106208 1116
+Thank you
+
+839 5107333 1491
+You're welcome
+
+840 5150500 1366
+You've got the gift
+
+841 5153708 2117
+Twenty years ago
+
+842 5155833 1866
+we could have sparred
+
+843 5159000 1366
+What a shame
+
+844 5165917 2959
+Some work in the light
+
+845 5169125 1662
+others in shadow
+
+846 5171583 1741
+The face of a school must be spotless
+
+847 5174333 2242
+Blood must flow only in the shadows
+
+848 5177667 2117
+If not, if it stains the face
+
+849 5180167 2287
+then the school itself may perish
+
+850 5183000 2208
+The face offers the cigarettes
+
+851 5185708 2913
+The dirty work is done in the shadows
+
+852 5189875 3289
+Mr Ip, you're too late
+
+853 5193167 1866
+Forget the 64 hands 
+
+854 5195833 2333
+you'll never see even one
+
+855 5200750 4119
+(1940. Chinese New Year's Eve. The Northeast.
+
+856 5222083 1912
+Is it hard to kill a man
+
+857 5225250 1332
+Miss Gong
+
+858 5227625 1662
+it's not like in the old days
+
+859 5230292 1957
+Murder is punishable by death
+
+860 5233083 3664
+Is Ma San worth it
+
+861 5241708 2037
+we make our own path in life
+
+862 5244917 1332
+Should we go home
+
+863 5247167 1411
+or keep waiting
+
+864 5253042 1616
+It's New Year's Eve
+
+865 5256042 1457
+He'll be here soon
+
+866 5258292 1411
+We have to wait
+
+867 5261042 1207
+All right
+
+868 5268167 1332
+We'll wait
+
+869 5487625 3448
+This is between Miss Gong and Ma San
+
+870 5491292 2458
+Everyone else stay out of it
+
+871 5494833 1582
+There you are
+
+872 5497667 2162
+still playing with your monkey
+
+873 5501542 786
+Deal with him
+
+874 5502333 1241
+Get him
+
+875 5544417 1536
+You're worse than a debt collector
+
+876 5547292 2458
+trying to ruin my New Year's Eve
+
+877 5550458 1992
+The dumplings are in the pot
+
+878 5553167 1992
+but you won't be eating them
+
+879 5556750 1707
+I let you off befor
+
+880 5559250 3573
+to avoid destroying the Gong clan
+
+881 5564083 1957
+You should know when to give up
+
+882 5566833 2037
+Those needing salvation burn joss
+
+883 5569667 1787
+Those who are hungry, eat
+
+884 5572583 1241
+What I must do
+
+885 5574000 2287
+I will do and nothing can stop me
+
+886 5577167 1662
+The Gong Family legac
+
+887 5580042 2037
+must return to me tonight
+
+888 5582833 990
+Fine
+
+889 5585417 3289
+It's a part of me
+
+890 5590167 1457
+You want it 
+
+891 5594000 1161
+come and get it
+
+892 5833250 1411
+Master
+
+893 5834667 2037
+Keep away
+
+894 5839833 1332
+Ma San
+
+895 5841167 1036
+speak
+
+896 5855917 1411
+That day
+
+897 5859500 1286
+the Old Maste
+
+898 5861167 1616
+spoke to m
+
+899 5864500 1332
+about his supreme move 
+
+900 5866625 1992
+Old Monkey Hangs up his Badge
+
+901 5870958 1957
+He said the key to the mov
+
+902 5874458 1536
+was turning back
+
+903 5883500 1241
+At the time
+
+904 5887625 1457
+I didn't get it
+
+905 5893333 1161
+I though
+
+906 5895167 1707
+he couldn't keep up with the times
+
+907 5907875 1832
+The Gong Family legac
+
+908 5912000 1332
+I return to you
+
+909 5914833 1662
+Let's be clear
+
+910 5917708 1616
+You didn't return it
+
+911 5920833 2333
+I took it back myself
+
+912 5984250 1411
+Miss Gong
+
+913 6008792 1536
+Miss Gong
+
+914 6030583 4916
+(1952. Hong Kong. White Rose Barber Shop
+
+915 6046042 1332
+Sorry
+
+916 6048708 1366
+I miss my mom
+
+917 6053625 2743
+You got my notice about the memorial
+
+918 6056958 1457
+Yes
+
+919 6061208 1832
+Open a business, follow the rules
+
+920 6064417 1207
+It's the same everywhere
+
+921 6067458 1662
+Do you know how much weigh
+
+922 6070208 1616
+a summons from me carries
+
+923 6075167 1207
+It's measured in gold
+
+924 6078250 3493
+Brother, I've got the money
+
+925 6082750 1286
+And I've got my life
+
+926 6085833 1582
+Whichever is worth more
+
+927 6088292 990
+take it
+
+928 6095958 1536
+I like those eyes of yours
+
+929 6099792 1366
+They remind me of my mom's
+
+930 6101417 1787
+Want both? Or just one
+
+931 6103917 1241
+Not so fast
+
+932 6107708 1081
+How about
+
+933 6110458 1616
+you do the honors
+
+934 6114042 1457
+Forget it
+
+935 6117042 1491
+You're a real man
+
+936 6121708 1411
+It's the anniversary of my mom's death
+
+937 6124167 2117
+I'll leave you those two lamps of yours
+
+938 6127500 2413
+As the rivers flow, we'll meet again
+
+939 6131083 1411
+I'll take my leave
+
+940 6134833 1286
+Want the money 
+
+941 6137333 1992
+there're rules for that too
+
+942 6139500 1912
+What use are rules
+
+943 6141750 1286
+Keep it simple
+
+944 6143042 2117
+I stab you three times then you stab me
+
+945 6145167 1241
+How common
+
+946 6146417 1787
+Then raise the tone
+
+947 6152792 1616
+See that chair over there
+
+948 6155708 1866
+If I can't plant your ass there
+
+949 6158458 2788
+keep the cash
+
+950 6164250 2333
+You're kidding, aren't you
+
+951 6200667 1241
+Brother
+
+952 6203375 2583
+here's your prayer money
+
+953 6207333 1491
+Next time you'll be joining your mom
+
+954 6209375 1457
+Off you go
+
+955 6212833 1332
+To tell the truth
+
+956 6218417 1241
+Take me as a disciple
+
+957 6220208 1161
+Teach you
+
+958 6222167 1707
+It'd be a waste of my time
+
+959 6227667 1957
+That's speaking honestly too
+
+960 6241500 1536
+Just a few pointers
+
+961 6264500 2333
+(That same year, The Razor began teaching.
+
+962 6266833 3744
+(Baji kungfu came to Hong Kong.
+
+963 6288625 3949
+In 1952, Gong Er stopped seeing patients
+
+964 6293375 3038
+Some say her old injury drove her to opium
+
+965 6296833 2367
+Others that she was obsessed with kungfu
+
+966 6300333 2993
+I last saw her at a teahouse
+
+967 6343792 1366
+Do you know this opera
+
+968 6346667 1912
+I think I heard it before in Foshan
+
+969 6350167 1207
+Something about a dream
+
+970 6351625 1366
+A Dream of Love
+
+971 6355792 1787
+Love is just that, a dream
+
+972 6358833 1491
+It's sai
+
+973 6360917 3038
+no instrument is as lovely as a voice
+
+974 6365167 3493
+Words always sound better sung
+
+975 6368667 1536
+Has Miss Gong studied opera
+
+976 6370208 1286
+Just the basics
+
+977 6378708 5792
+Back then if I'd put my mind to it
+
+978 6385833 1912
+I'd be an opera star
+
+979 6388292 3619
+All those tales, happy and sad..
+
+980 6393375 1832
+If I tired of Yang Family Women Generals
+
+981 6396167 2162
+I'd sing Waking from a Dream
+
+982 6399875 1116
+Think of it 
+
+983 6403167 3323
+me on stage, you in the audience
+
+984 6408833 1912
+meeting that way
+
+985 6412417 1286
+Wouldn't that be something
+
+986 6414667 1662
+But what if it was sold out
+
+987 6417542 1457
+You flatter me
+
+988 6420083 2788
+If you came, I'd save you a seat
+
+989 6424417 3914
+You've performed well in the opera of life
+
+990 6428333 2663
+You have both timing and skill
+
+991 6431292 1707
+Unfortunately
+
+992 6434167 1161
+you never saw beyond your role
+
+993 6438708 1957
+I'd no idea you watched me like an opera
+
+994 6443708 1366
+This opera of mine
+
+995 6445917 1832
+applauded or not
+
+996 6448333 1616
+will play on to the end
+
+997 6453667 1616
+I asked yo
+
+998 6456042 1832
+here to bring things to a clos
+
+999 6458500 1457
+and say what needs to be said
+
+1000 6460542 1161
+Are you going somewhere
+
+1001 6467333 1787
+We have a saying in the North 
+
+1002 6470208 2959
+a tiger never quits the mountain
+
+1003 6474833 4074
+We've both been living on foreign soil
+
+1004 6481625 1616
+I'm so very tired
+
+1005 6484458 1241
+I want to go home
+
+1006 6489042 3072
+But I wanted to return this to you first
+
+1007 6509792 1286
+As for the 64 Hands
+
+1008 6514333 1662
+I've already forgotten them
+
+1009 6522542 5325
+I was lucky to meet you in my prime
+
+1010 6532542 1536
+Sadly, my time is running out
+
+1011 6536458 3698
+To say there are no regrets in life
+
+1012 6541333 1992
+is just to fool yourself
+
+1013 6545000 4665
+How boring it would be without regrets
+
+1014 6557500 3323
+Mr Ip, to tell you the truth
+
+1015 6564167 1912
+I cared about you
+
+1016 6575167 2037
+I don't mind telling you that
+
+1017 6578792 1457
+It's not a crime to love
+
+1018 6585375 2083
+But that's all it can ever be
+
+1019 6592208 1866
+I never said that to anyone before
+
+1020 6596833 1491
+Seeing you tonight
+
+1021 6599417 1957
+I don't know why, it just came out
+
+1022 6609292 1866
+Let's say we suspend this gam
+
+1023 6611500 2333
+of chess between us
+
+1024 6621667 1366
+Take care
+
+1025 6634458 2538
+In life, as in chess
+
+1026 6637667 1866
+a move once made stays on the board
+
+1027 6643000 1207
+What we hav
+
+1028 6645750 1241
+is simply fate
+
+1029 6654208 1366
+Your father once said
+
+1030 6657000 2788
+never give up the faith
+
+1031 6660500 1491
+Keep the light burning
+
+1032 6665292 1366
+I hope that one da
+
+1033 6666917 2367
+I'll see the 64 Hands once more
+
+1034 6734750 4950
+My father said mastery had three stages 
+
+1035 6741542 1286
+being
+
+1036 6744000 1081
+knowing
+
+1037 6746708 1707
+doing
+
+1038 6751375 1616
+I know myself
+
+1039 6755000 1457
+I've seen the world
+
+1040 6762167 1616
+Sadly, I can't pass on what I know
+
+1041 6770667 1662
+This is a roa
+
+1042 6773375 1457
+I won't see to the end
+
+1043 6778500 2037
+I hope you will
+
+1044 6803542 1741
+Is this street of school
+
+1045 6806625 1832
+all the Martial World has come to be
+
+1046 6927250 4074
+A great age offers a choice
+
+1047 6931917 2663
+stay or move on
+
+1048 6935833 2583
+I choose to remain in my era
+
+1049 6939333 1992
+the times when I was happiest
+
+1050 6942458 3448
+(In 1953, Gong Er died in Hong Kong.
+
+1051 6945917 3118
+(She kept her vows
+
+1052 6949042 4244
+(to the end.
+
+1053 6966917 2913
+Tomorrow I take Miss Gong's coffin home
+
+1054 6971208 1457
+She left this for you
+
+1055 6975167 4495
+In imperial times I was an executioner
+
+1056 6981667 4040
+The Republic left me out of a job
+
+1057 6987042 2413
+Had Master Gong not taken me in
+
+1058 6990583 2083
+I'd have landed in the gutter like a dog
+
+1059 6995167 2538
+He never looked down on me
+
+1060 6998625 2663
+He made me his daughter's guardian
+
+1061 7002208 2788
+My fierceness would protect her
+
+1062 7005000 3448
+He nicknamed me Lucky Star
+
+1063 7011583 5792
+so fortune would shine on her always
+
+1064 7025833 1491
+For a woman
+
+1065 7027708 2287
+taking vows is a kind of death
+
+1066 7034000 1616
+To avenge her father
+
+1067 7035917 3994
+she vowed never to marry or teach
+
+1068 7040333 1741
+to remain single her whole life
+
+1069 7043917 1582
+She kept that vow
+
+1070 7052333 1491
+These are the ashe
+
+1071 7054125 3539
+from when she cut and burnt her hair
+
+1072 7060458 4199
+She said she knew you a long time
+
+1073 7065750 1411
+But you didn't really know her
+
+1074 7067750 1081
+nor she you
+
+1075 7072208 1662
+Seeing these ashes
+
+1076 7077083 1582
+you'll understand her better
+
+1077 7084333 1286
+Mr Ip
+
+1078 7086833 1662
+the Gong Family is through
+
+1079 7089000 3949
+Miss Gong belongs to you now
+
+1080 7157917 1457
+Like her father
+
+1081 7159833 2583
+Gong Er never lost a fight
+
+1082 7164667 3289
+She only ever lost to herself
+
+1083 7193250 4074
+(1953. Ip Man gets his Hong Kong ID
+
+1084 7197333 4244
+after the border to China is shut
+
+1085 7230042 1536
+The day I left Foshan
+
+1086 7232250 1457
+I wanted to say somethin
+
+1087 7234833 1457
+but couldn't speak the words
+
+1088 7238083 6372
+(My heart will carry me back to you.
+
+1089 7276500 1662
+When I left her that time
+
+1090 7278417 1741
+I thought I'd be able to return
+
+1091 7280542 2492
+But it was the last time I saw her
+
+1092 7284500 2083
+After that I only had the path ahead
+
+1093 7286583 1207
+There was no turning back
+
+1094 7289667 1332
+and no road home
+
+1095 7294167 3323
+(In 1960, Zhang Yongcheng died of illness.
+
+1096 7297500 2617
+(Ip Man never returned to Foshan.
+
+1097 7364167 2208
+Okay, begin
+
+1098 7369708 911
+Left fis
+
+1099 7370625 990
+out
+
+1100 7371917 1081
+palm open
+
+1101 7373000 1332
+turn the wrist
+
+1102 7374667 990
+pull back
+
+1103 7375667 1161
+right fist
+
+1104 7376833 990
+out
+
+1105 7377833 990
+open
+
+1106 7378833 1116
+twist the wrist
+
+1107 7379958 1366
+pull back
+
+1108 7393167 1207
+Mr Ip
+
+1109 7395667 1491
+all encounters in this worl
+
+1110 7398292 1741
+are a kind of reunion
+
+1111 7457167 3323
+They say I popularized Wing Chun
+
+1112 7460833 1536
+I hope they're right
+
+1113 7462833 1616
+I never did it for fame
+
+1114 7464458 1957
+The martial arts belong to all
+
+1115 7466958 1536
+We're all on the same quest
+
+1116 7469292 2037
+It all comes down to those two words 
+
+1117 7471708 1616
+Horizontal. Vertical
+
+1118 7550458 4700
+(Ip Man was a huge inspiration to others.
+(Because of him,
+
+1119 7555167 6247
+(the torch of Wing Chun
+(has been carried around the world.
+

@@ -1,0 +1,3986 @@
+1 75481 6269
+How long do you think it will take
+this mineral water to replenish, Eddy?
+
+2 82688 1831
+I don't know.
+
+3 85524 4460
+- Fifty years?
+- No. A hundred.
+
+4 122561 3595
+Open valves one and two!
+
+5 126332 1900
+Open one and two!
+
+6 128434 1228
+Quick!
+
+7 130703 2093
+Open valves three and four!
+
+8 132972 2059
+Three and four!
+
+9 136375 1934
+It's not enough!
+
+10 145885 1490
+It's not working.
+
+11 147553 4528
+Raise the values.
+There's not enough pressure!
+
+12 154226 1968
+No, Father!
+
+13 156362 2468
+The centre valve won't hold.
+
+14 159732 3834
+It's not enough!
+Open all the valves!
+
+15 170476 1627
+Madness.
+
+16 173012 1262
+Close the valves!
+
+17 174914 2696
+From risk comes progress.
+
+18 183122 2230
+Close valves three and four!
+
+19 189028 1831
+A bit more...
+
+20 191363 1126
+Almost there...
+
+21 203075 2730
+What's wrong, Eddy?
+Are you all right?
+
+22 286625 2059
+The second time this month!
+
+23 288861 2525
+- Have you called Scott Co.?
+- Yes, sir.
+
+24 291797 3163
+"The latest in engines," my foot.
+
+25 301306 2400
+They were just here for maintenance!
+
+26 303876 2161
+They said everything was fine.
+
+27 313719 3265
+Shut this thing down!
+
+28 318390 2969
+Pete! Where is he?!
+
+29 330169 1490
+My engines.
+
+30 331837 2161
+Eleanor. Helen.
+
+31 336709 1627
+Pete!
+
+32 341280 3299
+- Do something.
+- I am.
+
+33 344750 2764
+Ray's down below, closing the valve.
+
+34 354927 2491
+What are you doing?!
+
+35 375814 3060
+Guess I'll have to smash the boiler.
+
+36 379051 4061
+Wait! Do you know how much
+a boiler costs?
+
+37 383322 5632
+- The cylinders, then.
+- No! Don't do that!
+
+38 389194 2798
+Should I just wait till they both blow?
+
+39 392197 3697
+If I don't do something,
+Ray will be killed!
+
+40 407513 1592
+Ray!
+
+41 409281 1331
+Move!
+
+42 410916 1695
+What the...?!
+
+43 437943 1331
+Ray.
+
+44 439444 2525
+Are you all right?
+
+45 442381 2093
+Yeah. A bit scalded.
+
+46 446385 1126
+The boiler?
+
+47 448520 1297
+It's all right?
+
+48 449988 4835
+Yes, but the water-heater valve
+and the pipe burst.
+
+49 454993 1490
+What?!
+
+50 456662 2468
+Have you any idea
+how much that will cost?!
+
+51 459298 2560
+That's not Ray's fault, Mr. Kerrigan.
+
+52 462034 3265
+He just did a very dangerous thing.
+
+53 465470 1558
+Now, you listen to me!
+
+54 467272 4699
+Those parts are coming out
+of your paycheck! Don't forget!
+
+55 474046 4733
+I want this running again
+by tomorrow!
+
+56 483789 2992
+Ignore him. Well done, Ray.
+
+57 498337 4403
+Pack them in tighter or it won't all fit.
+
+58 505611 3936
+Ground-up bones found
+in Market Street bakery bread!
+
+59 509948 4801
+Pastor of cemetery church
+speaks out!
+
+60 515020 1297
+Read all about it!
+
+61 516588 4437
+Society must think anew
+about its surroundings!
+
+62 523962 3060
+Latest on the canal murders!
+
+63 527532 2366
+Church of England minister charged!
+
+64 530068 2798
+"The Great Exhibition."
+
+65 535607 1661
+Hi, Ray.
+
+66 537442 1194
+Hi, Cliff.
+
+67 539344 3026
+David told me what happened.
+
+68 542614 3333
+You save the place,
+and they cut your pay.
+
+69 546251 2594
+Yeah, but I got this.
+
+70 552157 3458
+A brass valve. I can still use it.
+
+71 556261 5097
+Manchester. Manchester.
+
+72 600172 2434
+Hey, Alex!
+
+73 604176 1627
+Look who's here!
+
+74 606445 2230
+Ray Steam, the inventor.
+
+75 609514 5199
+Builder of junk, like his father
+and grandfather before him.
+
+76 615921 3697
+And now here he is
+at my dad's railyard...
+
+77 619925 1467
+...stealing stuff.
+
+78 621560 2594
+An inventor who is a thief!
+
+79 626498 2025
+Or just a thief.
+
+80 636975 1558
+Get him, Alex!
+
+81 644583 1092
+Alex!
+
+82 648587 2867
+Hey! It wasn't my idea!
+
+83 653225 3629
+My dad and my granddad
+are working in America.
+
+84 657462 2230
+Because England
+thinks they're crazy!
+
+85 660332 989
+Shut up!
+
+86 661600 4994
+"'What is it that you seek...
+
+87 667172 5734
+...for which you would
+abandon this world? '
+
+88 673912 3697
+'What I seek is up... Up... Up... '
+
+89 678383 1228
+Uprightness.
+
+90 681086 5495
+'Uprightness, a joy ageless
+and eternal.
+
+91 687292 5563
+That is in heaven,
+granted to all who seek it.
+
+92 693398 4096
+Thus it is written in my book.'
+
+93 697736 2560
+The stubborn man..."
+
+94 703141 3436
+"The stubborn man said.
+'Your book?
+
+95 707045 4334
+I know naught of your book.
+Will you come with me or not?"'
+
+96 781887 2161
+I'll have to file it down.
+
+97 784222 3128
+They were making fun
+of Father and Grandpa.
+
+98 787859 1968
+They started it.
+
+99 790495 2230
+That's no excuse.
+
+100 793398 3766
+But that Alex is a rotter, Mrs. Steam.
+
+101 797335 3231
+He whistled at me on the street.
+
+102 800739 3128
+We're staying here this week, Ray.
+
+103 804743 1160
+Why?
+
+104 806144 5563
+Thomas and Emma's mother
+has gone to Blackpool...
+
+105 811883 3026
+...to attend her employers
+on holiday there.
+
+106 815720 4096
+You should have seen the luggage.
+I thought we were moving.
+
+107 820692 3060
+Mother, I'm hungry.
+
+108 823929 6303
+That's too bad. That poor boy
+almost needed stitches.
+
+109 830902 2833
+I didn't hit him that hard.
+
+110 833939 2298
+How hard is not important.
+
+111 836508 4369
+You don't bash people
+over the head with metal bars.
+
+112 878216 1399
+There.
+
+113 880919 4767
+Mother! Emma! It's done!
+
+114 886091 2992
+You can't fight blood, I guess.
+
+115 889261 2468
+I'm always afraid
+he'll burn the place down.
+
+116 894065 2230
+Mrs. Steam, parcel!
+
+117 896968 1467
+Coming!
+
+118 899404 1490
+What could that be?
+
+119 902107 5131
+Mother! It's a parcel from Grandpa.
+
+120 913785 2560
+Now, don't scatter
+everything around.
+
+121 918023 2264
+Careful.
+
+122 923128 1627
+This is Grandpa's writing.
+
+123 928600 3527
+Whatever could this be?
+
+124 935440 2935
+Is that the postman back again?
+
+125 939311 1194
+Yes?
+
+126 949187 2468
+Is this the residence of Dr. Steam?
+
+127 953825 1297
+Yes, it is.
+
+128 956561 2798
+I am Alfred, and this is Jason...
+
+129 959531 3333
+...of the O'Hara Foundation
+in the United States.
+
+130 963068 3800
+Thank you for all you've done
+for my husband and father-in-law.
+
+131 967339 4130
+Not at all. They've done
+a great deal for us.
+
+132 972510 4369
+A parcel's just this minute
+come from the elder Dr. Steam.
+
+133 977048 4096
+Is that so? What excellent timing.
+
+134 990729 3834
+And would the doctor be home?
+
+135 994999 1661
+Grandpa? But he's...
+
+136 996835 5870
+You're Ray? The Doctors Steam
+have told me about you.
+
+137 1003074 5870
+They say he should have gone
+to the exhibition in London.
+
+138 1009114 1592
+Yes.
+
+139 1011516 1865
+There's been a mistake.
+
+140 1017455 3060
+Are you really from the Foundation?
+
+141 1022127 1399
+Yes, Ray.
+
+142 1024763 1126
+Then...
+
+143 1026231 1490
+...you won't have this!
+
+144 1027899 2434
+What's gotten into you?
+
+145 1031269 3163
+Grandpa says not to give this
+to anyone.
+
+146 1034773 2662
+Yes. It's very, very important.
+
+147 1037909 4835
+That's why he's sent us
+to get it for him, Ray.
+
+148 1042981 3959
+And especially not to anyone
+from the Foundation.
+
+149 1052891 1160
+Emma?
+
+150 1058062 3094
+What's going on here?
+
+151 1061766 2230
+Well you may ask...
+
+152 1064169 2093
+I'll tell you!
+
+153 1068907 1365
+Grandpa?
+
+154 1070675 1092
+Grandpa!
+
+155 1071943 3458
+Ray! Don't let these villains
+have that ball!
+
+156 1076181 1729
+It's Foundation property!
+
+157 1079584 2230
+That ball cost Eddy his...
+
+158 1082454 1490
+Father?
+
+159 1084789 4403
+Ray, your father is dead.
+
+160 1095467 1524
+Father is...
+
+161 1099204 1058
+Dead?
+
+162 1100438 2491
+Jason! The doctor's here!
+
+163 1103441 1194
+Run, Ray!
+
+164 1104809 3128
+Take the ball and the plans
+to Mr. Stephenson!
+
+165 1108480 1968
+- Who?
+- Mrs. Steam!
+
+166 1111983 2468
+Don't let that ball get to London!
+
+167 1121493 1126
+Villain!
+
+168 1123127 1194
+Quick!
+
+169 1126364 2298
+Ray! Take to your heels!
+
+170 1132170 1024
+Quickly!
+
+171 1134639 2491
+Jason! Get down here!
+
+172 1137575 1934
+Mother! Quick!
+
+173 1147852 1228
+Ray! Get help!
+
+174 1149354 1024
+Mother!
+
+175 1154392 1490
+Ray!
+
+176 1165336 1058
+Move!
+
+177 1178283 1558
+Time to move.
+
+178 1181185 1160
+Oh, no!
+
+179 1182887 3128
+What are you doing? That won't help!
+
+180 1187425 1831
+It's never worked.
+
+181 1189427 2332
+Just push, will you?
+
+182 1203074 3299
+Jason! He's out front!
+
+183 1207445 1968
+Hold it up straight.
+
+184 1210448 1433
+What's that?
+
+185 1229067 3026
+That kid! He's got the steam ball!
+
+186 1233538 1797
+Emma! Give me a push!
+
+187 1236240 2560
+Stop fooling with this and get away!
+
+188 1240645 1592
+Ray!
+
+189 1263768 3333
+- Run, gaffer!
+- Where?!
+
+190 1267271 1194
+Move aside!
+
+191 1292530 1262
+What's that thing?
+
+192 1304642 1092
+What's that?
+
+193 1310915 1729
+Out of the way!
+
+194 1319323 1365
+Drat!
+
+195 1361966 2059
+- Hey!
+- That boy needs help!
+
+196 1380752 1160
+What the...?!
+
+197 1402406 2332
+- We've stopped.
+- Why?
+
+198 1421292 3128
+Careful! You could've
+killed someone!
+
+199 1424796 1024
+Sorry.
+
+200 1426497 3629
+I had to stop that tractor.
+
+201 1431536 1763
+Tractor?
+
+202 1433738 3367
+- Well done, David.
+- Mr. Stephenson.
+
+203 1440311 1968
+Robert Stephenson?
+
+204 1442814 2230
+These are yours?
+
+205 1445449 1695
+What's your name?
+
+206 1448853 1160
+Ray, sir.
+
+207 1450188 3629
+James Ray Steam, Mr. Stephenson.
+
+208 1454125 1865
+James Steam?
+
+209 1456260 2059
+Edward Steam's son?
+
+210 1459764 2025
+It's firing something!
+
+211 1477148 3993
+Your grandfather sent us a letter...
+
+212 1481319 3367
+...asking us to meet him
+in Manchester.
+
+213 1485790 3367
+But now, running into you this way...
+
+214 1490494 4562
+There's more to this
+than we thought, sir.
+
+215 1495233 1126
+Yes.
+
+216 1496534 4869
+You mean those men from
+the O'Hara Foundation?
+
+217 1501572 5597
+I can't say much. It involves
+secrets vital to our nation.
+
+218 1507945 3436
+It concerns a new discovery...
+
+219 1511549 2332
+...made by your father
+and grandfather.
+
+220 1515119 4767
+Your father and Mr. Stephenson
+worked together in their 20s.
+
+221 1520892 3128
+We were more like rivals.
+
+222 1524428 3993
+In '39, when I was in America...
+
+223 1528599 1627
+...your father and I...
+
+224 1530401 5370
+Grandpa told me to give you this.
+
+225 1537041 2025
+But this is...
+
+226 1540111 1365
+Here!
+
+227 1541646 1831
+Sir! Get down!
+
+228 1544282 2093
+- The roof?
+- What was that?
+
+229 1550588 1399
+Take her up!
+
+230 1565436 1365
+Lift!
+
+231 1569674 1262
+Ray!
+
+232 1571108 2059
+Hold onto him!
+
+233 1573978 1160
+It's grappled us!
+
+234 1575313 2059
+We'll crash into Victoria Station!
+
+235 1580084 1695
+- Ray!
+- Let go!
+
+236 1586624 2525
+Get the ball! Forget the kid!
+
+237 1593965 1331
+Quick!
+
+238 1605943 1399
+No!
+
+239 1607979 2298
+We're in the train yard.
+
+240 1610514 1194
+Take it up!
+
+241 1621325 2628
+Fool! Close the valve!
+
+242 1634138 1194
+Give me that!
+
+243 1636207 989
+Let go!
+
+244 1650755 1490
+- Hurry!
+- Mr. Stephenson!
+
+245 1652656 1592
+Quickly!
+
+246 1654692 4835
+London train now arriving
+at platform seven.
+
+247 1660564 1627
+What's that?
+
+248 1698769 2366
+Who else saw Dr. Steam?
+
+249 1701305 1467
+Was he here?
+
+250 1702940 1934
+They took Ray too!
+
+251 1705042 3060
+How is Robert Stephenson involved?
+
+252 1710314 3834
+I'll file a report, and we'll investigate.
+
+253 1722326 1490
+Well? Find anything?
+
+254 1725930 3128
+I think this is a pressure gauge...
+
+255 1730167 3367
+...but I've never heard of one
+that went this high.
+
+256 1735172 1968
+He might have called us here...
+
+257 1737408 4403
+...to show us how much power
+that ball was capable of.
+
+258 1742847 4061
+With Dr. Steam kidnapped,
+that's all I can guess.
+
+259 1749120 3731
+How powerful do you think
+that ball really is?
+
+260 1763200 4460
+Mr. Stephenson, will Ray be all right?
+
+261 1768172 1831
+I'm sure he will, ma'am.
+
+262 1770341 4528
+The British Empire will ensure
+his safe return.
+
+263 1876046 4733
+How was your trip, Miss Scarlett?
+Is the chairman well?
+
+264 1880951 1991
+Simon. What a place!
+
+265 1883120 2594
+The weather's foul, the river stinks...
+
+266 1885889 1831
+...and the buildings are dingy.
+
+267 1887891 1661
+It's awful!
+
+268 1890794 1695
+Columbus!
+
+269 1900804 4835
+Help me, please.
+I've been kidnapped.
+
+270 1906644 1433
+It's true.
+
+271 1911982 1365
+Columbus!
+
+272 1915919 1831
+Come back here!
+
+273 1921292 1467
+You're a bad boy!
+
+274 1931468 1831
+Now I've got you!
+
+275 1943447 2730
+So you're Dr. Edward's son?
+
+276 1946950 2298
+How do you know his name?!
+
+277 1949787 2093
+Miss Scarlett.
+
+278 1952890 3492
+So here you are. Good, good.
+
+279 1959830 3731
+Sorry to have kept you,
+Master James Ray Steam.
+
+280 1964635 4869
+Where's Grandpa's steam ball?!
+And who are you people?
+
+281 1971709 5700
+My apologies. I am Archibald Simon.
+I administer the O'Hara Foundation.
+
+282 1978148 2525
+And this is the granddaughter...
+
+283 1980851 3834
+...of Charles O'Hara-St. Johns,
+the Foundation chairman...
+
+284 1985389 1797
+...Miss Scarlett.
+
+285 1987791 5404
+And you think that allows you
+to smash our house?!
+
+286 2019523 3299
+Why don't you find yourself
+some lighter shoes...
+
+287 2023026 989
+...Dr. Edward?
+
+288 2028332 1592
+How are you, Ray?
+
+289 2031435 1297
+Father?
+
+290 2035439 1297
+It's been a long time.
+
+291 2038942 5131
+We can talk later.
+Let's eat before the food gets cold.
+
+292 2044248 1490
+Ray, sit down.
+
+293 2045949 1524
+I heard the story.
+
+294 2048051 4903
+Nothing would have happened
+if Father hadn't been so stubborn.
+
+295 2053757 3492
+We'll have your house
+fixed up in no time.
+
+296 2057928 3697
+There have been mistakes
+and misunderstandings...
+
+297 2061799 2468
+...but I'm pleased
+you were good enough to come.
+
+298 2065068 1399
+I didn't ask to!
+
+299 2067171 2833
+Simon! This plate smells.
+
+300 2070674 3766
+I wanted you
+and your mother to come...
+
+301 2074678 3231
+...and see the work I've done.
+
+302 2078482 1194
+Work?
+
+303 2080083 2696
+That river makes everything stink.
+
+304 2083754 1831
+Come, Ray.
+
+305 2089092 2059
+But, doctor, dinner's not...
+
+306 2091328 1092
+Well!
+
+307 2098936 1524
+How rude.
+
+308 2101038 3128
+Just a darn minute!
+
+309 2111048 2264
+Father, what's going on?
+
+310 2114218 2298
+First Grandpa says you're dead...
+
+311 2117454 3231
+...and not to give
+the Foundation that ball.
+
+312 2120858 2628
+And what happened to you?
+
+313 2123660 4164
+We were looking for a stable liquid
+of great purity...
+
+314 2127998 2696
+...to give very high pressure.
+
+315 2132069 4630
+Three years ago we found it
+in a cave in Iceland.
+
+316 2145249 1968
+So, what did you do with it?
+
+317 2149720 1729
+What are you doing?
+
+318 2159162 4164
+What's wrong with you, girl?
+Are you stupid?!
+
+319 2164268 2468
+Mind how you talk to me.
+
+320 2168972 1763
+I'm not the stupid one.
+
+321 2172175 4699
+My name is Scarlett,
+but everyone calls me Miss.
+
+322 2178348 3527
+Hold onto the handrail, miss.
+
+323 2182052 1024
+Here we go.
+
+324 2201538 6166
+In 1863, we succeeded in confining
+super-high pressure...
+
+325 2207878 3527
+...in a highly concentrated space.
+
+326 2212015 3367
+Super-high pressure,
+highly concentrated?
+
+327 2235906 1399
+Golly!
+
+328 2238175 3458
+This is nothing
+compared to Niagara Falls.
+
+329 2245983 1365
+That ball!
+
+330 2248251 3197
+That is the steam ball.
+
+331 2252422 3436
+We made three of them in Ireland.
+
+332 2256059 5131
+They provide all the power
+for this tower.
+
+333 2261932 2127
+The steam ball...
+
+334 2264368 3094
+All steam vessels until now
+have derived power...
+
+335 2268005 2332
+...from an enormous boiler.
+
+336 2270507 2969
+They require numerous cylinders...
+
+337 2274011 4061
+...whose own weight absorbs power.
+
+338 2279282 3197
+But what we have here, Ray,
+is a system...
+
+339 2283520 3333
+...that will transmit pure power.
+
+340 2287391 2491
+Built with our money.
+
+341 2290394 2628
+You know what that means, Ray?
+
+342 2294798 3492
+With power like this,
+we can take to the air.
+
+343 2298802 1729
+So what?
+
+344 2300804 4437
+I have two balloons,
+and Grandfather has an airship!
+
+345 2306243 2127
+Just shut up, will you?
+
+346 2308545 2332
+How dare you!
+
+347 2319923 1331
+Oh, my.
+
+348 2325362 1695
+What's this?
+
+349 2327230 2935
+The Steam Tower control room.
+
+350 2334438 1729
+"Steam Tower"?
+
+351 2338141 4027
+Look, Ray! You can see
+the Exhibition Palace!
+
+352 2342779 2264
+- With this...
+- The Exhibition?
+
+353 2346349 2833
+This way!
+There's a terrace outside.
+
+354 2354091 2594
+Up here, Ray! Quick!
+
+355 2371942 3094
+Look how small everyone is!
+
+356 2375579 5233
+So this is London?
+
+357 2381284 3299
+You really are stupid!
+Where else would they have...
+
+358 2384788 1490
+...the London Exhibition?
+
+359 2387324 3993
+Golly! It really is the Exhibition!
+
+360 2391762 1490
+This is the O'Hara...
+
+361 2393430 2901
+It's a tremendous Exhibition...
+
+362 2397134 3458
+...but beside Steam Tower,
+it's rubbish.
+
+363 2401138 2935
+What is this Steam Tower?
+
+364 2404241 1763
+You don't know? Stupid!
+
+365 2406209 1627
+Stop calling me that!
+
+366 2408078 3026
+It's not stupid to ask
+when you don't know!
+
+367 2412249 2901
+Kinetic energy from this tower...
+
+368 2415418 3731
+...will be converted
+for every conceivable use.
+
+369 2419856 3265
+Man will be freed from long,
+hard labor...
+
+370 2424027 3959
+...and will prevail over even
+nature's greatest disasters.
+
+371 2429833 3492
+We will deliver
+this enormous power...
+
+372 2433670 2935
+...to the entire world!
+
+373 2437374 2468
+Under the O'Hara trademark.
+
+374 2441044 2230
+It all begins here.
+
+375 2443947 2935
+One day you will inherit
+Steam Tower.
+
+376 2447484 2161
+- Me?
+- Him?
+
+377 2450187 5165
+The tower was first conceived
+by your grandfather.
+
+378 2457327 4198
+It's been 10 years since I started
+helping with the plans.
+
+379 2463066 2992
+Now the day of completion
+draws near.
+
+380 2467270 2400
+Help me, Ray.
+
+381 2470173 2400
+Together we'll finish Steam Tower.
+
+382 2473577 2992
+The Exhibition will be opening soon.
+
+383 2476780 2935
+If not for that father of mine...
+
+384 2480283 2560
+Why isn't Grandpa helping?
+
+385 2483220 2594
+A difference of opinion.
+
+386 2486022 2798
+Soon you'll understand this...
+
+387 2489593 3766
+...but science isn't
+an occult art like alchemy.
+
+388 2493997 3197
+It's not secrets for the use
+of the well-born...
+
+389 2497500 2901
+...deep in their palaces
+and churches.
+
+390 2501738 5461
+Science exists as a power
+to be used in reality.
+
+391 2507611 3458
+What use is it, if not for everyone?
+
+392 2512315 4027
+The entire world awaits its blessings.
+
+393 2519122 3458
+The world awaits Steam Tower!
+
+394 2524928 2400
+The O'Hara Foundation.
+
+395 2527631 4664
+During the Civil War they sold
+guns to both North and South...
+
+396 2532469 4130
+...and now they deal arms
+all over the world.
+
+397 2536973 5961
+But we did not know that when
+they were invited to this Exhibition.
+
+398 2543580 2662
+It's very embarrassing.
+
+399 2546549 5700
+Their technology is becoming
+a threat to this nation.
+
+400 2552722 1763
+Perhaps you say that...
+
+401 2554724 4528
+...in order that we will fund
+more of your inventions?
+
+402 2560096 3197
+Wars are not won by machines.
+
+403 2563934 1365
+In truth...
+
+404 2565568 4699
+...I must say
+I have underestimated them.
+
+405 2570941 3299
+"Them"? Those Mancunians?
+
+406 2574744 1934
+The Steams.
+
+407 2578014 2798
+Why would you fear those two?
+
+408 2580984 3436
+They weren't even admitted
+to our Technical Academy!
+
+409 2584988 1433
+They're self-taught.
+
+410 2590527 3492
+Well, self-taught or not...
+
+411 2594397 4994
+...we can't have them selling arms
+outside our Exhibition doors.
+
+412 2599703 3265
+It's a matter of national dignity.
+
+413 2630033 3299
+Ventilation complete.
+Let's get back to work.
+
+414 2633503 1558
+Yes, Father.
+
+415 2656760 2264
+The water intake's fixed.
+
+416 2659362 1729
+Commence flooding!
+
+417 2661398 1092
+Yes, sir!
+
+418 2668872 2969
+Columbus' indoor walker is broken.
+
+419 2675412 3163
+Submersible retracted!
+
+420 2678915 1763
+Did you hear me?
+
+421 2680850 4528
+I said that Columbus' walker
+is broken. Fix it!
+
+422 2686189 2332
+Why should I?
+
+423 2688925 2935
+Your grandpa made it.
+
+424 2692796 1558
+He did?
+
+425 2697000 3128
+Well, if we don't stop it,
+the dog will die.
+
+426 2701538 2230
+Columbus, you call him?
+
+427 2703940 1092
+Usually.
+
+428 2705208 1092
+Here...
+
+429 2710814 2491
+Tell me before you do that!
+
+430 2713516 4266
+You'll need a new cam for this gear.
+
+431 2718288 1433
+Then put one in.
+
+432 2720323 4460
+No parts. Steam Tower
+uses American standards...
+
+433 2724961 1467
+...and this is English.
+
+434 2726896 2264
+What do you mean?
+This is London!
+
+435 2729332 2093
+Those parts are everywhere!
+
+436 2731835 3595
+I guess I could file one down...
+
+437 2736339 1331
+Let's go find one.
+
+438 2739976 1262
+Okay?
+
+439 2765835 1331
+What are you doing?
+
+440 2767337 1297
+They'll see us.
+
+441 2768805 2798
+They said not to go out.
+
+442 2771774 1331
+Oh, they did, did they?
+
+443 2773576 3458
+I was kidnapped and brought here,
+don't forget.
+
+444 2777213 2298
+You make it sound so awful.
+
+445 2790326 2059
+Isn't this wonderful?
+
+446 2813383 2935
+This is stealing, isn't it?
+
+447 2818555 3128
+- A steam hammer.
+- Ray! Come here!
+
+448 2826029 1695
+Keep quiet!
+
+449 2827897 1797
+Someone will hear us.
+
+450 2829866 1194
+Look!
+
+451 2831834 1365
+You see?
+
+452 2833403 2696
+It's just our reflection in the glass.
+
+453 2836272 3367
+No. Each one's just a little different.
+
+454 2840510 3163
+- Yeah?
+- They're all looking at us.
+
+455 2843846 1524
+Yeah, well...
+
+456 2848451 1592
+What are we doing?
+
+457 2850920 1968
+Bowing. To our guests.
+
+458 2853089 1297
+Guests?
+
+459 2854757 3936
+Which one of those me's
+do you like?
+
+460 2859429 1991
+That's a hard question...
+
+461 2867604 1934
+Yeah, it is really something!
+
+462 2869706 2468
+If only Mum could see this!
+
+463 2874244 2332
+A real mama's boy, huh?
+
+464 2876879 1331
+I am not!
+
+465 2879249 2696
+Do most kids
+so want to see their mothers?
+
+466 2882118 1126
+Who said I did?
+
+467 2883753 2195
+I've got five mothers.
+
+468 2887757 2468
+The one who cooks for me.
+
+469 2890393 2696
+The one who buys clothes with me.
+
+470 2893296 2434
+The one who teaches me.
+
+471 2896266 1968
+Those aren't mothers.
+
+472 2898568 4664
+One for when I go riding,
+and one for bedtime stories.
+
+473 2903773 1365
+Big deal!
+
+474 2905308 3936
+I'm not writing to my mothers
+saying I want to go home.
+
+475 2910947 1763
+How did you know that?
+
+476 2913416 3333
+You threw the letter away.
+
+477 2928665 3436
+I won't let you finish
+Steam Tower, Eddy.
+
+478 2942345 1262
+Father!
+
+479 2945048 3231
+You remember that letter
+I asked you to send to Mum?
+
+480 2948818 4801
+Yes. I asked them
+to send it along with mine.
+
+481 2954190 1592
+Yours?
+
+482 2955958 3834
+Yes. I write her once a month.
+
+483 2963833 3333
+Doctor! We have
+a pressure leak in Area 5.
+
+484 2967804 1991
+We just checked that yesterday.
+
+485 2970506 4061
+Your father broke out of
+his cell last night.
+
+486 2974844 2696
+What were the guards doing?
+
+487 2978081 1934
+Don't close that centre valve.
+
+488 2980183 3993
+I know. But the whole tower's
+losing pressure!
+
+489 2985555 2992
+A letter every month?
+
+490 2988725 2093
+Then why did Grandpa...?
+
+491 2992862 2468
+Reroute pressure from Area 8!
+
+492 2995498 1831
+Watch Areas 6 and 7!
+
+493 2997533 1024
+Ray.
+
+494 2999736 3299
+Close valve 53, will you.
+
+495 3003206 2161
+- In Area 7.
+- Right.
+
+496 3009412 1831
+Number 53...
+
+497 3023259 2195
+Grandpa? Is that you?
+
+498 3026462 1092
+Ray?
+
+499 3030066 2798
+Turn out that light, will you.
+
+500 3034604 3265
+What are you doing here?
+
+501 3038574 2195
+Me? What about you?
+
+502 3041344 2059
+Weren't you in Manchester?
+
+503 3043613 1763
+Why are you in London?
+
+504 3047950 2833
+What's happened to
+the steam ball?!
+
+505 3051554 4027
+An airship came
+and lifted me out of a train...
+
+506 3056259 1365
+They stole it?
+
+507 3059562 2560
+- Yes.
+- Oh, no!
+
+508 3065435 3561
+After all I went through
+to send it to Manchester!
+
+509 3070273 1865
+Blast you, Eddy!
+
+510 3072308 2969
+There's no time to lose.
+
+511 3078448 1490
+Grandpa.
+
+512 3085121 1024
+Stop that!
+
+513 3086956 1968
+If you open this...
+
+514 3089158 2969
+...all the pressure collects
+at the main valve!
+
+515 3092295 1331
+You young fool!
+
+516 3094630 3026
+Your father's deceived you, Ray.
+
+517 3098201 3231
+You knew he was alive!
+
+518 3102205 4232
+He who has crossed to evil
+is as good as dead!
+
+519 3110613 2195
+The world is waiting?
+
+520 3112982 2491
+For this work of the devil?
+
+521 3116719 1331
+But Father says...
+
+522 3118221 4232
+He's a fool who's sold
+his scientist's soul to capitalists.
+
+523 3123059 1797
+Don't listen to him.
+
+524 3125127 2195
+But it'll help people...
+
+525 3127497 2969
+Yes! Shareholders, with dividends.
+
+526 3131367 4596
+An invention with no philosophy
+behind it is a curse.
+
+527 3136506 3060
+We must take back the ball.
+
+528 3140243 3697
+No! You'll wreck
+the whole Steam Tower!
+
+529 3151387 1490
+Drat!
+
+530 3153089 3766
+Close the centre valve.
+Release the pressure.
+
+531 3157727 1262
+Find the break!
+
+532 3160162 3697
+The opening ceremony's tomorrow.
+
+533 3171274 1627
+Where are you going?
+
+534 3173976 1797
+Just come along!
+
+535 3195698 1558
+Golly!
+
+536 3200303 2434
+Here's his dream for you.
+
+537 3204073 3492
+- What are these?
+- Weapons of war.
+
+538 3207777 4733
+The devil's handiwork,
+made to kill men by the thousands.
+
+539 3214083 1524
+Golly!
+
+540 3218154 2264
+This would slaughter an enemy!
+
+541 3220957 1467
+You young fool!
+
+542 3224126 1797
+Who's the enemy?
+
+543 3226095 3163
+Prussians? French? English?
+
+544 3229799 3492
+Well, that would depend on the war.
+
+545 3233536 1262
+Listen to me.
+
+546 3234971 3993
+Arrogance and self-interest
+creates enemies in your own mind.
+
+547 3239542 6235
+Our first forefathers knew
+neither enemy nor ally.
+
+548 3249251 4733
+They want to make commerce
+out of human stupidity.
+
+549 3254857 1934
+But Father said...
+
+550 3261364 2833
+This is the thing
+that smashed our house.
+
+551 3265568 1433
+Giant Despair.
+
+552 3267770 4232
+The latest version of
+the self-propelled tractor.
+
+553 3286522 3299
+To recoup the money,
+they've invested in new weapons.
+
+554 3290026 3333
+The Foundation must sell arms...
+
+555 3293529 3527
+...to the military leaders
+at this Exhibition.
+
+556 3297233 4096
+Even if it means
+destroying the whole place.
+
+557 3304540 2161
+Why did you stop?
+
+558 3307910 2230
+Is Father really wrong?
+
+559 3310880 1968
+He most certainly is!
+
+560 3314483 2867
+I think the Steam Tower
+is marvelous.
+
+561 3318721 3663
+But somehow
+Father's not like he was.
+
+562 3323159 4198
+What if the Foundation's
+deceived him?
+
+563 3330132 2264
+Is he really wrong?
+
+564 3333369 5529
+That's for you to see
+and decide for yourself, Ray.
+
+565 3348384 1365
+Come on!
+
+566 3359095 1831
+Hurry, Ray!
+
+567 3363933 1365
+Now's our chance.
+
+568 3367770 1092
+Science...
+
+569 3370439 3128
+...must serve progress
+for all the world!
+
+570 3373809 2161
+- Father!
+- Eddy!
+
+571 3376178 2992
+Are weapons not part of that, Father?
+
+572 3379749 4198
+Fool! Science should reveal
+universal principles...
+
+573 3384120 3492
+...not assist humanity in its folly.
+
+574 3388991 1991
+By universal principles...
+
+575 3391961 3492
+...do you mean that
+children's funfair of yours?
+
+576 3396766 2798
+What is science for?
+
+577 3399735 1991
+To make all humanity equal!
+
+578 3401904 2560
+Equal? Don't abuse that word.
+
+579 3404640 2628
+All this is meant for profit!
+
+580 3407810 3163
+Ray! It was my accident
+that taught me.
+
+581 3411147 2093
+As the steam swirled around me...
+
+582 3413716 3299
+...I saw the overwhelming power
+of science.
+
+583 3417419 3026
+It's power! Science is power!
+
+584 3421023 1126
+Madness!
+
+585 3422324 4164
+And this Steam Tower is science
+in its ultimate form.
+
+586 3428330 3163
+"Science is power"?
+That kind of arrogance...
+
+587 3433669 1092
+Who's there?
+
+588 3438007 1467
+Doctor!
+
+589 3440743 1900
+Step away from the steam ball!
+
+590 3443179 3163
+You see, Ray?
+This is what they're like.
+
+591 3447183 2161
+That cur shot at Grandpa!
+
+592 3450186 1331
+Idiot!
+
+593 3451687 3697
+Just see what happens
+if you put a hole in something!
+
+594 3455558 3902
+I'd sooner be shot dead here
+than see my invention...
+
+595 3460029 2491
+...put to evil use.
+
+596 3464533 1365
+Well, Alfred?
+
+597 3466769 1399
+Shoot him.
+
+598 3475811 1991
+- Grandpa!
+- Stop that!
+
+599 3478714 1934
+You're bleeding!
+
+600 3480850 3959
+Forget that.
+You must turn that wheel.
+
+601 3491994 2798
+Ray! Take the ball and run!
+
+602 3495431 1661
+But, Grandpa...!
+
+603 3497566 2992
+It's all up to you now.
+
+604 3502238 1331
+Run, Ray!
+
+605 3507409 2901
+- Oaf! Don't shoot the boy!
+- Yes, sir.
+
+606 3518888 1695
+What in blazes?!
+
+607 3523759 2491
+Ray. Give me the ball.
+
+608 3527396 1194
+No!
+
+609 3542544 1194
+Hold it!
+
+610 3578080 2434
+Now, give me the ball.
+
+611 3584119 4130
+Ray! Open the valve all the way
+and throw it!
+
+612 3588457 3936
+Don't be a fool!
+Do that and it'll explode!
+
+613 3594964 2969
+It's no use.
+You can't go anywhere.
+
+614 3600102 1365
+What are you doing?!
+
+615 3622524 1024
+After him!
+
+616 3657960 989
+Down there!
+
+617 3671173 1160
+There he is!
+
+618 3672708 1524
+Bring a gun!
+
+619 3676345 1900
+What's all this racket?
+
+620 3679214 1695
+I'm sorry, miss.
+
+621 3681083 3299
+Dr. Steam's son has run away
+with the steam ball.
+
+622 3684987 2264
+He's done what?!
+
+623 3687489 1194
+Quickly!
+
+624 3695631 2491
+Come back here, boy!
+
+625 3707443 2468
+Stop it! What if you hit him?
+
+626 3711213 2662
+Oh, well. Deploy!
+
+627 3721523 1194
+What?
+
+628 3736772 1365
+Drat!
+
+629 3743078 1729
+Ray...
+
+630 3759628 1934
+Well, doctor?
+
+631 3761997 3265
+The buyers will be here very soon.
+
+632 3766768 2696
+So much for that scheme.
+
+633 3771640 2935
+Restart the pressure feed.
+
+634 3775844 2628
+Watch this, Father.
+
+635 3804473 1399
+Look, Ray.
+
+636 3807643 2059
+There they are.
+
+637 3814316 3561
+America, Prussia, France, Russia.
+
+638 3819188 2628
+Military leaders from everywhere.
+
+639 3827930 1228
+Over here, sir.
+
+640 3829331 2992
+Ray. You're safe.
+
+641 3833835 1831
+Mr. Stephenson.
+
+642 3836205 2491
+Good! I was worried.
+
+643 3839741 1968
+And this is the steam ball?
+
+644 3841877 3800
+Grandpa's injured.
+They've got him in the Tower.
+
+645 3846281 2798
+He means the
+O'Hara Foundation pavilion.
+
+646 3849718 4027
+All the military leaders
+just went in there.
+
+647 3854957 3094
+Without the steam ball,
+the Tower isn't complete...
+
+648 3858227 2833
+...but inside, it's full
+of incredible new weapons.
+
+649 3861730 3333
+They plan to use them
+to wreck the Exhibition.
+
+650 3865234 2730
+If we don't hurry, it'll be too late.
+
+651 3868770 2901
+Incredible new weapons?
+
+652 3872708 2594
+Self-propelled machines, airships...
+
+653 3875877 2525
+...and whatever else.
+
+654 3879281 3663
+Well, Ray, we'll take that ball now.
+
+655 3883619 1695
+Mr. Stephenson.
+
+656 3885887 1194
+What is it?
+
+657 3887923 4664
+Inventions and science,
+what are they for?
+
+658 3895764 5063
+Science exists to make
+people happy, Ray.
+
+659 3907976 1433
+Here.
+
+660 3910345 1262
+Thank you.
+
+661 3914916 2332
+Right. We're going in.
+
+662 3918487 4369
+Order the police to arm themselves.
+
+663 3923091 1262
+Now, Ray...
+
+664 3924793 3458
+...while science exists
+to make people happy...
+
+665 3928997 4596
+...the basis of that happiness,
+the nation, must be preserved.
+
+666 3935370 1592
+Look, Ray.
+
+667 3944546 3060
+There is no happiness
+without the nation.
+
+668 3947783 1729
+Now we attack.
+
+669 3954356 1661
+Shall we go?
+
+670 3956758 1262
+Where?
+
+671 3958193 2833
+We have a few things prepared too.
+
+672 3962030 1661
+Come, Ray.
+
+673 3964399 1126
+We are honored...
+
+674 3966401 5233
+...to have such distinguished visitors
+on the first day...
+
+675 3971807 2491
+...of the London Exhibition.
+
+676 3975377 3663
+I thank you on behalf
+of the O'Hara Foundation.
+
+677 3989791 3128
+Simon! Where are you?
+
+678 3993095 2093
+Why were they shooting at Ray?
+
+679 3995564 2867
+You! Where's Simon? Speak up!
+
+680 3998600 3936
+I last saw him below,
+in the main boiler room.
+
+681 4007876 4061
+Simon, it's me. I demand to know
+the meaning of this!
+
+682 4012914 2833
+Step aside. Let us through.
+
+683 4017586 1331
+Doctor?
+
+684 4021056 2332
+What are you doing here?
+
+685 4024126 1126
+Is that you, miss?
+
+686 4025427 1831
+And you're hurt!
+
+687 4027763 3197
+Emergency pressure vent!
+Man your stations!
+
+688 4031600 3993
+Does this have anything to do
+with Ray running away?
+
+689 4035771 1592
+He got away?
+
+690 4037906 2230
+- Well done!
+- Quiet!
+
+691 4040642 2264
+Is there a problem with Ray?
+
+692 4043412 4198
+The Foundation is using science
+to make weapons of war!
+
+693 4047783 2594
+Ray found out.
+
+694 4051453 1024
+But that's...
+
+695 4053054 4061
+Now the world will know
+what the Foundation is doing!
+
+696 4057926 1695
+What's wrong with that?
+
+697 4059795 3128
+That's how we make money.
+Why shouldn't we?
+
+698 4063398 2992
+You've put ideas in his head.
+
+699 4066568 2434
+That's why he stole that ball.
+
+700 4069171 1297
+I'm not finished!
+
+701 4072574 2594
+Open the door! Police!
+
+702 4077078 2491
+We wish to inspect these premises!
+
+703 4099968 1467
+What's that, then?
+
+704 4108777 3663
+All right, we'll start
+by searching this floor.
+
+705 4119187 5302
+Now, gentleman, we will have
+a little demonstration.
+
+706 4131466 1695
+Where are we going?
+
+707 4134503 1058
+Here.
+
+708 4135871 1433
+Here?
+
+709 4138507 1991
+Mr. Stephenson's workshop.
+
+710 4140842 5734
+Your father and grandfather
+aren't the only inventors around.
+
+711 4147148 2195
+This is our work.
+
+712 4150852 1126
+What's this?
+
+713 4152153 2161
+Our Steam Tank, Model Two.
+
+714 4159895 4266
+It runs fine on level ground,
+but it can't climb hills.
+
+715 4164399 1160
+But with this ball...
+
+716 4166768 3094
+David, there's no time.
+Connect the ball.
+
+717 4170472 1490
+Right away!
+
+718 4173174 3697
+When the right adjustment valve
+starts to vent...
+
+719 4177045 1058
+...put in the ball.
+
+720 4178280 2400
+Hurry! Stop wasting time!
+
+721 4206942 3800
+It is with the greatest pleasure...
+
+722 4210946 3265
+...that we declare...
+
+723 4214583 3458
+...this Exhibition of Science open.
+
+724 4218653 1763
+We pray...
+
+725 4220589 4562
+...that it may serve science
+and the future of mankind.
+
+726 4233234 1160
+Pull back!
+
+727 4242243 1831
+For us, for Britain...
+
+728 4244279 4164
+...this Exhibition pavilion
+is a new cathedral.
+
+729 4249250 5700
+The wisdom and science of the world
+are here laid at the feet of God.
+
+730 4255156 4437
+As Jesus said,
+"The kingdom of God is at hand.
+
+731 4259761 3697
+Therefore raise ye a church
+and await his coming."
+
+732 4263832 3367
+Our newest model,
+the Steam Trooper.
+
+733 4268637 3128
+While even a few
+are a threat to any enemy...
+
+734 4271940 4528
+...their full potential
+is realized in platoon...
+
+735 4277012 2093
+...or company strength.
+
+736 4279280 4596
+There is, of course, a cost,
+but victory will be sure!
+
+737 4284619 1024
+Simon!
+
+738 4286855 1092
+Miss.
+
+739 4288657 2491
+Why were they shooting at Ray?
+
+740 4291326 2127
+Yes, he took the ball...
+
+741 4293662 3834
+...but don't you realize
+old Dr. Steam put him up to it?!
+
+742 4298733 2434
+Perhaps now is not the time for...
+
+743 4302671 2195
+What's going on down there?
+
+744 4305507 1399
+Well?
+
+745 4307108 3367
+Something in the way of
+a war with Britain...
+
+746 4312881 2992
+...combined with
+a product demonstration.
+
+747 4318820 1490
+Simon.
+
+748 4320488 1763
+Yes, miss?
+
+749 4322557 1365
+Don't lose.
+
+750 4324626 1194
+Yes, miss.
+
+751 4325994 3663
+- Where are you going?
+- To reason with Ray.
+
+752 4331332 3993
+I see. Well, it certainly is
+an unusual idea.
+
+753 4337839 4334
+And what do you plan to do now?
+
+754 4342944 4596
+I think it is time to begin.
+Where is Her Majesty?
+
+755 4347949 2298
+She has left the Exhibition.
+
+756 4350585 4198
+Splendid. Now we can fight.
+
+757 4364966 1592
+What's that?!
+
+758 4383752 1194
+Stephenson.
+
+759 4385754 2969
+Alfred. Have the air corps attack.
+
+760 4389591 2628
+Well, gentlemen.
+Things are getting interesting!
+
+761 4392494 2696
+This is splendid, Ray. Look!
+
+762 4395964 3265
+Push it all we want,
+and it still doesn't blow!
+
+763 4399801 3026
+How much power
+does this ball have?!
+
+764 4411346 2230
+Right! It's stabilized.
+
+765 4414649 3060
+More! Raise it higher!
+
+766 4426861 1262
+No!
+
+767 4428296 989
+It's impossible!
+
+768 4429464 2764
+Oaf! You can't turn back now!
+
+769 4432767 4596
+All your training
+has been for this moment.
+
+770 4437939 1365
+Go!
+
+771 4478213 2867
+What?! A flying corps?
+
+772 4481382 3401
+Yes! Flying all over the Exhibition!
+
+773 4484986 3492
+Don't be stupid!
+You're sure it's not just birds?
+
+774 4496998 1331
+Look!
+
+775 4503004 2366
+What an idea.
+
+776 4510378 1331
+Look up.
+
+777 4511880 4369
+The most advanced of our science
+is contained in our air corps.
+
+778 4516885 3959
+Support for ground forces
+and observation of...
+
+779 4523391 5802
+It's getting a bit dangerous here.
+Let's retire to the observation deck.
+
+780 4531132 1058
+Miss!
+
+781 4533902 1331
+Now what?
+
+782 4535403 2025
+Someone go get her!
+
+783 4540909 1058
+Fire!
+
+784 4551152 1831
+Just a darn minute!
+
+785 4553154 3902
+I'm going to the queen
+and bring Ray back!
+
+786 4557225 1365
+Stop it!
+
+787 4570471 1433
+That's awful.
+
+788 4573741 1058
+Simon!
+
+789 4584652 1763
+What's going on?
+
+790 4586955 1365
+There's a man in there.
+
+791 4592760 1024
+Simon!
+
+792 4594162 3800
+To generate
+that much horsepower...
+
+793 4598166 4960
+...takes not only high pressure,
+but knowledge of aerodynamics.
+
+794 4603338 2764
+At first, from those blueprints...
+
+795 4607275 1365
+What are you doing?
+
+796 4608843 2093
+Taking the ball back.
+
+797 4613281 1729
+And why would you do that?
+
+798 4615516 2662
+You just wanted Grandpa's plans.
+
+799 4618653 2025
+Finding them was hard.
+
+800 4620855 3868
+I got all muddy
+walking the fields along that track.
+
+801 4624993 4334
+I'll bet Grandpa never wrote you
+a letter from Manchester.
+
+802 4629697 3436
+We've been watching
+the Foundation for a while.
+
+803 4633534 1991
+And your family.
+
+804 4637138 1433
+Stop it, Ray!
+
+805 4638873 2969
+We can't give you that ball now!
+
+806 4642243 4334
+Grandpa didn't invent it
+to be used like this.
+
+807 4647215 1331
+Give it back!
+
+808 4651486 1729
+I apologize.
+
+809 4653955 2525
+With the Exhibition a battlefield...
+
+810 4657191 4334
+...Mr. Stephenson will be responsible
+if we lose now.
+
+811 4662663 5097
+And British scientific technology
+will fall very far behind.
+
+812 4667969 1126
+Remember that.
+
+813 4680081 1331
+How'd he get here?
+
+814 4694195 1524
+Ray, the ball...
+
+815 4695897 2468
+Mr. David's hurt!
+
+816 4698533 1991
+- Get him outside!
+- Quick!
+
+817 4714515 3492
+And next, our ultimate weapon,
+the submarine corps.
+
+818 4719320 5097
+With these, you can achieve control
+of land, air and sea.
+
+819 4725893 5165
+Purchasers of the entire set
+receive a 25 percent discount...
+
+820 4731232 3333
+...and a free 90-day voyage
+around the world!
+
+821 4745613 3060
+Now what? I have to save Grandpa!
+
+822 4749317 2264
+Think, Ray. Think!
+
+823 4754789 2195
+A flying machine...
+
+824 4761762 3265
+Sorry we've only dressed your leg.
+
+825 4765199 1968
+Everyone's busy now.
+
+826 4768102 3401
+You need three steam balls
+to compensate for pressure loss.
+
+827 4771672 2525
+Two won't be enough.
+
+828 4774876 4699
+I very much wanted to show you
+the completed Steam Tower.
+
+829 4779814 1558
+Completed?
+
+830 4781883 5336
+While the Foundation people
+certainly understand its value...
+
+831 4787588 3299
+...none of them truly understand it...
+
+832 4791359 5028
+...in its science,
+in its threat to the next century.
+
+833 4797198 1831
+You forget someone.
+
+834 4799200 4198
+Yes. I wanted Ray to be here too.
+
+835 4804472 2867
+Pressure decreasing
+in Areas 12 and 15!
+
+836 4808209 2662
+Close valves in both areas...
+
+837 4811145 2400
+...and prepare for launch!
+
+838 4813915 1968
+Launch, sir?
+
+839 4816184 1991
+Crikey! Quick!
+
+840 4818719 2833
+No, Eddy! Two aren't enough!
+
+841 4821722 2468
+"From risk comes progress."
+
+842 4824859 2798
+You said that, Father.
+
+843 4830198 3561
+I'll be in the control room. Carry on.
+
+844 4834235 2662
+No, Eddy! Listen to me!
+
+845 4841075 1763
+What was that?
+
+846 4855289 1661
+Simon!
+
+847 4857592 4130
+The pipes look like
+they're the same diameter.
+
+848 4862196 2764
+But how strong are they?
+
+849 4868035 3401
+Well? That should end all resistance.
+
+850 4872273 2025
+That would be nice.
+
+851 4921722 3299
+Upside down.
+
+852 4926594 1558
+Now...
+
+853 4931832 3436
+I knew it! The Royal Navy!
+
+854 4935803 2468
+Robert must be down there.
+
+855 4941742 3561
+I've got to stop them.
+Father and Grandpa.
+
+856 4947748 1900
+Main boiler room.
+
+857 4950351 1262
+We're launching.
+
+858 4952620 3766
+You can't mean that!
+We haven't built up pressure yet!
+
+859 4956824 3060
+This is the only chance we'll get.
+
+860 4960261 4596
+Merge pressure from Areas 10,
+30 and 40, then launch!
+
+861 4970338 4130
+Now the world will see
+my ultimate invention.
+
+862 4980881 1092
+Launch!
+
+863 5001602 3959
+Don't worry! Everything is in order!
+
+864 5006006 2195
+Go straight ahead, please.
+
+865 5008376 3026
+This tunnel takes us
+to the observation deck.
+
+866 5013047 3299
+So it's started, has it? The fool!
+
+867 5034135 4835
+Not much of a building, eh?
+Two or three rounds and...
+
+868 5039273 2491
+Not so fast, sir.
+
+869 5042143 1433
+What's that?
+
+870 5043744 1865
+It can't be!
+
+871 5052453 2298
+Simon! Are you here?
+
+872 5061662 1399
+Answer me!
+
+873 5072239 3663
+Dr. Edward!
+What's happened to you?!
+
+874 5077311 2491
+Simon! It's Dr. Edward!
+
+875 5081182 2093
+No need to worry, miss.
+
+876 5083884 3629
+I must be like this
+to pilot Steam Tower.
+
+877 5087755 3401
+Pilot Steam Tower?
+What do you mean?
+
+878 5091459 3834
+Pressure: 92 percent.
+Preparing to launch!
+
+879 5096130 2662
+Watch. This is...
+
+880 5110845 1991
+Steam Tower.
+
+881 5148516 2833
+It won't work! lt'll explode, Father!
+
+882 5151852 1490
+Superb!
+
+883 5154455 2491
+What a wonderful sight.
+
+884 5158392 1194
+Mr. David.
+
+885 5159760 3834
+Watch now, as the world
+bows down to science.
+
+886 5164265 4096
+What are you talking about?
+That thing could explode!
+
+887 5168602 2764
+- Warn everybody!
+- Forget them.
+
+888 5172172 2696
+We still have one steam ball.
+
+889 5175910 2833
+Mr. Stephenson
+isn't going to have it!
+
+890 5179280 6701
+Fine. That Steam Tower means
+the end of Robert Stephenson.
+
+891 5186554 1968
+But I won't fall with him.
+
+892 5190991 4061
+What do you say, Ray?
+Shall we start a workshop?
+
+893 5195229 1024
+A workshop?
+
+894 5196630 4460
+Yes. The whole world
+will hear of this.
+
+895 5201802 1968
+Money will seek us out!
+
+896 5204004 2093
+In France, in America...
+
+897 5206507 5768
+...even the British royal family.
+They will all want shares in our firm.
+
+898 5213581 2833
+Why didn't I think of it before?
+
+899 5216584 3197
+The steam ball's an invention
+without parallel...
+
+900 5219954 3663
+...and one Steam family genius
+remains with us.
+
+901 5224258 4300
+One who can understand
+that flying machine at a glance...
+
+902 5229096 2491
+...and repair and improve it.
+
+903 5231765 1365
+That's splendid, Ray.
+
+904 5233767 5199
+There are hundreds of people
+in that Steam Tower.
+
+905 5239239 2400
+Move! I'm going to warn them.
+
+906 5242109 2025
+And if I don't?
+
+907 5244845 1831
+I don't have time to argue.
+
+908 5247615 3834
+I really hate to do this...
+
+909 5251752 2560
+...but I'm not going to lose
+you or that ball!
+
+910 5258492 1092
+Stop it!
+
+911 5268202 2491
+Serves you right!
+
+912 5272773 2059
+I need a clamp.
+
+913 5286820 3800
+Are you trying to kill us?
+Get us out of here!
+
+914 5291392 3333
+Have no fear.
+Your safety is guaranteed.
+
+915 5294895 2594
+There is an escape system.
+
+916 5297731 2992
+This Steam Tower
+comes equipped with every...
+
+917 5300901 2468
+Then show us the escape system!
+
+918 5313681 2833
+There's no time. I guess I'm stuck.
+
+919 5331865 1900
+No time to block their fire.
+
+920 5334001 2730
+Why are those horrible people
+shooting at us?
+
+921 5337771 1900
+We'll change course.
+
+922 5372773 3163
+What's that? The river's frozen!
+
+923 5376977 3629
+Steam compressed at low temperature
+and very high pressure...
+
+924 5380781 3663
+...draws heat from its surroundings
+when released.
+
+925 5388122 1092
+Hurry!
+
+926 5396563 4664
+There! Now I just need
+to manipulate the pressure.
+
+927 5412646 3561
+You see that, Father?
+That is Steam Tower!
+
+928 5416784 1797
+It's coming this way.
+
+929 5419219 1297
+Drat!
+
+930 5425025 1092
+Now I'll fly!
+
+931 5437237 5768
+It's tremendous, Dr. Edward.
+A huge thing like this, flying!
+
+932 5443544 2594
+But it's heading for that bridge.
+
+933 5466567 2059
+That's got it!
+
+934 5474975 1399
+Ray!
+
+935 5476910 4767
+It must be. Who else
+would ride a thing like that?
+
+936 5482416 3561
+Miss! I'm so glad you're safe!
+
+937 5486153 2696
+- I was worried!
+- Simon!
+
+938 5489690 989
+This is...
+
+939 5490858 4027
+...the control room,
+the heart of Steam Tower.
+
+940 5495062 3629
+The tower can maneuver
+over a battlefield...
+
+941 5498866 2969
+Look, just show us
+how to get out of here!
+
+942 5502669 3766
+Oh, we still have
+some fine products to show you.
+
+943 5507207 3629
+- Jason! The demonstration! Hurry!
+- Simon!
+
+944 5511445 2901
+This has gone far enough.
+We'll make money later.
+
+945 5514882 2730
+Are you trying to kill us all?!
+
+946 5517851 3663
+And that lovely pavilion
+will be ruined!
+
+947 5532532 1797
+- There!
+- Fire!
+
+948 5535702 1058
+Cripes!
+
+949 5538038 1592
+There it is!
+
+950 5573507 2992
+This time you won't get away, boy!
+
+951 5598198 1797
+Fire!
+
+952 5606039 1365
+Ready!
+
+953 5611712 1228
+Pull!
+
+954 5635135 1092
+What the...?
+
+955 5636870 1262
+What now?
+
+956 5638472 2059
+We're snagged on the bridge!
+
+957 5641174 1160
+What in...?
+
+958 5649483 4061
+Robert, do you want to
+pull me down?
+
+959 5653720 1467
+Well, try it...
+
+960 5655355 1331
+...if you can!
+
+961 5657090 1900
+Increase pressure!
+
+962 5663330 2366
+No, doctor! It's dangerous!
+
+963 5666099 4403
+Fool! We can't stop now!
+Increase the pressure!
+
+964 5701701 1160
+Ray.
+
+965 5711078 1934
+Robert Stephenson?
+
+966 5715382 2901
+- Fire!
+- Rifle.
+
+967 5721788 1831
+Child's play!
+
+968 5726426 1126
+What in...?!
+
+969 5731531 2093
+That will keep you quiet.
+
+970 5735969 1297
+You!
+
+971 5738138 2434
+You could hurt someone doing that!
+
+972 5771438 2230
+The control room.
+
+973 5777777 1729
+It's time to leave.
+
+974 5779713 2662
+This way, everyone!
+
+975 5782816 1365
+Simon!
+
+976 5790857 1831
+Hell has burst its bounds!
+
+977 5804371 1490
+Our final demonstration.
+
+978 5806139 4562
+"The wise know when to withdraw"
+is our motto.
+
+979 5811011 2798
+These airships can be used
+in an emergency...
+
+980 5814047 4801
+...but they're normally
+for reconnaissance.
+
+981 5819019 1160
+They use hydrogen...
+
+982 5820387 1467
+Abandon ship!
+
+983 5822022 2093
+What are you doing?
+
+984 5826226 1194
+No! Stop!
+
+985 5827661 3265
+Simon! What's going on here?
+
+986 5831131 1934
+You're all fired!
+
+987 5834501 1865
+Main boiler room! Answer me!
+
+988 5836536 2161
+We've crashed, doctor.
+
+989 5838872 1228
+Where are they?
+
+990 5840273 3231
+Get out of there
+and do something, will you.
+
+991 5843677 1194
+Main boiler room!
+
+992 5845645 3458
+They won't answer.
+There's no one there.
+
+993 5849282 1797
+How did you get here?
+
+994 5852185 1058
+Doctor!
+
+995 5854187 1831
+Abandon ship, Eddy.
+
+996 5856289 2867
+The tower's about to explode.
+
+997 5859693 2059
+Our dream is gone.
+
+998 5862062 1126
+What?
+
+999 5863363 3800
+This is Foundation property.
+You have no right to...
+
+1000 5867434 2093
+Father, you're wrong.
+
+1001 5870070 1092
+What?
+
+1002 5872038 5131
+My dream came true
+when this tower took to the air.
+
+1003 5878211 1024
+What do you mean?
+
+1004 5879579 2560
+This is not the time for that.
+
+1005 5882315 2730
+Get out here and do your job!
+
+1006 5886219 4460
+I mean that it's too late
+to destroy Steam Tower.
+
+1007 5891324 2230
+Mankind has seen it.
+
+1008 5893793 3766
+And once seen, a marvel like this...
+
+1009 5898064 2992
+...even if it were then
+to be destroyed...
+
+1010 5901735 2264
+...would soon be made again.
+
+1011 5904204 1763
+And why? Because, Father...
+
+1012 5906439 1024
+Ray.
+
+1013 5907907 2798
+...this is a true thing of beauty!
+
+1014 5915115 3458
+In the next century,
+and the century after that...
+
+1015 5918752 2696
+...science will not halt
+in its march.
+
+1016 5921621 3128
+Mankind will control
+overwhelming power.
+
+1017 5926126 2195
+That may well be true.
+
+1018 5928928 5802
+But the soul of man is not ready
+for science such as this.
+
+1019 5935168 3128
+War and confusion
+will rule the world.
+
+1020 5938471 4403
+The soul of man will learn.
+His surroundings will teach him.
+
+1021 5943443 2901
+- The soul comes first.
+- Father!
+
+1022 5946546 3561
+That's a dream.
+Just like your funfair.
+
+1023 5950684 4164
+- Silence!
+- No, doctor! You mustn't!
+
+1024 5955388 1968
+Take your hands off me!
+
+1025 5958291 3527
+Shoot me and you set
+science back 50 years.
+
+1026 5963163 1160
+Forgive me!
+
+1027 5965532 1297
+Grandpa, no!
+
+1028 5969135 1661
+- Father!
+- Ray!
+
+1029 5970970 2798
+- What was that?
+- Dr. Lloyd shot Dr. Edward!
+
+1030 5974841 2298
+Ray! Take the girl away!
+
+1031 5977677 1695
+Grandpa, why?
+
+1032 5980547 1467
+Father!
+
+1033 5982182 1331
+No, Ray!
+
+1034 5983683 2525
+Grandpa, you just shot Father!
+
+1035 5986386 4198
+I've set my son free
+from his madness.
+
+1036 5991825 1695
+Father!
+
+1037 5994294 1092
+Watch!
+
+1038 5996329 1968
+The end of Steam Tower.
+
+1039 5999032 1558
+I won't leave Father!
+
+1040 6006806 2366
+Let go! Get down!
+
+1041 6009843 1968
+Listen to me, Ray.
+
+1042 6012545 3026
+Both my fate and Eddy's
+ride with Steam Tower.
+
+1043 6018752 3265
+We're the ones who built it.
+
+1044 6022455 4494
+But we weren't strong enough
+to keep what we planned...
+
+1045 6027460 2491
+...from becoming a monster.
+
+1046 6030730 2525
+I must see its end.
+
+1047 6033700 1228
+Do you understand?
+
+1048 6035702 1262
+But...
+
+1049 6037537 5438
+As heir to the name of Steam,
+you must be strong and upright.
+
+1050 6043376 4061
+You must save science
+from the wicked and preserve...
+
+1051 6047981 1865
+...the future.
+
+1052 6052752 2833
+Now, go, Ray.
+
+1053 6056256 1024
+Grandpa!
+
+1054 6059159 1968
+Go, Steam Boy!
+
+1055 6061561 1934
+No, no, no, Grandpa.
+
+1056 6063663 3959
+If the tower blows up over the city,
+it'll be a disaster!
+
+1057 6068234 2764
+The Thames will carry
+everything away.
+
+1058 6071671 3800
+- We're not over the river!
+- What?
+
+1059 6076009 3800
+We're smack in the centre
+of London!
+
+1060 6087020 2730
+How did this happen?
+
+1061 6090290 1695
+Take us back to the river!
+
+1062 6092659 1092
+How?
+
+1063 6100934 2093
+Where did Father go?
+
+1064 6104304 2594
+We're in emergency stations.
+
+1065 6107173 3094
+He's sealed the controls.
+
+1066 6110443 1524
+So, what do we do?
+
+1067 6124524 4266
+I'll crawl into the old machine room,
+close the centre valve...
+
+1068 6128995 2161
+... and stop the pressure supply.
+
+1069 6131431 4494
+You go to the main boiler room
+and set up the steam ball.
+
+1070 6136469 6098
+Open all the valves,
+and I'll take us back to the Thames.
+
+1071 6142976 1592
+Doctor!
+
+1072 6144844 3959
+What am I supposed to do?
+
+1073 6150350 1092
+Simon!
+
+1074 6167834 1433
+The main boiler room.
+
+1075 6185752 1729
+Here we are.
+
+1076 6188054 5199
+They've changed everything else,
+but not this place.
+
+1077 6195395 1661
+In the end...
+
+1078 6197864 3527
+...this is the core of Steam Tower.
+
+1079 6207006 2025
+What's that noise?
+
+1080 6214147 1467
+What's that?
+
+1081 6227560 2594
+Ray! I'm in position!
+
+1082 6230430 1490
+Set the ball in place!
+
+1083 6239472 2628
+Ray! What's wrong?
+
+1084 6242275 2059
+- Are you there?
+- Grandpa!
+
+1085 6248581 2969
+Grandpa! It's me, Ray!
+
+1086 6251818 2628
+Hurry with the ball!
+
+1087 6254654 2901
+I can't! There's a big
+metal hand after me!
+
+1088 6258091 2560
+It's not in any of the plans!
+
+1089 6260927 1695
+What could that be?
+
+1090 6263062 2992
+Perhaps it's a leftover
+construction crane.
+
+1091 6267333 5233
+But they're supposed to be unusable,
+part of the walls!
+
+1092 6272972 1592
+Well, it's after me!
+
+1093 6276275 3299
+Calm down. That crane
+isn't moving by itself.
+
+1094 6280146 2298
+Someone's running it.
+
+1095 6282615 1160
+Find the controls.
+
+1096 6298665 3231
+Ray! Are you there?
+
+1097 6302835 2059
+Ray! Answer me!
+
+1098 6330763 1558
+Dr. Edward?
+
+1099 6355588 1558
+Where did he go?
+
+1100 6357690 1467
+Did he hit the wall?
+
+1101 6364030 1024
+There!
+
+1102 6372171 1433
+Now!
+
+1103 6411144 2798
+Ray, I hope you're all right.
+
+1104 6419352 2230
+You did it!
+
+1105 6431364 1467
+Right!
+
+1106 6444510 2468
+Ray! The pressure's
+not coming through!
+
+1107 6447146 5063
+I think there's a closed valve
+blocking the pressure out of Unit 2.
+
+1108 6452385 1262
+We could open it...
+
+1109 6453986 4300
+... from the control room,
+but I can't tell which one it is.
+
+1110 6459759 2730
+Which one do you mean, Ray?
+
+1111 6463062 2901
+The controls have come back up.
+
+1112 6466332 4130
+Dr. Edward's not here,
+but I'll do what I can.
+
+1113 6470903 3492
+All right, Scarlett, listen.
+You have to find...
+
+1114 6474640 1729
+... the main boiler room panel.
+
+1115 6476576 3492
+Open the valves starting from
+the lowest number.
+
+1116 6480913 3595
+Ray! What's happening there?
+
+1117 6489789 3993
+Be careful of guns, Father.
+Someone could get hurt.
+
+1118 6498164 2901
+Especially if you hit a vital spot.
+
+1119 6501734 3094
+Fortunately, I'm not the man I was.
+
+1120 6505438 4369
+Well, son, are you out
+from under your delusion?
+
+1121 6510343 1399
+Delusion?
+
+1122 6512111 1695
+What do you mean?
+
+1123 6516249 4369
+We're right in the middle
+of my delusion.
+
+1124 6524357 2764
+Sixteen, 17...
+
+1125 6528060 1331
+Where's 18?
+
+1126 6530062 1194
+There's no 18!
+
+1127 6531697 4630
+This wheel is 18!
+
+1128 6537236 3595
+The pressure's coming back up.
+Well done!
+
+1129 6541374 1399
+Splendid.
+
+1130 6543476 3800
+That means you understand
+30 percent of this tower.
+
+1131 6547780 2491
+Nonsense!
+He understands 70 percent.
+
+1132 6550449 2628
+Now, hurry up and turn that wheel!
+
+1133 6554620 1467
+That wheel?
+
+1134 6558491 4630
+If we're going to destroy it anyway,
+let's show people your part.
+
+1135 6563362 1695
+They might even smile.
+
+1136 6565564 1399
+Ray! Can you hear me?
+
+1137 6569802 1467
+Ray!
+
+1138 6572905 2935
+Pressure's back up in Unit 3.
+
+1139 6576008 3834
+But there's cracks everywhere.
+It could go any time.
+
+1140 6580012 2594
+Five minutes, maybe 10...
+
+1141 6583516 1490
+Well done, Ray!
+
+1142 6585184 4130
+Now, get out of there,
+get Scarlett from the control room...
+
+1143 6589522 1763
+...and get out of the Tower!
+
+1144 6591590 1160
+All right!
+
+1145 6593159 1365
+Scarlett!
+
+1146 6594894 1934
+- Did you hear that?
+- Ray.
+
+1147 6597997 1968
+I'm coming up!
+
+1148 6606138 1763
+That's right! I used the ball!
+
+1149 6630429 1763
+Don't fail me!
+
+1150 6643709 1467
+It won't work!
+
+1151 6654086 1968
+Up we go.
+
+1152 6693793 1627
+What is that?
+
+1153 6714647 2161
+lmpressive, is it not?
+
+1154 6717450 2195
+That will give us some time.
+
+1155 6722755 1160
+Right.
+
+1156 6731130 3128
+Now, timing is vital here.
+
+1157 6734433 3697
+When I vent with this lever
+and the Tower drops...
+
+1158 6738304 1831
+...that's the time.
+
+1159 6741040 4096
+Go ahead.
+I'm ready when you are, Father.
+
+1160 6766499 1467
+Astounding!
+
+1161 6797630 1058
+Ray!
+
+1162 6806305 1934
+We have to get out!
+
+1163 6808407 4130
+The Tower's falling apart!
+It could explode any second!
+
+1164 6813179 4334
+That won't work.
+There's no more pressure.
+
+1165 6818050 1331
+Let's see...
+
+1166 6820920 1433
+So now what?
+
+1167 6823522 2127
+How do we get out?
+
+1168 6825858 4232
+The lift's broken
+and the flying machine's dead!
+
+1169 6830262 2434
+What do I do, Grandpa?
+
+1170 6863596 3094
+- Ray! Can you hear me?
+- Father!
+
+1171 6866865 4699
+Listen. There's a red lever
+beside the control seat.
+
+1172 6872238 2867
+It opens a box with escape gear in it.
+
+1173 6875274 1297
+Use that!
+
+1174 6877243 2833
+You and Grandpa come with us!
+
+1175 6880980 2093
+Don't concern yourself with us!
+
+1176 6883582 2332
+I can't go and leave you!
+
+1177 6886085 4869
+- lf we don't hurry, we'll die with them!
+- Wait, will you!
+
+1178 6895094 1490
+Well, Father...
+
+1179 6898130 1262
+What is it?
+
+1180 6900266 2298
+Take care of yourself.
+
+1181 6904136 2833
+What? Where are you going?
+
+1182 6912911 2594
+This connects through.
+
+1183 6919251 2366
+I'll close all the valves.
+
+1184 6923122 3458
+That Eddy's got something
+up his sleeve again!
+
+1185 6928494 1160
+But...
+
+1186 6933832 2798
+...he won't get away with it.
+
+1187 6937870 1228
+Hold it!
+
+1188 6940039 1592
+Wait!
+
+1189 6959658 2867
+We've got to hurry.
+Where's that lever?
+
+1190 6962695 1297
+Is this it?
+
+1191 6967533 1661
+- What's that?
+- Don't know.
+
+1192 6971136 2560
+- You wear it.
+- Who?
+
+1193 6982181 1024
+It's falling!
+
+1194 7009942 2560
+- Ray!
+- Scarlett!
+
+1195 7103469 1126
+It's stopped.
+
+1196 7125924 2400
+- Hang on. We're landing.
+- Where?
+
+1197 7128794 1228
+Look!
+
+1198 7137936 1228
+Here goes!
+
+1199 7141206 1228
+Hey! I can't see!
+
+1200 7150249 2662
+We did it! We're saved!
+
+1201 7153085 1592
+Careful!
+
+1202 7161660 3731
+Dr. Edward and Dr. Lloyd...
+
+1203 7166698 2127
+What happened to them?
+
+1204 7173839 2730
+Miss!
+
+1205 7184383 2992
+- They're fine.
+- But...
+
+1206 7187553 4994
+The age of science has just begun.
+They'll be back.
+
